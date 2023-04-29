@@ -1,0 +1,302 @@
+{
+  "metadata" : {
+    "identifier" : "https://truyenvnmoi.com/lui-lui-lui-lui-ra",
+    "title" : "Lui Lui Lui Lui Ra!",
+    "subtitle" : null,
+    "author" : null,
+    "narrator" : null,
+    "language" : "vi",
+    "description" : null,
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-29",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : "https://readium.org/webpub-manifest/profiles/divina",
+    "numberOfPages" : 120,
+    "readingProgression" : "ttb",
+    "belongsTo" : null,
+    "presentation" : {
+      "fit" : "width",
+      "overflow" : "scrolled",
+      "continuous" : true
+    },
+    "@type" : null,
+    "schema:license" : null
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage_collection/main/comic_manifest.json",
+    "type" : "application/divina+json"
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://img.abctruyen.xyz/mt-sv-image/app/public/uploads/2021-04-20/727658/0.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://img.abctruyen.xyz/mt-sv-image/app/public/uploads/2021-04-20/727658/1.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://img.abctruyen.xyz/mt-sv-image/app/public/uploads/2021-04-20/727658/2.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://img.abctruyen.xyz/mt-sv-image/app/public/uploads/2021-04-20/727658/3.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://img.abctruyen.xyz/mt-sv-image/app/public/uploads/2021-04-20/727658/4.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://img.abctruyen.xyz/mt-sv-image/app/public/uploads/2021-04-20/727658/5.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://img.abctruyen.xyz/mt-sv-image/app/public/uploads/2021-04-20/727658/6.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://img.abctruyen.xyz/mt-sv-image/app/public/uploads/2021-04-20/727658/7.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://img.abctruyen.xyz/mt-sv-image/app/public/uploads/2021-04-20/727658/8.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://img.abctruyen.xyz/mt-sv-image/app/public/uploads/2021-04-20/727658/9.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://img.abctruyen.xyz/mt-sv-image/app/public/uploads/2021-04-20/727658/10.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://img.abctruyen.xyz/mt-sv-image/app/public/uploads/2021-04-20/727658/11.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://img.abctruyen.xyz/mt-sv-image/app/public/uploads/2021-04-20/727658/12.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://img.abctruyen.xyz/mt-sv-image/app/public/uploads/2021-04-20/727658/13.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://img.abctruyen.xyz/mt-sv-image/app/public/uploads/2021-04-20/727658/14.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://img.abctruyen.xyz/mt-sv-image/app/public/uploads/2021-04-20/727658/15.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://img.abctruyen.xyz/mt-sv-image/app/public/uploads/2021-04-20/727658/16.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://img.abctruyen.xyz/mt-sv-image/app/public/uploads/2021-04-20/727658/17.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://img.abctruyen.xyz/mt-sv-image/app/public/uploads/2021-04-20/727658/18.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://img.abctruyen.xyz/mt-sv-image/app/public/uploads/2021-04-20/727658/19.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://img.abctruyen.xyz/mt-sv-image/app/public/uploads/2021-04-20/727658/20.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://img.abctruyen.xyz/mt-sv-image/app/public/uploads/2021-04-20/727658/21.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://img.abctruyen.xyz/mt-sv-image/app/public/uploads/2021-04-20/727658/22.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://img.abctruyen.xyz/mt-sv-image/app/public/uploads/2021-04-20/727658/23.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://img.abctruyen.xyz/mt-sv-image/app/public/uploads/2021-04-20/727658/24.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://img.abctruyen.xyz/mt-sv-image/app/public/uploads/2021-04-20/727658/25.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://img.abctruyen.xyz/mt-sv-image/app/public/uploads/2021-04-20/727658/26.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://img.abctruyen.xyz/mt-sv-image/app/public/uploads/2021-04-20/727658/27.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://img.abctruyen.xyz/mt-sv-image/app/public/uploads/2021-04-20/727658/28.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://img.abctruyen.xyz/mt-sv-image/app/public/uploads/2021-04-20/727658/29.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://img.abctruyen.xyz/mt-sv-image/app/public/uploads/2021-04-20/727658/30.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://img.abctruyen.xyz/mt-sv-image/app/public/uploads/2021-04-20/727658/31.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://img.abctruyen.xyz/mt-sv-image/app/public/uploads/2021-04-20/727658/32.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://img.abctruyen.xyz/mt-sv-image/app/public/uploads/2021-04-20/727658/33.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://img.abctruyen.xyz/mt-sv-image/app/public/uploads/2021-04-20/727658/34.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://img.abctruyen.xyz/mt-sv-image/app/public/uploads/2021-04-20/727658/35.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://img.abctruyen.xyz/mt-sv-image/app/public/uploads/2021-04-20/727658/36.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://i2.wp.com/truyenvnhot.net/wp-content/uploads/2022/12/truyenvn-gg-banner.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  } ],
+  "toc" : null,
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
