@@ -1,0 +1,101 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/tu-gian-du-den-binh-an_20089.html",
+    "title" : "Từ Giận Dữ Đến Bình An",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Mike George",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-30",
+    "duration" : 13490,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/EPUB/EPUB_7b55f456850aadd1451b29fefed44fa1.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/IMAGE/IMAGE_7b55f456850aadd1451b29fefed44fa1.jpeg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/tu-gian-5/tu-gian-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2602,
+    "title" : "tu-gian-1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tu-gian-5/tu-gian-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2613,
+    "title" : "tu-gian-2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tu-gian-5/tu-gian-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2875,
+    "title" : "tu-gian-3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tu-gian-5/tu-gian-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1768,
+    "title" : "tu-gian-4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tu-gian-5/tu-gian-5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3632,
+    "title" : "tu-gian-5",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/tu-gian-5/tu-gian-1.mp3",
+    "title" : "tu-gian-1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tu-gian-5/tu-gian-2.mp3",
+    "title" : "tu-gian-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tu-gian-5/tu-gian-3.mp3",
+    "title" : "tu-gian-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tu-gian-5/tu-gian-4.mp3",
+    "title" : "tu-gian-4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tu-gian-5/tu-gian-5.mp3",
+    "title" : "tu-gian-5",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

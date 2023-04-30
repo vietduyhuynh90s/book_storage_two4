@@ -1,0 +1,137 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/nguoi-ay-cua-toi-oi_20164.html",
+    "title" : "Người Ấy Của Tôi Ơi",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nhiều tác giả",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-30",
+    "duration" : 23168,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/EPUB/EPUB_02b34d880144864c50e2ccb2e6a500e4.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/IMAGE/IMAGE_02b34d880144864c50e2ccb2e6a500e4.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/nguoi-ay-8/nguoi-ay-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2507,
+    "title" : "nguoi-ay-1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoi-ay-8/nguoi-ay-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3331,
+    "title" : "nguoi-ay-2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoi-ay-8/nguoi-ay-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2575,
+    "title" : "nguoi-ay-3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoi-ay-8/nguoi-ay-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2769,
+    "title" : "nguoi-ay-4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoi-ay-8/nguoi-ay-5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2488,
+    "title" : "nguoi-ay-5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoi-ay-8/nguoi-ay-6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2535,
+    "title" : "nguoi-ay-6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoi-ay-8/nguoi-ay-7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3116,
+    "title" : "nguoi-ay-7",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoi-ay-8/nguoi-ay-8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3847,
+    "title" : "nguoi-ay-8",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/nguoi-ay-8/nguoi-ay-1.mp3",
+    "title" : "nguoi-ay-1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoi-ay-8/nguoi-ay-2.mp3",
+    "title" : "nguoi-ay-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoi-ay-8/nguoi-ay-3.mp3",
+    "title" : "nguoi-ay-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoi-ay-8/nguoi-ay-4.mp3",
+    "title" : "nguoi-ay-4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoi-ay-8/nguoi-ay-5.mp3",
+    "title" : "nguoi-ay-5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoi-ay-8/nguoi-ay-6.mp3",
+    "title" : "nguoi-ay-6",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoi-ay-8/nguoi-ay-7.mp3",
+    "title" : "nguoi-ay-7",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoi-ay-8/nguoi-ay-8.mp3",
+    "title" : "nguoi-ay-8",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

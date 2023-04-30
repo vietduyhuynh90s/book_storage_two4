@@ -1,0 +1,65 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/muon-thanh-cong-noi-khong-voi-tri-hoan-21-nguyen-tac-vang-dap-tan-su-tri-hoan_20116.html",
+    "title" : "Muốn Thành Công Nói Không Với Trì Hoãn - 21 Nguyên Tắc Vàng Đập Tan Sự Trì Hoãn",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Damon Zahariades",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-30",
+    "duration" : 11879,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/EPUB/EPUB_f01b8f43be3103676a399fa71badec04.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/IMAGE/IMAGE_f01b8f43be3103676a399fa71badec04.jpeg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/muon-thanh-2.mp3/muon-thanh-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5215,
+    "title" : "Phần1 Full",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/muon-thanh-2.mp3/muon-thanh-2.mp3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6664,
+    "title" : "Phần 2-3 Full -",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/muon-thanh-2.mp3/muon-thanh-1.mp3",
+    "title" : "Phần1 Full",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/muon-thanh-2.mp3/muon-thanh-2.mp3.mp3",
+    "title" : "Phần 2-3 Full -",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
