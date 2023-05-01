@@ -10,7 +10,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-04-29",
+    "published" : "2023-05-01",
     "duration" : 0,
     "abridged" : false,
     "conformsTo" : "https://readium.org/webpub-manifest/profiles/divina",
@@ -36,70 +36,96 @@
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ ]
   }, {
     "href" : "https://1.bp.blogspot.com/-r4Mfg-Pd0nw/VsnEcZ94N2I/AAAAAAAFK9E/Yte8_5fKoGI/Tram-Huong-Pha-Chapter-4-P-1.jpg?imgmax=0",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ ]
   }, {
     "href" : "https://1.bp.blogspot.com/-OlVpHuE78wY/VsnEdg7EfgI/AAAAAAAFK9I/stpm2xqjspc/Tram-Huong-Pha-Chapter-4-P-2.jpg?imgmax=0",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ ]
   }, {
     "href" : "https://1.bp.blogspot.com/-EWB3_mNbGNo/VsnEetHoCYI/AAAAAAAFK9M/I6fKwLokDJA/Tram-Huong-Pha-Chapter-4-P-3.jpg?imgmax=0",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ ]
   }, {
     "href" : "https://1.bp.blogspot.com/-UWn2hYyqbPg/VsnEfmLMBnI/AAAAAAAFK9Q/KbH3dS0RIP0/Tram-Huong-Pha-Chapter-4-P-4.jpg?imgmax=0",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ ]
   }, {
     "href" : "https://1.bp.blogspot.com/-Hwmdu3qp4Sw/VsnEg1BlDcI/AAAAAAAFK9U/Kin4c4auKoI/Tram-Huong-Pha-Chapter-4-P-5.jpg?imgmax=0",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ ]
   }, {
     "href" : "https://1.bp.blogspot.com/-z2VZ5870n4U/VsnEiK3vEaI/AAAAAAAFK9Y/D9uP03aD3h0/Tram-Huong-Pha-Chapter-4-P-6.jpg?imgmax=0",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ ]
   }, {
     "href" : "https://1.bp.blogspot.com/-WBX2Cu3-aD8/VsnEjeJkm4I/AAAAAAAFK9c/0QOyUw3EbJo/Tram-Huong-Pha-Chapter-4-P-7.jpg?imgmax=0",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ ]
   }, {
     "href" : "https://1.bp.blogspot.com/-YxSFwr2sZlo/VsnEkYvpS4I/AAAAAAAFK9g/nWUe7nPNLLw/Tram-Huong-Pha-Chapter-4-P-8.jpg?imgmax=0",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ ]
   }, {
-    "href" : "https://i2.wp.com/truyenvnhot.net/wp-content/uploads/2022/12/truyenvn-gg-banner.jpg",
+    "href" : "https://raw.githubusercontent.com/tracuumasothue40/comic_storage_two4/main/IMAGE/IMAGE_7f6573a8e44bb6dc7b04f14bbf768036_7bd107f92405d35122e09416092fab77_2c0a3fb4fc000cb01ccdadd19d60f40f.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://truyenvnhot.net/wp-content/uploads/2022/12/truyenvn-gg-banner.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    }, {
+      "href" : "https://i2.wp.com/truyenvnhot.net/wp-content/uploads/2022/12/truyenvn-gg-banner.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   } ],
   "toc" : null,
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"

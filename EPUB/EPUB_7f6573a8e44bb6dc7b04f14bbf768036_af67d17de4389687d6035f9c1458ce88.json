@@ -10,7 +10,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-04-29",
+    "published" : "2023-05-01",
     "duration" : 0,
     "abridged" : false,
     "conformsTo" : "https://readium.org/webpub-manifest/profiles/divina",
@@ -36,77 +36,104 @@
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ ]
   }, {
     "href" : "https://1.bp.blogspot.com/-1slqCDA19Mk/WcOZHqzkWyI/AAAAAAABZsU/_Vr4HNq3bHQ3kjtJ_HazfTTc8VJ4JFGYQCLcBGAs/s0/thp-a3-40%20(1).jpg?imgmax=0",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ ]
   }, {
     "href" : "https://1.bp.blogspot.com/-EAteQJ0GRMs/WcOZHrDiY9I/AAAAAAABZsM/Wkj4p5gQbHA9Zx5NDPpYpfkkt_FpTwdkgCLcBGAs/s0/thp-a3-40%20(2).jpg?imgmax=0",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ ]
   }, {
     "href" : "https://1.bp.blogspot.com/-MYmDYFX0_S0/WcOZHqEh7lI/AAAAAAABZsQ/D1rAuVxde78Q2ZnGoYWuBLHy9JMDuQoIACLcBGAs/s0/thp-a3-40%20(3).jpg?imgmax=0",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ ]
   }, {
     "href" : "https://1.bp.blogspot.com/-C4h3D1hTVJA/WcOZIEY_voI/AAAAAAABZsY/8H5bTu1F2-kV7ijrL9CzvfO-MK4DPGtUQCLcBGAs/s0/thp-a3-40%20(4).jpg?imgmax=0",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ ]
   }, {
     "href" : "https://1.bp.blogspot.com/-t-mKD32OgU8/WcOZIZsLFpI/AAAAAAABZsc/E_H8VDwhjhYIMuAUSMeT2j5Mrd6ZP2aKACLcBGAs/s0/thp-a3-40%20(5).jpg?imgmax=0",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ ]
   }, {
     "href" : "https://1.bp.blogspot.com/-TKm6VtDwly4/WcOZIgdz9lI/AAAAAAABZsk/onU11wgIEpMK1PBOhbVA91NHNlC-Ca4_QCLcBGAs/s0/thp-a3-40%20(6).jpg?imgmax=0",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ ]
   }, {
     "href" : "https://1.bp.blogspot.com/-JmZaASDPrU8/WcOZIgiOeRI/AAAAAAABZsg/E299fjrr72kO_pgv-Y9jVgyIu0yeZ-A2QCLcBGAs/s0/thp-a3-40%20(7).jpg?imgmax=0",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ ]
   }, {
     "href" : "https://1.bp.blogspot.com/-rD1hJPH7ZXs/WcOZJJsrYoI/AAAAAAABZso/HlddTO97YYYSep4scCaSdJwNux9izMFdQCLcBGAs/s0/thp-a3-40%20(8).jpg?imgmax=0",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ ]
   }, {
     "href" : "https://1.bp.blogspot.com/-A7jpkeEv_yc/WcOZJVVlgNI/AAAAAAABZss/zhfKmJjJghMsWhm139XkAk_LTuDOIgyWACLcBGAs/s0/thp-a3-40%20(9).jpg?imgmax=0",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ ]
   }, {
-    "href" : "https://i2.wp.com/truyenvnhot.net/wp-content/uploads/2022/12/truyenvn-gg-banner.jpg",
+    "href" : "https://raw.githubusercontent.com/tracuumasothue40/comic_storage_two4/main/IMAGE/IMAGE_7f6573a8e44bb6dc7b04f14bbf768036_af67d17de4389687d6035f9c1458ce88_2c0a3fb4fc000cb01ccdadd19d60f40f.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://truyenvnhot.net/wp-content/uploads/2022/12/truyenvn-gg-banner.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    }, {
+      "href" : "https://i2.wp.com/truyenvnhot.net/wp-content/uploads/2022/12/truyenvn-gg-banner.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   } ],
   "toc" : null,
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"
