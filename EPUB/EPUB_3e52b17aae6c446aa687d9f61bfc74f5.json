@@ -1,0 +1,137 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/con-dam-pich_16993.html",
+    "title" : "Con Đầm Pích",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Aleksandr Sergeyevich Pushkin",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 5246,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/EPUB/EPUB_3e52b17aae6c446aa687d9f61bfc74f5.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/IMAGE/IMAGE_3e52b17aae6c446aa687d9f61bfc74f5.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/sachnoi.vnConDamBich/condampich1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 695,
+    "title" : "condampich1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnConDamBich/condampich2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1308,
+    "title" : "condampich2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnConDamBich/condampich3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1227,
+    "title" : "condampich3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnConDamBich/condampich4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 597,
+    "title" : "condampich4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnConDamBich/condampich5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 451,
+    "title" : "condampich5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnConDamBich/condampich6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 564,
+    "title" : "condampich6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnConDamBich/condampich7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 102,
+    "title" : "condampich7",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnConDamBich/condampich8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 302,
+    "title" : "condampich8",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/sachnoi.vnConDamBich/condampich1.mp3",
+    "title" : "condampich1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnConDamBich/condampich2.mp3",
+    "title" : "condampich2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnConDamBich/condampich3.mp3",
+    "title" : "condampich3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnConDamBich/condampich4.mp3",
+    "title" : "condampich4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnConDamBich/condampich5.mp3",
+    "title" : "condampich5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnConDamBich/condampich6.mp3",
+    "title" : "condampich6",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnConDamBich/condampich7.mp3",
+    "title" : "condampich7",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnConDamBich/condampich8.mp3",
+    "title" : "condampich8",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

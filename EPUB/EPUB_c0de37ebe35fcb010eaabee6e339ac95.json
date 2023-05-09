@@ -1,0 +1,113 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/hai-huoc-mot-chut-the-gioi-se-khac-di_15629.html",
+    "title" : "Hài Hước Một Chút Thế Giới Sẽ Khác Đi",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "The Book Worm",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 17112,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/EPUB/EPUB_c0de37ebe35fcb010eaabee6e339ac95.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/IMAGE/IMAGE_c0de37ebe35fcb010eaabee6e339ac95.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/hai-huoc-mot-chut-the-gioi-se-khac-di/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 228,
+    "title" : "Lời giới thiệu | Đọc Sách Mỗi Ngày",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hai-huoc-mot-chut-the-gioi-se-khac-di/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5694,
+    "title" : "Chương 1 | Đọc Sách Mỗi Ngày",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hai-huoc-mot-chut-the-gioi-se-khac-di/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3410,
+    "title" : "Chương 2 | Đọc Sách Mỗi Ngày",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hai-huoc-mot-chut-the-gioi-se-khac-di/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2705,
+    "title" : "Chương 3 | Đọc Sách Mỗi Ngày",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hai-huoc-mot-chut-the-gioi-se-khac-di/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2065,
+    "title" : "Chương 4 | Đọc Sách Mỗi Ngày",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hai-huoc-mot-chut-the-gioi-se-khac-di/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3010,
+    "title" : "Chương 5 - End | Đọc Sách Mỗi Ngày",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/hai-huoc-mot-chut-the-gioi-se-khac-di/1.mp3",
+    "title" : "Lời giới thiệu | Đọc Sách Mỗi Ngày",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hai-huoc-mot-chut-the-gioi-se-khac-di/2.mp3",
+    "title" : "Chương 1 | Đọc Sách Mỗi Ngày",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hai-huoc-mot-chut-the-gioi-se-khac-di/3.mp3",
+    "title" : "Chương 2 | Đọc Sách Mỗi Ngày",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hai-huoc-mot-chut-the-gioi-se-khac-di/4.mp3",
+    "title" : "Chương 3 | Đọc Sách Mỗi Ngày",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hai-huoc-mot-chut-the-gioi-se-khac-di/5.mp3",
+    "title" : "Chương 4 | Đọc Sách Mỗi Ngày",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hai-huoc-mot-chut-the-gioi-se-khac-di/6.mp3",
+    "title" : "Chương 5 - End | Đọc Sách Mỗi Ngày",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,1349 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/bang-hoa-ma-tru_12168.html",
+    "title" : "Băng Hỏa Ma Trù",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Đường Gia Tam Thiếu",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 328169,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/EPUB/EPUB_6e7bdb500ba5019fddd20e2756dd93d5.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/IMAGE/IMAGE_6e7bdb500ba5019fddd20e2756dd93d5.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/bang-hoa-ma-tru/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3224,
+    "title" : "Quỷ Trù Tra Cực - #mcdinhduy diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bang-hoa-ma-tru/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2856,
+    "title" : "Tập 10 - Trí Nữ Lạc Nhu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bang-hoa-ma-tru/100.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2728,
+    "title" : "Tập 100 - Long Ma Pháp Sư",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bang-hoa-ma-tru/101.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2887,
+    "title" : "Tập 101 - Tao ngộ ở Hỏa Mộc Lâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bang-hoa-ma-tru/102.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2567,
+    "title" : "Tập 102 - Phượng Hoàng Triển Dực Đại Trận",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bang-hoa-ma-tru/103.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2430,
+    "title" : "Tập 103 - Phượng Hoàng Bát Biến",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bang-hoa-ma-tru/104.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2450,
+    "title" : "Tập 104 - Trước Băng Thần Tháp",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bang-hoa-ma-tru/105.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2781,
+    "title" : "Tập 105 - Cha mẹ trở về",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bang-hoa-ma-tru/106.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2486,
+    "title" : "Tập 106 - Quyết Định Của Niệm Băng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bang-hoa-ma-tru/107.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2517,
+    "title" : "Tập 107 - Bạch nhân tộc bị diệt",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bang-hoa-ma-tru/108.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2472,
+    "title" : "Tập 108 - Bổ dược khổ sáp",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bang-hoa-ma-tru/109.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2470,
+    "title" : "Tập 109 - Nỏ Tru Thần",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bang-hoa-ma-tru/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2985,
+    "title" : "Tập 11 - Hỏa Thần Tả Thủ - Mc Đình Duy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bang-hoa-ma-tru/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2863,
+    "title" : "Tập 12 - Dung Hợp Ma Pháp",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bang-hoa-ma-tru/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2969,
+    "title" : "Băng Hỏa Ma Trù - Tập 13 - Nghệ Trấn Thanh Phong Trai",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bang-hoa-ma-tru/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2926,
+    "title" : "Tập 14 - Xúc Phát Ma Pháp Trận",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bang-hoa-ma-tru/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2941,
+    "title" : "Băng Hỏa Cửu Trọng Thiên - Truyện tiên hiệp Băng Hỏa Ma Trù",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bang-hoa-ma-tru/16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2925,
+    "title" : "Tập 16 - Xảo Chiến Ma Đạo Sư",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bang-hoa-ma-tru/17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2996,
+    "title" : "Băng Hỏa Ma Trù - Triệu Hoán Pháp Sư",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bang-hoa-ma-tru/18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3060,
+    "title" : "Kim Bối Địa Long Vương - Băng Hỏa Ma Trù",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bang-hoa-ma-tru/19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3020,
+    "title" : "Băng Hỏa Ma Trù - Long Thần Cố Sự",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bang-hoa-ma-tru/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3122,
+    "title" : "Tập 2 - Trù Sư Tu Luyện",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bang-hoa-ma-tru/20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3049,
+    "title" : "Tập 20 - Nhất Phẩm Diện Thực",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bang-hoa-ma-tru/21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2994,
+    "title" : "Chấn Diệp Pháp",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bang-hoa-ma-tru/22.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3195,
+    "title" : "Tập 22 - Kỹ Nữ Bí Mật",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bang-hoa-ma-tru/23.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2989,
+    "title" : "Tập 23 - Chiến Tranh Khai Đoạn - Mc Đình Duy diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bang-hoa-ma-tru/24.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3006,
+    "title" : "Tập 24 - Trù Thần Tử Tu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bang-hoa-ma-tru/25.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3012,
+    "title" : "Băng Hỏa Ma Trù - Hỏa Thổ Song Hệ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bang-hoa-ma-tru/26.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2970,
+    "title" : "Tập 26 - Vũ Thánh Phượng Nữ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bang-hoa-ma-tru/27.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2929,
+    "title" : "Tập 27 - Quyết Đấu Đà Trù",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bang-hoa-ma-tru/28.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3020,
+    "title" : "Tạp 28 - Thần Bí Bảo Tàng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bang-hoa-ma-tru/29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2926,
+    "title" : "Băng Hỏa Ma Trù - Thiên Đăng Sơn Mạch",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bang-hoa-ma-tru/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3218,
+    "title" : "Tập 03 - Băng Tuyết Nữ Thần",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bang-hoa-ma-tru/30.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3055,
+    "title" : "Tập 30 - Địa Long Quân Đoàn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bang-hoa-ma-tru/31.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3026,
+    "title" : "Tập 31- Hỏa Long Nhân Tộc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bang-hoa-ma-tru/32.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3080,
+    "title" : "Tập 32 - Hỏa Long Vương",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bang-hoa-ma-tru/33.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3043,
+    "title" : "Tập 33 - Long Vương Nhược điểm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bang-hoa-ma-tru/34.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3034,
+    "title" : "Tập 34 - Băng Hỏa Đồng Nguyên Tiến Hóa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bang-hoa-ma-tru/35.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3007,
+    "title" : "Tập 35 - Quang Minh Kỵ Sĩ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bang-hoa-ma-tru/36.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3030,
+    "title" : "Tập 36 - Tái Kiến Ngọc Như Yên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bang-hoa-ma-tru/37.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3016,
+    "title" : "Tập 37 - Cao Thủ Phượng Tộc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bang-hoa-ma-tru/38.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4122,
+    "title" : "Truyện tâm lý xã hội 2019 (Rất kịch tính) #mclena",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bang-hoa-ma-tru/39.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2946,
+    "title" : "Tập 39 - Tương Quỷ Vương - Dấm Hồng Hồn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bang-hoa-ma-tru/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2765,
+    "title" : "Tập 04 - Băng Hỏa Đồng Nguyên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bang-hoa-ma-tru/40.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3079,
+    "title" : "Tập 40 - Thân Thế Phượng Nữ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bang-hoa-ma-tru/41.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3018,
+    "title" : "Tập 41 - Tuyền Ky Đao",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bang-hoa-ma-tru/42.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3003,
+    "title" : "Tập 42 - Nữ Vu U U",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bang-hoa-ma-tru/43.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3130,
+    "title" : "Tập 43 - Ngũ Đại Long Vương",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bang-hoa-ma-tru/44.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3043,
+    "title" : "Tập 44 - Phượng Hoàng Huyết Dịch",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bang-hoa-ma-tru/45.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3023,
+    "title" : "Tập 45 - Long Triệu Hoán Sư Đích Sát Ky",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bang-hoa-ma-tru/46.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3005,
+    "title" : "Tập 46 - Thiên Niên Minh Vũ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bang-hoa-ma-tru/47.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2783,
+    "title" : "47",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bang-hoa-ma-tru/48.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3094,
+    "title" : "48",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bang-hoa-ma-tru/49.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2922,
+    "title" : "49",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bang-hoa-ma-tru/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2891,
+    "title" : "Băng Hỏa Ma Trù - Tập 05 - Phượng Nữ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bang-hoa-ma-tru/50.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3365,
+    "title" : "50",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bang-hoa-ma-tru/51.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2865,
+    "title" : "51",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bang-hoa-ma-tru/52.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2864,
+    "title" : "52",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bang-hoa-ma-tru/53.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3410,
+    "title" : "53",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bang-hoa-ma-tru/54.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3148,
+    "title" : "54",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bang-hoa-ma-tru/55.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3405,
+    "title" : "55",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bang-hoa-ma-tru/56.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2862,
+    "title" : "56",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bang-hoa-ma-tru/57.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3307,
+    "title" : "57",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bang-hoa-ma-tru/58.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2756,
+    "title" : "58",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bang-hoa-ma-tru/59.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3428,
+    "title" : "59",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bang-hoa-ma-tru/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3013,
+    "title" : "Tập 06 - Thanh Phong Trai - Mc Đình Duy diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bang-hoa-ma-tru/60.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3193,
+    "title" : "60",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bang-hoa-ma-tru/61.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3116,
+    "title" : "61",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bang-hoa-ma-tru/62.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3325,
+    "title" : "62",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bang-hoa-ma-tru/63.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3160,
+    "title" : "63",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bang-hoa-ma-tru/64.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3036,
+    "title" : "64",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bang-hoa-ma-tru/65.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3051,
+    "title" : "65",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bang-hoa-ma-tru/66.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3010,
+    "title" : "66",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bang-hoa-ma-tru/67.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3275,
+    "title" : "67",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bang-hoa-ma-tru/68.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2991,
+    "title" : "68",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bang-hoa-ma-tru/69.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3063,
+    "title" : "69",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bang-hoa-ma-tru/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3014,
+    "title" : "Tập 07 - Ma Sát Sư - Mc Đình Duy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bang-hoa-ma-tru/70.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3020,
+    "title" : "70",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bang-hoa-ma-tru/71.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3099,
+    "title" : "71",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bang-hoa-ma-tru/72.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3109,
+    "title" : "72",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bang-hoa-ma-tru/73.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3178,
+    "title" : "73",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bang-hoa-ma-tru/74.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2989,
+    "title" : "74",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bang-hoa-ma-tru/75.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3227,
+    "title" : "75",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bang-hoa-ma-tru/76.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2994,
+    "title" : "76",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bang-hoa-ma-tru/77.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3186,
+    "title" : "77",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bang-hoa-ma-tru/78.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2931,
+    "title" : "78",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bang-hoa-ma-tru/79.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3197,
+    "title" : "79",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bang-hoa-ma-tru/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2991,
+    "title" : "Tập 8 - Ma Pháp Sư Công Hội",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bang-hoa-ma-tru/80.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3062,
+    "title" : "80",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bang-hoa-ma-tru/81.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3073,
+    "title" : "81",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bang-hoa-ma-tru/82.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3045,
+    "title" : "82",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bang-hoa-ma-tru/83.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3100,
+    "title" : "83",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bang-hoa-ma-tru/84.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3376,
+    "title" : "84",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bang-hoa-ma-tru/85.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3004,
+    "title" : "85",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bang-hoa-ma-tru/86.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2990,
+    "title" : "86",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bang-hoa-ma-tru/87.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3052,
+    "title" : "87",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bang-hoa-ma-tru/88.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2848,
+    "title" : "88",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bang-hoa-ma-tru/89.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3038,
+    "title" : "89",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bang-hoa-ma-tru/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2999,
+    "title" : "Tập 09 - Sinh Nhật Yến Hội - Mc Đình Duy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bang-hoa-ma-tru/90.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3182,
+    "title" : "90",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bang-hoa-ma-tru/91.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3112,
+    "title" : "91",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bang-hoa-ma-tru/92.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3039,
+    "title" : "92",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bang-hoa-ma-tru/93.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3117,
+    "title" : "93",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bang-hoa-ma-tru/94.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3040,
+    "title" : "94",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bang-hoa-ma-tru/95.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3010,
+    "title" : "95",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bang-hoa-ma-tru/96.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2872,
+    "title" : "96",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bang-hoa-ma-tru/97.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2964,
+    "title" : "97",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bang-hoa-ma-tru/98.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2976,
+    "title" : "98",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bang-hoa-ma-tru/99.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2594,
+    "title" : "Tập 99 - Tâm Hỏa Thiêu Động",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/bang-hoa-ma-tru/1.mp3",
+    "title" : "Quỷ Trù Tra Cực - #mcdinhduy diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bang-hoa-ma-tru/10.mp3",
+    "title" : "Tập 10 - Trí Nữ Lạc Nhu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bang-hoa-ma-tru/100.mp3",
+    "title" : "Tập 100 - Long Ma Pháp Sư",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bang-hoa-ma-tru/101.mp3",
+    "title" : "Tập 101 - Tao ngộ ở Hỏa Mộc Lâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bang-hoa-ma-tru/102.mp3",
+    "title" : "Tập 102 - Phượng Hoàng Triển Dực Đại Trận",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bang-hoa-ma-tru/103.mp3",
+    "title" : "Tập 103 - Phượng Hoàng Bát Biến",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bang-hoa-ma-tru/104.mp3",
+    "title" : "Tập 104 - Trước Băng Thần Tháp",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bang-hoa-ma-tru/105.mp3",
+    "title" : "Tập 105 - Cha mẹ trở về",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bang-hoa-ma-tru/106.mp3",
+    "title" : "Tập 106 - Quyết Định Của Niệm Băng",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bang-hoa-ma-tru/107.mp3",
+    "title" : "Tập 107 - Bạch nhân tộc bị diệt",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bang-hoa-ma-tru/108.mp3",
+    "title" : "Tập 108 - Bổ dược khổ sáp",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bang-hoa-ma-tru/109.mp3",
+    "title" : "Tập 109 - Nỏ Tru Thần",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bang-hoa-ma-tru/11.mp3",
+    "title" : "Tập 11 - Hỏa Thần Tả Thủ - Mc Đình Duy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bang-hoa-ma-tru/12.mp3",
+    "title" : "Tập 12 - Dung Hợp Ma Pháp",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bang-hoa-ma-tru/13.mp3",
+    "title" : "Băng Hỏa Ma Trù - Tập 13 - Nghệ Trấn Thanh Phong Trai",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bang-hoa-ma-tru/14.mp3",
+    "title" : "Tập 14 - Xúc Phát Ma Pháp Trận",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bang-hoa-ma-tru/15.mp3",
+    "title" : "Băng Hỏa Cửu Trọng Thiên - Truyện tiên hiệp Băng Hỏa Ma Trù",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bang-hoa-ma-tru/16.mp3",
+    "title" : "Tập 16 - Xảo Chiến Ma Đạo Sư",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bang-hoa-ma-tru/17.mp3",
+    "title" : "Băng Hỏa Ma Trù - Triệu Hoán Pháp Sư",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bang-hoa-ma-tru/18.mp3",
+    "title" : "Kim Bối Địa Long Vương - Băng Hỏa Ma Trù",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bang-hoa-ma-tru/19.mp3",
+    "title" : "Băng Hỏa Ma Trù - Long Thần Cố Sự",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bang-hoa-ma-tru/2.mp3",
+    "title" : "Tập 2 - Trù Sư Tu Luyện",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bang-hoa-ma-tru/20.mp3",
+    "title" : "Tập 20 - Nhất Phẩm Diện Thực",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bang-hoa-ma-tru/21.mp3",
+    "title" : "Chấn Diệp Pháp",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bang-hoa-ma-tru/22.mp3",
+    "title" : "Tập 22 - Kỹ Nữ Bí Mật",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bang-hoa-ma-tru/23.mp3",
+    "title" : "Tập 23 - Chiến Tranh Khai Đoạn - Mc Đình Duy diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bang-hoa-ma-tru/24.mp3",
+    "title" : "Tập 24 - Trù Thần Tử Tu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bang-hoa-ma-tru/25.mp3",
+    "title" : "Băng Hỏa Ma Trù - Hỏa Thổ Song Hệ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bang-hoa-ma-tru/26.mp3",
+    "title" : "Tập 26 - Vũ Thánh Phượng Nữ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bang-hoa-ma-tru/27.mp3",
+    "title" : "Tập 27 - Quyết Đấu Đà Trù",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bang-hoa-ma-tru/28.mp3",
+    "title" : "Tạp 28 - Thần Bí Bảo Tàng",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bang-hoa-ma-tru/29.mp3",
+    "title" : "Băng Hỏa Ma Trù - Thiên Đăng Sơn Mạch",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bang-hoa-ma-tru/3.mp3",
+    "title" : "Tập 03 - Băng Tuyết Nữ Thần",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bang-hoa-ma-tru/30.mp3",
+    "title" : "Tập 30 - Địa Long Quân Đoàn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bang-hoa-ma-tru/31.mp3",
+    "title" : "Tập 31- Hỏa Long Nhân Tộc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bang-hoa-ma-tru/32.mp3",
+    "title" : "Tập 32 - Hỏa Long Vương",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bang-hoa-ma-tru/33.mp3",
+    "title" : "Tập 33 - Long Vương Nhược điểm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bang-hoa-ma-tru/34.mp3",
+    "title" : "Tập 34 - Băng Hỏa Đồng Nguyên Tiến Hóa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bang-hoa-ma-tru/35.mp3",
+    "title" : "Tập 35 - Quang Minh Kỵ Sĩ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bang-hoa-ma-tru/36.mp3",
+    "title" : "Tập 36 - Tái Kiến Ngọc Như Yên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bang-hoa-ma-tru/37.mp3",
+    "title" : "Tập 37 - Cao Thủ Phượng Tộc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bang-hoa-ma-tru/38.mp3",
+    "title" : "Truyện tâm lý xã hội 2019 (Rất kịch tính) #mclena",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bang-hoa-ma-tru/39.mp3",
+    "title" : "Tập 39 - Tương Quỷ Vương - Dấm Hồng Hồn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bang-hoa-ma-tru/4.mp3",
+    "title" : "Tập 04 - Băng Hỏa Đồng Nguyên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bang-hoa-ma-tru/40.mp3",
+    "title" : "Tập 40 - Thân Thế Phượng Nữ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bang-hoa-ma-tru/41.mp3",
+    "title" : "Tập 41 - Tuyền Ky Đao",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bang-hoa-ma-tru/42.mp3",
+    "title" : "Tập 42 - Nữ Vu U U",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bang-hoa-ma-tru/43.mp3",
+    "title" : "Tập 43 - Ngũ Đại Long Vương",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bang-hoa-ma-tru/44.mp3",
+    "title" : "Tập 44 - Phượng Hoàng Huyết Dịch",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bang-hoa-ma-tru/45.mp3",
+    "title" : "Tập 45 - Long Triệu Hoán Sư Đích Sát Ky",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bang-hoa-ma-tru/46.mp3",
+    "title" : "Tập 46 - Thiên Niên Minh Vũ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bang-hoa-ma-tru/47.mp3",
+    "title" : "47",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bang-hoa-ma-tru/48.mp3",
+    "title" : "48",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bang-hoa-ma-tru/49.mp3",
+    "title" : "49",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bang-hoa-ma-tru/5.mp3",
+    "title" : "Băng Hỏa Ma Trù - Tập 05 - Phượng Nữ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bang-hoa-ma-tru/50.mp3",
+    "title" : "50",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bang-hoa-ma-tru/51.mp3",
+    "title" : "51",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bang-hoa-ma-tru/52.mp3",
+    "title" : "52",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bang-hoa-ma-tru/53.mp3",
+    "title" : "53",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bang-hoa-ma-tru/54.mp3",
+    "title" : "54",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bang-hoa-ma-tru/55.mp3",
+    "title" : "55",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bang-hoa-ma-tru/56.mp3",
+    "title" : "56",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bang-hoa-ma-tru/57.mp3",
+    "title" : "57",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bang-hoa-ma-tru/58.mp3",
+    "title" : "58",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bang-hoa-ma-tru/59.mp3",
+    "title" : "59",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bang-hoa-ma-tru/6.mp3",
+    "title" : "Tập 06 - Thanh Phong Trai - Mc Đình Duy diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bang-hoa-ma-tru/60.mp3",
+    "title" : "60",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bang-hoa-ma-tru/61.mp3",
+    "title" : "61",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bang-hoa-ma-tru/62.mp3",
+    "title" : "62",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bang-hoa-ma-tru/63.mp3",
+    "title" : "63",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bang-hoa-ma-tru/64.mp3",
+    "title" : "64",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bang-hoa-ma-tru/65.mp3",
+    "title" : "65",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bang-hoa-ma-tru/66.mp3",
+    "title" : "66",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bang-hoa-ma-tru/67.mp3",
+    "title" : "67",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bang-hoa-ma-tru/68.mp3",
+    "title" : "68",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bang-hoa-ma-tru/69.mp3",
+    "title" : "69",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bang-hoa-ma-tru/7.mp3",
+    "title" : "Tập 07 - Ma Sát Sư - Mc Đình Duy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bang-hoa-ma-tru/70.mp3",
+    "title" : "70",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bang-hoa-ma-tru/71.mp3",
+    "title" : "71",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bang-hoa-ma-tru/72.mp3",
+    "title" : "72",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bang-hoa-ma-tru/73.mp3",
+    "title" : "73",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bang-hoa-ma-tru/74.mp3",
+    "title" : "74",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bang-hoa-ma-tru/75.mp3",
+    "title" : "75",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bang-hoa-ma-tru/76.mp3",
+    "title" : "76",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bang-hoa-ma-tru/77.mp3",
+    "title" : "77",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bang-hoa-ma-tru/78.mp3",
+    "title" : "78",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bang-hoa-ma-tru/79.mp3",
+    "title" : "79",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bang-hoa-ma-tru/8.mp3",
+    "title" : "Tập 8 - Ma Pháp Sư Công Hội",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bang-hoa-ma-tru/80.mp3",
+    "title" : "80",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bang-hoa-ma-tru/81.mp3",
+    "title" : "81",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bang-hoa-ma-tru/82.mp3",
+    "title" : "82",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bang-hoa-ma-tru/83.mp3",
+    "title" : "83",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bang-hoa-ma-tru/84.mp3",
+    "title" : "84",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bang-hoa-ma-tru/85.mp3",
+    "title" : "85",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bang-hoa-ma-tru/86.mp3",
+    "title" : "86",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bang-hoa-ma-tru/87.mp3",
+    "title" : "87",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bang-hoa-ma-tru/88.mp3",
+    "title" : "88",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bang-hoa-ma-tru/89.mp3",
+    "title" : "89",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bang-hoa-ma-tru/9.mp3",
+    "title" : "Tập 09 - Sinh Nhật Yến Hội - Mc Đình Duy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bang-hoa-ma-tru/90.mp3",
+    "title" : "90",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bang-hoa-ma-tru/91.mp3",
+    "title" : "91",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bang-hoa-ma-tru/92.mp3",
+    "title" : "92",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bang-hoa-ma-tru/93.mp3",
+    "title" : "93",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bang-hoa-ma-tru/94.mp3",
+    "title" : "94",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bang-hoa-ma-tru/95.mp3",
+    "title" : "95",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bang-hoa-ma-tru/96.mp3",
+    "title" : "96",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bang-hoa-ma-tru/97.mp3",
+    "title" : "97",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bang-hoa-ma-tru/98.mp3",
+    "title" : "98",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bang-hoa-ma-tru/99.mp3",
+    "title" : "Tập 99 - Tâm Hỏa Thiêu Động",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

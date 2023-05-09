@@ -1,0 +1,1133 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/thu-nhan-chi-dac-chung-binh-xuyen-viet_14542.html",
+    "title" : "Thú Nhân Chi Đặc Chủng Binh Xuyên Việt",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Trinh Nam Diệp Tử",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 112276,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/EPUB/EPUB_2e0a04c4c255b04756af20645f8cdf3a.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/IMAGE/IMAGE_2e0a04c4c255b04756af20645f8cdf3a.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/thu-nhan-chi-dac-chung-binh-xuyen-viet/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 844,
+    "title" : "#1 THÚ NHÂN CHI ĐẶC CHỦNG BINH XUYÊN VIỆT",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thu-nhan-chi-dac-chung-binh-xuyen-viet/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 858,
+    "title" : "#10 THÚ NHÂN CHI ĐẶC CHỦNG BINH XUYÊN VIỆT",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thu-nhan-chi-dac-chung-binh-xuyen-viet/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 868,
+    "title" : "#11 THÚ NHÂN CHI ĐẶC CHỦNG BINH XUYÊN VIỆT",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thu-nhan-chi-dac-chung-binh-xuyen-viet/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 853,
+    "title" : "#12 THÚ NHÂN CHI ĐẶC CHỦNG BINH XUYÊN VIỆT",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thu-nhan-chi-dac-chung-binh-xuyen-viet/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 753,
+    "title" : "#13 THÚ NHÂN CHI ĐẶC CHỦNG BINH XUYÊN VIỆT",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thu-nhan-chi-dac-chung-binh-xuyen-viet/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 705,
+    "title" : "#14 THÚ NHÂN CHI ĐẶC CHỦNG BINH XUYÊN VIỆT",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thu-nhan-chi-dac-chung-binh-xuyen-viet/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 871,
+    "title" : "#15 THÚ NHÂN CHI ĐẶC CHỦNG BINH XUYÊN VIỆT",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thu-nhan-chi-dac-chung-binh-xuyen-viet/16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 855,
+    "title" : "#16 THÚ NHÂN CHI ĐẶC CHỦNG BINH XUYÊN VIỆT",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thu-nhan-chi-dac-chung-binh-xuyen-viet/17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 912,
+    "title" : "#17 THÚ NHÂN CHI ĐẶC CHỦNG BINH XUYÊN VIỆT",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thu-nhan-chi-dac-chung-binh-xuyen-viet/18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 840,
+    "title" : "#18 THÚ NHÂN CHI ĐẶC CHỦNG BINH XUYÊN VIỆT",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thu-nhan-chi-dac-chung-binh-xuyen-viet/19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 884,
+    "title" : "#19 THÚ NHÂN CHI ĐẶC CHỦNG BINH XUYÊN VIỆT",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thu-nhan-chi-dac-chung-binh-xuyen-viet/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 866,
+    "title" : "#2 THÚ NHÂN CHI ĐẶC CHỦNG BINH XUYÊN VIỆT",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thu-nhan-chi-dac-chung-binh-xuyen-viet/20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1087,
+    "title" : "#20 THÚ NHÂN CHI ĐẶC CHỦNG BINH XUYÊN VIỆT",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thu-nhan-chi-dac-chung-binh-xuyen-viet/21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 844,
+    "title" : "#21 THÚ NHÂN CHI ĐẶC CHỦNG BINH XUYÊN VIỆT",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thu-nhan-chi-dac-chung-binh-xuyen-viet/22.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 781,
+    "title" : "#22 THÚ NHÂN CHI ĐẶC CHỦNG BINH XUYÊN VIỆT",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thu-nhan-chi-dac-chung-binh-xuyen-viet/23.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 788,
+    "title" : "#23 THÚ NHÂN CHI ĐẶC CHỦNG BINH XUYÊN VIỆT",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thu-nhan-chi-dac-chung-binh-xuyen-viet/24.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 976,
+    "title" : "#24 THÚ NHÂN CHI ĐẶC CHỦNG BINH XUYÊN VIỆT",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thu-nhan-chi-dac-chung-binh-xuyen-viet/25.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 790,
+    "title" : "#25 THÚ NHÂN CHI ĐẶC CHỦNG BINH XUYÊN VIỆT",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thu-nhan-chi-dac-chung-binh-xuyen-viet/26.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 831,
+    "title" : "#26 THÚ NHÂN CHI ĐẶC CHỦNG BINH XUYÊN VIỆT",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thu-nhan-chi-dac-chung-binh-xuyen-viet/27.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 810,
+    "title" : "#27 THÚ NHÂN CHI ĐẶC CHỦNG BINH XUYÊN VIỆT",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thu-nhan-chi-dac-chung-binh-xuyen-viet/28.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 840,
+    "title" : "#28 THÚ NHÂN CHI ĐẶC CHỦNG BINH XUYÊN VIỆT",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thu-nhan-chi-dac-chung-binh-xuyen-viet/29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 746,
+    "title" : "#29 THÚ NHÂN CHI ĐẶC CHỦNG BINH XUYÊN VIỆT",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thu-nhan-chi-dac-chung-binh-xuyen-viet/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 714,
+    "title" : "#3 THÚ NHÂN CHI ĐẶC CHỦNG BINH XUYÊN VIỆT",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thu-nhan-chi-dac-chung-binh-xuyen-viet/30.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 911,
+    "title" : "#30 THÚ NHÂN CHI ĐẶC CHỦNG BINH XUYÊN VIỆT",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thu-nhan-chi-dac-chung-binh-xuyen-viet/31.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 892,
+    "title" : "#31 THÚ NHÂN CHI ĐẶC CHỦNG BINH XUYÊN VIỆT",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thu-nhan-chi-dac-chung-binh-xuyen-viet/32.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1014,
+    "title" : "#32 THÚ NHÂN CHI ĐẶC CHỦNG BINH XUYÊN VIỆT",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thu-nhan-chi-dac-chung-binh-xuyen-viet/33.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 847,
+    "title" : "#33 THÚ NHÂN CHI ĐẶC CHỦNG BINH XUYÊN VIỆT",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thu-nhan-chi-dac-chung-binh-xuyen-viet/34.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1092,
+    "title" : "#34 THÚ NHÂN CHI ĐẶC CHỦNG BINH XUYÊN VIỆT",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thu-nhan-chi-dac-chung-binh-xuyen-viet/35.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1076,
+    "title" : "#35 THÚ NHÂN CHI ĐẶC CHỦNG BINH XUYÊN VIỆT",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thu-nhan-chi-dac-chung-binh-xuyen-viet/36.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 951,
+    "title" : "#36 THÚ NHÂN CHI ĐẶC CHỦNG BINH XUYÊN VIỆT",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thu-nhan-chi-dac-chung-binh-xuyen-viet/37.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 807,
+    "title" : "#37 THÚ NHÂN CHI ĐẶC CHỦNG BINH XUYÊN VIỆT",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thu-nhan-chi-dac-chung-binh-xuyen-viet/38.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 894,
+    "title" : "#38 THÚ NHÂN CHI ĐẶC CHỦNG BINH XUYÊN VIỆT",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thu-nhan-chi-dac-chung-binh-xuyen-viet/39.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 916,
+    "title" : "#39 THÚ NHÂN CHI ĐẶC CHỦNG BINH XUYÊN VIỆT",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thu-nhan-chi-dac-chung-binh-xuyen-viet/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 942,
+    "title" : "#4 THÚ NHÂN CHI ĐẶC CHỦNG BINH XUYÊN VIỆT",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thu-nhan-chi-dac-chung-binh-xuyen-viet/40.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 855,
+    "title" : "#40 THÚ NHÂN CHI ĐẶC CHỦNG BINH XUYÊN VIỆT",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thu-nhan-chi-dac-chung-binh-xuyen-viet/41.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 875,
+    "title" : "#41 THÚ NHÂN CHI ĐẶC CHỦNG BINH XUYÊN VIỆT",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thu-nhan-chi-dac-chung-binh-xuyen-viet/42.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 837,
+    "title" : "#42 THÚ NHÂN CHI ĐẶC CHỦNG BINH XUYÊN VIỆT",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thu-nhan-chi-dac-chung-binh-xuyen-viet/43.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 828,
+    "title" : "#43 THÚ NHÂN CHI ĐẶC CHỦNG BINH XUYÊN VIỆT",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thu-nhan-chi-dac-chung-binh-xuyen-viet/44.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 840,
+    "title" : "#44 THÚ NHÂN CHI ĐẶC CHỦNG BINH XUYÊN VIỆT",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thu-nhan-chi-dac-chung-binh-xuyen-viet/45.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 879,
+    "title" : "#45 THÚ NHÂN CHI ĐẶC CHỦNG BINH XUYÊN VIỆT",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thu-nhan-chi-dac-chung-binh-xuyen-viet/46.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 833,
+    "title" : "#46 THÚ NHÂN CHI ĐẶC CHỦNG BINH XUYÊN VIỆT",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thu-nhan-chi-dac-chung-binh-xuyen-viet/47.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 833,
+    "title" : "#47 THÚ NHÂN CHI ĐẶC CHỦNG BINH XUYÊN VIỆT",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thu-nhan-chi-dac-chung-binh-xuyen-viet/48.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 870,
+    "title" : "#48 THÚ NHÂN CHI ĐẶC CHỦNG BINH XUYÊN VIỆT",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thu-nhan-chi-dac-chung-binh-xuyen-viet/49.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 829,
+    "title" : "#49 THÚ NHÂN CHI ĐẶC CHỦNG BINH XUYÊN VIỆT",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thu-nhan-chi-dac-chung-binh-xuyen-viet/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 998,
+    "title" : "#5 THÚ NHÂN CHI ĐẶC CHỦNG BINH XUYÊN VIỆT",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thu-nhan-chi-dac-chung-binh-xuyen-viet/50.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 815,
+    "title" : "#50 THÚ NHÂN CHI ĐẶC CHỦNG BINH XUYÊN VIỆT",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thu-nhan-chi-dac-chung-binh-xuyen-viet/51.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 848,
+    "title" : "#51 THÚ NHÂN CHI ĐẶC CHỦNG BINH XUYÊN VIỆT",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thu-nhan-chi-dac-chung-binh-xuyen-viet/52.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 862,
+    "title" : "#52 THÚ NHÂN CHI ĐẶC CHỦNG BINH XUYÊN VIỆT",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thu-nhan-chi-dac-chung-binh-xuyen-viet/53.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 870,
+    "title" : "#53 THÚ NHÂN CHI ĐẶC CHỦNG BINH XUYÊN VIỆT",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thu-nhan-chi-dac-chung-binh-xuyen-viet/54.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 846,
+    "title" : "#54 THÚ NHÂN CHI ĐẶC CHỦNG BINH XUYÊN VIỆT",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thu-nhan-chi-dac-chung-binh-xuyen-viet/55.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 844,
+    "title" : "#55 THÚ NHÂN CHI ĐẶC CHỦNG BINH XUYÊN VIỆT",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thu-nhan-chi-dac-chung-binh-xuyen-viet/56.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 824,
+    "title" : "#56 THÚ NHÂN CHI ĐẶC CHỦNG BINH XUYÊN VIỆT",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thu-nhan-chi-dac-chung-binh-xuyen-viet/57.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 792,
+    "title" : "#57 THÚ NHÂN CHI ĐẶC CHỦNG BINH XUYÊN VIỆT",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thu-nhan-chi-dac-chung-binh-xuyen-viet/58.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 759,
+    "title" : "#58 THÚ NHÂN CHI ĐẶC CHỦNG BINH XUYÊN VIỆT",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thu-nhan-chi-dac-chung-binh-xuyen-viet/59.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 813,
+    "title" : "#59 THÚ NHÂN CHI ĐẶC CHỦNG BINH XUYÊN VIỆT",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thu-nhan-chi-dac-chung-binh-xuyen-viet/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 879,
+    "title" : "#6 THÚ NHÂN CHI ĐẶC CHỦNG BINH XUYÊN VIỆT",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thu-nhan-chi-dac-chung-binh-xuyen-viet/60.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 853,
+    "title" : "#60 THÚ NHÂN CHI ĐẶC CHỦNG BINH XUYÊN VIỆT",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thu-nhan-chi-dac-chung-binh-xuyen-viet/61.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 854,
+    "title" : "#61 THÚ NHÂN CHI ĐẶC CHỦNG BINH XUYÊN VIỆT",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thu-nhan-chi-dac-chung-binh-xuyen-viet/62.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 796,
+    "title" : "#62 THÚ NHÂN CHI ĐẶC CHỦNG BINH XUYÊN VIỆT",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thu-nhan-chi-dac-chung-binh-xuyen-viet/63.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 822,
+    "title" : "#63 THÚ NHÂN CHI ĐẶC CHỦNG BINH XUYÊN VIỆT",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thu-nhan-chi-dac-chung-binh-xuyen-viet/64.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 812,
+    "title" : "#64 THÚ NHÂN CHI ĐẶC CHỦNG BINH XUYÊN VIỆT",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thu-nhan-chi-dac-chung-binh-xuyen-viet/65.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1486,
+    "title" : "#65 THÚ NHÂN CHI ĐẶC CHỦNG BINH XUYÊN VIỆT",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thu-nhan-chi-dac-chung-binh-xuyen-viet/66.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 824,
+    "title" : "#66 THÚ NHÂN CHI ĐẶC CHỦNG BINH XUYÊN VIỆT",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thu-nhan-chi-dac-chung-binh-xuyen-viet/67.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 852,
+    "title" : "#67 THÚ NHÂN CHI ĐẶC CHỦNG BINH XUYÊN VIỆT",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thu-nhan-chi-dac-chung-binh-xuyen-viet/68.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 849,
+    "title" : "#68 THÚ NHÂN CHI ĐẶC CHỦNG BINH XUYÊN VIỆT",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thu-nhan-chi-dac-chung-binh-xuyen-viet/69.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 865,
+    "title" : "#69 THÚ NHÂN CHI ĐẶC CHỦNG BINH XUYÊN VIỆT",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thu-nhan-chi-dac-chung-binh-xuyen-viet/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 814,
+    "title" : "#7 THÚ NHÂN CHI ĐẶC CHỦNG BINH XUYÊN VIỆT",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thu-nhan-chi-dac-chung-binh-xuyen-viet/70.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 830,
+    "title" : "#70 THÚ NHÂN CHI ĐẶC CHỦNG BINH XUYÊN VIỆT",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thu-nhan-chi-dac-chung-binh-xuyen-viet/71.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3885,
+    "title" : "#71~75 THÚ NHÂN CHI ĐẶC CHỦNG BINH XUYÊN VIỆT",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thu-nhan-chi-dac-chung-binh-xuyen-viet/72.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1544,
+    "title" : "#76~77 THÚ NHÂN CHI ĐẶC CHỦNG BINH XUYÊN VIỆT",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thu-nhan-chi-dac-chung-binh-xuyen-viet/73.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1630,
+    "title" : "#78~79 THÚ NHÂN CHI ĐẶC CHỦNG BINH XUYÊN VIỆT",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thu-nhan-chi-dac-chung-binh-xuyen-viet/74.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1504,
+    "title" : "#80~81 THÚ NHÂN CHI ĐẶC CHỦNG BINH XUYÊN VIỆT",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thu-nhan-chi-dac-chung-binh-xuyen-viet/75.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1614,
+    "title" : "#82~83 THÚ NHÂN CHI ĐẶC CHỦNG BINH XUYÊN VIỆT",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thu-nhan-chi-dac-chung-binh-xuyen-viet/76.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1595,
+    "title" : "#84~85 THÚ NHÂN CHI ĐẶC CHỦNG BINH XUYÊN VIỆT",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thu-nhan-chi-dac-chung-binh-xuyen-viet/77.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2405,
+    "title" : "#86~88 THÚ NHÂN CHI ĐẶC CHỦNG BINH XUYÊN VIỆT",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thu-nhan-chi-dac-chung-binh-xuyen-viet/78.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2924,
+    "title" : "#89~91 THÚ NHÂN CHI ĐẶC CHỦNG BINH XUYÊN VIỆT",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thu-nhan-chi-dac-chung-binh-xuyen-viet/79.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3003,
+    "title" : "#92~94 THÚ NHÂN CHI ĐẶC CHỦNG BINH XUYÊN VIỆT",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thu-nhan-chi-dac-chung-binh-xuyen-viet/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 923,
+    "title" : "#8 THÚ NHÂN CHI ĐẶC CHỦNG BINH XUYÊN VIỆT",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thu-nhan-chi-dac-chung-binh-xuyen-viet/80.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2657,
+    "title" : "#95~97 THÚ NHÂN CHI ĐẶC CHỦNG BINH XUYÊN VIỆT",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thu-nhan-chi-dac-chung-binh-xuyen-viet/81.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2246,
+    "title" : "#98~100 THÚ NHÂN CHI ĐẶC CHỦNG BINH XUYÊN VIỆT",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thu-nhan-chi-dac-chung-binh-xuyen-viet/82.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3015,
+    "title" : "#101~104 THÚ NHÂN CHI ĐẶC CHỦNG BINH XUYÊN VIỆT",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thu-nhan-chi-dac-chung-binh-xuyen-viet/83.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2021,
+    "title" : "#105~106 THÚ NHÂN CHI ĐẶC CHỦNG BINH XUYÊN VIỆT",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thu-nhan-chi-dac-chung-binh-xuyen-viet/84.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1853,
+    "title" : "#107~108 THÚ NHÂN CHI ĐẶC CHỦNG BINH XUYÊN VIỆT",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thu-nhan-chi-dac-chung-binh-xuyen-viet/85.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2834,
+    "title" : "#109~111 THÚ NHÂN CHI ĐẶC CHỦNG BINH XUYÊN VIỆT",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thu-nhan-chi-dac-chung-binh-xuyen-viet/86.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2400,
+    "title" : "#112~114 THÚ NHÂN CHI ĐẶC CHỦNG BINH XUYÊN VIỆT",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thu-nhan-chi-dac-chung-binh-xuyen-viet/87.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2549,
+    "title" : "#115~117 THÚ NHÂN CHI ĐẶC CHỦNG BINH XUYÊN VIỆT",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thu-nhan-chi-dac-chung-binh-xuyen-viet/88.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3030,
+    "title" : "#118~120 THÚ NHÂN CHI ĐẶC CHỦNG BINH XUYÊN VIỆT",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thu-nhan-chi-dac-chung-binh-xuyen-viet/89.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3471,
+    "title" : "#121~123 THÚ NHÂN CHI ĐẶC CHỦNG BINH XUYÊN VIỆT",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thu-nhan-chi-dac-chung-binh-xuyen-viet/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 906,
+    "title" : "#9 THÚ NHÂN CHI ĐẶC CHỦNG BINH XUYÊN VIỆT",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thu-nhan-chi-dac-chung-binh-xuyen-viet/90.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2230,
+    "title" : "#124~125 THÚ NHÂN CHI ĐẶC CHỦNG BINH XUYÊN VIỆT",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thu-nhan-chi-dac-chung-binh-xuyen-viet/91.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3093,
+    "title" : "#126~128 ( HOÀN) THÚ NHÂN CHI ĐẶC CHỦNG BINH XUYÊN VIỆT",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/thu-nhan-chi-dac-chung-binh-xuyen-viet/1.mp3",
+    "title" : "#1 THÚ NHÂN CHI ĐẶC CHỦNG BINH XUYÊN VIỆT",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thu-nhan-chi-dac-chung-binh-xuyen-viet/10.mp3",
+    "title" : "#10 THÚ NHÂN CHI ĐẶC CHỦNG BINH XUYÊN VIỆT",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thu-nhan-chi-dac-chung-binh-xuyen-viet/11.mp3",
+    "title" : "#11 THÚ NHÂN CHI ĐẶC CHỦNG BINH XUYÊN VIỆT",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thu-nhan-chi-dac-chung-binh-xuyen-viet/12.mp3",
+    "title" : "#12 THÚ NHÂN CHI ĐẶC CHỦNG BINH XUYÊN VIỆT",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thu-nhan-chi-dac-chung-binh-xuyen-viet/13.mp3",
+    "title" : "#13 THÚ NHÂN CHI ĐẶC CHỦNG BINH XUYÊN VIỆT",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thu-nhan-chi-dac-chung-binh-xuyen-viet/14.mp3",
+    "title" : "#14 THÚ NHÂN CHI ĐẶC CHỦNG BINH XUYÊN VIỆT",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thu-nhan-chi-dac-chung-binh-xuyen-viet/15.mp3",
+    "title" : "#15 THÚ NHÂN CHI ĐẶC CHỦNG BINH XUYÊN VIỆT",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thu-nhan-chi-dac-chung-binh-xuyen-viet/16.mp3",
+    "title" : "#16 THÚ NHÂN CHI ĐẶC CHỦNG BINH XUYÊN VIỆT",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thu-nhan-chi-dac-chung-binh-xuyen-viet/17.mp3",
+    "title" : "#17 THÚ NHÂN CHI ĐẶC CHỦNG BINH XUYÊN VIỆT",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thu-nhan-chi-dac-chung-binh-xuyen-viet/18.mp3",
+    "title" : "#18 THÚ NHÂN CHI ĐẶC CHỦNG BINH XUYÊN VIỆT",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thu-nhan-chi-dac-chung-binh-xuyen-viet/19.mp3",
+    "title" : "#19 THÚ NHÂN CHI ĐẶC CHỦNG BINH XUYÊN VIỆT",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thu-nhan-chi-dac-chung-binh-xuyen-viet/2.mp3",
+    "title" : "#2 THÚ NHÂN CHI ĐẶC CHỦNG BINH XUYÊN VIỆT",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thu-nhan-chi-dac-chung-binh-xuyen-viet/20.mp3",
+    "title" : "#20 THÚ NHÂN CHI ĐẶC CHỦNG BINH XUYÊN VIỆT",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thu-nhan-chi-dac-chung-binh-xuyen-viet/21.mp3",
+    "title" : "#21 THÚ NHÂN CHI ĐẶC CHỦNG BINH XUYÊN VIỆT",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thu-nhan-chi-dac-chung-binh-xuyen-viet/22.mp3",
+    "title" : "#22 THÚ NHÂN CHI ĐẶC CHỦNG BINH XUYÊN VIỆT",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thu-nhan-chi-dac-chung-binh-xuyen-viet/23.mp3",
+    "title" : "#23 THÚ NHÂN CHI ĐẶC CHỦNG BINH XUYÊN VIỆT",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thu-nhan-chi-dac-chung-binh-xuyen-viet/24.mp3",
+    "title" : "#24 THÚ NHÂN CHI ĐẶC CHỦNG BINH XUYÊN VIỆT",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thu-nhan-chi-dac-chung-binh-xuyen-viet/25.mp3",
+    "title" : "#25 THÚ NHÂN CHI ĐẶC CHỦNG BINH XUYÊN VIỆT",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thu-nhan-chi-dac-chung-binh-xuyen-viet/26.mp3",
+    "title" : "#26 THÚ NHÂN CHI ĐẶC CHỦNG BINH XUYÊN VIỆT",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thu-nhan-chi-dac-chung-binh-xuyen-viet/27.mp3",
+    "title" : "#27 THÚ NHÂN CHI ĐẶC CHỦNG BINH XUYÊN VIỆT",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thu-nhan-chi-dac-chung-binh-xuyen-viet/28.mp3",
+    "title" : "#28 THÚ NHÂN CHI ĐẶC CHỦNG BINH XUYÊN VIỆT",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thu-nhan-chi-dac-chung-binh-xuyen-viet/29.mp3",
+    "title" : "#29 THÚ NHÂN CHI ĐẶC CHỦNG BINH XUYÊN VIỆT",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thu-nhan-chi-dac-chung-binh-xuyen-viet/3.mp3",
+    "title" : "#3 THÚ NHÂN CHI ĐẶC CHỦNG BINH XUYÊN VIỆT",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thu-nhan-chi-dac-chung-binh-xuyen-viet/30.mp3",
+    "title" : "#30 THÚ NHÂN CHI ĐẶC CHỦNG BINH XUYÊN VIỆT",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thu-nhan-chi-dac-chung-binh-xuyen-viet/31.mp3",
+    "title" : "#31 THÚ NHÂN CHI ĐẶC CHỦNG BINH XUYÊN VIỆT",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thu-nhan-chi-dac-chung-binh-xuyen-viet/32.mp3",
+    "title" : "#32 THÚ NHÂN CHI ĐẶC CHỦNG BINH XUYÊN VIỆT",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thu-nhan-chi-dac-chung-binh-xuyen-viet/33.mp3",
+    "title" : "#33 THÚ NHÂN CHI ĐẶC CHỦNG BINH XUYÊN VIỆT",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thu-nhan-chi-dac-chung-binh-xuyen-viet/34.mp3",
+    "title" : "#34 THÚ NHÂN CHI ĐẶC CHỦNG BINH XUYÊN VIỆT",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thu-nhan-chi-dac-chung-binh-xuyen-viet/35.mp3",
+    "title" : "#35 THÚ NHÂN CHI ĐẶC CHỦNG BINH XUYÊN VIỆT",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thu-nhan-chi-dac-chung-binh-xuyen-viet/36.mp3",
+    "title" : "#36 THÚ NHÂN CHI ĐẶC CHỦNG BINH XUYÊN VIỆT",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thu-nhan-chi-dac-chung-binh-xuyen-viet/37.mp3",
+    "title" : "#37 THÚ NHÂN CHI ĐẶC CHỦNG BINH XUYÊN VIỆT",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thu-nhan-chi-dac-chung-binh-xuyen-viet/38.mp3",
+    "title" : "#38 THÚ NHÂN CHI ĐẶC CHỦNG BINH XUYÊN VIỆT",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thu-nhan-chi-dac-chung-binh-xuyen-viet/39.mp3",
+    "title" : "#39 THÚ NHÂN CHI ĐẶC CHỦNG BINH XUYÊN VIỆT",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thu-nhan-chi-dac-chung-binh-xuyen-viet/4.mp3",
+    "title" : "#4 THÚ NHÂN CHI ĐẶC CHỦNG BINH XUYÊN VIỆT",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thu-nhan-chi-dac-chung-binh-xuyen-viet/40.mp3",
+    "title" : "#40 THÚ NHÂN CHI ĐẶC CHỦNG BINH XUYÊN VIỆT",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thu-nhan-chi-dac-chung-binh-xuyen-viet/41.mp3",
+    "title" : "#41 THÚ NHÂN CHI ĐẶC CHỦNG BINH XUYÊN VIỆT",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thu-nhan-chi-dac-chung-binh-xuyen-viet/42.mp3",
+    "title" : "#42 THÚ NHÂN CHI ĐẶC CHỦNG BINH XUYÊN VIỆT",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thu-nhan-chi-dac-chung-binh-xuyen-viet/43.mp3",
+    "title" : "#43 THÚ NHÂN CHI ĐẶC CHỦNG BINH XUYÊN VIỆT",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thu-nhan-chi-dac-chung-binh-xuyen-viet/44.mp3",
+    "title" : "#44 THÚ NHÂN CHI ĐẶC CHỦNG BINH XUYÊN VIỆT",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thu-nhan-chi-dac-chung-binh-xuyen-viet/45.mp3",
+    "title" : "#45 THÚ NHÂN CHI ĐẶC CHỦNG BINH XUYÊN VIỆT",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thu-nhan-chi-dac-chung-binh-xuyen-viet/46.mp3",
+    "title" : "#46 THÚ NHÂN CHI ĐẶC CHỦNG BINH XUYÊN VIỆT",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thu-nhan-chi-dac-chung-binh-xuyen-viet/47.mp3",
+    "title" : "#47 THÚ NHÂN CHI ĐẶC CHỦNG BINH XUYÊN VIỆT",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thu-nhan-chi-dac-chung-binh-xuyen-viet/48.mp3",
+    "title" : "#48 THÚ NHÂN CHI ĐẶC CHỦNG BINH XUYÊN VIỆT",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thu-nhan-chi-dac-chung-binh-xuyen-viet/49.mp3",
+    "title" : "#49 THÚ NHÂN CHI ĐẶC CHỦNG BINH XUYÊN VIỆT",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thu-nhan-chi-dac-chung-binh-xuyen-viet/5.mp3",
+    "title" : "#5 THÚ NHÂN CHI ĐẶC CHỦNG BINH XUYÊN VIỆT",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thu-nhan-chi-dac-chung-binh-xuyen-viet/50.mp3",
+    "title" : "#50 THÚ NHÂN CHI ĐẶC CHỦNG BINH XUYÊN VIỆT",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thu-nhan-chi-dac-chung-binh-xuyen-viet/51.mp3",
+    "title" : "#51 THÚ NHÂN CHI ĐẶC CHỦNG BINH XUYÊN VIỆT",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thu-nhan-chi-dac-chung-binh-xuyen-viet/52.mp3",
+    "title" : "#52 THÚ NHÂN CHI ĐẶC CHỦNG BINH XUYÊN VIỆT",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thu-nhan-chi-dac-chung-binh-xuyen-viet/53.mp3",
+    "title" : "#53 THÚ NHÂN CHI ĐẶC CHỦNG BINH XUYÊN VIỆT",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thu-nhan-chi-dac-chung-binh-xuyen-viet/54.mp3",
+    "title" : "#54 THÚ NHÂN CHI ĐẶC CHỦNG BINH XUYÊN VIỆT",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thu-nhan-chi-dac-chung-binh-xuyen-viet/55.mp3",
+    "title" : "#55 THÚ NHÂN CHI ĐẶC CHỦNG BINH XUYÊN VIỆT",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thu-nhan-chi-dac-chung-binh-xuyen-viet/56.mp3",
+    "title" : "#56 THÚ NHÂN CHI ĐẶC CHỦNG BINH XUYÊN VIỆT",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thu-nhan-chi-dac-chung-binh-xuyen-viet/57.mp3",
+    "title" : "#57 THÚ NHÂN CHI ĐẶC CHỦNG BINH XUYÊN VIỆT",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thu-nhan-chi-dac-chung-binh-xuyen-viet/58.mp3",
+    "title" : "#58 THÚ NHÂN CHI ĐẶC CHỦNG BINH XUYÊN VIỆT",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thu-nhan-chi-dac-chung-binh-xuyen-viet/59.mp3",
+    "title" : "#59 THÚ NHÂN CHI ĐẶC CHỦNG BINH XUYÊN VIỆT",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thu-nhan-chi-dac-chung-binh-xuyen-viet/6.mp3",
+    "title" : "#6 THÚ NHÂN CHI ĐẶC CHỦNG BINH XUYÊN VIỆT",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thu-nhan-chi-dac-chung-binh-xuyen-viet/60.mp3",
+    "title" : "#60 THÚ NHÂN CHI ĐẶC CHỦNG BINH XUYÊN VIỆT",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thu-nhan-chi-dac-chung-binh-xuyen-viet/61.mp3",
+    "title" : "#61 THÚ NHÂN CHI ĐẶC CHỦNG BINH XUYÊN VIỆT",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thu-nhan-chi-dac-chung-binh-xuyen-viet/62.mp3",
+    "title" : "#62 THÚ NHÂN CHI ĐẶC CHỦNG BINH XUYÊN VIỆT",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thu-nhan-chi-dac-chung-binh-xuyen-viet/63.mp3",
+    "title" : "#63 THÚ NHÂN CHI ĐẶC CHỦNG BINH XUYÊN VIỆT",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thu-nhan-chi-dac-chung-binh-xuyen-viet/64.mp3",
+    "title" : "#64 THÚ NHÂN CHI ĐẶC CHỦNG BINH XUYÊN VIỆT",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thu-nhan-chi-dac-chung-binh-xuyen-viet/65.mp3",
+    "title" : "#65 THÚ NHÂN CHI ĐẶC CHỦNG BINH XUYÊN VIỆT",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thu-nhan-chi-dac-chung-binh-xuyen-viet/66.mp3",
+    "title" : "#66 THÚ NHÂN CHI ĐẶC CHỦNG BINH XUYÊN VIỆT",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thu-nhan-chi-dac-chung-binh-xuyen-viet/67.mp3",
+    "title" : "#67 THÚ NHÂN CHI ĐẶC CHỦNG BINH XUYÊN VIỆT",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thu-nhan-chi-dac-chung-binh-xuyen-viet/68.mp3",
+    "title" : "#68 THÚ NHÂN CHI ĐẶC CHỦNG BINH XUYÊN VIỆT",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thu-nhan-chi-dac-chung-binh-xuyen-viet/69.mp3",
+    "title" : "#69 THÚ NHÂN CHI ĐẶC CHỦNG BINH XUYÊN VIỆT",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thu-nhan-chi-dac-chung-binh-xuyen-viet/7.mp3",
+    "title" : "#7 THÚ NHÂN CHI ĐẶC CHỦNG BINH XUYÊN VIỆT",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thu-nhan-chi-dac-chung-binh-xuyen-viet/70.mp3",
+    "title" : "#70 THÚ NHÂN CHI ĐẶC CHỦNG BINH XUYÊN VIỆT",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thu-nhan-chi-dac-chung-binh-xuyen-viet/71.mp3",
+    "title" : "#71~75 THÚ NHÂN CHI ĐẶC CHỦNG BINH XUYÊN VIỆT",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thu-nhan-chi-dac-chung-binh-xuyen-viet/72.mp3",
+    "title" : "#76~77 THÚ NHÂN CHI ĐẶC CHỦNG BINH XUYÊN VIỆT",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thu-nhan-chi-dac-chung-binh-xuyen-viet/73.mp3",
+    "title" : "#78~79 THÚ NHÂN CHI ĐẶC CHỦNG BINH XUYÊN VIỆT",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thu-nhan-chi-dac-chung-binh-xuyen-viet/74.mp3",
+    "title" : "#80~81 THÚ NHÂN CHI ĐẶC CHỦNG BINH XUYÊN VIỆT",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thu-nhan-chi-dac-chung-binh-xuyen-viet/75.mp3",
+    "title" : "#82~83 THÚ NHÂN CHI ĐẶC CHỦNG BINH XUYÊN VIỆT",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thu-nhan-chi-dac-chung-binh-xuyen-viet/76.mp3",
+    "title" : "#84~85 THÚ NHÂN CHI ĐẶC CHỦNG BINH XUYÊN VIỆT",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thu-nhan-chi-dac-chung-binh-xuyen-viet/77.mp3",
+    "title" : "#86~88 THÚ NHÂN CHI ĐẶC CHỦNG BINH XUYÊN VIỆT",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thu-nhan-chi-dac-chung-binh-xuyen-viet/78.mp3",
+    "title" : "#89~91 THÚ NHÂN CHI ĐẶC CHỦNG BINH XUYÊN VIỆT",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thu-nhan-chi-dac-chung-binh-xuyen-viet/79.mp3",
+    "title" : "#92~94 THÚ NHÂN CHI ĐẶC CHỦNG BINH XUYÊN VIỆT",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thu-nhan-chi-dac-chung-binh-xuyen-viet/8.mp3",
+    "title" : "#8 THÚ NHÂN CHI ĐẶC CHỦNG BINH XUYÊN VIỆT",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thu-nhan-chi-dac-chung-binh-xuyen-viet/80.mp3",
+    "title" : "#95~97 THÚ NHÂN CHI ĐẶC CHỦNG BINH XUYÊN VIỆT",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thu-nhan-chi-dac-chung-binh-xuyen-viet/81.mp3",
+    "title" : "#98~100 THÚ NHÂN CHI ĐẶC CHỦNG BINH XUYÊN VIỆT",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thu-nhan-chi-dac-chung-binh-xuyen-viet/82.mp3",
+    "title" : "#101~104 THÚ NHÂN CHI ĐẶC CHỦNG BINH XUYÊN VIỆT",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thu-nhan-chi-dac-chung-binh-xuyen-viet/83.mp3",
+    "title" : "#105~106 THÚ NHÂN CHI ĐẶC CHỦNG BINH XUYÊN VIỆT",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thu-nhan-chi-dac-chung-binh-xuyen-viet/84.mp3",
+    "title" : "#107~108 THÚ NHÂN CHI ĐẶC CHỦNG BINH XUYÊN VIỆT",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thu-nhan-chi-dac-chung-binh-xuyen-viet/85.mp3",
+    "title" : "#109~111 THÚ NHÂN CHI ĐẶC CHỦNG BINH XUYÊN VIỆT",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thu-nhan-chi-dac-chung-binh-xuyen-viet/86.mp3",
+    "title" : "#112~114 THÚ NHÂN CHI ĐẶC CHỦNG BINH XUYÊN VIỆT",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thu-nhan-chi-dac-chung-binh-xuyen-viet/87.mp3",
+    "title" : "#115~117 THÚ NHÂN CHI ĐẶC CHỦNG BINH XUYÊN VIỆT",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thu-nhan-chi-dac-chung-binh-xuyen-viet/88.mp3",
+    "title" : "#118~120 THÚ NHÂN CHI ĐẶC CHỦNG BINH XUYÊN VIỆT",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thu-nhan-chi-dac-chung-binh-xuyen-viet/89.mp3",
+    "title" : "#121~123 THÚ NHÂN CHI ĐẶC CHỦNG BINH XUYÊN VIỆT",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thu-nhan-chi-dac-chung-binh-xuyen-viet/9.mp3",
+    "title" : "#9 THÚ NHÂN CHI ĐẶC CHỦNG BINH XUYÊN VIỆT",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thu-nhan-chi-dac-chung-binh-xuyen-viet/90.mp3",
+    "title" : "#124~125 THÚ NHÂN CHI ĐẶC CHỦNG BINH XUYÊN VIỆT",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thu-nhan-chi-dac-chung-binh-xuyen-viet/91.mp3",
+    "title" : "#126~128 ( HOÀN) THÚ NHÂN CHI ĐẶC CHỦNG BINH XUYÊN VIỆT",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

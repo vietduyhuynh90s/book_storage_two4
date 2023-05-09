@@ -1,0 +1,149 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/cuoc-gap-go-chi-mang-luu-tieu-mi_10412.html",
+    "title" : "Cuộc Gặp Gỡ Chí Mạng - Lưu Tiểu Mị",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Lưu Tiểu Mị",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 74987,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/EPUB/EPUB_642a339e43ccceb67bc9b262df40b7b5.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/IMAGE/IMAGE_642a339e43ccceb67bc9b262df40b7b5.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/cuoc-gap-go-chi-mang/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7622,
+    "title" : "Cuộc Gặp Gỡ Chí Mạng – Từ thù hận thành yêu thương – P1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuoc-gap-go-chi-mang/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 9341,
+    "title" : "Cuộc Gặp Gỡ Chí Mạng – Từ thù hận thành yêu thương – P2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuoc-gap-go-chi-mang/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 9868,
+    "title" : "Cuộc Gặp Gỡ Chí Mạng – Từ thù hận thành yêu thương – P3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuoc-gap-go-chi-mang/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 9223,
+    "title" : "Cuộc Gặp Gỡ Chí Mạng – Từ thù hận thành yêu thương – P4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuoc-gap-go-chi-mang/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 9245,
+    "title" : "Cuộc Gặp Gỡ Chí Mạng – P5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuoc-gap-go-chi-mang/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7711,
+    "title" : "Cuộc Gặp Gỡ Chí Mạng –P6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuoc-gap-go-chi-mang/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8237,
+    "title" : "Cuộc Gặp Gỡ Chí Mạng – Từ thù hận thành yêu thương – P7",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuoc-gap-go-chi-mang/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 9164,
+    "title" : "Cuộc Gặp Gỡ Chí Mạng – Từ thù hận thành yêu thương – P8",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuoc-gap-go-chi-mang/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4576,
+    "title" : "Hết",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/cuoc-gap-go-chi-mang/1.mp3",
+    "title" : "Cuộc Gặp Gỡ Chí Mạng – Từ thù hận thành yêu thương – P1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuoc-gap-go-chi-mang/2.mp3",
+    "title" : "Cuộc Gặp Gỡ Chí Mạng – Từ thù hận thành yêu thương – P2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuoc-gap-go-chi-mang/3.mp3",
+    "title" : "Cuộc Gặp Gỡ Chí Mạng – Từ thù hận thành yêu thương – P3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuoc-gap-go-chi-mang/4.mp3",
+    "title" : "Cuộc Gặp Gỡ Chí Mạng – Từ thù hận thành yêu thương – P4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuoc-gap-go-chi-mang/5.mp3",
+    "title" : "Cuộc Gặp Gỡ Chí Mạng – P5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuoc-gap-go-chi-mang/6.mp3",
+    "title" : "Cuộc Gặp Gỡ Chí Mạng –P6",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuoc-gap-go-chi-mang/7.mp3",
+    "title" : "Cuộc Gặp Gỡ Chí Mạng – Từ thù hận thành yêu thương – P7",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuoc-gap-go-chi-mang/8.mp3",
+    "title" : "Cuộc Gặp Gỡ Chí Mạng – Từ thù hận thành yêu thương – P8",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuoc-gap-go-chi-mang/9.mp3",
+    "title" : "Hết",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

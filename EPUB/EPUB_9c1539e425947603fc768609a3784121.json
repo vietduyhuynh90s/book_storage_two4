@@ -1,0 +1,197 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/7-thoi-quen-de-thanh-dat-stephen-r-covey_10549.html",
+    "title" : "7 Thói Quen Để Thành Đạt - Stephen R. Covey",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Stephen R. Covey",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 31998,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/EPUB/EPUB_9c1539e425947603fc768609a3784121.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/IMAGE/IMAGE_9c1539e425947603fc768609a3784121.png",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/7-thoi-quen-de-thanh-dat.sna/00_loi_gioi_thieu.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 313,
+    "title" : "00 loi gioi thieu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/7-thoi-quen-de-thanh-dat.sna/01_loi_tac_gia.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 326,
+    "title" : "01 loi tac gia",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/7-thoi-quen-de-thanh-dat.sna/02_chuong_1_-_nhung_khai_niem_tong_quan_-_canh_cua_cua_su_thay_doi.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1140,
+    "title" : "02 chuong 1 - nhung khai niem tong quan - canh cua cua su thay doi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/7-thoi-quen-de-thanh-dat.sna/03_chuong_1_-_nhung_khai_niem_tong_quan_-_mo_thuc_va_nguyen_tac.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1389,
+    "title" : "03 chuong 1 - nhung khai niem tong quan - mo thuc va nguyen tac",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/7-thoi-quen-de-thanh-dat.sna/04_chuong_1_-_nhung_khai_niem_tong_quan_-_tong_quan_ve_7_thoi_quen.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1784,
+    "title" : "04 chuong 1 - nhung khai niem tong quan - tong quan ve 7 thoi quen",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/7-thoi-quen-de-thanh-dat.sna/05_chuong_2_-_thanh_tich_ca_nhan_-_thoi_quen_thu_nhat_-_luon_chu_dong.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2270,
+    "title" : "05 chuong 2 - thanh tich ca nhan - thoi quen thu nhat - luon chu dong",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/7-thoi-quen-de-thanh-dat.sna/06_chuong_2_-_thanh_tich_ca_nhan_-_thoi_quen_thu_hai_-_bat_dau_tu_muc_tieu_da_duoc_xac_dinh.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6670,
+    "title" : "06 chuong 2 - thanh tich ca nhan - thoi quen thu hai - bat dau tu muc tieu da duoc xac dinh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/7-thoi-quen-de-thanh-dat.sna/07_chuong_2_-_thoi_quen_thu_ba_-_uu_tien_cho_dieu_quan_trong_nhat.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3393,
+    "title" : "07 chuong 2 - thoi quen thu ba - uu tien cho dieu quan trong nhat",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/7-thoi-quen-de-thanh-dat.sna/08_chuong_3_-_thanh_tich_tap_the_-_nhung_mo_thuc_cua_su_tuong_tuong.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2716,
+    "title" : "08 chuong 3 - thanh tich tap the - nhung mo thuc cua su tuong tuong",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/7-thoi-quen-de-thanh-dat.sna/09_chuong_3_-_thanh_tich_tap_the_-_thoi_quen_thu_5_-_lang_nghe_va_thau_hieu.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3285,
+    "title" : "09 chuong 3 - thanh tich tap the - thoi quen thu 5 - lang nghe va thau hieu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/7-thoi-quen-de-thanh-dat.sna/10_chuong_3_-_thanh_tich_tap_the__-_thoi_quen_thu__6_-_dong_tam_hiep_luc.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2380,
+    "title" : "10 chuong 3 - thanh tich tap the  - thoi quen thu  6 - dong tam hiep luc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/7-thoi-quen-de-thanh-dat.sna/11_chuong_3_-_thoi_quen_thu_4_-_tu_duy_cung_thang.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4087,
+    "title" : "11 chuong 3 - thoi quen thu 4 - tu duy cung thang",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/7-thoi-quen-de-thanh-dat.sna/12_chuong_4_-_doi_moi_-_thoi_quen_thu_7_-_ren_giua_ban_than.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2245,
+    "title" : "12 chuong 4 - doi moi - thoi quen thu 7 - ren giua ban than",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/7-thoi-quen-de-thanh-dat.sna/00_loi_gioi_thieu.mp3",
+    "title" : "00 loi gioi thieu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/7-thoi-quen-de-thanh-dat.sna/01_loi_tac_gia.mp3",
+    "title" : "01 loi tac gia",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/7-thoi-quen-de-thanh-dat.sna/02_chuong_1_-_nhung_khai_niem_tong_quan_-_canh_cua_cua_su_thay_doi.mp3",
+    "title" : "02 chuong 1 - nhung khai niem tong quan - canh cua cua su thay doi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/7-thoi-quen-de-thanh-dat.sna/03_chuong_1_-_nhung_khai_niem_tong_quan_-_mo_thuc_va_nguyen_tac.mp3",
+    "title" : "03 chuong 1 - nhung khai niem tong quan - mo thuc va nguyen tac",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/7-thoi-quen-de-thanh-dat.sna/04_chuong_1_-_nhung_khai_niem_tong_quan_-_tong_quan_ve_7_thoi_quen.mp3",
+    "title" : "04 chuong 1 - nhung khai niem tong quan - tong quan ve 7 thoi quen",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/7-thoi-quen-de-thanh-dat.sna/05_chuong_2_-_thanh_tich_ca_nhan_-_thoi_quen_thu_nhat_-_luon_chu_dong.mp3",
+    "title" : "05 chuong 2 - thanh tich ca nhan - thoi quen thu nhat - luon chu dong",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/7-thoi-quen-de-thanh-dat.sna/06_chuong_2_-_thanh_tich_ca_nhan_-_thoi_quen_thu_hai_-_bat_dau_tu_muc_tieu_da_duoc_xac_dinh.mp3",
+    "title" : "06 chuong 2 - thanh tich ca nhan - thoi quen thu hai - bat dau tu muc tieu da duoc xac dinh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/7-thoi-quen-de-thanh-dat.sna/07_chuong_2_-_thoi_quen_thu_ba_-_uu_tien_cho_dieu_quan_trong_nhat.mp3",
+    "title" : "07 chuong 2 - thoi quen thu ba - uu tien cho dieu quan trong nhat",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/7-thoi-quen-de-thanh-dat.sna/08_chuong_3_-_thanh_tich_tap_the_-_nhung_mo_thuc_cua_su_tuong_tuong.mp3",
+    "title" : "08 chuong 3 - thanh tich tap the - nhung mo thuc cua su tuong tuong",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/7-thoi-quen-de-thanh-dat.sna/09_chuong_3_-_thanh_tich_tap_the_-_thoi_quen_thu_5_-_lang_nghe_va_thau_hieu.mp3",
+    "title" : "09 chuong 3 - thanh tich tap the - thoi quen thu 5 - lang nghe va thau hieu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/7-thoi-quen-de-thanh-dat.sna/10_chuong_3_-_thanh_tich_tap_the__-_thoi_quen_thu__6_-_dong_tam_hiep_luc.mp3",
+    "title" : "10 chuong 3 - thanh tich tap the  - thoi quen thu  6 - dong tam hiep luc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/7-thoi-quen-de-thanh-dat.sna/11_chuong_3_-_thoi_quen_thu_4_-_tu_duy_cung_thang.mp3",
+    "title" : "11 chuong 3 - thoi quen thu 4 - tu duy cung thang",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/7-thoi-quen-de-thanh-dat.sna/12_chuong_4_-_doi_moi_-_thoi_quen_thu_7_-_ren_giua_ban_than.mp3",
+    "title" : "12 chuong 4 - doi moi - thoi quen thu 7 - ren giua ban than",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

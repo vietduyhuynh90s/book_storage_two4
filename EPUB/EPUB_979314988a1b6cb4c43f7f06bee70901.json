@@ -1,0 +1,113 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/nhung-co-em-gai_12508.html",
+    "title" : "Những Cô Em Gái",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nguyễn Nhật Ánh",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 15011,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/EPUB/EPUB_979314988a1b6cb4c43f7f06bee70901.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/IMAGE/IMAGE_979314988a1b6cb4c43f7f06bee70901.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/nhung-co-em-gai.sna/NhungCoEmGai01_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2829,
+    "title" : "NhungCoEmGai01 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nhung-co-em-gai.sna/NhungCoEmGai02_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2815,
+    "title" : "NhungCoEmGai02 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nhung-co-em-gai.sna/NhungCoEmGai03_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2745,
+    "title" : "NhungCoEmGai03 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nhung-co-em-gai.sna/NhungCoEmGai04_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2915,
+    "title" : "NhungCoEmGai04 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nhung-co-em-gai.sna/NhungCoEmGai05_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1829,
+    "title" : "NhungCoEmGai05 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nhung-co-em-gai.sna/NhungCoEmGai06_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1878,
+    "title" : "NhungCoEmGai06 2",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/nhung-co-em-gai.sna/NhungCoEmGai01_2.mp3",
+    "title" : "NhungCoEmGai01 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhung-co-em-gai.sna/NhungCoEmGai02_2.mp3",
+    "title" : "NhungCoEmGai02 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhung-co-em-gai.sna/NhungCoEmGai03_2.mp3",
+    "title" : "NhungCoEmGai03 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhung-co-em-gai.sna/NhungCoEmGai04_2.mp3",
+    "title" : "NhungCoEmGai04 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhung-co-em-gai.sna/NhungCoEmGai05_2.mp3",
+    "title" : "NhungCoEmGai05 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhung-co-em-gai.sna/NhungCoEmGai06_2.mp3",
+    "title" : "NhungCoEmGai06 2",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

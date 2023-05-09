@@ -1,0 +1,77 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/vat-trong-ao_15695.html",
+    "title" : "Vật Trong Ao",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Na Chích Hồ Ly",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 27290,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/EPUB/EPUB_d9cb6a7620178656068b3f43259fb158.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/IMAGE/IMAGE_d9cb6a7620178656068b3f43259fb158.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/vat-trong-ao/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7491,
+    "title" : "Vật Trong Ao-Phần 1 KNĐ🤫 Chương(1-17)-Ngôn Tình, Huyền Huyễn, Hài Hước",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vat-trong-ao/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7750,
+    "title" : "Vật Trong Ao-Phần 2 KNĐ🤫 Chương(18-30)-Ngôn Tình, Huyền Huyễn, Hài Hước",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vat-trong-ao/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 12049,
+    "title" : "Vật Trong Ao-Phần 3 KNĐ🤫 Chương̣(31-45) Hết -Ngôn Tình, Huyền Huyễn, Hài Hước",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/vat-trong-ao/1.mp3",
+    "title" : "Vật Trong Ao-Phần 1 KNĐ🤫 Chương(1-17)-Ngôn Tình, Huyền Huyễn, Hài Hước",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vat-trong-ao/2.mp3",
+    "title" : "Vật Trong Ao-Phần 2 KNĐ🤫 Chương(18-30)-Ngôn Tình, Huyền Huyễn, Hài Hước",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vat-trong-ao/3.mp3",
+    "title" : "Vật Trong Ao-Phần 3 KNĐ🤫 Chương̣(31-45) Hết -Ngôn Tình, Huyền Huyễn, Hài Hước",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

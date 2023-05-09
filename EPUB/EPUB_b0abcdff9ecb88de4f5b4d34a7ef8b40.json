@@ -1,0 +1,77 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/cong-chua-cua-the-gioi-dem-kanade-minamino_10381.html",
+    "title" : "Công Chúa Của Thế Giới Đêm - Kanade Minamino",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Kanade Minamino",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 34085,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/EPUB/EPUB_b0abcdff9ecb88de4f5b4d34a7ef8b40.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/IMAGE/IMAGE_b0abcdff9ecb88de4f5b4d34a7ef8b40.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/cong-chua-cua-the-gioi-dem/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 10974,
+    "title" : "Truyện Ngôn Tình Về Hắc Bang Hay Tuyệt Trần",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cong-chua-cua-the-gioi-dem/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 11609,
+    "title" : "Truyện Ngôn Tình Công Chúa Của Thế Giới Đêm [Phần 2] Người Đứng Đầu Thế Giới Đêm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cong-chua-cua-the-gioi-dem/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 11502,
+    "title" : "Công Chúa Của Thế Giới Đêm [Phần 3 HẾT] Truyện Ngôn Tình Hay Động Lòng Người",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/cong-chua-cua-the-gioi-dem/1.mp3",
+    "title" : "Truyện Ngôn Tình Về Hắc Bang Hay Tuyệt Trần",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cong-chua-cua-the-gioi-dem/2.mp3",
+    "title" : "Truyện Ngôn Tình Công Chúa Của Thế Giới Đêm [Phần 2] Người Đứng Đầu Thế Giới Đêm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cong-chua-cua-the-gioi-dem/3.mp3",
+    "title" : "Công Chúa Của Thế Giới Đêm [Phần 3 HẾT] Truyện Ngôn Tình Hay Động Lòng Người",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

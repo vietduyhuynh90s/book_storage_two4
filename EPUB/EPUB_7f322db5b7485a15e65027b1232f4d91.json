@@ -1,0 +1,581 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/cho-long-dung-cam-va-tinh-yeu-cuoc-song_16765.html",
+    "title" : "Cho Lòng Dũng Cảm Và Tình Yêu Cuộc Sống",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nhiều tác giả",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 15195,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/EPUB/EPUB_7f322db5b7485a15e65027b1232f4d91.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/IMAGE/IMAGE_7f322db5b7485a15e65027b1232f4d91.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/HGTHCldcvtycs01Sedenluc/HGTH-cldcvtycs-01-sedenluc.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 243,
+    "title" : "Sẽ đến lúc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/HGTHCldcvtycs01Sedenluc/HGTH-cldcvtycs-02-bimathanhphuc.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 207,
+    "title" : "Bí mật hạnh phúc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/HGTHCldcvtycs01Sedenluc/HGTH-cldcvtycs-03-bandelaigichocuocsong.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 173,
+    "title" : "Bạn để lại gì cho cuộc sống",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/HGTHCldcvtycs01Sedenluc/HGTH-cldcvtycs-04-nhanbietchinhminh.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 183,
+    "title" : "Nhận biết chính mình",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/HGTHCldcvtycs01Sedenluc/HGTH-cldcvtycs-05-monquacuatinhyeu.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 280,
+    "title" : "Món quá của tình yêu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/HGTHCldcvtycs01Sedenluc/HGTH-cldcvtycs-06-chapnhanmaohiem.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 836,
+    "title" : "Chấp nhận mạo hiểm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/HGTHCldcvtycs01Sedenluc/HGTH-cldcvtycs-07-buadiemtambanghodan.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 329,
+    "title" : "Bữa điểm tâm bằng hồ dán",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/HGTHCldcvtycs01Sedenluc/HGTH-cldcvtycs-08-nhungchiechop.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 239,
+    "title" : "Những chiếc hộp",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/HGTHCldcvtycs01Sedenluc/HGTH-cldcvtycs-09-trovemaiam.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 420,
+    "title" : "Trở về mái ấm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/HGTHCldcvtycs01Sedenluc/HGTH-cldcvtycs-10-gakhonglomotmat.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 583,
+    "title" : "Gã khổng lồ một mắt",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/HGTHCldcvtycs01Sedenluc/HGTH-cldcvtycs-11-tiengnoikoloi.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 225,
+    "title" : "Tiếng nói không lời",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/HGTHCldcvtycs01Sedenluc/HGTH-cldcvtycs-12-mevacongai.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 207,
+    "title" : "Mẹ và con gái",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/HGTHCldcvtycs01Sedenluc/HGTH-cldcvtycs-13-haydamtuongtuong.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 393,
+    "title" : "Hãy dám tưởng tượng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/HGTHCldcvtycs01Sedenluc/HGTH-cldcvtycs-14-sucmanhcuaniemtin.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1191,
+    "title" : "Sức mạnh của niềm tin",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/HGTHCldcvtycs01Sedenluc/HGTH-cldcvtycs-15-haianhem.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 139,
+    "title" : "Hai anh em",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/HGTHCldcvtycs01Sedenluc/HGTH-cldcvtycs-16-giacmohaohuyen.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 484,
+    "title" : "Giấc mơ hão huyền",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/HGTHCldcvtycs01Sedenluc/HGTH-cldcvtycs-17-baihoctumotchuyendi.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 251,
+    "title" : "Bài học từ một chuyến đi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/HGTHCldcvtycs01Sedenluc/HGTH-cldcvtycs-18-quatangdanhchotraitimtanvo.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 248,
+    "title" : "Quà tặng dành cho trái tim tan vỡ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/HGTHCldcvtycs01Sedenluc/HGTH-cldcvtycs-19-niemtin.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 173,
+    "title" : "Niềm tin",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/HGTHCldcvtycs01Sedenluc/HGTH-cldcvtycs-20-boquaoanhon.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 211,
+    "title" : "Bỏ qua oán hờn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/HGTHCldcvtycs01Sedenluc/HGTH-cldcvtycs-21-mevacuochanhtrinhcuaban.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 382,
+    "title" : "Mẹ và cuộc hành trình của bạn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/HGTHCldcvtycs01Sedenluc/HGTH-cldcvtycs-22-honuoc.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 184,
+    "title" : "Hồ nước",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/HGTHCldcvtycs01Sedenluc/HGTH-cldcvtycs-23-timhyeuvodieukien.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 543,
+    "title" : "Tình yêu vô điều kiện",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/HGTHCldcvtycs01Sedenluc/HGTH-cldcvtycs-24-vuotquabuctuongcamlang.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 401,
+    "title" : "Vượt qua bức tường câm lặng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/HGTHCldcvtycs01Sedenluc/HGTH-cldcvtycs-25-ChuyenxaycauBrooklyn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 144,
+    "title" : "Chuyện xây cầu Brooklyn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/HGTHCldcvtycs01Sedenluc/HGTH-cldcvtycs-26-noidausequadi.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 92,
+    "title" : "Nỗi sầu sẽ qua đi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/HGTHCldcvtycs01Sedenluc/HGTH-cldcvtycs-27-giatricualongbieton.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 395,
+    "title" : "Giá trị của lòng biết ơn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/HGTHCldcvtycs01Sedenluc/HGTH-cldcvtycs-28-monquacuoicung.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 490,
+    "title" : "Món quá cuối cùng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/HGTHCldcvtycs01Sedenluc/HGTH-cldcvtycs-29-nhanthuc.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 109,
+    "title" : "Nhận thức",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/HGTHCldcvtycs01Sedenluc/HGTH-cldcvtycs-30-loikhenquibau.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 275,
+    "title" : "Lời khen quí báu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/HGTHCldcvtycs01Sedenluc/HGTH-cldcvtycs-31-tiengdanduongcam.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 334,
+    "title" : "Tiếng đàn dương cầm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/HGTHCldcvtycs01Sedenluc/HGTH-cldcvtycs-32-khongbaogiobocuoc.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 412,
+    "title" : "không bao giờ bỏ cuộc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/HGTHCldcvtycs01Sedenluc/HGTH-cldcvtycs-33-cachnhin.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 399,
+    "title" : "Cách nhìn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/HGTHCldcvtycs01Sedenluc/HGTH-cldcvtycs-34-banbevanguoiquen.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 198,
+    "title" : "Bạn bè và người quen",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/HGTHCldcvtycs01Sedenluc/HGTH-cldcvtycs-35-banbephaithechu.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 510,
+    "title" : "Bạn bè phải thế chứ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/HGTHCldcvtycs01Sedenluc/HGTH-cldcvtycs-36-caihu.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 409,
+    "title" : "Cái hũ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/HGTHCldcvtycs01Sedenluc/HGTH-cldcvtycs-37-ngoinhacomotnghinchiecguong.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 165,
+    "title" : "Ngôi nhà có một nghìn chiếc gương",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/HGTHCldcvtycs01Sedenluc/HGTH-cldcvtycs-38-chamday.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 334,
+    "title" : "Chạm đáy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/HGTHCldcvtycs01Sedenluc/HGTH-cldcvtycs-39-doitaycuame.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 414,
+    "title" : "Đô tay của mẹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/HGTHCldcvtycs01Sedenluc/HGTH-cldcvtycs-40-vetseo.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 135,
+    "title" : "Vết sẹo",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/HGTHCldcvtycs01Sedenluc/HGTH-cldcvtycs-41-chatoi.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 448,
+    "title" : "Cha tôi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/HGTHCldcvtycs01Sedenluc/HGTH-cldcvtycs-42-doinui.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 460,
+    "title" : "Đời núi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/HGTHCldcvtycs01Sedenluc/HGTH-cldcvtycs-43-khungcualaplanh.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 150,
+    "title" : "Khung của lấp lánh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/HGTHCldcvtycs01Sedenluc/HGTH-cldcvtycs-44-lathunguoime.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 748,
+    "title" : "Là thư người mẹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/HGTHCldcvtycs01Sedenluc/HGTH-cldcvtycs-45-chiecgiaydanhroicuaGhandi.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 49,
+    "title" : "Chiếc giày đánh rơi của Ghandi",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/HGTHCldcvtycs01Sedenluc/HGTH-cldcvtycs-01-sedenluc.mp3",
+    "title" : "Sẽ đến lúc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/HGTHCldcvtycs01Sedenluc/HGTH-cldcvtycs-02-bimathanhphuc.mp3",
+    "title" : "Bí mật hạnh phúc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/HGTHCldcvtycs01Sedenluc/HGTH-cldcvtycs-03-bandelaigichocuocsong.mp3",
+    "title" : "Bạn để lại gì cho cuộc sống",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/HGTHCldcvtycs01Sedenluc/HGTH-cldcvtycs-04-nhanbietchinhminh.mp3",
+    "title" : "Nhận biết chính mình",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/HGTHCldcvtycs01Sedenluc/HGTH-cldcvtycs-05-monquacuatinhyeu.mp3",
+    "title" : "Món quá của tình yêu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/HGTHCldcvtycs01Sedenluc/HGTH-cldcvtycs-06-chapnhanmaohiem.mp3",
+    "title" : "Chấp nhận mạo hiểm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/HGTHCldcvtycs01Sedenluc/HGTH-cldcvtycs-07-buadiemtambanghodan.mp3",
+    "title" : "Bữa điểm tâm bằng hồ dán",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/HGTHCldcvtycs01Sedenluc/HGTH-cldcvtycs-08-nhungchiechop.mp3",
+    "title" : "Những chiếc hộp",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/HGTHCldcvtycs01Sedenluc/HGTH-cldcvtycs-09-trovemaiam.mp3",
+    "title" : "Trở về mái ấm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/HGTHCldcvtycs01Sedenluc/HGTH-cldcvtycs-10-gakhonglomotmat.mp3",
+    "title" : "Gã khổng lồ một mắt",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/HGTHCldcvtycs01Sedenluc/HGTH-cldcvtycs-11-tiengnoikoloi.mp3",
+    "title" : "Tiếng nói không lời",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/HGTHCldcvtycs01Sedenluc/HGTH-cldcvtycs-12-mevacongai.mp3",
+    "title" : "Mẹ và con gái",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/HGTHCldcvtycs01Sedenluc/HGTH-cldcvtycs-13-haydamtuongtuong.mp3",
+    "title" : "Hãy dám tưởng tượng",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/HGTHCldcvtycs01Sedenluc/HGTH-cldcvtycs-14-sucmanhcuaniemtin.mp3",
+    "title" : "Sức mạnh của niềm tin",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/HGTHCldcvtycs01Sedenluc/HGTH-cldcvtycs-15-haianhem.mp3",
+    "title" : "Hai anh em",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/HGTHCldcvtycs01Sedenluc/HGTH-cldcvtycs-16-giacmohaohuyen.mp3",
+    "title" : "Giấc mơ hão huyền",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/HGTHCldcvtycs01Sedenluc/HGTH-cldcvtycs-17-baihoctumotchuyendi.mp3",
+    "title" : "Bài học từ một chuyến đi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/HGTHCldcvtycs01Sedenluc/HGTH-cldcvtycs-18-quatangdanhchotraitimtanvo.mp3",
+    "title" : "Quà tặng dành cho trái tim tan vỡ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/HGTHCldcvtycs01Sedenluc/HGTH-cldcvtycs-19-niemtin.mp3",
+    "title" : "Niềm tin",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/HGTHCldcvtycs01Sedenluc/HGTH-cldcvtycs-20-boquaoanhon.mp3",
+    "title" : "Bỏ qua oán hờn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/HGTHCldcvtycs01Sedenluc/HGTH-cldcvtycs-21-mevacuochanhtrinhcuaban.mp3",
+    "title" : "Mẹ và cuộc hành trình của bạn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/HGTHCldcvtycs01Sedenluc/HGTH-cldcvtycs-22-honuoc.mp3",
+    "title" : "Hồ nước",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/HGTHCldcvtycs01Sedenluc/HGTH-cldcvtycs-23-timhyeuvodieukien.mp3",
+    "title" : "Tình yêu vô điều kiện",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/HGTHCldcvtycs01Sedenluc/HGTH-cldcvtycs-24-vuotquabuctuongcamlang.mp3",
+    "title" : "Vượt qua bức tường câm lặng",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/HGTHCldcvtycs01Sedenluc/HGTH-cldcvtycs-25-ChuyenxaycauBrooklyn.mp3",
+    "title" : "Chuyện xây cầu Brooklyn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/HGTHCldcvtycs01Sedenluc/HGTH-cldcvtycs-26-noidausequadi.mp3",
+    "title" : "Nỗi sầu sẽ qua đi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/HGTHCldcvtycs01Sedenluc/HGTH-cldcvtycs-27-giatricualongbieton.mp3",
+    "title" : "Giá trị của lòng biết ơn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/HGTHCldcvtycs01Sedenluc/HGTH-cldcvtycs-28-monquacuoicung.mp3",
+    "title" : "Món quá cuối cùng",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/HGTHCldcvtycs01Sedenluc/HGTH-cldcvtycs-29-nhanthuc.mp3",
+    "title" : "Nhận thức",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/HGTHCldcvtycs01Sedenluc/HGTH-cldcvtycs-30-loikhenquibau.mp3",
+    "title" : "Lời khen quí báu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/HGTHCldcvtycs01Sedenluc/HGTH-cldcvtycs-31-tiengdanduongcam.mp3",
+    "title" : "Tiếng đàn dương cầm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/HGTHCldcvtycs01Sedenluc/HGTH-cldcvtycs-32-khongbaogiobocuoc.mp3",
+    "title" : "không bao giờ bỏ cuộc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/HGTHCldcvtycs01Sedenluc/HGTH-cldcvtycs-33-cachnhin.mp3",
+    "title" : "Cách nhìn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/HGTHCldcvtycs01Sedenluc/HGTH-cldcvtycs-34-banbevanguoiquen.mp3",
+    "title" : "Bạn bè và người quen",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/HGTHCldcvtycs01Sedenluc/HGTH-cldcvtycs-35-banbephaithechu.mp3",
+    "title" : "Bạn bè phải thế chứ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/HGTHCldcvtycs01Sedenluc/HGTH-cldcvtycs-36-caihu.mp3",
+    "title" : "Cái hũ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/HGTHCldcvtycs01Sedenluc/HGTH-cldcvtycs-37-ngoinhacomotnghinchiecguong.mp3",
+    "title" : "Ngôi nhà có một nghìn chiếc gương",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/HGTHCldcvtycs01Sedenluc/HGTH-cldcvtycs-38-chamday.mp3",
+    "title" : "Chạm đáy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/HGTHCldcvtycs01Sedenluc/HGTH-cldcvtycs-39-doitaycuame.mp3",
+    "title" : "Đô tay của mẹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/HGTHCldcvtycs01Sedenluc/HGTH-cldcvtycs-40-vetseo.mp3",
+    "title" : "Vết sẹo",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/HGTHCldcvtycs01Sedenluc/HGTH-cldcvtycs-41-chatoi.mp3",
+    "title" : "Cha tôi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/HGTHCldcvtycs01Sedenluc/HGTH-cldcvtycs-42-doinui.mp3",
+    "title" : "Đời núi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/HGTHCldcvtycs01Sedenluc/HGTH-cldcvtycs-43-khungcualaplanh.mp3",
+    "title" : "Khung của lấp lánh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/HGTHCldcvtycs01Sedenluc/HGTH-cldcvtycs-44-lathunguoime.mp3",
+    "title" : "Là thư người mẹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/HGTHCldcvtycs01Sedenluc/HGTH-cldcvtycs-45-chiecgiaydanhroicuaGhandi.mp3",
+    "title" : "Chiếc giày đánh rơi của Ghandi",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

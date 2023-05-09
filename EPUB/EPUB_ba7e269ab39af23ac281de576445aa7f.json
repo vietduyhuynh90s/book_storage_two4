@@ -1,0 +1,125 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/chinh-phi-cua-doc-vuong-da-khinh-thanh_11357.html",
+    "title" : "Chính Phi Của Độc Vương - Dạ Khinh Thành",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Dạ Khinh Thành",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 38764,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/EPUB/EPUB_ba7e269ab39af23ac281de576445aa7f.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/IMAGE/IMAGE_ba7e269ab39af23ac281de576445aa7f.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/chinh-phi-cua-doc-vuong/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4302,
+    "title" : "Tập 1 (Chương 1-19) - Đã là Fan của Ngôn tình thì không thể bỏ qua bộ này",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chinh-phi-cua-doc-vuong/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4727,
+    "title" : "Tập 2 (Chương20-33) - Đã là Fan của Ngôn tình thì không thể bỏ qua bộ này",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chinh-phi-cua-doc-vuong/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4716,
+    "title" : "Tập 3 - Chương 34-47",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chinh-phi-cua-doc-vuong/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4744,
+    "title" : "Tập 4 - Chương 48-61",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chinh-phi-cua-doc-vuong/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5117,
+    "title" : "Tập 5 - Chương 63-77",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chinh-phi-cua-doc-vuong/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4050,
+    "title" : "Tập 6 - Chương 78-82",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chinh-phi-cua-doc-vuong/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 11108,
+    "title" : "Tập 7 CUỐI",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/chinh-phi-cua-doc-vuong/1.mp3",
+    "title" : "Tập 1 (Chương 1-19) - Đã là Fan của Ngôn tình thì không thể bỏ qua bộ này",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chinh-phi-cua-doc-vuong/2.mp3",
+    "title" : "Tập 2 (Chương20-33) - Đã là Fan của Ngôn tình thì không thể bỏ qua bộ này",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chinh-phi-cua-doc-vuong/3.mp3",
+    "title" : "Tập 3 - Chương 34-47",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chinh-phi-cua-doc-vuong/4.mp3",
+    "title" : "Tập 4 - Chương 48-61",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chinh-phi-cua-doc-vuong/5.mp3",
+    "title" : "Tập 5 - Chương 63-77",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chinh-phi-cua-doc-vuong/6.mp3",
+    "title" : "Tập 6 - Chương 78-82",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chinh-phi-cua-doc-vuong/7.mp3",
+    "title" : "Tập 7 CUỐI",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

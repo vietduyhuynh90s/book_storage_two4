@@ -1,0 +1,77 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/tan-kiep-phu-du-chanh-ngot_11709.html",
+    "title" : "Tận Kiếp Phù Du - Chanh Ngọt",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Chanh Ngọt",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 13576,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/EPUB/EPUB_75b8251ee4c278bdcfd12ae4ca931552.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/IMAGE/IMAGE_75b8251ee4c278bdcfd12ae4ca931552.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/tankiepphudu/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3525,
+    "title" : "| Tập 1 | - | MC Lê Tuyên |",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tankiepphudu/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5521,
+    "title" : "| Tập 2 | - | MC Lê Tuyên |",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tankiepphudu/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4530,
+    "title" : "| Tập 3 | Hết - | MC Lê Tuyên |",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/tankiepphudu/1.mp3",
+    "title" : "| Tập 1 | - | MC Lê Tuyên |",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tankiepphudu/2.mp3",
+    "title" : "| Tập 2 | - | MC Lê Tuyên |",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tankiepphudu/3.mp3",
+    "title" : "| Tập 3 | Hết - | MC Lê Tuyên |",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

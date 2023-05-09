@@ -1,0 +1,101 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/28-cach-de-tro-thanh-nguoi-phu-nu-giau-co_13021.html",
+    "title" : "28 Cách Để Trở Thành Người Phụ Nữ Giàu Có",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "2.1/2 Bạn Tốt",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 12631,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/EPUB/EPUB_e6161c42650d185c4904ec3b667c1d79.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/IMAGE/IMAGE_e6161c42650d185c4904ec3b667c1d79.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/28-cach-de-tro-thanh-nguoi-phu-nu-giau-co/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2327,
+    "title" : "28 Cách Để Trở Thành Người Phụ Nữ Giàu Có",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/28-cach-de-tro-thanh-nguoi-phu-nu-giau-co/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2272,
+    "title" : "28 cách để trở thành người phụ nữ giàu có",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/28-cach-de-tro-thanh-nguoi-phu-nu-giau-co/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2335,
+    "title" : "Chương 3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/28-cach-de-tro-thanh-nguoi-phu-nu-giau-co/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2438,
+    "title" : "Chương 4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/28-cach-de-tro-thanh-nguoi-phu-nu-giau-co/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3259,
+    "title" : "Phần cuối",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/28-cach-de-tro-thanh-nguoi-phu-nu-giau-co/1.mp3",
+    "title" : "28 Cách Để Trở Thành Người Phụ Nữ Giàu Có",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/28-cach-de-tro-thanh-nguoi-phu-nu-giau-co/2.mp3",
+    "title" : "28 cách để trở thành người phụ nữ giàu có",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/28-cach-de-tro-thanh-nguoi-phu-nu-giau-co/3.mp3",
+    "title" : "Chương 3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/28-cach-de-tro-thanh-nguoi-phu-nu-giau-co/4.mp3",
+    "title" : "Chương 4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/28-cach-de-tro-thanh-nguoi-phu-nu-giau-co/5.mp3",
+    "title" : "Phần cuối",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

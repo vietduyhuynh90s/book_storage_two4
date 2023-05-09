@@ -1,0 +1,125 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/incarceron-ben-trong_17797.html",
+    "title" : "Incarceron (Bên Trong)",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Catherine Fisher",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 41811,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/EPUB/EPUB_0e09f4c766d03ef45a719745be565ec7.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/IMAGE/IMAGE_0e09f4c766d03ef45a719745be565ec7.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/tieu-thuyet-incarceron-3/ti%E1%BB%83u%20thuy%E1%BA%BFt%20incarceron%201.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4927,
+    "title" : "tiểu thuyết incarceron 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tieu-thuyet-incarceron-3/ti%E1%BB%83u%20thuy%E1%BA%BFt%20incarceron%202.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3882,
+    "title" : "tiểu thuyết incarceron 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tieu-thuyet-incarceron-3/ti%E1%BB%83u%20thuy%E1%BA%BFt%20incarceron%203.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8524,
+    "title" : "tiểu thuyết incarceron 3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tieu-thuyet-incarceron-3/ti%E1%BB%83u%20thuy%E1%BA%BFt%20incarceron%204.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4727,
+    "title" : "tiểu thuyết incarceron 4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tieu-thuyet-incarceron-3/ti%E1%BB%83u%20thuy%E1%BA%BFt%20incarceron%205.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4164,
+    "title" : "tiểu thuyết incarceron 5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tieu-thuyet-incarceron-3/ti%E1%BB%83u%20thuy%E1%BA%BFt%20incarceron%206.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8100,
+    "title" : "tiểu thuyết incarceron 6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tieu-thuyet-incarceron-3/ti%E1%BB%83u%20thuy%E1%BA%BFt%20incarceron%207.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7487,
+    "title" : "tiểu thuyết incarceron 7",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/tieu-thuyet-incarceron-3/ti%E1%BB%83u%20thuy%E1%BA%BFt%20incarceron%201.mp3",
+    "title" : "tiểu thuyết incarceron 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tieu-thuyet-incarceron-3/ti%E1%BB%83u%20thuy%E1%BA%BFt%20incarceron%202.mp3",
+    "title" : "tiểu thuyết incarceron 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tieu-thuyet-incarceron-3/ti%E1%BB%83u%20thuy%E1%BA%BFt%20incarceron%203.mp3",
+    "title" : "tiểu thuyết incarceron 3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tieu-thuyet-incarceron-3/ti%E1%BB%83u%20thuy%E1%BA%BFt%20incarceron%204.mp3",
+    "title" : "tiểu thuyết incarceron 4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tieu-thuyet-incarceron-3/ti%E1%BB%83u%20thuy%E1%BA%BFt%20incarceron%205.mp3",
+    "title" : "tiểu thuyết incarceron 5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tieu-thuyet-incarceron-3/ti%E1%BB%83u%20thuy%E1%BA%BFt%20incarceron%206.mp3",
+    "title" : "tiểu thuyết incarceron 6",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tieu-thuyet-incarceron-3/ti%E1%BB%83u%20thuy%E1%BA%BFt%20incarceron%207.mp3",
+    "title" : "tiểu thuyết incarceron 7",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

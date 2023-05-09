@@ -1,0 +1,545 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/sieu-cap-thu-dong_12340.html",
+    "title" : "Siêu Cấp Thư Đồng",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Huyết Đồ",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 336375,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/EPUB/EPUB_5bff952e86d35ab6c6f4f19b0e0d74b9.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/IMAGE/IMAGE_5bff952e86d35ab6c6f4f19b0e0d74b9.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/sieu-cap-thu-dong/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2913,
+    "title" : "PHẦN 1 ( CHƯƠNG 1-4 )Kiếm Hiệp, Ngôn Tình, Xuyên Không.",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sieu-cap-thu-dong/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3716,
+    "title" : "SIÊU CẤP THƯ ĐỒNG-PHẦN 10 ( CHƯƠNG 47-52)Kiếm Hiệp, Ngôn Tình, Xuyên Không.",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sieu-cap-thu-dong/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 9290,
+    "title" : "SIÊU CẤP THƯ ĐỒNG-PHẦN 11 ( CHƯƠNG 53-67 )Kiếm Hiệp, Ngôn Tình, Xuyên Không.",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sieu-cap-thu-dong/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6479,
+    "title" : "SIÊU CẤP THƯ ĐỒNG_ PHẦN 12 (CHƯƠNG 68- 78)_ Kiếm Hiệp, Ngôn Tình, Xuyên Không.",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sieu-cap-thu-dong/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3345,
+    "title" : "SIÊU CẤP THƯ ĐỒNG PHẦN 13 (CHƯƠNG 79-84)_ Giả: Huyết Đồ_Kiếm Hiệp, Ngôn Tình, Xuyên Không.",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sieu-cap-thu-dong/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8548,
+    "title" : "SIÊU CẤP THƯ ĐỒNG_ PHẦN 14 (CHƯƠNG 85-100)_Tác Giả: Huyết Đồ _ Kiếm Hiệp, Ngôn Tình, Xuyên Không.",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sieu-cap-thu-dong/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 12352,
+    "title" : "SIÊU CẤP THƯ ĐỒNG PHẦN 15_ Tác Giả: Huyết Đồ _Kiếm Hiệp, Ngôn Tình, Xuyên Không.",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sieu-cap-thu-dong/16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 9666,
+    "title" : "142 )_ Kiếm Hiệp, Ngôn Tình, Xuyên Không.",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sieu-cap-thu-dong/17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8548,
+    "title" : "SIÊU CẤP THƯ ĐỒNG_PHẦN 17_Chươnng (143 158)_Kiếm Hiệp, Ngôn Tình, Xuyên Không.",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sieu-cap-thu-dong/18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7804,
+    "title" : "SIÊU CẤP THƯ ĐỒNG_PHẦN 18_(Chương 159-167)_ Kiếm Hiệp, Ngôn Tình, Xuyên Không.",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sieu-cap-thu-dong/19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 10468,
+    "title" : "SIÊU CẤP THƯ ĐỒNG_PHẦN 19_Chương (168 179)_Kiếm Hiệp, Ngôn Tình, Xuyên Không.",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sieu-cap-thu-dong/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5574,
+    "title" : "PHẦN 2 ( CHƯƠNG 5-11 ) Kiếm Hiệp, Ngôn Tình, Xuyên Không.",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sieu-cap-thu-dong/20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 12018,
+    "title" : "SIÊU CẤP THƯ ĐỒNG _PHẦN 20 _Chương 180-190_ Kiếm Hiệp, Ngôn Tình, Xuyên Không.",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sieu-cap-thu-dong/21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 11382,
+    "title" : "SIÊU CẤP THƯ ĐỒNG_PHẦN 21(Chương 191-204)_Kiếm Hiệp, Ngôn Tình, Xuyên Không.",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sieu-cap-thu-dong/22.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8780,
+    "title" : "SIÊU CẤP THƯ ĐỒNG_PHẦN 22 (Chương 205-215)_Kiếm Hiệp, Ngôn Tình, Xuyên Không.",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sieu-cap-thu-dong/23.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8780,
+    "title" : "SIÊU CẤP THƯ ĐỒNG PHẦN 23 Chương (216_225)_ Kiếm Hiệp, Ngôn Tình, Xuyên Không.",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sieu-cap-thu-dong/24.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 11707,
+    "title" : "SIÊU CẤP THƯ ĐỒNG_PHẦN 24 (CHƯƠNG 226-239)_ Kiếm Hiệp, Ngôn Tình, Xuyên Không.",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sieu-cap-thu-dong/25.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7805,
+    "title" : "SIÊU CẤP THƯ ĐỒNG_PHẦN 25 (CHƯƠNG 240-248)_ Kiếm Hiệp, Ngôn Tình, Xuyên Không.",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sieu-cap-thu-dong/26.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7805,
+    "title" : "SIÊU CẤP THƯ ĐỒNG_PHẦN 26 (CHƯƠNG 249-257)_ Kiếm Hiệp, Ngôn Tình, Xuyên Không",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sieu-cap-thu-dong/27.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 9431,
+    "title" : "SIÊU CẤP THƯ ĐỒNG_ PHẦN 27 (Chương 258 268)_ Kiếm Hiệp, Ngôn Tình, Xuyên Không.",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sieu-cap-thu-dong/28.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 10081,
+    "title" : "SIÊU CẤP THƯ ĐỒNG_PHẦN 28(Chương 269 280)_Kiếm Hiệp, Ngôn Tình, Xuyên Không.",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sieu-cap-thu-dong/29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8448,
+    "title" : "SIÊU CẤP THƯ ĐỒNG_PHẦN 29 (Chương 281 290)_Kiếm Hiệp, Ngôn Tình, Xuyên Không.",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sieu-cap-thu-dong/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3716,
+    "title" : "PHẦN 3 ( CHƯƠNG 12-14 ) Kiếm Hiệp, Ngôn Tình, Xuyên Không.",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sieu-cap-thu-dong/30.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 9756,
+    "title" : "SIÊU CẤP THƯ ĐỒNG_PHẦN 30 Chương(291-302)_ Kiếm Hiệp, Ngôn Tình, Xuyên Không.",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sieu-cap-thu-dong/31.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7534,
+    "title" : "SIÊU CẤP THƯ ĐỒNG_PHẦN 31(Chương 303-311)_Kiếm Hiệp, Ngôn Tình, Xuyên Không.",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sieu-cap-thu-dong/32.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7291,
+    "title" : "SIÊU CẤP THƯ ĐỒNG_PHẦN 32 (Chương 312-320)_Kiếm Hiệp, Ngôn Tình, Xuyên Không",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sieu-cap-thu-dong/33.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8507,
+    "title" : "SIÊU CẤP THƯ ĐỒNG_PHẦN 33(Chương 321-330)_ Kiếm Hiệp, Ngôn Tình, Xuyên Không",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sieu-cap-thu-dong/34.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 9236,
+    "title" : "SIÊU CẤP THƯ ĐỒNG_PHẦN 34 (Chương 331-340)_Kiếm Hiệp, Ngôn Tình, Xuyên Không.",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sieu-cap-thu-dong/35.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 10208,
+    "title" : "SIÊU CẤP THƯ ĐỒNG_PHẦN 35 (Chương 341-350)_Kiếm Hiệp, Ngôn Tình, Xuyên Không.",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sieu-cap-thu-dong/36.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 9722,
+    "title" : "SIÊU CẤP THƯ ĐỒNG_PHẦN 36 (Chương 351-360)_Kiếm Hiệp, Ngôn Tình, Xuyên Không.",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sieu-cap-thu-dong/37.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 9722,
+    "title" : "SIÊU CẤP THƯ ĐỒNG_PHẦN 37 (Chương 361_370)_Kiếm Hiệp, Ngôn Tình, Xuyên Không",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sieu-cap-thu-dong/38.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 12152,
+    "title" : "38",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sieu-cap-thu-dong/39.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8506,
+    "title" : "39",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sieu-cap-thu-dong/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2996,
+    "title" : "PHẦN 4 ( CHƯƠNG 15-17 ) Kiếm Hiệp, Ngôn Tình, Xuyên Không.",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sieu-cap-thu-dong/40.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8507,
+    "title" : "SIÊU CẤP THƯ ĐỒNG_PHẦN 40 (Chương 391-400)_ Kiếm Hiệp, Ngôn Tình, Xuyên Không",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sieu-cap-thu-dong/41.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 11920,
+    "title" : "41",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sieu-cap-thu-dong/42.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 11946,
+    "title" : "SIÊU CẤP THƯ ĐỒNG_PHẦN 42-Cuối (Chương 413-424)_Kiếm Hiệp, Ngôn Tình, Xuyên Không",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sieu-cap-thu-dong/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2973,
+    "title" : "PHẦN 5 ( CHƯƠNG 18-20) Kiếm Hiệp, Ngôn Tình, Xuyên Không.",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sieu-cap-thu-dong/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2984,
+    "title" : "SIÊU CẤP THƯ ĐỒNG-PHẦN 6 ( CHƯƠNG 21-24 ) Kiếm Hiệp, Ngôn Tình, Xuyên Không.",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sieu-cap-thu-dong/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6363,
+    "title" : "SIÊU CẤP THƯ ĐỒNG-PHẦN 7 ( CHƯƠNG 25-34 )Kiếm Hiệp, Ngôn Tình, Xuyên Không.",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sieu-cap-thu-dong/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3716,
+    "title" : "SIÊU CẤP THƯ ĐỒNG-PHẦN 8 ( CHƯƠNG 35-40 ) Kiếm Hiệp, Ngôn Tình, Xuyên Không.",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sieu-cap-thu-dong/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3680,
+    "title" : "SIÊU CẤP THƯ ĐỒNG-PHẦN 9 ( CHƯƠNG 41-46 )Kiếm Hiệp, Ngôn Tình, Xuyên Không",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/sieu-cap-thu-dong/1.mp3",
+    "title" : "PHẦN 1 ( CHƯƠNG 1-4 )Kiếm Hiệp, Ngôn Tình, Xuyên Không.",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sieu-cap-thu-dong/10.mp3",
+    "title" : "SIÊU CẤP THƯ ĐỒNG-PHẦN 10 ( CHƯƠNG 47-52)Kiếm Hiệp, Ngôn Tình, Xuyên Không.",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sieu-cap-thu-dong/11.mp3",
+    "title" : "SIÊU CẤP THƯ ĐỒNG-PHẦN 11 ( CHƯƠNG 53-67 )Kiếm Hiệp, Ngôn Tình, Xuyên Không.",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sieu-cap-thu-dong/12.mp3",
+    "title" : "SIÊU CẤP THƯ ĐỒNG_ PHẦN 12 (CHƯƠNG 68- 78)_ Kiếm Hiệp, Ngôn Tình, Xuyên Không.",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sieu-cap-thu-dong/13.mp3",
+    "title" : "SIÊU CẤP THƯ ĐỒNG PHẦN 13 (CHƯƠNG 79-84)_ Giả: Huyết Đồ_Kiếm Hiệp, Ngôn Tình, Xuyên Không.",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sieu-cap-thu-dong/14.mp3",
+    "title" : "SIÊU CẤP THƯ ĐỒNG_ PHẦN 14 (CHƯƠNG 85-100)_Tác Giả: Huyết Đồ _ Kiếm Hiệp, Ngôn Tình, Xuyên Không.",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sieu-cap-thu-dong/15.mp3",
+    "title" : "SIÊU CẤP THƯ ĐỒNG PHẦN 15_ Tác Giả: Huyết Đồ _Kiếm Hiệp, Ngôn Tình, Xuyên Không.",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sieu-cap-thu-dong/16.mp3",
+    "title" : "142 )_ Kiếm Hiệp, Ngôn Tình, Xuyên Không.",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sieu-cap-thu-dong/17.mp3",
+    "title" : "SIÊU CẤP THƯ ĐỒNG_PHẦN 17_Chươnng (143 158)_Kiếm Hiệp, Ngôn Tình, Xuyên Không.",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sieu-cap-thu-dong/18.mp3",
+    "title" : "SIÊU CẤP THƯ ĐỒNG_PHẦN 18_(Chương 159-167)_ Kiếm Hiệp, Ngôn Tình, Xuyên Không.",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sieu-cap-thu-dong/19.mp3",
+    "title" : "SIÊU CẤP THƯ ĐỒNG_PHẦN 19_Chương (168 179)_Kiếm Hiệp, Ngôn Tình, Xuyên Không.",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sieu-cap-thu-dong/2.mp3",
+    "title" : "PHẦN 2 ( CHƯƠNG 5-11 ) Kiếm Hiệp, Ngôn Tình, Xuyên Không.",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sieu-cap-thu-dong/20.mp3",
+    "title" : "SIÊU CẤP THƯ ĐỒNG _PHẦN 20 _Chương 180-190_ Kiếm Hiệp, Ngôn Tình, Xuyên Không.",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sieu-cap-thu-dong/21.mp3",
+    "title" : "SIÊU CẤP THƯ ĐỒNG_PHẦN 21(Chương 191-204)_Kiếm Hiệp, Ngôn Tình, Xuyên Không.",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sieu-cap-thu-dong/22.mp3",
+    "title" : "SIÊU CẤP THƯ ĐỒNG_PHẦN 22 (Chương 205-215)_Kiếm Hiệp, Ngôn Tình, Xuyên Không.",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sieu-cap-thu-dong/23.mp3",
+    "title" : "SIÊU CẤP THƯ ĐỒNG PHẦN 23 Chương (216_225)_ Kiếm Hiệp, Ngôn Tình, Xuyên Không.",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sieu-cap-thu-dong/24.mp3",
+    "title" : "SIÊU CẤP THƯ ĐỒNG_PHẦN 24 (CHƯƠNG 226-239)_ Kiếm Hiệp, Ngôn Tình, Xuyên Không.",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sieu-cap-thu-dong/25.mp3",
+    "title" : "SIÊU CẤP THƯ ĐỒNG_PHẦN 25 (CHƯƠNG 240-248)_ Kiếm Hiệp, Ngôn Tình, Xuyên Không.",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sieu-cap-thu-dong/26.mp3",
+    "title" : "SIÊU CẤP THƯ ĐỒNG_PHẦN 26 (CHƯƠNG 249-257)_ Kiếm Hiệp, Ngôn Tình, Xuyên Không",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sieu-cap-thu-dong/27.mp3",
+    "title" : "SIÊU CẤP THƯ ĐỒNG_ PHẦN 27 (Chương 258 268)_ Kiếm Hiệp, Ngôn Tình, Xuyên Không.",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sieu-cap-thu-dong/28.mp3",
+    "title" : "SIÊU CẤP THƯ ĐỒNG_PHẦN 28(Chương 269 280)_Kiếm Hiệp, Ngôn Tình, Xuyên Không.",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sieu-cap-thu-dong/29.mp3",
+    "title" : "SIÊU CẤP THƯ ĐỒNG_PHẦN 29 (Chương 281 290)_Kiếm Hiệp, Ngôn Tình, Xuyên Không.",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sieu-cap-thu-dong/3.mp3",
+    "title" : "PHẦN 3 ( CHƯƠNG 12-14 ) Kiếm Hiệp, Ngôn Tình, Xuyên Không.",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sieu-cap-thu-dong/30.mp3",
+    "title" : "SIÊU CẤP THƯ ĐỒNG_PHẦN 30 Chương(291-302)_ Kiếm Hiệp, Ngôn Tình, Xuyên Không.",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sieu-cap-thu-dong/31.mp3",
+    "title" : "SIÊU CẤP THƯ ĐỒNG_PHẦN 31(Chương 303-311)_Kiếm Hiệp, Ngôn Tình, Xuyên Không.",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sieu-cap-thu-dong/32.mp3",
+    "title" : "SIÊU CẤP THƯ ĐỒNG_PHẦN 32 (Chương 312-320)_Kiếm Hiệp, Ngôn Tình, Xuyên Không",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sieu-cap-thu-dong/33.mp3",
+    "title" : "SIÊU CẤP THƯ ĐỒNG_PHẦN 33(Chương 321-330)_ Kiếm Hiệp, Ngôn Tình, Xuyên Không",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sieu-cap-thu-dong/34.mp3",
+    "title" : "SIÊU CẤP THƯ ĐỒNG_PHẦN 34 (Chương 331-340)_Kiếm Hiệp, Ngôn Tình, Xuyên Không.",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sieu-cap-thu-dong/35.mp3",
+    "title" : "SIÊU CẤP THƯ ĐỒNG_PHẦN 35 (Chương 341-350)_Kiếm Hiệp, Ngôn Tình, Xuyên Không.",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sieu-cap-thu-dong/36.mp3",
+    "title" : "SIÊU CẤP THƯ ĐỒNG_PHẦN 36 (Chương 351-360)_Kiếm Hiệp, Ngôn Tình, Xuyên Không.",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sieu-cap-thu-dong/37.mp3",
+    "title" : "SIÊU CẤP THƯ ĐỒNG_PHẦN 37 (Chương 361_370)_Kiếm Hiệp, Ngôn Tình, Xuyên Không",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sieu-cap-thu-dong/38.mp3",
+    "title" : "38",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sieu-cap-thu-dong/39.mp3",
+    "title" : "39",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sieu-cap-thu-dong/4.mp3",
+    "title" : "PHẦN 4 ( CHƯƠNG 15-17 ) Kiếm Hiệp, Ngôn Tình, Xuyên Không.",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sieu-cap-thu-dong/40.mp3",
+    "title" : "SIÊU CẤP THƯ ĐỒNG_PHẦN 40 (Chương 391-400)_ Kiếm Hiệp, Ngôn Tình, Xuyên Không",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sieu-cap-thu-dong/41.mp3",
+    "title" : "41",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sieu-cap-thu-dong/42.mp3",
+    "title" : "SIÊU CẤP THƯ ĐỒNG_PHẦN 42-Cuối (Chương 413-424)_Kiếm Hiệp, Ngôn Tình, Xuyên Không",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sieu-cap-thu-dong/5.mp3",
+    "title" : "PHẦN 5 ( CHƯƠNG 18-20) Kiếm Hiệp, Ngôn Tình, Xuyên Không.",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sieu-cap-thu-dong/6.mp3",
+    "title" : "SIÊU CẤP THƯ ĐỒNG-PHẦN 6 ( CHƯƠNG 21-24 ) Kiếm Hiệp, Ngôn Tình, Xuyên Không.",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sieu-cap-thu-dong/7.mp3",
+    "title" : "SIÊU CẤP THƯ ĐỒNG-PHẦN 7 ( CHƯƠNG 25-34 )Kiếm Hiệp, Ngôn Tình, Xuyên Không.",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sieu-cap-thu-dong/8.mp3",
+    "title" : "SIÊU CẤP THƯ ĐỒNG-PHẦN 8 ( CHƯƠNG 35-40 ) Kiếm Hiệp, Ngôn Tình, Xuyên Không.",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sieu-cap-thu-dong/9.mp3",
+    "title" : "SIÊU CẤP THƯ ĐỒNG-PHẦN 9 ( CHƯƠNG 41-46 )Kiếm Hiệp, Ngôn Tình, Xuyên Không",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

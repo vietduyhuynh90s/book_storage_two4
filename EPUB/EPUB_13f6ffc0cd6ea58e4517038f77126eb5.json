@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/cuoc-doi-ky-la-cua-nikola-tesla_19053.html",
+    "title" : "Cuộc Đời Kỳ Lạ Của Nikola Tesla",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nikola Tesla",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 9013,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/EPUB/EPUB_13f6ffc0cd6ea58e4517038f77126eb5.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/IMAGE/IMAGE_13f6ffc0cd6ea58e4517038f77126eb5.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/cdklcnt/Cuo%CC%A3%CC%82c%20%C4%91o%CC%9B%CC%80i%20ky%CC%80%20la%CC%A3%20cu%CC%89a%20Nikola%20Tesla%20%28FULL%29%20-%20Tu%CC%89%20sa%CC%81ch%20doanh%20nha%CC%82n%20the%CC%82%CC%81%20gio%CC%9B%CC%81i%20%28192kbit_AAC%29.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 9013,
+    "title" : "Cuộc đời kỳ lạ của Nikola Tesla (FULL) - Tủ sách doanh nhân thế giới (192kbit AAC)",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/cdklcnt/Cuo%CC%A3%CC%82c%20%C4%91o%CC%9B%CC%80i%20ky%CC%80%20la%CC%A3%20cu%CC%89a%20Nikola%20Tesla%20%28FULL%29%20-%20Tu%CC%89%20sa%CC%81ch%20doanh%20nha%CC%82n%20the%CC%82%CC%81%20gio%CC%9B%CC%81i%20%28192kbit_AAC%29.m4a",
+    "title" : "Cuộc đời kỳ lạ của Nikola Tesla (FULL) - Tủ sách doanh nhân thế giới (192kbit AAC)",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

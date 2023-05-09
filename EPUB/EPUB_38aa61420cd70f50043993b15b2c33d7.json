@@ -1,0 +1,449 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/luong-thu-quai-nhan-nguoi-hai-dau_15688.html",
+    "title" : "Lưỡng Thủ Quái Nhân (Người Hai Đầu)",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Trần Thanh Vân",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 134055,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/EPUB/EPUB_38aa61420cd70f50043993b15b2c33d7.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/IMAGE/IMAGE_38aa61420cd70f50043993b15b2c33d7.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/luong-thu-quai-nhan/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3672,
+    "title" : "Người Hai Đầu | Phần 1 | Truyện Kiếm Hiệp",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/luong-thu-quai-nhan/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4728,
+    "title" : "Người Hai Đầu | Phần 10 | Truyện Kiếm Hiệp",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/luong-thu-quai-nhan/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2619,
+    "title" : "Người Hai Đầu | Phần 11 | Truyện Kiếm Hiệp",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/luong-thu-quai-nhan/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3393,
+    "title" : "Người Hai Đầu | Phần 12 | Truyện Kiếm Hiệp",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/luong-thu-quai-nhan/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3035,
+    "title" : "Người Hai Đầu | Phần 13 | Truyện Kiếm Hiệp",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/luong-thu-quai-nhan/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3917,
+    "title" : "Người Hai Đầu | Phần 14 | Truyện Kiếm Hiệp cực hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/luong-thu-quai-nhan/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3503,
+    "title" : "Người Hai Đầu | Phần 15 | Truyện Kiếm Hiệp cực hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/luong-thu-quai-nhan/16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2999,
+    "title" : "Người Hai Đầu | Phần 16 | Truyện Kiếm Hiệp cực hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/luong-thu-quai-nhan/17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3537,
+    "title" : "Người Hai Đầu | Phần 17 | Truyện Kiếm Hiệp cực hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/luong-thu-quai-nhan/18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3207,
+    "title" : "Người Hai Đầu | Phần 18 | Truyện Kiếm Hiệp cực hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/luong-thu-quai-nhan/19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3951,
+    "title" : "Người Hai Đầu | Phần 19 | Truyện Kiếm Hiệp cực hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/luong-thu-quai-nhan/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5132,
+    "title" : "Người Hai Đầu | Phần 2 | Truyện Kiếm Hiệp",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/luong-thu-quai-nhan/20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2334,
+    "title" : "Người Hai Đầu | Phần 20 | Truyện Kiếm Hiệp cực hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/luong-thu-quai-nhan/21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4012,
+    "title" : "Người Hai Đầu | Phần 21 | Truyện Kiếm Hiệp cực hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/luong-thu-quai-nhan/22.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4040,
+    "title" : "Người Hai Đầu | Phần 22 | Truyện Kiếm Hiệp cực hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/luong-thu-quai-nhan/23.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3794,
+    "title" : "Người Hai Đầu | Phần 23 | Truyện Kiếm Hiệp cực hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/luong-thu-quai-nhan/24.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4104,
+    "title" : "Người Hai Đầu | Phần 24 | Truyện Kiếm Hiệp cực hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/luong-thu-quai-nhan/25.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4038,
+    "title" : "Người Hai Đầu | Phần 25 | Truyện Kiếm Hiệp cực hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/luong-thu-quai-nhan/26.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4234,
+    "title" : "Người Hai Đầu | Phần 26 | Truyện Kiếm Hiệp cực hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/luong-thu-quai-nhan/27.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4833,
+    "title" : "Người Hai Đầu | Phần 27 | Truyện Kiếm Hiệp cực hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/luong-thu-quai-nhan/28.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4339,
+    "title" : "Người Hai Đầu | Phần 28 | Truyện Kiếm Hiệp cực hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/luong-thu-quai-nhan/29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4306,
+    "title" : "Người Hai Đầu | Phần 29 | Truyện Kiếm Hiệp cực hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/luong-thu-quai-nhan/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3918,
+    "title" : "Người Hai Đầu | Phần 3 | Truyện Kiếm Hiệp",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/luong-thu-quai-nhan/30.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3719,
+    "title" : "Người Hai Đầu | Phần 30 | Truyện Kiếm Hiệp cực hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/luong-thu-quai-nhan/31.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4000,
+    "title" : "Người Hai Đầu | Phần 31 | Truyện Kiếm Hiệp cực hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/luong-thu-quai-nhan/32.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4200,
+    "title" : "Người Hai Đầu | Phần 32 | Truyện Kiếm Hiệp cực hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/luong-thu-quai-nhan/33.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4234,
+    "title" : "Người Hai Đầu | Phần 33 | Truyện Kiếm Hiệp cực hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/luong-thu-quai-nhan/34.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2806,
+    "title" : "Người Hai Đầu | Phần 34 - Kết truyện | Truyện Kiếm Hiệp cực hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/luong-thu-quai-nhan/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5128,
+    "title" : "Người Hai Đầu | Phần 4 | Truyện Kiếm Hiệp",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/luong-thu-quai-nhan/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4285,
+    "title" : "Người Hai Đầu | Phần 5 | Truyện Kiếm Hiệp",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/luong-thu-quai-nhan/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4084,
+    "title" : "Người Hai Đầu | Phần 6 | Truyện Kiếm Hiệp",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/luong-thu-quai-nhan/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4469,
+    "title" : "Người Hai Đầu | Phần 7 | Truyện Kiếm Hiệp",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/luong-thu-quai-nhan/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4442,
+    "title" : "Người Hai Đầu | Phần 8 | Truyện Kiếm Hiệp",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/luong-thu-quai-nhan/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5043,
+    "title" : "Người Hai Đầu | Phần 9 | Truyện Kiếm Hiệp",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/luong-thu-quai-nhan/1.mp3",
+    "title" : "Người Hai Đầu | Phần 1 | Truyện Kiếm Hiệp",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/luong-thu-quai-nhan/10.mp3",
+    "title" : "Người Hai Đầu | Phần 10 | Truyện Kiếm Hiệp",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/luong-thu-quai-nhan/11.mp3",
+    "title" : "Người Hai Đầu | Phần 11 | Truyện Kiếm Hiệp",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/luong-thu-quai-nhan/12.mp3",
+    "title" : "Người Hai Đầu | Phần 12 | Truyện Kiếm Hiệp",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/luong-thu-quai-nhan/13.mp3",
+    "title" : "Người Hai Đầu | Phần 13 | Truyện Kiếm Hiệp",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/luong-thu-quai-nhan/14.mp3",
+    "title" : "Người Hai Đầu | Phần 14 | Truyện Kiếm Hiệp cực hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/luong-thu-quai-nhan/15.mp3",
+    "title" : "Người Hai Đầu | Phần 15 | Truyện Kiếm Hiệp cực hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/luong-thu-quai-nhan/16.mp3",
+    "title" : "Người Hai Đầu | Phần 16 | Truyện Kiếm Hiệp cực hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/luong-thu-quai-nhan/17.mp3",
+    "title" : "Người Hai Đầu | Phần 17 | Truyện Kiếm Hiệp cực hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/luong-thu-quai-nhan/18.mp3",
+    "title" : "Người Hai Đầu | Phần 18 | Truyện Kiếm Hiệp cực hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/luong-thu-quai-nhan/19.mp3",
+    "title" : "Người Hai Đầu | Phần 19 | Truyện Kiếm Hiệp cực hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/luong-thu-quai-nhan/2.mp3",
+    "title" : "Người Hai Đầu | Phần 2 | Truyện Kiếm Hiệp",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/luong-thu-quai-nhan/20.mp3",
+    "title" : "Người Hai Đầu | Phần 20 | Truyện Kiếm Hiệp cực hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/luong-thu-quai-nhan/21.mp3",
+    "title" : "Người Hai Đầu | Phần 21 | Truyện Kiếm Hiệp cực hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/luong-thu-quai-nhan/22.mp3",
+    "title" : "Người Hai Đầu | Phần 22 | Truyện Kiếm Hiệp cực hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/luong-thu-quai-nhan/23.mp3",
+    "title" : "Người Hai Đầu | Phần 23 | Truyện Kiếm Hiệp cực hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/luong-thu-quai-nhan/24.mp3",
+    "title" : "Người Hai Đầu | Phần 24 | Truyện Kiếm Hiệp cực hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/luong-thu-quai-nhan/25.mp3",
+    "title" : "Người Hai Đầu | Phần 25 | Truyện Kiếm Hiệp cực hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/luong-thu-quai-nhan/26.mp3",
+    "title" : "Người Hai Đầu | Phần 26 | Truyện Kiếm Hiệp cực hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/luong-thu-quai-nhan/27.mp3",
+    "title" : "Người Hai Đầu | Phần 27 | Truyện Kiếm Hiệp cực hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/luong-thu-quai-nhan/28.mp3",
+    "title" : "Người Hai Đầu | Phần 28 | Truyện Kiếm Hiệp cực hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/luong-thu-quai-nhan/29.mp3",
+    "title" : "Người Hai Đầu | Phần 29 | Truyện Kiếm Hiệp cực hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/luong-thu-quai-nhan/3.mp3",
+    "title" : "Người Hai Đầu | Phần 3 | Truyện Kiếm Hiệp",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/luong-thu-quai-nhan/30.mp3",
+    "title" : "Người Hai Đầu | Phần 30 | Truyện Kiếm Hiệp cực hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/luong-thu-quai-nhan/31.mp3",
+    "title" : "Người Hai Đầu | Phần 31 | Truyện Kiếm Hiệp cực hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/luong-thu-quai-nhan/32.mp3",
+    "title" : "Người Hai Đầu | Phần 32 | Truyện Kiếm Hiệp cực hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/luong-thu-quai-nhan/33.mp3",
+    "title" : "Người Hai Đầu | Phần 33 | Truyện Kiếm Hiệp cực hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/luong-thu-quai-nhan/34.mp3",
+    "title" : "Người Hai Đầu | Phần 34 - Kết truyện | Truyện Kiếm Hiệp cực hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/luong-thu-quai-nhan/4.mp3",
+    "title" : "Người Hai Đầu | Phần 4 | Truyện Kiếm Hiệp",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/luong-thu-quai-nhan/5.mp3",
+    "title" : "Người Hai Đầu | Phần 5 | Truyện Kiếm Hiệp",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/luong-thu-quai-nhan/6.mp3",
+    "title" : "Người Hai Đầu | Phần 6 | Truyện Kiếm Hiệp",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/luong-thu-quai-nhan/7.mp3",
+    "title" : "Người Hai Đầu | Phần 7 | Truyện Kiếm Hiệp",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/luong-thu-quai-nhan/8.mp3",
+    "title" : "Người Hai Đầu | Phần 8 | Truyện Kiếm Hiệp",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/luong-thu-quai-nhan/9.mp3",
+    "title" : "Người Hai Đầu | Phần 9 | Truyện Kiếm Hiệp",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,137 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/vong-khong-sieu-thoat-ngo-huong_11704.html",
+    "title" : "Vong Không Siêu Thoát - Ngọ Hường",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Ngọ Hường",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 33475,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/EPUB/EPUB_25d2ef4db00b50c9557b4cad47dd180a.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/IMAGE/IMAGE_25d2ef4db00b50c9557b4cad47dd180a.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/vong-khong-sieu-thoat/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3881,
+    "title" : "[Sợ Quá] Vong Không Siêu Thoát 😱 Truyện Ma Có Thật Đình Soạn Kể Rất Ly Kỳ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vong-khong-sieu-thoat/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3966,
+    "title" : "[TẬP 2] Vong Không Siêu Thoát 😱 Truyện Ma Có Thật Đình Soạn Kể Rất Ly Kỳ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vong-khong-sieu-thoat/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3825,
+    "title" : "[TẬP 3] Vong Không Siêu Thoát 😱 Truyện Ma Có Thật Đình Soạn Kể Thấy Sợ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vong-khong-sieu-thoat/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3772,
+    "title" : "[TẬP 4] Vong Không Siêu Thoát 😱 Truyện Ma Có Thật Đình Soạn Kể Thấy Sợ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vong-khong-sieu-thoat/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3919,
+    "title" : "[TẬP 5] Vong Không Siêu Thoát 😱 Truyện Ma Có Thật Đình Soạn Kể Thấy Sợ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vong-khong-sieu-thoat/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3924,
+    "title" : "[TẬP 6] Vong Không Siêu Thoát 😱 Truyện Ma Có Thật Đình Soạn Kể Thấy Sợ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vong-khong-sieu-thoat/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4071,
+    "title" : "[TẬP 7] Vong Không Siêu Thoát 😱 Truyện Ma Có Thật Đình Soạn Kể Thấy Sợ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vong-khong-sieu-thoat/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6117,
+    "title" : "[TẬP 8 KẾT] Vong Không Siêu Thoát 😱 Truyện Ma Có Thật Đình Soạn Kể Thấy Sợ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/vong-khong-sieu-thoat/1.mp3",
+    "title" : "[Sợ Quá] Vong Không Siêu Thoát 😱 Truyện Ma Có Thật Đình Soạn Kể Rất Ly Kỳ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vong-khong-sieu-thoat/2.mp3",
+    "title" : "[TẬP 2] Vong Không Siêu Thoát 😱 Truyện Ma Có Thật Đình Soạn Kể Rất Ly Kỳ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vong-khong-sieu-thoat/3.mp3",
+    "title" : "[TẬP 3] Vong Không Siêu Thoát 😱 Truyện Ma Có Thật Đình Soạn Kể Thấy Sợ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vong-khong-sieu-thoat/4.mp3",
+    "title" : "[TẬP 4] Vong Không Siêu Thoát 😱 Truyện Ma Có Thật Đình Soạn Kể Thấy Sợ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vong-khong-sieu-thoat/5.mp3",
+    "title" : "[TẬP 5] Vong Không Siêu Thoát 😱 Truyện Ma Có Thật Đình Soạn Kể Thấy Sợ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vong-khong-sieu-thoat/6.mp3",
+    "title" : "[TẬP 6] Vong Không Siêu Thoát 😱 Truyện Ma Có Thật Đình Soạn Kể Thấy Sợ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vong-khong-sieu-thoat/7.mp3",
+    "title" : "[TẬP 7] Vong Không Siêu Thoát 😱 Truyện Ma Có Thật Đình Soạn Kể Thấy Sợ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vong-khong-sieu-thoat/8.mp3",
+    "title" : "[TẬP 8 KẾT] Vong Không Siêu Thoát 😱 Truyện Ma Có Thật Đình Soạn Kể Thấy Sợ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,185 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/hoang-tu-va-chu-be-ngheo-kho_16761.html",
+    "title" : "Hoàng Tử và Chú Bé Nghèo Khổ",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Mark Twain",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 8489,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/EPUB/EPUB_03a6938eefeb5aee3a92ce1b8f85ce34.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/IMAGE/IMAGE_03a6938eefeb5aee3a92ce1b8f85ce34.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/HOANGTUNHO01/HOANG%20TU%20NHO%2001.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 142,
+    "title" : "HOANG TU NHO 01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/HOANGTUNHO01/HOANG%20TU%20NHO%2002.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 405,
+    "title" : "HOANG TU NHO 02",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/HOANGTUNHO01/HOANG%20TU%20NHO%2003.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 840,
+    "title" : "HOANG TU NHO 03",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/HOANGTUNHO01/HOANG%20TU%20NHO%2004.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 545,
+    "title" : "HOANG TU NHO 04",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/HOANGTUNHO01/HOANG%20TU%20NHO%2005.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 980,
+    "title" : "HOANG TU NHO 05",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/HOANGTUNHO01/HOANG%20TU%20NHO%2006.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 644,
+    "title" : "HOANG TU NHO 06",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/HOANGTUNHO01/HOANG%20TU%20NHO%2007.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 797,
+    "title" : "HOANG TU NHO 07",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/HOANGTUNHO01/HOANG%20TU%20NHO%2008.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 698,
+    "title" : "HOANG TU NHO 08",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/HOANGTUNHO01/HOANG%20TU%20NHO%2009.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1007,
+    "title" : "HOANG TU NHO 09",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/HOANGTUNHO01/HOANG%20TU%20NHO%2010.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 817,
+    "title" : "HOANG TU NHO 10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/HOANGTUNHO01/HOANG%20TU%20NHO%2011.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 630,
+    "title" : "HOANG TU NHO 11",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/HOANGTUNHO01/HOANG%20TU%20NHO%2012.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 984,
+    "title" : "HOANG TU NHO 12",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/HOANGTUNHO01/HOANG%20TU%20NHO%2001.mp3",
+    "title" : "HOANG TU NHO 01",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/HOANGTUNHO01/HOANG%20TU%20NHO%2002.mp3",
+    "title" : "HOANG TU NHO 02",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/HOANGTUNHO01/HOANG%20TU%20NHO%2003.mp3",
+    "title" : "HOANG TU NHO 03",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/HOANGTUNHO01/HOANG%20TU%20NHO%2004.mp3",
+    "title" : "HOANG TU NHO 04",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/HOANGTUNHO01/HOANG%20TU%20NHO%2005.mp3",
+    "title" : "HOANG TU NHO 05",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/HOANGTUNHO01/HOANG%20TU%20NHO%2006.mp3",
+    "title" : "HOANG TU NHO 06",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/HOANGTUNHO01/HOANG%20TU%20NHO%2007.mp3",
+    "title" : "HOANG TU NHO 07",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/HOANGTUNHO01/HOANG%20TU%20NHO%2008.mp3",
+    "title" : "HOANG TU NHO 08",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/HOANGTUNHO01/HOANG%20TU%20NHO%2009.mp3",
+    "title" : "HOANG TU NHO 09",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/HOANGTUNHO01/HOANG%20TU%20NHO%2010.mp3",
+    "title" : "HOANG TU NHO 10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/HOANGTUNHO01/HOANG%20TU%20NHO%2011.mp3",
+    "title" : "HOANG TU NHO 11",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/HOANGTUNHO01/HOANG%20TU%20NHO%2012.mp3",
+    "title" : "HOANG TU NHO 12",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

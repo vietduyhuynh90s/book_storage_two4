@@ -1,0 +1,293 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/truoc-khi-nham-mat_15337.html",
+    "title" : "Trước Khi Nhắm Mắt",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Higashino Keigo",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 34106,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/EPUB/EPUB_7b11acc75174a5a91d5dde0d6a1bc7f4.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/IMAGE/IMAGE_7b11acc75174a5a91d5dde0d6a1bc7f4.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/tknm_20200905/TKNM.01.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2383,
+    "title" : "TKNM.01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tknm_20200905/TKNM.02.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2070,
+    "title" : "TKNM.02",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tknm_20200905/TKNM.03.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1481,
+    "title" : "TKNM.03",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tknm_20200905/TKNM.04.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1820,
+    "title" : "TKNM.04",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tknm_20200905/TKNM.05.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1985,
+    "title" : "TKNM.05",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tknm_20200905/TKNM.06.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1472,
+    "title" : "TKNM.06",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tknm_20200905/TKNM.07.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1236,
+    "title" : "TKNM.07",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tknm_20200905/TKNM.08.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1373,
+    "title" : "TKNM.08",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tknm_20200905/TKNM.09.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2120,
+    "title" : "TKNM.09",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tknm_20200905/TKNM.10.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2011,
+    "title" : "TKNM.10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tknm_20200905/TKNM.11.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2430,
+    "title" : "TKNM.11",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tknm_20200905/TKNM.12.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1084,
+    "title" : "TKNM.12",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tknm_20200905/TKNM.13.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1024,
+    "title" : "TKNM.13",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tknm_20200905/TKNM.14.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2363,
+    "title" : "TKNM.14",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tknm_20200905/TKNM.15.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1440,
+    "title" : "TKNM.15",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tknm_20200905/TKNM.16.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2528,
+    "title" : "TKNM.16",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tknm_20200905/TKNM.17.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1204,
+    "title" : "TKNM.17",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tknm_20200905/TKNM.18.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1020,
+    "title" : "TKNM.18",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tknm_20200905/TKNM.19.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 974,
+    "title" : "TKNM.19",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tknm_20200905/TKNM.20.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1193,
+    "title" : "TKNM.20",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tknm_20200905/TKNM.21%2Cend.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 895,
+    "title" : "TKNM.21,end",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/tknm_20200905/TKNM.01.m4a",
+    "title" : "TKNM.01",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tknm_20200905/TKNM.02.m4a",
+    "title" : "TKNM.02",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tknm_20200905/TKNM.03.m4a",
+    "title" : "TKNM.03",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tknm_20200905/TKNM.04.m4a",
+    "title" : "TKNM.04",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tknm_20200905/TKNM.05.m4a",
+    "title" : "TKNM.05",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tknm_20200905/TKNM.06.m4a",
+    "title" : "TKNM.06",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tknm_20200905/TKNM.07.m4a",
+    "title" : "TKNM.07",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tknm_20200905/TKNM.08.m4a",
+    "title" : "TKNM.08",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tknm_20200905/TKNM.09.m4a",
+    "title" : "TKNM.09",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tknm_20200905/TKNM.10.m4a",
+    "title" : "TKNM.10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tknm_20200905/TKNM.11.m4a",
+    "title" : "TKNM.11",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tknm_20200905/TKNM.12.m4a",
+    "title" : "TKNM.12",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tknm_20200905/TKNM.13.m4a",
+    "title" : "TKNM.13",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tknm_20200905/TKNM.14.m4a",
+    "title" : "TKNM.14",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tknm_20200905/TKNM.15.m4a",
+    "title" : "TKNM.15",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tknm_20200905/TKNM.16.m4a",
+    "title" : "TKNM.16",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tknm_20200905/TKNM.17.m4a",
+    "title" : "TKNM.17",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tknm_20200905/TKNM.18.m4a",
+    "title" : "TKNM.18",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tknm_20200905/TKNM.19.m4a",
+    "title" : "TKNM.19",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tknm_20200905/TKNM.20.m4a",
+    "title" : "TKNM.20",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tknm_20200905/TKNM.21%2Cend.m4a",
+    "title" : "TKNM.21,end",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

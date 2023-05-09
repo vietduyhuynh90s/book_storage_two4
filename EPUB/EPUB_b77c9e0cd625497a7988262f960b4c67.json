@@ -1,0 +1,137 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/duong-vao-yeu_12416.html",
+    "title" : "Đường Vào Yêu",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Diễm My",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 26853,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/EPUB/EPUB_b77c9e0cd625497a7988262f960b4c67.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/IMAGE/IMAGE_b77c9e0cd625497a7988262f960b4c67.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/duong-vao-yeu/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3233,
+    "title" : "Đường vào yêu P1 - Khiêu chiến - Mc Anh Sa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duong-vao-yeu/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2841,
+    "title" : "Đường vào yêu P2 - Cạm bẫy - Mc Anh Sa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duong-vao-yeu/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3467,
+    "title" : "Đường vào yêu P3 - Âm mưu - Mc Anh Sa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duong-vao-yeu/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3051,
+    "title" : "Đường vào yêu P4 - Trả đũa - Mc Anh Sa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duong-vao-yeu/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3654,
+    "title" : "Đường vào yêu P5 - Sợi dây chuyền - Mc Anh Sa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duong-vao-yeu/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3039,
+    "title" : "Đường vào yêu P6 - Cậu Hai mất tích - Mc Anh Sa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duong-vao-yeu/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2872,
+    "title" : "Đường vào yêu P7 - Đứa con thất lạc - Mc Anh Sa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duong-vao-yeu/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4696,
+    "title" : "Đường vào yêu P8 (hết) - Tẩu thoát - Mc Anh Sa",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/duong-vao-yeu/1.mp3",
+    "title" : "Đường vào yêu P1 - Khiêu chiến - Mc Anh Sa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duong-vao-yeu/2.mp3",
+    "title" : "Đường vào yêu P2 - Cạm bẫy - Mc Anh Sa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duong-vao-yeu/3.mp3",
+    "title" : "Đường vào yêu P3 - Âm mưu - Mc Anh Sa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duong-vao-yeu/4.mp3",
+    "title" : "Đường vào yêu P4 - Trả đũa - Mc Anh Sa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duong-vao-yeu/5.mp3",
+    "title" : "Đường vào yêu P5 - Sợi dây chuyền - Mc Anh Sa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duong-vao-yeu/6.mp3",
+    "title" : "Đường vào yêu P6 - Cậu Hai mất tích - Mc Anh Sa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duong-vao-yeu/7.mp3",
+    "title" : "Đường vào yêu P7 - Đứa con thất lạc - Mc Anh Sa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duong-vao-yeu/8.mp3",
+    "title" : "Đường vào yêu P8 (hết) - Tẩu thoát - Mc Anh Sa",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

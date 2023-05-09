@@ -1,0 +1,533 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/bat-tu-bat-diet-than-dong_10012.html",
+    "title" : "Bất Tử Bất Diệt - Thần Đông.",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Thần Đông",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 152880,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/EPUB/EPUB_6689ed97d4a95470f3a702426f737b76.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/IMAGE/IMAGE_6689ed97d4a95470f3a702426f737b76.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Btbd/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3821,
+    "title" : "Truyện tiên hiệp chọn lọc Bất tử bất diệt phần 01a",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Btbd/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3710,
+    "title" : "Truyện tiên hiệp chọn lọc Bất tử bất diệt phần 05b",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Btbd/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3649,
+    "title" : "Truyện tiên hiệp chọn lọc Bất tử bất diệt phần 06a",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Btbd/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3782,
+    "title" : "Truyện tiên hiệp chọn lọc Bất tử bất diệt phần 06b",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Btbd/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3860,
+    "title" : "Truyện tiên hiệp chọn lọc Bất tử bất diệt phần 07a",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Btbd/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3870,
+    "title" : "Truyện tiên hiệp chọn lọc Bất tử bất diệt phần 07b",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Btbd/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3652,
+    "title" : "Truyện tiên hiệp chọn lọc Bất tử bất diệt phần 08a",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Btbd/16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3670,
+    "title" : "Truyện tiên hiệp chọn lọc Bất tử bất diệt phần 08b",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Btbd/17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3721,
+    "title" : "Truyện tiên hiệp chọn lọc Bất tử bất diệt phần 09a",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Btbd/18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3654,
+    "title" : "Truyện tiên hiệp chọn lọc Bất tử bất diệt phần 09b",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Btbd/19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3814,
+    "title" : "Truyện tiên hiệp chọn lọc Bất tử bất diệt phần 10a",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Btbd/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3896,
+    "title" : "Truyện tiên hiệp chọn lọc Bất tử bất diệt phần 01b",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Btbd/20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3734,
+    "title" : "Truyện tiên hiệp chọn lọc Bất tử bất diệt phần 10b",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Btbd/21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3642,
+    "title" : "Truyện tiên hiệp chọn lọc Bất tử bất diệt phần 11a",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Btbd/22.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3593,
+    "title" : "Truyện tiên hiệp chọn lọc Bất tử bất diệt phần 11b",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Btbd/23.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4021,
+    "title" : "Truyện tiên hiệp chọn lọc Bất tử bất diệt phần 12a",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Btbd/24.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3679,
+    "title" : "Truyện tiên hiệp chọn lọc Bất tử bất diệt phần 12b",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Btbd/25.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3760,
+    "title" : "Truyện tiên hiệp chọn lọc Bất tử bất diệt phần 13a",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Btbd/26.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3736,
+    "title" : "Truyện tiên hiệp chọn lọc Bất tử bất diệt phần 13b",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Btbd/27.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3630,
+    "title" : "Truyện tiên hiệp chọn lọc Bất tử bất diệt phần 14a",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Btbd/28.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3707,
+    "title" : "Truyện tiên hiệp chọn lọc Bất tử bất diệt phần 14b",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Btbd/29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3676,
+    "title" : "Truyện tiên hiệp chọn lọc Bất tử bất diệt phần 15a",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Btbd/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3833,
+    "title" : "Truyện tiên hiệp chọn lọc Bất tử bất diệt phần 02a",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Btbd/30.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3899,
+    "title" : "Truyện tiên hiệp chọn lọc Bất tử bất diệt phần 15b",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Btbd/31.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3671,
+    "title" : "Truyện tiên hiệp chọn lọc Bất tử bất diệt phần 16a",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Btbd/32.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3618,
+    "title" : "Truyện tiên hiệp chọn lọc Bất tử bất diệt phần 16b",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Btbd/33.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3629,
+    "title" : "Truyện tiên hiệp chọn lọc Bất tử bất diệt phần 17a",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Btbd/34.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3615,
+    "title" : "Truyện tiên hiệp chọn lọc Bất tử bất diệt phần 17b",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Btbd/35.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3660,
+    "title" : "Truyện tiên hiệp chọn lọc Bất tử bất diệt phần 18a",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Btbd/36.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3646,
+    "title" : "Truyện tiên hiệp chọn lọc Bất tử bất diệt phần 18b",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Btbd/37.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3670,
+    "title" : "Truyện tiên hiệp chọn lọc Bất tử bất diệt phần 19a",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Btbd/38.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3739,
+    "title" : "Truyện tiên hiệp chọn lọc Bất tử bất diệt phần 19b",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Btbd/39.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3674,
+    "title" : "Truyện tiên hiệp chọn lọc Bất tử bất diệt phần 20a",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Btbd/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3768,
+    "title" : "Truyện tiên hiệp chọn lọc Bất tử bất diệt phần 02b",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Btbd/40.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3632,
+    "title" : "Truyện tiên hiệp chọn lọc Bất tử bất diệt phần 20b",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Btbd/41.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3420,
+    "title" : "Truyện tiên hiệp chọn lọc Bất tử bất diệt phần cuối",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Btbd/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3900,
+    "title" : "Truyện tiên hiệp chọn lọc Bất tử bất diệt phần 03a",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Btbd/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3942,
+    "title" : "Truyện tiên hiệp chọn lọc Bất tử bất diệt phần 03b",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Btbd/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3799,
+    "title" : "Truyện tiên hiệp chọn lọc Bất tử bất diệt phần 04a",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Btbd/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3681,
+    "title" : "Truyện tiên hiệp chọn lọc Bất tử bất diệt phần 04b",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Btbd/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3807,
+    "title" : "Truyện tiên hiệp chọn lọc Bất tử bất diệt phần 05a",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Btbd/1.mp3",
+    "title" : "Truyện tiên hiệp chọn lọc Bất tử bất diệt phần 01a",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Btbd/10.mp3",
+    "title" : "Truyện tiên hiệp chọn lọc Bất tử bất diệt phần 05b",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Btbd/11.mp3",
+    "title" : "Truyện tiên hiệp chọn lọc Bất tử bất diệt phần 06a",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Btbd/12.mp3",
+    "title" : "Truyện tiên hiệp chọn lọc Bất tử bất diệt phần 06b",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Btbd/13.mp3",
+    "title" : "Truyện tiên hiệp chọn lọc Bất tử bất diệt phần 07a",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Btbd/14.mp3",
+    "title" : "Truyện tiên hiệp chọn lọc Bất tử bất diệt phần 07b",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Btbd/15.mp3",
+    "title" : "Truyện tiên hiệp chọn lọc Bất tử bất diệt phần 08a",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Btbd/16.mp3",
+    "title" : "Truyện tiên hiệp chọn lọc Bất tử bất diệt phần 08b",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Btbd/17.mp3",
+    "title" : "Truyện tiên hiệp chọn lọc Bất tử bất diệt phần 09a",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Btbd/18.mp3",
+    "title" : "Truyện tiên hiệp chọn lọc Bất tử bất diệt phần 09b",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Btbd/19.mp3",
+    "title" : "Truyện tiên hiệp chọn lọc Bất tử bất diệt phần 10a",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Btbd/2.mp3",
+    "title" : "Truyện tiên hiệp chọn lọc Bất tử bất diệt phần 01b",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Btbd/20.mp3",
+    "title" : "Truyện tiên hiệp chọn lọc Bất tử bất diệt phần 10b",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Btbd/21.mp3",
+    "title" : "Truyện tiên hiệp chọn lọc Bất tử bất diệt phần 11a",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Btbd/22.mp3",
+    "title" : "Truyện tiên hiệp chọn lọc Bất tử bất diệt phần 11b",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Btbd/23.mp3",
+    "title" : "Truyện tiên hiệp chọn lọc Bất tử bất diệt phần 12a",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Btbd/24.mp3",
+    "title" : "Truyện tiên hiệp chọn lọc Bất tử bất diệt phần 12b",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Btbd/25.mp3",
+    "title" : "Truyện tiên hiệp chọn lọc Bất tử bất diệt phần 13a",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Btbd/26.mp3",
+    "title" : "Truyện tiên hiệp chọn lọc Bất tử bất diệt phần 13b",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Btbd/27.mp3",
+    "title" : "Truyện tiên hiệp chọn lọc Bất tử bất diệt phần 14a",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Btbd/28.mp3",
+    "title" : "Truyện tiên hiệp chọn lọc Bất tử bất diệt phần 14b",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Btbd/29.mp3",
+    "title" : "Truyện tiên hiệp chọn lọc Bất tử bất diệt phần 15a",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Btbd/3.mp3",
+    "title" : "Truyện tiên hiệp chọn lọc Bất tử bất diệt phần 02a",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Btbd/30.mp3",
+    "title" : "Truyện tiên hiệp chọn lọc Bất tử bất diệt phần 15b",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Btbd/31.mp3",
+    "title" : "Truyện tiên hiệp chọn lọc Bất tử bất diệt phần 16a",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Btbd/32.mp3",
+    "title" : "Truyện tiên hiệp chọn lọc Bất tử bất diệt phần 16b",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Btbd/33.mp3",
+    "title" : "Truyện tiên hiệp chọn lọc Bất tử bất diệt phần 17a",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Btbd/34.mp3",
+    "title" : "Truyện tiên hiệp chọn lọc Bất tử bất diệt phần 17b",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Btbd/35.mp3",
+    "title" : "Truyện tiên hiệp chọn lọc Bất tử bất diệt phần 18a",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Btbd/36.mp3",
+    "title" : "Truyện tiên hiệp chọn lọc Bất tử bất diệt phần 18b",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Btbd/37.mp3",
+    "title" : "Truyện tiên hiệp chọn lọc Bất tử bất diệt phần 19a",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Btbd/38.mp3",
+    "title" : "Truyện tiên hiệp chọn lọc Bất tử bất diệt phần 19b",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Btbd/39.mp3",
+    "title" : "Truyện tiên hiệp chọn lọc Bất tử bất diệt phần 20a",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Btbd/4.mp3",
+    "title" : "Truyện tiên hiệp chọn lọc Bất tử bất diệt phần 02b",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Btbd/40.mp3",
+    "title" : "Truyện tiên hiệp chọn lọc Bất tử bất diệt phần 20b",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Btbd/41.mp3",
+    "title" : "Truyện tiên hiệp chọn lọc Bất tử bất diệt phần cuối",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Btbd/5.mp3",
+    "title" : "Truyện tiên hiệp chọn lọc Bất tử bất diệt phần 03a",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Btbd/6.mp3",
+    "title" : "Truyện tiên hiệp chọn lọc Bất tử bất diệt phần 03b",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Btbd/7.mp3",
+    "title" : "Truyện tiên hiệp chọn lọc Bất tử bất diệt phần 04a",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Btbd/8.mp3",
+    "title" : "Truyện tiên hiệp chọn lọc Bất tử bất diệt phần 04b",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Btbd/9.mp3",
+    "title" : "Truyện tiên hiệp chọn lọc Bất tử bất diệt phần 05a",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

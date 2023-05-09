@@ -1,0 +1,245 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/hung-trach-quy-mo-thien-thu_17795.html",
+    "title" : "Hung Trạch - Quỷ Mộ Thiên Thư",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Thiên Hạ Bá Xướng",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 56368,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/EPUB/EPUB_2ab5a2d23123859dd361594c0a06e905.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/IMAGE/IMAGE_2ab5a2d23123859dd361594c0a06e905.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/hung-trach-quy-mo-thien-thu-thien-ha-ba-xuong-tap-06/Hung%20Tr%E1%BA%A1ch-Qu%E1%BB%B7%20M%E1%BB%99%20Thi%C3%AAn%20Th%C6%B0%20-Thi%C3%AAn%20H%E1%BA%A1%20B%C3%A1%20X%C6%B0%E1%BB%9Bng_T%E1%BA%ADp%2001.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3780,
+    "title" : "Hung Trạch-Quỷ Mộ Thiên Thư -Thiên Hạ Bá Xướng Tập 01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hung-trach-quy-mo-thien-thu-thien-ha-ba-xuong-tap-06/Hung%20Tr%E1%BA%A1ch-Qu%E1%BB%B7%20M%E1%BB%99%20Thi%C3%AAn%20Th%C6%B0%20-Thi%C3%AAn%20H%E1%BA%A1%20B%C3%A1%20X%C6%B0%E1%BB%9Bng_T%E1%BA%ADp%2002.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3731,
+    "title" : "Hung Trạch-Quỷ Mộ Thiên Thư -Thiên Hạ Bá Xướng Tập 02",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hung-trach-quy-mo-thien-thu-thien-ha-ba-xuong-tap-06/Hung%20Tr%E1%BA%A1ch-Qu%E1%BB%B7%20M%E1%BB%99%20Thi%C3%AAn%20Th%C6%B0%20-Thi%C3%AAn%20H%E1%BA%A1%20B%C3%A1%20X%C6%B0%E1%BB%9Bng_T%E1%BA%ADp%2003.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2771,
+    "title" : "Hung Trạch-Quỷ Mộ Thiên Thư -Thiên Hạ Bá Xướng Tập 03",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hung-trach-quy-mo-thien-thu-thien-ha-ba-xuong-tap-06/Hung%20Tr%E1%BA%A1ch-Qu%E1%BB%B7%20M%E1%BB%99%20Thi%C3%AAn%20Th%C6%B0%20-Thi%C3%AAn%20H%E1%BA%A1%20B%C3%A1%20X%C6%B0%E1%BB%9Bng_T%E1%BA%ADp%2004.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2777,
+    "title" : "Hung Trạch-Quỷ Mộ Thiên Thư -Thiên Hạ Bá Xướng Tập 04",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hung-trach-quy-mo-thien-thu-thien-ha-ba-xuong-tap-06/Hung%20Tr%E1%BA%A1ch-Qu%E1%BB%B7%20M%E1%BB%99%20Thi%C3%AAn%20Th%C6%B0%20-Thi%C3%AAn%20H%E1%BA%A1%20B%C3%A1%20X%C6%B0%E1%BB%9Bng_T%E1%BA%ADp%2005.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3525,
+    "title" : "Hung Trạch-Quỷ Mộ Thiên Thư -Thiên Hạ Bá Xướng Tập 05",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hung-trach-quy-mo-thien-thu-thien-ha-ba-xuong-tap-06/Hung%20Tr%E1%BA%A1ch-Qu%E1%BB%B7%20M%E1%BB%99%20Thi%C3%AAn%20Th%C6%B0%20-Thi%C3%AAn%20H%E1%BA%A1%20B%C3%A1%20X%C6%B0%E1%BB%9Bng_T%E1%BA%ADp%2006.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4121,
+    "title" : "Hung Trạch-Quỷ Mộ Thiên Thư -Thiên Hạ Bá Xướng Tập 06",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hung-trach-quy-mo-thien-thu-thien-ha-ba-xuong-tap-06/Hung%20Tr%E1%BA%A1ch-Qu%E1%BB%B7%20M%E1%BB%99%20Thi%C3%AAn%20Th%C6%B0%20-Thi%C3%AAn%20H%E1%BA%A1%20B%C3%A1%20X%C6%B0%E1%BB%9Bng_T%E1%BA%ADp%2007.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2482,
+    "title" : "Hung Trạch-Quỷ Mộ Thiên Thư -Thiên Hạ Bá Xướng Tập 07",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hung-trach-quy-mo-thien-thu-thien-ha-ba-xuong-tap-06/Hung%20Tr%E1%BA%A1ch-Qu%E1%BB%B7%20M%E1%BB%99%20Thi%C3%AAn%20Th%C6%B0%20-Thi%C3%AAn%20H%E1%BA%A1%20B%C3%A1%20X%C6%B0%E1%BB%9Bng_T%E1%BA%ADp%2008.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3684,
+    "title" : "Hung Trạch-Quỷ Mộ Thiên Thư -Thiên Hạ Bá Xướng Tập 08",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hung-trach-quy-mo-thien-thu-thien-ha-ba-xuong-tap-06/Hung%20Tr%E1%BA%A1ch-Qu%E1%BB%B7%20M%E1%BB%99%20Thi%C3%AAn%20Th%C6%B0%20-Thi%C3%AAn%20H%E1%BA%A1%20B%C3%A1%20X%C6%B0%E1%BB%9Bng_T%E1%BA%ADp%2009.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3080,
+    "title" : "Hung Trạch-Quỷ Mộ Thiên Thư -Thiên Hạ Bá Xướng Tập 09",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hung-trach-quy-mo-thien-thu-thien-ha-ba-xuong-tap-06/Hung%20Tr%E1%BA%A1ch-Qu%E1%BB%B7%20M%E1%BB%99%20Thi%C3%AAn%20Th%C6%B0%20-Thi%C3%AAn%20H%E1%BA%A1%20B%C3%A1%20X%C6%B0%E1%BB%9Bng_T%E1%BA%ADp%2010.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3941,
+    "title" : "Hung Trạch-Quỷ Mộ Thiên Thư -Thiên Hạ Bá Xướng Tập 10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hung-trach-quy-mo-thien-thu-thien-ha-ba-xuong-tap-06/Hung%20Tr%E1%BA%A1ch-Qu%E1%BB%B7%20M%E1%BB%99%20Thi%C3%AAn%20Th%C6%B0%20-Thi%C3%AAn%20H%E1%BA%A1%20B%C3%A1%20X%C6%B0%E1%BB%9Bng_T%E1%BA%ADp%2011.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3534,
+    "title" : "Hung Trạch-Quỷ Mộ Thiên Thư -Thiên Hạ Bá Xướng Tập 11",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hung-trach-quy-mo-thien-thu-thien-ha-ba-xuong-tap-06/Hung%20Tr%E1%BA%A1ch-Qu%E1%BB%B7%20M%E1%BB%99%20Thi%C3%AAn%20Th%C6%B0%20-Thi%C3%AAn%20H%E1%BA%A1%20B%C3%A1%20X%C6%B0%E1%BB%9Bng_T%E1%BA%ADp%2012.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3728,
+    "title" : "Hung Trạch-Quỷ Mộ Thiên Thư -Thiên Hạ Bá Xướng Tập 12",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hung-trach-quy-mo-thien-thu-thien-ha-ba-xuong-tap-06/Hung%20Tr%E1%BA%A1ch-Qu%E1%BB%B7%20M%E1%BB%99%20Thi%C3%AAn%20Th%C6%B0%20-Thi%C3%AAn%20H%E1%BA%A1%20B%C3%A1%20X%C6%B0%E1%BB%9Bng_T%E1%BA%ADp%2013.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2999,
+    "title" : "Hung Trạch-Quỷ Mộ Thiên Thư -Thiên Hạ Bá Xướng Tập 13",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hung-trach-quy-mo-thien-thu-thien-ha-ba-xuong-tap-06/Hung%20Tr%E1%BA%A1ch-Qu%E1%BB%B7%20M%E1%BB%99%20Thi%C3%AAn%20Th%C6%B0%20-Thi%C3%AAn%20H%E1%BA%A1%20B%C3%A1%20X%C6%B0%E1%BB%9Bng_T%E1%BA%ADp%2014.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3152,
+    "title" : "Hung Trạch-Quỷ Mộ Thiên Thư -Thiên Hạ Bá Xướng Tập 14",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hung-trach-quy-mo-thien-thu-thien-ha-ba-xuong-tap-06/Hung%20Tr%E1%BA%A1ch-Qu%E1%BB%B7%20M%E1%BB%99%20Thi%C3%AAn%20Th%C6%B0%20-Thi%C3%AAn%20H%E1%BA%A1%20B%C3%A1%20X%C6%B0%E1%BB%9Bng_T%E1%BA%ADp%2015.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3081,
+    "title" : "Hung Trạch-Quỷ Mộ Thiên Thư -Thiên Hạ Bá Xướng Tập 15",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hung-trach-quy-mo-thien-thu-thien-ha-ba-xuong-tap-06/Hung%20Tr%E1%BA%A1ch-Qu%E1%BB%B7%20M%E1%BB%99%20Thi%C3%AAn%20Th%C6%B0%20-Thi%C3%AAn%20H%E1%BA%A1%20B%C3%A1%20X%C6%B0%E1%BB%9Bng_T%E1%BA%ADp%2016.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3025,
+    "title" : "Hung Trạch-Quỷ Mộ Thiên Thư -Thiên Hạ Bá Xướng Tập 16",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hung-trach-quy-mo-thien-thu-thien-ha-ba-xuong-tap-06/Hung%20Tr%E1%BA%A1ch-Qu%E1%BB%B7%20M%E1%BB%99%20Thi%C3%AAn%20Th%C6%B0%20-Thi%C3%AAn%20H%E1%BA%A1%20B%C3%A1%20X%C6%B0%E1%BB%9Bng_T%E1%BA%ADp%2017%20%28end%29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2957,
+    "title" : "Hung Trạch-Quỷ Mộ Thiên Thư -Thiên Hạ Bá Xướng Tập 17 (end)",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/hung-trach-quy-mo-thien-thu-thien-ha-ba-xuong-tap-06/Hung%20Tr%E1%BA%A1ch-Qu%E1%BB%B7%20M%E1%BB%99%20Thi%C3%AAn%20Th%C6%B0%20-Thi%C3%AAn%20H%E1%BA%A1%20B%C3%A1%20X%C6%B0%E1%BB%9Bng_T%E1%BA%ADp%2001.mp3",
+    "title" : "Hung Trạch-Quỷ Mộ Thiên Thư -Thiên Hạ Bá Xướng Tập 01",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hung-trach-quy-mo-thien-thu-thien-ha-ba-xuong-tap-06/Hung%20Tr%E1%BA%A1ch-Qu%E1%BB%B7%20M%E1%BB%99%20Thi%C3%AAn%20Th%C6%B0%20-Thi%C3%AAn%20H%E1%BA%A1%20B%C3%A1%20X%C6%B0%E1%BB%9Bng_T%E1%BA%ADp%2002.mp3",
+    "title" : "Hung Trạch-Quỷ Mộ Thiên Thư -Thiên Hạ Bá Xướng Tập 02",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hung-trach-quy-mo-thien-thu-thien-ha-ba-xuong-tap-06/Hung%20Tr%E1%BA%A1ch-Qu%E1%BB%B7%20M%E1%BB%99%20Thi%C3%AAn%20Th%C6%B0%20-Thi%C3%AAn%20H%E1%BA%A1%20B%C3%A1%20X%C6%B0%E1%BB%9Bng_T%E1%BA%ADp%2003.mp3",
+    "title" : "Hung Trạch-Quỷ Mộ Thiên Thư -Thiên Hạ Bá Xướng Tập 03",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hung-trach-quy-mo-thien-thu-thien-ha-ba-xuong-tap-06/Hung%20Tr%E1%BA%A1ch-Qu%E1%BB%B7%20M%E1%BB%99%20Thi%C3%AAn%20Th%C6%B0%20-Thi%C3%AAn%20H%E1%BA%A1%20B%C3%A1%20X%C6%B0%E1%BB%9Bng_T%E1%BA%ADp%2004.mp3",
+    "title" : "Hung Trạch-Quỷ Mộ Thiên Thư -Thiên Hạ Bá Xướng Tập 04",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hung-trach-quy-mo-thien-thu-thien-ha-ba-xuong-tap-06/Hung%20Tr%E1%BA%A1ch-Qu%E1%BB%B7%20M%E1%BB%99%20Thi%C3%AAn%20Th%C6%B0%20-Thi%C3%AAn%20H%E1%BA%A1%20B%C3%A1%20X%C6%B0%E1%BB%9Bng_T%E1%BA%ADp%2005.mp3",
+    "title" : "Hung Trạch-Quỷ Mộ Thiên Thư -Thiên Hạ Bá Xướng Tập 05",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hung-trach-quy-mo-thien-thu-thien-ha-ba-xuong-tap-06/Hung%20Tr%E1%BA%A1ch-Qu%E1%BB%B7%20M%E1%BB%99%20Thi%C3%AAn%20Th%C6%B0%20-Thi%C3%AAn%20H%E1%BA%A1%20B%C3%A1%20X%C6%B0%E1%BB%9Bng_T%E1%BA%ADp%2006.mp3",
+    "title" : "Hung Trạch-Quỷ Mộ Thiên Thư -Thiên Hạ Bá Xướng Tập 06",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hung-trach-quy-mo-thien-thu-thien-ha-ba-xuong-tap-06/Hung%20Tr%E1%BA%A1ch-Qu%E1%BB%B7%20M%E1%BB%99%20Thi%C3%AAn%20Th%C6%B0%20-Thi%C3%AAn%20H%E1%BA%A1%20B%C3%A1%20X%C6%B0%E1%BB%9Bng_T%E1%BA%ADp%2007.mp3",
+    "title" : "Hung Trạch-Quỷ Mộ Thiên Thư -Thiên Hạ Bá Xướng Tập 07",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hung-trach-quy-mo-thien-thu-thien-ha-ba-xuong-tap-06/Hung%20Tr%E1%BA%A1ch-Qu%E1%BB%B7%20M%E1%BB%99%20Thi%C3%AAn%20Th%C6%B0%20-Thi%C3%AAn%20H%E1%BA%A1%20B%C3%A1%20X%C6%B0%E1%BB%9Bng_T%E1%BA%ADp%2008.mp3",
+    "title" : "Hung Trạch-Quỷ Mộ Thiên Thư -Thiên Hạ Bá Xướng Tập 08",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hung-trach-quy-mo-thien-thu-thien-ha-ba-xuong-tap-06/Hung%20Tr%E1%BA%A1ch-Qu%E1%BB%B7%20M%E1%BB%99%20Thi%C3%AAn%20Th%C6%B0%20-Thi%C3%AAn%20H%E1%BA%A1%20B%C3%A1%20X%C6%B0%E1%BB%9Bng_T%E1%BA%ADp%2009.mp3",
+    "title" : "Hung Trạch-Quỷ Mộ Thiên Thư -Thiên Hạ Bá Xướng Tập 09",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hung-trach-quy-mo-thien-thu-thien-ha-ba-xuong-tap-06/Hung%20Tr%E1%BA%A1ch-Qu%E1%BB%B7%20M%E1%BB%99%20Thi%C3%AAn%20Th%C6%B0%20-Thi%C3%AAn%20H%E1%BA%A1%20B%C3%A1%20X%C6%B0%E1%BB%9Bng_T%E1%BA%ADp%2010.mp3",
+    "title" : "Hung Trạch-Quỷ Mộ Thiên Thư -Thiên Hạ Bá Xướng Tập 10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hung-trach-quy-mo-thien-thu-thien-ha-ba-xuong-tap-06/Hung%20Tr%E1%BA%A1ch-Qu%E1%BB%B7%20M%E1%BB%99%20Thi%C3%AAn%20Th%C6%B0%20-Thi%C3%AAn%20H%E1%BA%A1%20B%C3%A1%20X%C6%B0%E1%BB%9Bng_T%E1%BA%ADp%2011.mp3",
+    "title" : "Hung Trạch-Quỷ Mộ Thiên Thư -Thiên Hạ Bá Xướng Tập 11",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hung-trach-quy-mo-thien-thu-thien-ha-ba-xuong-tap-06/Hung%20Tr%E1%BA%A1ch-Qu%E1%BB%B7%20M%E1%BB%99%20Thi%C3%AAn%20Th%C6%B0%20-Thi%C3%AAn%20H%E1%BA%A1%20B%C3%A1%20X%C6%B0%E1%BB%9Bng_T%E1%BA%ADp%2012.mp3",
+    "title" : "Hung Trạch-Quỷ Mộ Thiên Thư -Thiên Hạ Bá Xướng Tập 12",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hung-trach-quy-mo-thien-thu-thien-ha-ba-xuong-tap-06/Hung%20Tr%E1%BA%A1ch-Qu%E1%BB%B7%20M%E1%BB%99%20Thi%C3%AAn%20Th%C6%B0%20-Thi%C3%AAn%20H%E1%BA%A1%20B%C3%A1%20X%C6%B0%E1%BB%9Bng_T%E1%BA%ADp%2013.mp3",
+    "title" : "Hung Trạch-Quỷ Mộ Thiên Thư -Thiên Hạ Bá Xướng Tập 13",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hung-trach-quy-mo-thien-thu-thien-ha-ba-xuong-tap-06/Hung%20Tr%E1%BA%A1ch-Qu%E1%BB%B7%20M%E1%BB%99%20Thi%C3%AAn%20Th%C6%B0%20-Thi%C3%AAn%20H%E1%BA%A1%20B%C3%A1%20X%C6%B0%E1%BB%9Bng_T%E1%BA%ADp%2014.mp3",
+    "title" : "Hung Trạch-Quỷ Mộ Thiên Thư -Thiên Hạ Bá Xướng Tập 14",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hung-trach-quy-mo-thien-thu-thien-ha-ba-xuong-tap-06/Hung%20Tr%E1%BA%A1ch-Qu%E1%BB%B7%20M%E1%BB%99%20Thi%C3%AAn%20Th%C6%B0%20-Thi%C3%AAn%20H%E1%BA%A1%20B%C3%A1%20X%C6%B0%E1%BB%9Bng_T%E1%BA%ADp%2015.mp3",
+    "title" : "Hung Trạch-Quỷ Mộ Thiên Thư -Thiên Hạ Bá Xướng Tập 15",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hung-trach-quy-mo-thien-thu-thien-ha-ba-xuong-tap-06/Hung%20Tr%E1%BA%A1ch-Qu%E1%BB%B7%20M%E1%BB%99%20Thi%C3%AAn%20Th%C6%B0%20-Thi%C3%AAn%20H%E1%BA%A1%20B%C3%A1%20X%C6%B0%E1%BB%9Bng_T%E1%BA%ADp%2016.mp3",
+    "title" : "Hung Trạch-Quỷ Mộ Thiên Thư -Thiên Hạ Bá Xướng Tập 16",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hung-trach-quy-mo-thien-thu-thien-ha-ba-xuong-tap-06/Hung%20Tr%E1%BA%A1ch-Qu%E1%BB%B7%20M%E1%BB%99%20Thi%C3%AAn%20Th%C6%B0%20-Thi%C3%AAn%20H%E1%BA%A1%20B%C3%A1%20X%C6%B0%E1%BB%9Bng_T%E1%BA%ADp%2017%20%28end%29.mp3",
+    "title" : "Hung Trạch-Quỷ Mộ Thiên Thư -Thiên Hạ Bá Xướng Tập 17 (end)",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

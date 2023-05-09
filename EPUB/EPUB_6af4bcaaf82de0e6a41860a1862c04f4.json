@@ -1,0 +1,65 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/chi-muon-lam-ong-xa-cua-em-kim-tinh_10692.html",
+    "title" : "Chỉ Muốn Làm Ông Xã Của Em - Kim Tinh",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Kim Tinh",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 14474,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/EPUB/EPUB_6af4bcaaf82de0e6a41860a1862c04f4.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/IMAGE/IMAGE_6af4bcaaf82de0e6a41860a1862c04f4.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/chi-muon-lam-ong-xa-cua-em/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6831,
+    "title" : "Truyện Ngôn Tình Hay Nhất Hiện Đại",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chi-muon-lam-ong-xa-cua-em/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7643,
+    "title" : "Chỉ Muốn Làm Ông Xã Của Em [Phần 2 HẾT] Truyện Ngôn Tình Hay Nhất",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/chi-muon-lam-ong-xa-cua-em/1.mp3",
+    "title" : "Truyện Ngôn Tình Hay Nhất Hiện Đại",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chi-muon-lam-ong-xa-cua-em/2.mp3",
+    "title" : "Chỉ Muốn Làm Ông Xã Của Em [Phần 2 HẾT] Truyện Ngôn Tình Hay Nhất",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

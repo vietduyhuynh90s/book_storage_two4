@@ -1,0 +1,305 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/audiobook-dung-nhan-danh-tinh-yeu-bat-kinh-ngu-ngon-tinh_3839.html",
+    "title" : "Đừng Nhân Danh Tình Yêu - Bất Kính Ngữ.",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Bất Kinh Ngữ",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 69656,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/EPUB/EPUB_e43ecba40dad39213a25c2d875dda386.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/IMAGE/IMAGE_e43ecba40dad39213a25c2d875dda386.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/dung-nhan-danh-tinh-yeu/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 567,
+    "title" : "01. [Vy Vy-Annie] ĐỪNG NHÂN DANH TÌNH YÊU Giới thiệu - Bất Kinh Ngữ - Audio ngôn tình đô thị",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dung-nhan-danh-tinh-yeu/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3240,
+    "title" : "10. [Vy Vy-Annie] ĐỪNG NHÂN DANH TÌNH YÊU - Bất Kinh Ngữ - Audio ngôn tình, đô thị",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dung-nhan-danh-tinh-yeu/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3078,
+    "title" : "11. [Vy Vy-Annie] ĐỪNG NHÂN DANH TÌNH YÊU Tập 10 - Bất Kinh Ngữ - Audio ngôn tình đô thị",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dung-nhan-danh-tinh-yeu/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3485,
+    "title" : "12. [Vy Vy-Annie] ĐỪNG NHÂN DANH TÌNH YÊU Tập 11 - Bất Kinh Ngữ - Audio ngôn tình, đô thị",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dung-nhan-danh-tinh-yeu/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3153,
+    "title" : "13. [Vy Vy-Annie] ĐỪNG NHÂN DANH TÌNH YÊU Tập 12 - Bất Kinh Ngữ - Audio ngôn tình đô thị",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dung-nhan-danh-tinh-yeu/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3298,
+    "title" : "14. [Vy Vy-Annie] ĐỪNG NHÂN DANH TÌNH YÊU Tập 13 - Bất Kinh Ngữ - Audio ngôn tình, đô thị",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dung-nhan-danh-tinh-yeu/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3517,
+    "title" : "15. [Vy Vy-Annie] ĐỪNG NHÂN DANH TÌNH YÊU Tập 14 - Bất Kinh Ngữ - Audio ngôn tình đô thị",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dung-nhan-danh-tinh-yeu/16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3503,
+    "title" : "16. [Vy Vy-Annie] ĐỪNG NHÂN DANH TÌNH YÊU Tập 15 - Bất Kinh Ngữ - Audio ngôn tình đô thị",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dung-nhan-danh-tinh-yeu/17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3482,
+    "title" : "17. [Vy Vy-Annie] ĐỪNG NHÂN DANH TÌNH YÊU Tập 16 - Bất Kinh Ngữ - Audio ngôn tình, hiện đại",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dung-nhan-danh-tinh-yeu/18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3357,
+    "title" : "19. [Vy Vy-Annie] ĐỪNG NHÂN DANH TÌNH YÊU Tập 18 - Bất Kinh Ngữ - Audio ngôn tình đô thị",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dung-nhan-danh-tinh-yeu/19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3544,
+    "title" : "20. [Vy Vy-Annie] ĐỪNG NHÂN DANH TÌNH YÊU Tập 19 - Bất Kinh Ngữ - Audio ngôn tình đô thị",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dung-nhan-danh-tinh-yeu/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3500,
+    "title" : "02. [Vy Vy-Annie] ĐỪNG NHÂN DANH TÌNH YÊU Tập 1 - Bất Kinh Ngữ - Audio ngôn tình đô thị",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dung-nhan-danh-tinh-yeu/20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3552,
+    "title" : "21. [Vy Vy-Annie] ĐỪNG NHÂN DANH TÌNH YÊU Tập 20 - Bất Kinh Ngữ - Audio ngôn tình đô thị",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dung-nhan-danh-tinh-yeu/21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1726,
+    "title" : "22. [Vy Vy-Annie] ĐỪNG NHÂN DANH TÌNH YÊU Tập 21 - Bất Kinh Ngữ - Audio ngôn tình đô thị",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dung-nhan-danh-tinh-yeu/22.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3566,
+    "title" : "23. [Vy Vy-Annie] ĐỪNG NHÂN DANH TÌNH YÊU Tập 22 End -Bất Kinh Ngữ - Audio ngôn tình đô thị",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dung-nhan-danh-tinh-yeu/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3141,
+    "title" : "03. [Vy Vy-Annie] ĐỪNG NHÂN DANH TÌNH YÊU Tập 2 - Bất Kinh Ngữ - Audio ngôn tình đô thị",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dung-nhan-danh-tinh-yeu/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3542,
+    "title" : "04. [Vy Vy-Annie] ĐỪNG NHÂN DANH TÌNH YÊU Tập 3 - Bất Kinh Ngữ - Audio ngôn tình đô thị",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dung-nhan-danh-tinh-yeu/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3445,
+    "title" : "05. [Vy Vy-Annie] ĐỪNG NHÂN DANH TÌNH YÊU Tập 4 - Bất Kinh Ngữ - Audio ngôn tình đô thị",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dung-nhan-danh-tinh-yeu/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2902,
+    "title" : "06. [Vy Vy-Annie] ĐỪNG NHÂN DANH TÌNH YÊU Tập 5 - Bất Kinh Ngữ - Audio ngôn tình, đô thị",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dung-nhan-danh-tinh-yeu/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3348,
+    "title" : "07. [Vy Vy-Annie] ĐỪNG NHÂN DANH TÌNH YÊU Tập 6 - Bất Kinh Ngữ - Audio ngôn tình đô thị",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dung-nhan-danh-tinh-yeu/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3139,
+    "title" : "08. [Vy Vy-Annie] ĐỪNG NHÂN DANH TÌNH YÊU Tập 7 - Bất Kinh Ngữ - Audio ngôn tình đô thị",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dung-nhan-danh-tinh-yeu/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3571,
+    "title" : "09. [Vy Vy-Annie] ĐỪNG NHÂN DANH TÌNH YÊU Tập 8 - Bất Kinh Ngữ - Audio ngôn tình, đô thị",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/dung-nhan-danh-tinh-yeu/1.mp3",
+    "title" : "01. [Vy Vy-Annie] ĐỪNG NHÂN DANH TÌNH YÊU Giới thiệu - Bất Kinh Ngữ - Audio ngôn tình đô thị",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dung-nhan-danh-tinh-yeu/10.mp3",
+    "title" : "10. [Vy Vy-Annie] ĐỪNG NHÂN DANH TÌNH YÊU - Bất Kinh Ngữ - Audio ngôn tình, đô thị",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dung-nhan-danh-tinh-yeu/11.mp3",
+    "title" : "11. [Vy Vy-Annie] ĐỪNG NHÂN DANH TÌNH YÊU Tập 10 - Bất Kinh Ngữ - Audio ngôn tình đô thị",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dung-nhan-danh-tinh-yeu/12.mp3",
+    "title" : "12. [Vy Vy-Annie] ĐỪNG NHÂN DANH TÌNH YÊU Tập 11 - Bất Kinh Ngữ - Audio ngôn tình, đô thị",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dung-nhan-danh-tinh-yeu/13.mp3",
+    "title" : "13. [Vy Vy-Annie] ĐỪNG NHÂN DANH TÌNH YÊU Tập 12 - Bất Kinh Ngữ - Audio ngôn tình đô thị",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dung-nhan-danh-tinh-yeu/14.mp3",
+    "title" : "14. [Vy Vy-Annie] ĐỪNG NHÂN DANH TÌNH YÊU Tập 13 - Bất Kinh Ngữ - Audio ngôn tình, đô thị",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dung-nhan-danh-tinh-yeu/15.mp3",
+    "title" : "15. [Vy Vy-Annie] ĐỪNG NHÂN DANH TÌNH YÊU Tập 14 - Bất Kinh Ngữ - Audio ngôn tình đô thị",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dung-nhan-danh-tinh-yeu/16.mp3",
+    "title" : "16. [Vy Vy-Annie] ĐỪNG NHÂN DANH TÌNH YÊU Tập 15 - Bất Kinh Ngữ - Audio ngôn tình đô thị",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dung-nhan-danh-tinh-yeu/17.mp3",
+    "title" : "17. [Vy Vy-Annie] ĐỪNG NHÂN DANH TÌNH YÊU Tập 16 - Bất Kinh Ngữ - Audio ngôn tình, hiện đại",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dung-nhan-danh-tinh-yeu/18.mp3",
+    "title" : "19. [Vy Vy-Annie] ĐỪNG NHÂN DANH TÌNH YÊU Tập 18 - Bất Kinh Ngữ - Audio ngôn tình đô thị",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dung-nhan-danh-tinh-yeu/19.mp3",
+    "title" : "20. [Vy Vy-Annie] ĐỪNG NHÂN DANH TÌNH YÊU Tập 19 - Bất Kinh Ngữ - Audio ngôn tình đô thị",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dung-nhan-danh-tinh-yeu/2.mp3",
+    "title" : "02. [Vy Vy-Annie] ĐỪNG NHÂN DANH TÌNH YÊU Tập 1 - Bất Kinh Ngữ - Audio ngôn tình đô thị",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dung-nhan-danh-tinh-yeu/20.mp3",
+    "title" : "21. [Vy Vy-Annie] ĐỪNG NHÂN DANH TÌNH YÊU Tập 20 - Bất Kinh Ngữ - Audio ngôn tình đô thị",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dung-nhan-danh-tinh-yeu/21.mp3",
+    "title" : "22. [Vy Vy-Annie] ĐỪNG NHÂN DANH TÌNH YÊU Tập 21 - Bất Kinh Ngữ - Audio ngôn tình đô thị",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dung-nhan-danh-tinh-yeu/22.mp3",
+    "title" : "23. [Vy Vy-Annie] ĐỪNG NHÂN DANH TÌNH YÊU Tập 22 End -Bất Kinh Ngữ - Audio ngôn tình đô thị",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dung-nhan-danh-tinh-yeu/3.mp3",
+    "title" : "03. [Vy Vy-Annie] ĐỪNG NHÂN DANH TÌNH YÊU Tập 2 - Bất Kinh Ngữ - Audio ngôn tình đô thị",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dung-nhan-danh-tinh-yeu/4.mp3",
+    "title" : "04. [Vy Vy-Annie] ĐỪNG NHÂN DANH TÌNH YÊU Tập 3 - Bất Kinh Ngữ - Audio ngôn tình đô thị",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dung-nhan-danh-tinh-yeu/5.mp3",
+    "title" : "05. [Vy Vy-Annie] ĐỪNG NHÂN DANH TÌNH YÊU Tập 4 - Bất Kinh Ngữ - Audio ngôn tình đô thị",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dung-nhan-danh-tinh-yeu/6.mp3",
+    "title" : "06. [Vy Vy-Annie] ĐỪNG NHÂN DANH TÌNH YÊU Tập 5 - Bất Kinh Ngữ - Audio ngôn tình, đô thị",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dung-nhan-danh-tinh-yeu/7.mp3",
+    "title" : "07. [Vy Vy-Annie] ĐỪNG NHÂN DANH TÌNH YÊU Tập 6 - Bất Kinh Ngữ - Audio ngôn tình đô thị",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dung-nhan-danh-tinh-yeu/8.mp3",
+    "title" : "08. [Vy Vy-Annie] ĐỪNG NHÂN DANH TÌNH YÊU Tập 7 - Bất Kinh Ngữ - Audio ngôn tình đô thị",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dung-nhan-danh-tinh-yeu/9.mp3",
+    "title" : "09. [Vy Vy-Annie] ĐỪNG NHÂN DANH TÌNH YÊU Tập 8 - Bất Kinh Ngữ - Audio ngôn tình, đô thị",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,161 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/ngang-qua-the-gioi-cua-em-truong-gia-giai_10004.html",
+    "title" : "Ngang Qua Thế Giới Của Em - Trương Gia Giai.",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Trương Gia Giai",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 32462,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/EPUB/EPUB_13dc68ae11448cbf67ac7016648acb6d.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/IMAGE/IMAGE_13dc68ae11448cbf67ac7016648acb6d.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_nqtgce/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4856,
+    "title" : "Trương Gia Giai - Truyện ngôn tình hệ liệt Vy Vy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_nqtgce/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 906,
+    "title" : "Trương Gia Giai - Audio ngôn tình, hệ liệt",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_nqtgce/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3309,
+    "title" : "Trương Gia Giai - Truyện ngôn tình hệ liệt Vy Vy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_nqtgce/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3986,
+    "title" : "Trương Gia Giai - Truyện ngôn tình hệ liệt Vy Vy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_nqtgce/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5512,
+    "title" : "Trương Gia Giai - Truyện ngôn tình hệ liệt Vy Vy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_nqtgce/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3295,
+    "title" : "Trương Gia Giai - Truyện ngôn tình hệ liệt",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_nqtgce/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1792,
+    "title" : "Trương Gia Giai - Audio ngôn tình, hệ liệt",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_nqtgce/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2553,
+    "title" : "Trương Gia Giai - Audio ngôn tình, hệ liệt",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_nqtgce/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3097,
+    "title" : "Trương Gia Giai - Audio ngôn tình hệ liệt",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_nqtgce/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3156,
+    "title" : "Trương Gia Giai - Audio ngôn tình, hệ liệt",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_nqtgce/1.mp3",
+    "title" : "Trương Gia Giai - Truyện ngôn tình hệ liệt Vy Vy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_nqtgce/10.mp3",
+    "title" : "Trương Gia Giai - Audio ngôn tình, hệ liệt",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_nqtgce/2.mp3",
+    "title" : "Trương Gia Giai - Truyện ngôn tình hệ liệt Vy Vy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_nqtgce/3.mp3",
+    "title" : "Trương Gia Giai - Truyện ngôn tình hệ liệt Vy Vy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_nqtgce/4.mp3",
+    "title" : "Trương Gia Giai - Truyện ngôn tình hệ liệt Vy Vy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_nqtgce/5.mp3",
+    "title" : "Trương Gia Giai - Truyện ngôn tình hệ liệt",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_nqtgce/6.mp3",
+    "title" : "Trương Gia Giai - Audio ngôn tình, hệ liệt",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_nqtgce/7.mp3",
+    "title" : "Trương Gia Giai - Audio ngôn tình, hệ liệt",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_nqtgce/8.mp3",
+    "title" : "Trương Gia Giai - Audio ngôn tình hệ liệt",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_nqtgce/9.mp3",
+    "title" : "Trương Gia Giai - Audio ngôn tình, hệ liệt",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,65 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/audiobook-nghe-thuat-ban-hang-bac-cao-zig-ziglar-quan-tri_2319.html",
+    "title" : "Nghệ Thuật Bán Hàng Bậc Cao - Zig Ziglar",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Zig Ziglar",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 47187,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/EPUB/EPUB_7aca1d2f921b93311283411337024421.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/IMAGE/IMAGE_7aca1d2f921b93311283411337024421.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/nghe-thuat-ban-hang-bac-cao/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 27629,
+    "title" : "Kho sách nói | Nghệ thuật bán hàng bậc cao Phần 1 | sách dạy tư duy kinh doanh làm giàu hay nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghe-thuat-ban-hang-bac-cao/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 19558,
+    "title" : "Kho sách nói | Nghệ thuật bán hàng bậc cao Phần 2 | sách dạy tư duy kinh doanh làm giàu hay nhất",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/nghe-thuat-ban-hang-bac-cao/1.mp3",
+    "title" : "Kho sách nói | Nghệ thuật bán hàng bậc cao Phần 1 | sách dạy tư duy kinh doanh làm giàu hay nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghe-thuat-ban-hang-bac-cao/2.mp3",
+    "title" : "Kho sách nói | Nghệ thuật bán hàng bậc cao Phần 2 | sách dạy tư duy kinh doanh làm giàu hay nhất",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

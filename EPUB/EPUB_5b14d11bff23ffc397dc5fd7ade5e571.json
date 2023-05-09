@@ -1,0 +1,113 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/ai-la-ke-thu-ba-diep-khuynh-thanh_10512.html",
+    "title" : "Ai Là Kẻ Thứ Ba - Diệp Khuynh Thành",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Diệp Khuynh Thành",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 25716,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/EPUB/EPUB_5b14d11bff23ffc397dc5fd7ade5e571.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/IMAGE/IMAGE_5b14d11bff23ffc397dc5fd7ade5e571.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/ai-la-ke-thu-ba/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4254,
+    "title" : "Ai là kẻ thứ ba P1 - MC Hồng Nhung",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ai-la-ke-thu-ba/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3816,
+    "title" : "Ai là kẻ thứ ba P2 - MC Hồng Nhung",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ai-la-ke-thu-ba/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4186,
+    "title" : "Ai là kẻ thứ ba P3 - MC Hồng Nhung",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ai-la-ke-thu-ba/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3965,
+    "title" : "AI là kẻ thứ ba P4 - MC Hồng Nhung",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ai-la-ke-thu-ba/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4725,
+    "title" : "Ai là kẻ thứ ba P5 - MC Hồng Nhung",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ai-la-ke-thu-ba/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4770,
+    "title" : "Ai là kẻ thứ ba P6 (hết) - MC Hồng Nhung",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/ai-la-ke-thu-ba/1.mp3",
+    "title" : "Ai là kẻ thứ ba P1 - MC Hồng Nhung",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ai-la-ke-thu-ba/2.mp3",
+    "title" : "Ai là kẻ thứ ba P2 - MC Hồng Nhung",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ai-la-ke-thu-ba/3.mp3",
+    "title" : "Ai là kẻ thứ ba P3 - MC Hồng Nhung",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ai-la-ke-thu-ba/4.mp3",
+    "title" : "AI là kẻ thứ ba P4 - MC Hồng Nhung",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ai-la-ke-thu-ba/5.mp3",
+    "title" : "Ai là kẻ thứ ba P5 - MC Hồng Nhung",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ai-la-ke-thu-ba/6.mp3",
+    "title" : "Ai là kẻ thứ ba P6 (hết) - MC Hồng Nhung",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

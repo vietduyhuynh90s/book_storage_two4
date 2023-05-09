@@ -1,0 +1,425 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/nghe-lam-phi-nguyet-ha-diep-anh_10287.html",
+    "title" : "Nghề Làm Phi - Nguyệt Hạ Điệp Ảnh",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nguyệt Hạ Điệp Ảnh",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 90496,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/EPUB/EPUB_60c33b77913e814f40e3110b3ac2f4a5.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/IMAGE/IMAGE_60c33b77913e814f40e3110b3ac2f4a5.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/nghe-lam-phi/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1552,
+    "title" : "Nghề Làm Phi – Tập 1 Truyện Xuyên Không",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghe-lam-phi/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2639,
+    "title" : "Nghề Làm Phi – Tập 10 Truyện Audio Xuyên Không",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghe-lam-phi/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2357,
+    "title" : "Nghề Làm Phi – Tập 11",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghe-lam-phi/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1397,
+    "title" : "Nghề Làm Phi – Tập 12",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghe-lam-phi/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4259,
+    "title" : "Nghề Làm Phi – Tập 13",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghe-lam-phi/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1751,
+    "title" : "Nghề Làm Phi – Tập 14",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghe-lam-phi/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3658,
+    "title" : "Nghề Làm Phi – Tập 15",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghe-lam-phi/16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3590,
+    "title" : "Nghề Làm Phi – Tập 16",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghe-lam-phi/17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1712,
+    "title" : "Nghề Làm Phi – Tập 17",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghe-lam-phi/18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2963,
+    "title" : "Nghề Làm Phi – Tập 18",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghe-lam-phi/19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3399,
+    "title" : "Nghề Làm Phi – Tập 19",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghe-lam-phi/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2160,
+    "title" : "Nghề Làm Phi – Tập 2 Truyện Xuyên Không",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghe-lam-phi/20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2426,
+    "title" : "Nghề Làm Phi – Tập 20",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghe-lam-phi/21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2677,
+    "title" : "Nghề Làm Phi – Tập 21",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghe-lam-phi/22.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5180,
+    "title" : "Nghề Làm Phi – Tập 22",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghe-lam-phi/23.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2958,
+    "title" : "Nghề Làm Phi – Tập 23",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghe-lam-phi/24.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2917,
+    "title" : "Nghề Làm Phi – Tập 24",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghe-lam-phi/25.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2394,
+    "title" : "Nghề Làm Phi – Tập 25",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghe-lam-phi/26.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3237,
+    "title" : "Nghề Làm Phi – Tập 26",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghe-lam-phi/27.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3299,
+    "title" : "Nghề Làm Phi – Tập 27",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghe-lam-phi/28.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2257,
+    "title" : "Nghề Làm Phi – Tập 28",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghe-lam-phi/29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4357,
+    "title" : "Nghề Làm Phi – Tập 29",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghe-lam-phi/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2306,
+    "title" : "Nghề Làm Phi – Tập 3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghe-lam-phi/30.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2702,
+    "title" : "Nghề Làm Phi – Tập 30",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghe-lam-phi/31.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1885,
+    "title" : "Nghề Làm Phi – Tập 31",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghe-lam-phi/32.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5259,
+    "title" : "Nghề Làm Phi – Tập 32 End",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghe-lam-phi/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1699,
+    "title" : "Nghề Làm Phi – Tập 4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghe-lam-phi/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2800,
+    "title" : "Nghề Làm Phi – Tập 5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghe-lam-phi/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1812,
+    "title" : "Nghề Làm Phi – Tập 6 Truyện Audio Xuyên Không",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghe-lam-phi/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2598,
+    "title" : "Nghề Làm Phi – Tập 7 Truyện Audio Xuyên Không",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghe-lam-phi/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3186,
+    "title" : "Nghề Làm Phi – Tập 8",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghe-lam-phi/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3110,
+    "title" : "Nghề Làm Phi – Tập 9",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/nghe-lam-phi/1.mp3",
+    "title" : "Nghề Làm Phi – Tập 1 Truyện Xuyên Không",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghe-lam-phi/10.mp3",
+    "title" : "Nghề Làm Phi – Tập 10 Truyện Audio Xuyên Không",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghe-lam-phi/11.mp3",
+    "title" : "Nghề Làm Phi – Tập 11",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghe-lam-phi/12.mp3",
+    "title" : "Nghề Làm Phi – Tập 12",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghe-lam-phi/13.mp3",
+    "title" : "Nghề Làm Phi – Tập 13",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghe-lam-phi/14.mp3",
+    "title" : "Nghề Làm Phi – Tập 14",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghe-lam-phi/15.mp3",
+    "title" : "Nghề Làm Phi – Tập 15",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghe-lam-phi/16.mp3",
+    "title" : "Nghề Làm Phi – Tập 16",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghe-lam-phi/17.mp3",
+    "title" : "Nghề Làm Phi – Tập 17",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghe-lam-phi/18.mp3",
+    "title" : "Nghề Làm Phi – Tập 18",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghe-lam-phi/19.mp3",
+    "title" : "Nghề Làm Phi – Tập 19",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghe-lam-phi/2.mp3",
+    "title" : "Nghề Làm Phi – Tập 2 Truyện Xuyên Không",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghe-lam-phi/20.mp3",
+    "title" : "Nghề Làm Phi – Tập 20",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghe-lam-phi/21.mp3",
+    "title" : "Nghề Làm Phi – Tập 21",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghe-lam-phi/22.mp3",
+    "title" : "Nghề Làm Phi – Tập 22",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghe-lam-phi/23.mp3",
+    "title" : "Nghề Làm Phi – Tập 23",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghe-lam-phi/24.mp3",
+    "title" : "Nghề Làm Phi – Tập 24",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghe-lam-phi/25.mp3",
+    "title" : "Nghề Làm Phi – Tập 25",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghe-lam-phi/26.mp3",
+    "title" : "Nghề Làm Phi – Tập 26",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghe-lam-phi/27.mp3",
+    "title" : "Nghề Làm Phi – Tập 27",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghe-lam-phi/28.mp3",
+    "title" : "Nghề Làm Phi – Tập 28",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghe-lam-phi/29.mp3",
+    "title" : "Nghề Làm Phi – Tập 29",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghe-lam-phi/3.mp3",
+    "title" : "Nghề Làm Phi – Tập 3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghe-lam-phi/30.mp3",
+    "title" : "Nghề Làm Phi – Tập 30",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghe-lam-phi/31.mp3",
+    "title" : "Nghề Làm Phi – Tập 31",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghe-lam-phi/32.mp3",
+    "title" : "Nghề Làm Phi – Tập 32 End",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghe-lam-phi/4.mp3",
+    "title" : "Nghề Làm Phi – Tập 4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghe-lam-phi/5.mp3",
+    "title" : "Nghề Làm Phi – Tập 5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghe-lam-phi/6.mp3",
+    "title" : "Nghề Làm Phi – Tập 6 Truyện Audio Xuyên Không",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghe-lam-phi/7.mp3",
+    "title" : "Nghề Làm Phi – Tập 7 Truyện Audio Xuyên Không",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghe-lam-phi/8.mp3",
+    "title" : "Nghề Làm Phi – Tập 8",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghe-lam-phi/9.mp3",
+    "title" : "Nghề Làm Phi – Tập 9",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

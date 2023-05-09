@@ -1,0 +1,77 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/mua-em-mot-tram-dem_12100.html",
+    "title" : "Mua Em Một Trăm Đêm",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nghê Tịnh",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 26810,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/EPUB/EPUB_9f1e12cb5c5e6296d2d0380cb22210b0.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/IMAGE/IMAGE_9f1e12cb5c5e6296d2d0380cb22210b0.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/muaemmottramdem/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 9297,
+    "title" : "MUA EM MỘT TRĂM ĐÊM [Phần 1] Truyện ngôn tình hiện đại làm bao người mê mẩn!",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/muaemmottramdem/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8346,
+    "title" : "MUA EM MỘT TRĂM ĐÊM (Phần 2) Truyện ngôn tình hay vô cùng ý nghĩa!",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/muaemmottramdem/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 9167,
+    "title" : "MUA EM MỘT TRĂM ĐÊM (Phần cuối) Truyện ngôn tình hay và một kết thúc ngọt ngào",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/muaemmottramdem/1.mp3",
+    "title" : "MUA EM MỘT TRĂM ĐÊM [Phần 1] Truyện ngôn tình hiện đại làm bao người mê mẩn!",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/muaemmottramdem/2.mp3",
+    "title" : "MUA EM MỘT TRĂM ĐÊM (Phần 2) Truyện ngôn tình hay vô cùng ý nghĩa!",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/muaemmottramdem/3.mp3",
+    "title" : "MUA EM MỘT TRĂM ĐÊM (Phần cuối) Truyện ngôn tình hay và một kết thúc ngọt ngào",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

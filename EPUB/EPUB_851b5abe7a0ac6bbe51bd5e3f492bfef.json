@@ -1,0 +1,221 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/quy-vuong-doc-sung-sat-phi-phi-nghien_11358.html",
+    "title" : "Qủy Vương Độc Sủng Sát Phi - Phi Nghiên",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Phi Nghiên",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 56153,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/EPUB/EPUB_851b5abe7a0ac6bbe51bd5e3f492bfef.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/IMAGE/IMAGE_851b5abe7a0ac6bbe51bd5e3f492bfef.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/quy-vuong-doc-sung-sat-phi/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3380,
+    "title" : "TẬP 1 - CHƯƠNG 01-05",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-doc-sung-sat-phi/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2649,
+    "title" : "TẬP 10 - C64.2 - 66",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-doc-sung-sat-phi/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3001,
+    "title" : "TẬP 11 - C67-70.1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-doc-sung-sat-phi/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7451,
+    "title" : "TẬP 12 - C70.2-81",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-doc-sung-sat-phi/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2510,
+    "title" : "TẬP 13 - C82-84",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-doc-sung-sat-phi/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4706,
+    "title" : "TẬP 14",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-doc-sung-sat-phi/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2451,
+    "title" : "TẬP 15 - HẾT",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-doc-sung-sat-phi/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5605,
+    "title" : "TẬP 2 - CHƯƠNG 06-16",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-doc-sung-sat-phi/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3461,
+    "title" : "TẬP 3 - C17-23",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-doc-sung-sat-phi/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2812,
+    "title" : "TẬP 4 - C24-29",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-doc-sung-sat-phi/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2660,
+    "title" : "TẬP 5 - C30-35",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-doc-sung-sat-phi/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2875,
+    "title" : "TẬP 6 - C36-41",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-doc-sung-sat-phi/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3246,
+    "title" : "TẬP 7 - C42-48",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-doc-sung-sat-phi/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5929,
+    "title" : "TẬP 8 - C49-60.1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-doc-sung-sat-phi/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3417,
+    "title" : "TẬP 9 - C60.2 - 64.1",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/quy-vuong-doc-sung-sat-phi/1.mp3",
+    "title" : "TẬP 1 - CHƯƠNG 01-05",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-doc-sung-sat-phi/10.mp3",
+    "title" : "TẬP 10 - C64.2 - 66",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-doc-sung-sat-phi/11.mp3",
+    "title" : "TẬP 11 - C67-70.1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-doc-sung-sat-phi/12.mp3",
+    "title" : "TẬP 12 - C70.2-81",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-doc-sung-sat-phi/13.mp3",
+    "title" : "TẬP 13 - C82-84",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-doc-sung-sat-phi/14.mp3",
+    "title" : "TẬP 14",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-doc-sung-sat-phi/15.mp3",
+    "title" : "TẬP 15 - HẾT",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-doc-sung-sat-phi/2.mp3",
+    "title" : "TẬP 2 - CHƯƠNG 06-16",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-doc-sung-sat-phi/3.mp3",
+    "title" : "TẬP 3 - C17-23",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-doc-sung-sat-phi/4.mp3",
+    "title" : "TẬP 4 - C24-29",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-doc-sung-sat-phi/5.mp3",
+    "title" : "TẬP 5 - C30-35",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-doc-sung-sat-phi/6.mp3",
+    "title" : "TẬP 6 - C36-41",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-doc-sung-sat-phi/7.mp3",
+    "title" : "TẬP 7 - C42-48",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-doc-sung-sat-phi/8.mp3",
+    "title" : "TẬP 8 - C49-60.1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-doc-sung-sat-phi/9.mp3",
+    "title" : "TẬP 9 - C60.2 - 64.1",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

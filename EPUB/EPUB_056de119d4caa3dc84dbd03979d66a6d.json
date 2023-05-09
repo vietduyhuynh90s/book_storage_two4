@@ -1,0 +1,557 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/van-co-de-nhat-de-thien-ha-thanh-khong_11366.html",
+    "title" : "Vạn Cổ Đệ Nhất Đế - Thiên Hạ Thanh Không",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Thiên Hạ Thanh Không",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 117906,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/EPUB/EPUB_056de119d4caa3dc84dbd03979d66a6d.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/IMAGE/IMAGE_056de119d4caa3dc84dbd03979d66a6d.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/van-co-de-nhat-de/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2528,
+    "title" : "Đệ Nhất Tu Tiên Giả | P1| Học Viện Trường Thương",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/van-co-de-nhat-de/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2520,
+    "title" : "Đệ Nhất Tu Tiên Giả Hồi 10: Trào Phúng Tô Tri Thần",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/van-co-de-nhat-de/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2547,
+    "title" : "Đệ Nhất Tu Tiên Giả Hồi 11: Linh Cảnh Ban",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/van-co-de-nhat-de/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3115,
+    "title" : "Đệ Nhất Tu Tiên Giả Hồi 12: Học Bảng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/van-co-de-nhat-de/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2663,
+    "title" : "Đệ Nhất Tu Tiên Giả Hồi 13: Viện Trưởng Học Viện",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/van-co-de-nhat-de/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2540,
+    "title" : "Đệ Nhất Tu Tiên Giả Hồi 14: Thông Thánh Sơn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/van-co-de-nhat-de/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2684,
+    "title" : "Đệ Nhất Tu Tiên Giả Hồi 15: Cửa Ải Đầu Tiên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/van-co-de-nhat-de/16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2548,
+    "title" : "Đệ Nhất Tu Tiên Giả Hồi 16: Tiên Thiên Thánh Mầm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/van-co-de-nhat-de/17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2592,
+    "title" : "Đệ Nhất Tu Tiên Giả Hồi 17: Ma Chủng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/van-co-de-nhat-de/18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2518,
+    "title" : "Đệ Nhất Tu Tiên Giả Hồi 18: Đại Tôn Cảnh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/van-co-de-nhat-de/19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2514,
+    "title" : "Đệ Nhất Tu Tiên Giả Hồi 19: U Ma Nữ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/van-co-de-nhat-de/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2244,
+    "title" : "Đệ Nhất Tu Tiên Giả Hồi 2: Thái Thượng Trường Sinh Quyết",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/van-co-de-nhat-de/20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2868,
+    "title" : "Đệ Nhất Tu Tiên Giả Hồi 20: Địa Mạch Huyết Tuyền",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/van-co-de-nhat-de/21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3331,
+    "title" : "Đệ Nhất Tu Tiên Giả Hồi 21: Thiên Giai Học Xá",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/van-co-de-nhat-de/22.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3120,
+    "title" : "Đệ Nhất Tu Tiên Giả Hồi 22: Tranh Phong",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/van-co-de-nhat-de/23.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2920,
+    "title" : "Đệ Nhất Tu Tiên Giả Hồi 23: Nam Hải Tần Gia",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/van-co-de-nhat-de/24.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2861,
+    "title" : "Đệ Nhất Tu Tiên Giả Hồi 24: Ma Tâm Điện",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/van-co-de-nhat-de/25.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2993,
+    "title" : "Đệ Nhất Tu Tiên Giả Hồi 25: Phó Viện Trưởng Phẫn Nộ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/van-co-de-nhat-de/26.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3035,
+    "title" : "Đệ Nhất Tu Tiên Giả Hồi 26: Thiên Giang Các",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/van-co-de-nhat-de/27.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3127,
+    "title" : "Đệ Nhất Tu Tiên Giả Hồi 27: Lòng Người Khó Đoán",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/van-co-de-nhat-de/28.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3074,
+    "title" : "Đệ Nhất Tu Tiên Giả Hồi 28: Cấp Bậc Đại Tôn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/van-co-de-nhat-de/29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3099,
+    "title" : "Đệ Nhất Tu Tiên Giả Hồi 29: Truyền Thụ Kiếm Đạo",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/van-co-de-nhat-de/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2132,
+    "title" : "Đệ Nhất Tu Tiên Giả Hồi 3: Lưu Sương Kiếm Vũ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/van-co-de-nhat-de/30.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3115,
+    "title" : "Đệ Nhất Tu Tiên Giả Hồi 30: Truyền Thụ Kiếm Đạo",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/van-co-de-nhat-de/31.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3239,
+    "title" : "Đệ Nhất Tu Tiên Giả Hồi 31: Nữ Thiên Tôn Xuất Thế",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/van-co-de-nhat-de/32.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3149,
+    "title" : "Đệ Nhất Tu Tiên Giả Hồi 32: Đại Sư Tỷ Gặp Nguy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/van-co-de-nhat-de/33.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3316,
+    "title" : "Đệ Nhất Tu Tiên Giả Hồi 33: Thần Thánh Oai Hùng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/van-co-de-nhat-de/34.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3209,
+    "title" : "Đệ Nhất Tu Tiên Giả Hồi 34: Ngọc Thiên Nữ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/van-co-de-nhat-de/35.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3195,
+    "title" : "Đệ Nhất Tu Tiên Giả Hồi 35: Thánh Nhân Là Gì Đâu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/van-co-de-nhat-de/36.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3169,
+    "title" : "Đệ Nhất Tu Tiên Giả Hồi 36: Thánh Kiếp Giáng Xuống",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/van-co-de-nhat-de/37.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3150,
+    "title" : "Đệ Nhất Tu Tiên Giả Hồi 37: Trời Ban Duyên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/van-co-de-nhat-de/38.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2211,
+    "title" : "Đệ Nhất Tu Tiên Giả Hồi 38: Cung Chủ Xuất Hiện",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/van-co-de-nhat-de/39.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2526,
+    "title" : "Đệ Nhất Tu Tiên Giả Hồi 39: Điểm Hóa Trương Thanh Vinh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/van-co-de-nhat-de/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2739,
+    "title" : "Đệ Nhất Tu Tiên Giả Hồi 4: Đan Minh Hội",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/van-co-de-nhat-de/40.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2467,
+    "title" : "Đệ Nhất Tu Tiên Giả Hồi 40: Chuẩn Bị Về Nhà",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/van-co-de-nhat-de/41.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2535,
+    "title" : "Đệ Nhất Tu Tiên Giả Hồi 41: So Đấu Trong Tộc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/van-co-de-nhat-de/42.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2371,
+    "title" : "Đệ Nhất Tu Tiên Giả Hồi 42: Nguyên Lão Bất Lực",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/van-co-de-nhat-de/43.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2425,
+    "title" : "Đệ Nhất Tu Tiên Giả Hồi 43: Bừng Tỉnh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/van-co-de-nhat-de/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2013,
+    "title" : "Đệ Nhất Tu Tiên Giả Hồi 5: Thương Hội Trương Viên Cao",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/van-co-de-nhat-de/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2002,
+    "title" : "Đệ Nhất Tu Tiên Giả Hồi 6: Mật Thất Sơn Trang",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/van-co-de-nhat-de/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2461,
+    "title" : "Đệ Nhất Tu Tiên Giả Hồi 7: Bất Tử Minh Thụ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/van-co-de-nhat-de/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2483,
+    "title" : "Đệ Nhất Tu Tiên Giả Hồi 8: Thánh Thi Khôi Lỗi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/van-co-de-nhat-de/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2558,
+    "title" : "Đệ Nhất Tu Tiên Giả Hồi 9: Huyết Mạch Ngầm",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/van-co-de-nhat-de/1.mp3",
+    "title" : "Đệ Nhất Tu Tiên Giả | P1| Học Viện Trường Thương",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/van-co-de-nhat-de/10.mp3",
+    "title" : "Đệ Nhất Tu Tiên Giả Hồi 10: Trào Phúng Tô Tri Thần",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/van-co-de-nhat-de/11.mp3",
+    "title" : "Đệ Nhất Tu Tiên Giả Hồi 11: Linh Cảnh Ban",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/van-co-de-nhat-de/12.mp3",
+    "title" : "Đệ Nhất Tu Tiên Giả Hồi 12: Học Bảng",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/van-co-de-nhat-de/13.mp3",
+    "title" : "Đệ Nhất Tu Tiên Giả Hồi 13: Viện Trưởng Học Viện",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/van-co-de-nhat-de/14.mp3",
+    "title" : "Đệ Nhất Tu Tiên Giả Hồi 14: Thông Thánh Sơn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/van-co-de-nhat-de/15.mp3",
+    "title" : "Đệ Nhất Tu Tiên Giả Hồi 15: Cửa Ải Đầu Tiên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/van-co-de-nhat-de/16.mp3",
+    "title" : "Đệ Nhất Tu Tiên Giả Hồi 16: Tiên Thiên Thánh Mầm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/van-co-de-nhat-de/17.mp3",
+    "title" : "Đệ Nhất Tu Tiên Giả Hồi 17: Ma Chủng",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/van-co-de-nhat-de/18.mp3",
+    "title" : "Đệ Nhất Tu Tiên Giả Hồi 18: Đại Tôn Cảnh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/van-co-de-nhat-de/19.mp3",
+    "title" : "Đệ Nhất Tu Tiên Giả Hồi 19: U Ma Nữ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/van-co-de-nhat-de/2.mp3",
+    "title" : "Đệ Nhất Tu Tiên Giả Hồi 2: Thái Thượng Trường Sinh Quyết",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/van-co-de-nhat-de/20.mp3",
+    "title" : "Đệ Nhất Tu Tiên Giả Hồi 20: Địa Mạch Huyết Tuyền",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/van-co-de-nhat-de/21.mp3",
+    "title" : "Đệ Nhất Tu Tiên Giả Hồi 21: Thiên Giai Học Xá",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/van-co-de-nhat-de/22.mp3",
+    "title" : "Đệ Nhất Tu Tiên Giả Hồi 22: Tranh Phong",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/van-co-de-nhat-de/23.mp3",
+    "title" : "Đệ Nhất Tu Tiên Giả Hồi 23: Nam Hải Tần Gia",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/van-co-de-nhat-de/24.mp3",
+    "title" : "Đệ Nhất Tu Tiên Giả Hồi 24: Ma Tâm Điện",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/van-co-de-nhat-de/25.mp3",
+    "title" : "Đệ Nhất Tu Tiên Giả Hồi 25: Phó Viện Trưởng Phẫn Nộ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/van-co-de-nhat-de/26.mp3",
+    "title" : "Đệ Nhất Tu Tiên Giả Hồi 26: Thiên Giang Các",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/van-co-de-nhat-de/27.mp3",
+    "title" : "Đệ Nhất Tu Tiên Giả Hồi 27: Lòng Người Khó Đoán",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/van-co-de-nhat-de/28.mp3",
+    "title" : "Đệ Nhất Tu Tiên Giả Hồi 28: Cấp Bậc Đại Tôn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/van-co-de-nhat-de/29.mp3",
+    "title" : "Đệ Nhất Tu Tiên Giả Hồi 29: Truyền Thụ Kiếm Đạo",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/van-co-de-nhat-de/3.mp3",
+    "title" : "Đệ Nhất Tu Tiên Giả Hồi 3: Lưu Sương Kiếm Vũ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/van-co-de-nhat-de/30.mp3",
+    "title" : "Đệ Nhất Tu Tiên Giả Hồi 30: Truyền Thụ Kiếm Đạo",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/van-co-de-nhat-de/31.mp3",
+    "title" : "Đệ Nhất Tu Tiên Giả Hồi 31: Nữ Thiên Tôn Xuất Thế",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/van-co-de-nhat-de/32.mp3",
+    "title" : "Đệ Nhất Tu Tiên Giả Hồi 32: Đại Sư Tỷ Gặp Nguy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/van-co-de-nhat-de/33.mp3",
+    "title" : "Đệ Nhất Tu Tiên Giả Hồi 33: Thần Thánh Oai Hùng",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/van-co-de-nhat-de/34.mp3",
+    "title" : "Đệ Nhất Tu Tiên Giả Hồi 34: Ngọc Thiên Nữ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/van-co-de-nhat-de/35.mp3",
+    "title" : "Đệ Nhất Tu Tiên Giả Hồi 35: Thánh Nhân Là Gì Đâu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/van-co-de-nhat-de/36.mp3",
+    "title" : "Đệ Nhất Tu Tiên Giả Hồi 36: Thánh Kiếp Giáng Xuống",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/van-co-de-nhat-de/37.mp3",
+    "title" : "Đệ Nhất Tu Tiên Giả Hồi 37: Trời Ban Duyên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/van-co-de-nhat-de/38.mp3",
+    "title" : "Đệ Nhất Tu Tiên Giả Hồi 38: Cung Chủ Xuất Hiện",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/van-co-de-nhat-de/39.mp3",
+    "title" : "Đệ Nhất Tu Tiên Giả Hồi 39: Điểm Hóa Trương Thanh Vinh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/van-co-de-nhat-de/4.mp3",
+    "title" : "Đệ Nhất Tu Tiên Giả Hồi 4: Đan Minh Hội",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/van-co-de-nhat-de/40.mp3",
+    "title" : "Đệ Nhất Tu Tiên Giả Hồi 40: Chuẩn Bị Về Nhà",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/van-co-de-nhat-de/41.mp3",
+    "title" : "Đệ Nhất Tu Tiên Giả Hồi 41: So Đấu Trong Tộc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/van-co-de-nhat-de/42.mp3",
+    "title" : "Đệ Nhất Tu Tiên Giả Hồi 42: Nguyên Lão Bất Lực",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/van-co-de-nhat-de/43.mp3",
+    "title" : "Đệ Nhất Tu Tiên Giả Hồi 43: Bừng Tỉnh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/van-co-de-nhat-de/5.mp3",
+    "title" : "Đệ Nhất Tu Tiên Giả Hồi 5: Thương Hội Trương Viên Cao",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/van-co-de-nhat-de/6.mp3",
+    "title" : "Đệ Nhất Tu Tiên Giả Hồi 6: Mật Thất Sơn Trang",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/van-co-de-nhat-de/7.mp3",
+    "title" : "Đệ Nhất Tu Tiên Giả Hồi 7: Bất Tử Minh Thụ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/van-co-de-nhat-de/8.mp3",
+    "title" : "Đệ Nhất Tu Tiên Giả Hồi 8: Thánh Thi Khôi Lỗi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/van-co-de-nhat-de/9.mp3",
+    "title" : "Đệ Nhất Tu Tiên Giả Hồi 9: Huyết Mạch Ngầm",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

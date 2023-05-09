@@ -1,0 +1,1721 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/lieu-trai-chi-di_13293.html",
+    "title" : "Liêu Trai Chí Dị",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Bồ Tùng Linh",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 84505,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/EPUB/EPUB_70d0f17dc3f708d9f6e0191e2e4b1261.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/IMAGE/IMAGE_70d0f17dc3f708d9f6e0191e2e4b1261.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/09.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 604,
+    "title" : "Anh Linh (3/4)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 604,
+    "title" : "Bức họa trên tường",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 604,
+    "title" : "Anh Linh (4/4); Cô Bảo (1/2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/100.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 604,
+    "title" : "Lấy vợ công chúa (1/4)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/101.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 604,
+    "title" : "Lấy vợ công chúa (2/4)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/102.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 604,
+    "title" : "Lấy vợ công chúa (3/4)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/103.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 604,
+    "title" : "Lấy vợ công chúa (4/4), Tấm gương thu hình (1/2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/104.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 604,
+    "title" : "Tấm gương thu hình (2/2), Mặc áo lá cây (1/2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/105.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 604,
+    "title" : "Mặc áo lá cây (2/2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/106.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 604,
+    "title" : "Cô Tân thứ 14 (1/4)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/107.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 604,
+    "title" : "Cô Tân thứ 14 (2/4)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/108.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 604,
+    "title" : "Cô Tân thứ 14 (3/4)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/109.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 604,
+    "title" : "Cô Tân thứ 14 (4/4), Một đêm lấy ma (1/3)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 604,
+    "title" : "Cô Bảo (2/2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/110.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 604,
+    "title" : "Một đêm lấy ma (2/3)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/111.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 603,
+    "title" : "Một đêm lấy ma (3/3)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/112.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 604,
+    "title" : "Mê sách (1/2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/113.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 603,
+    "title" : "Mê sách (2/2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/114.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 603,
+    "title" : "Vương giả",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/115.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 603,
+    "title" : "Dế chọi (1/2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/116.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 603,
+    "title" : "Dế chọi (2/2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/117.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 603,
+    "title" : "Chuyện ở đảo thần tiên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/118.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 603,
+    "title" : "Trần Vân Thê (1/3)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/119.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 603,
+    "title" : "Trần Vân Thê (2/3)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 604,
+    "title" : "Hồng ngọc (1/2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/120.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 603,
+    "title" : "Trần Vân Thê (3/3), Yêu hoa đâu dễ biết hoa (1/4)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/121.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 603,
+    "title" : "Yêu hoa đâu dễ biết hoa (2/4)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/122.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 603,
+    "title" : "Yêu hoa đâu dễ biết hoa (3/4)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/123.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 603,
+    "title" : "Yêu hoa đâu dễ biết hoa (4/4), Yên Chi (1/3)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/124.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 603,
+    "title" : "Yên Chi (2/3)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/125.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 603,
+    "title" : "Yên Chi (3/3)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/126.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 603,
+    "title" : "Hóa quạ lấy vợ thần (1/2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/127.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 603,
+    "title" : "Hóa quạ lấy vợ thần (2/2), Nối giấc kê vàng (1/3)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/128.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 603,
+    "title" : "Nối giấc kê vàng (2/3)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/129.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 603,
+    "title" : "Nối giấc kê vàng (3/3)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 604,
+    "title" : "Hồng ngọc (2/2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/130.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 603,
+    "title" : "Tình nghĩa với chim (1/2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/131.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 603,
+    "title" : "Tình nghĩa với chim (2/2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/132.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 603,
+    "title" : "Chồn Quỷ tranh chồng (1/4)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/133.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 603,
+    "title" : "Chồn Quỷ tranh chồng (2/4)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/134.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 603,
+    "title" : "Chồn Quỷ tranh chồng (3/4)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/135.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 603,
+    "title" : "Chồn Quỷ tranh chồng (4/4)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/136.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 603,
+    "title" : "Háo sắc lụy mình (1/3)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/137.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 603,
+    "title" : "Háo sắc lụy mình (2/3)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/138.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 603,
+    "title" : "Háo sắc lụy mình (3/3), Thay tên đổi mặt (1/3)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/139.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 603,
+    "title" : "Thay tên đổi mặt (2/3)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 604,
+    "title" : "Họa bì (1/2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/140.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 603,
+    "title" : "END) - Thay tên đổi mặt (3/3)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 604,
+    "title" : "Họa bì (2/2) , Xảo nương (1/3)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 604,
+    "title" : "Xảo nương (2/3)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 604,
+    "title" : "Xảo nương (3/3)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 604,
+    "title" : "Ngũ Thu Nguyệt (1/2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 604,
+    "title" : "Ngũ Thu Nguyệt (2/2), Cừu đại nương (1/4)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 604,
+    "title" : "Hồ gả con",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 604,
+    "title" : "Cừu đại nương (2/4)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 604,
+    "title" : "Cừu đại nương (3/4)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/22.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 604,
+    "title" : "Cừu đại nương (4/4)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/23.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 604,
+    "title" : "Tiểu Thúy (1/3)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/24.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 604,
+    "title" : "Tiểu Thúy (2/3)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/25.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 604,
+    "title" : "Tiểu Thúy (3/3)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/26.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 604,
+    "title" : "Thanh Phượng (1/2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/27.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 604,
+    "title" : "Thanh Phượng (2/2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/28.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 604,
+    "title" : "Trương Thành (1/2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 604,
+    "title" : "Trương Thành (2/2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 604,
+    "title" : "Đạo sĩ núi lao",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/30.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 604,
+    "title" : "Hoa Cô Tử (1/2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/31.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 604,
+    "title" : "Hoa Cô Tử (2/2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/32.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 604,
+    "title" : "Liên Tỏa (1/2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/33.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 604,
+    "title" : "Liên Tỏa (2/2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/34.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 604,
+    "title" : "Công Tôn Hạ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/35.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 604,
+    "title" : "Đại Nam (1/2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/36.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 604,
+    "title" : "Đại Nam (2/2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/37.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 604,
+    "title" : "Uông Sĩ Tú (1/2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/38.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 604,
+    "title" : "Uông Sĩ Tú (2/2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/39.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 604,
+    "title" : "Công tử họ Phi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 604,
+    "title" : "Thụy Vân",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/40.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 604,
+    "title" : "Cô Tú (1/2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/41.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 604,
+    "title" : "Cô Tú (2/2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/42.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 604,
+    "title" : "Con trai người lái buôn (1/2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/43.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 604,
+    "title" : "Liêu trai chí dị (43/140)- Con trai người lái buôn (2/2), Cô Tư họ Hồ (1/2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/44.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 604,
+    "title" : "Cô Tư họ Hồ (2/2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/45.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 604,
+    "title" : "Tiên ông họ Thành (1/2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/46.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 604,
+    "title" : "Tiên ông họ Thành (2/2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/47.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 604,
+    "title" : "Hương Ngọc (1/2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/48.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 604,
+    "title" : "Hương Ngọc (2/2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/49.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 604,
+    "title" : "Thanh mai (1/3)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 604,
+    "title" : "Vương Thành (1/2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/50.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 604,
+    "title" : "Thanh mai (2/3)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/51.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 604,
+    "title" : "Thanh mai (3/3)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/52.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 603,
+    "title" : "Bạch Thu Nguyệt (1/3)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/53.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 603,
+    "title" : "Bạch Thu Nguyệt (2/3)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/54.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 603,
+    "title" : "Bạch Thu Nguyệt (3/3), Thần nữ (1/3)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/55.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 603,
+    "title" : "Thần nữ (2/3)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/56.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 603,
+    "title" : "Thần nữ (3/3)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/57.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 603,
+    "title" : "Thôi Mãnh (1/3)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/58.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 603,
+    "title" : "Thôi Mãnh (2/3)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/59.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 603,
+    "title" : "Thôi Mãnh (3/3), Cô Tiêm (1/2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 604,
+    "title" : "Vương Thành (2/2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/60.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 603,
+    "title" : "Cô Tiêm (2/2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/61.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 604,
+    "title" : "Cô gái họ Mai (1/2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/62.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 603,
+    "title" : "Cô gái họ Mai (2/2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/63.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 603,
+    "title" : "Vợ bé là chồn (1/2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/64.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 603,
+    "title" : "Liêu trai chí dị (64/140) -Vợ bé là chồn (2/2), Mũi dao Kinh Kha (1/3)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/65.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 603,
+    "title" : "Mũi dao Kinh Kha (2/3)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/66.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 604,
+    "title" : "Mũi dao Kinh Kha (3/3), Vợ dữ hơn cọp (1/4)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/67.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 603,
+    "title" : "Vợ dữ hơn cọp (2/4)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/68.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 603,
+    "title" : "Liêu trai chí dị (68/140) -Vợ dữ hơn cọp (3/4)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/69.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 603,
+    "title" : "Liêu trai chí dị (69/140) -Vợ dữ hơn cọp (4/4)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 604,
+    "title" : "Anh Linh (1/4)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/70.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 604,
+    "title" : "Con gái nhà trời (1/3)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/71.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 603,
+    "title" : "Con gái nhà trời (2/3)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/72.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 604,
+    "title" : "Con gái nhà trời (3/3), Chuyện lạ chi câu (1/2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/73.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 603,
+    "title" : "Chuyện lạ chi câu (2/2), Người nuôi rắn (1/2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/74.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 604,
+    "title" : "Người nuôi rắn (2/2), Nước dạ xoa (1/2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/75.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 603,
+    "title" : "Nước dạ xoa (2/2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/76.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 603,
+    "title" : "Nàng ba hoa sen (1/3)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/77.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 604,
+    "title" : "Nàng ba hoa sen (2/3)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/78.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 603,
+    "title" : "Nàng ba hoa sen (3/3), Nam Nam thành thần (1/2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/79.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 603,
+    "title" : "Nam Nam thành thần (2/2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 604,
+    "title" : "Anh Linh (2/4)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/80.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 603,
+    "title" : "Trộm đào, Ba ngày làm diêm vương (1/2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/81.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 603,
+    "title" : "Ba ngày làm diêm vương (2/2), Xấu người đẹp nết (1/2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/82.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 603,
+    "title" : "Xấu người đẹp nết (2/2), Vương quế am (1/2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/83.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 603,
+    "title" : "Vương quế am (2/2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/84.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 604,
+    "title" : "Duyên do người tiên (1/2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/85.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 604,
+    "title" : "Duyên do người tiên (2/2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/86.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 604,
+    "title" : "Chương A Đoan (1/2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/87.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 604,
+    "title" : "Chương A Đoan (2/2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/88.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 604,
+    "title" : "Nha đầu (1/2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/89.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 604,
+    "title" : "Nha đầu (2/2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/90.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 604,
+    "title" : "Tình duyên trong tay áo (1/2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/91.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 604,
+    "title" : "Tình duyên trong tay áo (2/2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/92.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 604,
+    "title" : "Cậu bé đa tình (1/3)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/93.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 604,
+    "title" : "Cậu bé đa tình (2/3)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/94.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 604,
+    "title" : "Cậu bé đa tình (3/3)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/95.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 604,
+    "title" : "Kết duyên với ong (1/2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/96.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 604,
+    "title" : "Kết duyên với ong (2/2), Bà chúa tây hồ (1/3)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/97.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 604,
+    "title" : "Bà chúa tây hồ (2/3)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/98.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 604,
+    "title" : "Bà chúa tây hồ (3/3)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/99.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 604,
+    "title" : "Con người quốc sắc",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/09.mp3",
+    "title" : "Anh Linh (3/4)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/1.mp3",
+    "title" : "Bức họa trên tường",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/10.mp3",
+    "title" : "Anh Linh (4/4); Cô Bảo (1/2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/100.mp3",
+    "title" : "Lấy vợ công chúa (1/4)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/101.mp3",
+    "title" : "Lấy vợ công chúa (2/4)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/102.mp3",
+    "title" : "Lấy vợ công chúa (3/4)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/103.mp3",
+    "title" : "Lấy vợ công chúa (4/4), Tấm gương thu hình (1/2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/104.mp3",
+    "title" : "Tấm gương thu hình (2/2), Mặc áo lá cây (1/2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/105.mp3",
+    "title" : "Mặc áo lá cây (2/2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/106.mp3",
+    "title" : "Cô Tân thứ 14 (1/4)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/107.mp3",
+    "title" : "Cô Tân thứ 14 (2/4)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/108.mp3",
+    "title" : "Cô Tân thứ 14 (3/4)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/109.mp3",
+    "title" : "Cô Tân thứ 14 (4/4), Một đêm lấy ma (1/3)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/11.mp3",
+    "title" : "Cô Bảo (2/2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/110.mp3",
+    "title" : "Một đêm lấy ma (2/3)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/111.mp3",
+    "title" : "Một đêm lấy ma (3/3)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/112.mp3",
+    "title" : "Mê sách (1/2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/113.mp3",
+    "title" : "Mê sách (2/2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/114.mp3",
+    "title" : "Vương giả",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/115.mp3",
+    "title" : "Dế chọi (1/2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/116.mp3",
+    "title" : "Dế chọi (2/2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/117.mp3",
+    "title" : "Chuyện ở đảo thần tiên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/118.mp3",
+    "title" : "Trần Vân Thê (1/3)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/119.mp3",
+    "title" : "Trần Vân Thê (2/3)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/12.mp3",
+    "title" : "Hồng ngọc (1/2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/120.mp3",
+    "title" : "Trần Vân Thê (3/3), Yêu hoa đâu dễ biết hoa (1/4)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/121.mp3",
+    "title" : "Yêu hoa đâu dễ biết hoa (2/4)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/122.mp3",
+    "title" : "Yêu hoa đâu dễ biết hoa (3/4)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/123.mp3",
+    "title" : "Yêu hoa đâu dễ biết hoa (4/4), Yên Chi (1/3)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/124.mp3",
+    "title" : "Yên Chi (2/3)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/125.mp3",
+    "title" : "Yên Chi (3/3)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/126.mp3",
+    "title" : "Hóa quạ lấy vợ thần (1/2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/127.mp3",
+    "title" : "Hóa quạ lấy vợ thần (2/2), Nối giấc kê vàng (1/3)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/128.mp3",
+    "title" : "Nối giấc kê vàng (2/3)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/129.mp3",
+    "title" : "Nối giấc kê vàng (3/3)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/13.mp3",
+    "title" : "Hồng ngọc (2/2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/130.mp3",
+    "title" : "Tình nghĩa với chim (1/2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/131.mp3",
+    "title" : "Tình nghĩa với chim (2/2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/132.mp3",
+    "title" : "Chồn Quỷ tranh chồng (1/4)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/133.mp3",
+    "title" : "Chồn Quỷ tranh chồng (2/4)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/134.mp3",
+    "title" : "Chồn Quỷ tranh chồng (3/4)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/135.mp3",
+    "title" : "Chồn Quỷ tranh chồng (4/4)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/136.mp3",
+    "title" : "Háo sắc lụy mình (1/3)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/137.mp3",
+    "title" : "Háo sắc lụy mình (2/3)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/138.mp3",
+    "title" : "Háo sắc lụy mình (3/3), Thay tên đổi mặt (1/3)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/139.mp3",
+    "title" : "Thay tên đổi mặt (2/3)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/14.mp3",
+    "title" : "Họa bì (1/2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/140.mp3",
+    "title" : "END) - Thay tên đổi mặt (3/3)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/15.mp3",
+    "title" : "Họa bì (2/2) , Xảo nương (1/3)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/16.mp3",
+    "title" : "Xảo nương (2/3)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/17.mp3",
+    "title" : "Xảo nương (3/3)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/18.mp3",
+    "title" : "Ngũ Thu Nguyệt (1/2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/19.mp3",
+    "title" : "Ngũ Thu Nguyệt (2/2), Cừu đại nương (1/4)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/2.mp3",
+    "title" : "Hồ gả con",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/20.mp3",
+    "title" : "Cừu đại nương (2/4)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/21.mp3",
+    "title" : "Cừu đại nương (3/4)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/22.mp3",
+    "title" : "Cừu đại nương (4/4)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/23.mp3",
+    "title" : "Tiểu Thúy (1/3)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/24.mp3",
+    "title" : "Tiểu Thúy (2/3)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/25.mp3",
+    "title" : "Tiểu Thúy (3/3)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/26.mp3",
+    "title" : "Thanh Phượng (1/2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/27.mp3",
+    "title" : "Thanh Phượng (2/2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/28.mp3",
+    "title" : "Trương Thành (1/2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/29.mp3",
+    "title" : "Trương Thành (2/2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/3.mp3",
+    "title" : "Đạo sĩ núi lao",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/30.mp3",
+    "title" : "Hoa Cô Tử (1/2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/31.mp3",
+    "title" : "Hoa Cô Tử (2/2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/32.mp3",
+    "title" : "Liên Tỏa (1/2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/33.mp3",
+    "title" : "Liên Tỏa (2/2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/34.mp3",
+    "title" : "Công Tôn Hạ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/35.mp3",
+    "title" : "Đại Nam (1/2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/36.mp3",
+    "title" : "Đại Nam (2/2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/37.mp3",
+    "title" : "Uông Sĩ Tú (1/2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/38.mp3",
+    "title" : "Uông Sĩ Tú (2/2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/39.mp3",
+    "title" : "Công tử họ Phi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/4.mp3",
+    "title" : "Thụy Vân",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/40.mp3",
+    "title" : "Cô Tú (1/2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/41.mp3",
+    "title" : "Cô Tú (2/2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/42.mp3",
+    "title" : "Con trai người lái buôn (1/2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/43.mp3",
+    "title" : "Liêu trai chí dị (43/140)- Con trai người lái buôn (2/2), Cô Tư họ Hồ (1/2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/44.mp3",
+    "title" : "Cô Tư họ Hồ (2/2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/45.mp3",
+    "title" : "Tiên ông họ Thành (1/2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/46.mp3",
+    "title" : "Tiên ông họ Thành (2/2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/47.mp3",
+    "title" : "Hương Ngọc (1/2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/48.mp3",
+    "title" : "Hương Ngọc (2/2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/49.mp3",
+    "title" : "Thanh mai (1/3)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/5.mp3",
+    "title" : "Vương Thành (1/2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/50.mp3",
+    "title" : "Thanh mai (2/3)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/51.mp3",
+    "title" : "Thanh mai (3/3)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/52.mp3",
+    "title" : "Bạch Thu Nguyệt (1/3)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/53.mp3",
+    "title" : "Bạch Thu Nguyệt (2/3)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/54.mp3",
+    "title" : "Bạch Thu Nguyệt (3/3), Thần nữ (1/3)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/55.mp3",
+    "title" : "Thần nữ (2/3)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/56.mp3",
+    "title" : "Thần nữ (3/3)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/57.mp3",
+    "title" : "Thôi Mãnh (1/3)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/58.mp3",
+    "title" : "Thôi Mãnh (2/3)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/59.mp3",
+    "title" : "Thôi Mãnh (3/3), Cô Tiêm (1/2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/6.mp3",
+    "title" : "Vương Thành (2/2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/60.mp3",
+    "title" : "Cô Tiêm (2/2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/61.mp3",
+    "title" : "Cô gái họ Mai (1/2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/62.mp3",
+    "title" : "Cô gái họ Mai (2/2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/63.mp3",
+    "title" : "Vợ bé là chồn (1/2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/64.mp3",
+    "title" : "Liêu trai chí dị (64/140) -Vợ bé là chồn (2/2), Mũi dao Kinh Kha (1/3)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/65.mp3",
+    "title" : "Mũi dao Kinh Kha (2/3)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/66.mp3",
+    "title" : "Mũi dao Kinh Kha (3/3), Vợ dữ hơn cọp (1/4)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/67.mp3",
+    "title" : "Vợ dữ hơn cọp (2/4)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/68.mp3",
+    "title" : "Liêu trai chí dị (68/140) -Vợ dữ hơn cọp (3/4)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/69.mp3",
+    "title" : "Liêu trai chí dị (69/140) -Vợ dữ hơn cọp (4/4)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/7.mp3",
+    "title" : "Anh Linh (1/4)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/70.mp3",
+    "title" : "Con gái nhà trời (1/3)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/71.mp3",
+    "title" : "Con gái nhà trời (2/3)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/72.mp3",
+    "title" : "Con gái nhà trời (3/3), Chuyện lạ chi câu (1/2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/73.mp3",
+    "title" : "Chuyện lạ chi câu (2/2), Người nuôi rắn (1/2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/74.mp3",
+    "title" : "Người nuôi rắn (2/2), Nước dạ xoa (1/2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/75.mp3",
+    "title" : "Nước dạ xoa (2/2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/76.mp3",
+    "title" : "Nàng ba hoa sen (1/3)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/77.mp3",
+    "title" : "Nàng ba hoa sen (2/3)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/78.mp3",
+    "title" : "Nàng ba hoa sen (3/3), Nam Nam thành thần (1/2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/79.mp3",
+    "title" : "Nam Nam thành thần (2/2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/8.mp3",
+    "title" : "Anh Linh (2/4)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/80.mp3",
+    "title" : "Trộm đào, Ba ngày làm diêm vương (1/2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/81.mp3",
+    "title" : "Ba ngày làm diêm vương (2/2), Xấu người đẹp nết (1/2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/82.mp3",
+    "title" : "Xấu người đẹp nết (2/2), Vương quế am (1/2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/83.mp3",
+    "title" : "Vương quế am (2/2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/84.mp3",
+    "title" : "Duyên do người tiên (1/2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/85.mp3",
+    "title" : "Duyên do người tiên (2/2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/86.mp3",
+    "title" : "Chương A Đoan (1/2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/87.mp3",
+    "title" : "Chương A Đoan (2/2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/88.mp3",
+    "title" : "Nha đầu (1/2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/89.mp3",
+    "title" : "Nha đầu (2/2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/90.mp3",
+    "title" : "Tình duyên trong tay áo (1/2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/91.mp3",
+    "title" : "Tình duyên trong tay áo (2/2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/92.mp3",
+    "title" : "Cậu bé đa tình (1/3)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/93.mp3",
+    "title" : "Cậu bé đa tình (2/3)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/94.mp3",
+    "title" : "Cậu bé đa tình (3/3)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/95.mp3",
+    "title" : "Kết duyên với ong (1/2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/96.mp3",
+    "title" : "Kết duyên với ong (2/2), Bà chúa tây hồ (1/3)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/97.mp3",
+    "title" : "Bà chúa tây hồ (2/3)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/98.mp3",
+    "title" : "Bà chúa tây hồ (3/3)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lieu-trai-chi-di/99.mp3",
+    "title" : "Con người quốc sắc",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

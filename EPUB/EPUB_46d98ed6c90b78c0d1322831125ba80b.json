@@ -1,0 +1,89 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/doi-chong-cung-chieu-em-den-nghien_12931.html",
+    "title" : "Đổi Chồng: Cưng Chiều Em Đến Nghiện",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Quân Tử Ước Hẹn",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 35074,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/EPUB/EPUB_46d98ed6c90b78c0d1322831125ba80b.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/IMAGE/IMAGE_46d98ed6c90b78c0d1322831125ba80b.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/cung-chieu-em-den-nghien/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 9986,
+    "title" : "Truyện Ngôn Tình Hay Về Sói Đội Lớp Cừu Non Nớt",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cung-chieu-em-den-nghien/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8694,
+    "title" : "Truyện Ngôn Tình Hay Về Cô Nàng Cá Tính",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cung-chieu-em-den-nghien/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8344,
+    "title" : "Truyện Ngôn Tình Hay Về Sói Đội Lớp Cừu Non Nớt",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cung-chieu-em-den-nghien/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8050,
+    "title" : "Truyện Ngôn Tình Hay Về Sói Đội Lớp Cừu Non Nớt",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/cung-chieu-em-den-nghien/1.mp3",
+    "title" : "Truyện Ngôn Tình Hay Về Sói Đội Lớp Cừu Non Nớt",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cung-chieu-em-den-nghien/2.mp3",
+    "title" : "Truyện Ngôn Tình Hay Về Cô Nàng Cá Tính",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cung-chieu-em-den-nghien/3.mp3",
+    "title" : "Truyện Ngôn Tình Hay Về Sói Đội Lớp Cừu Non Nớt",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cung-chieu-em-den-nghien/4.mp3",
+    "title" : "Truyện Ngôn Tình Hay Về Sói Đội Lớp Cừu Non Nớt",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

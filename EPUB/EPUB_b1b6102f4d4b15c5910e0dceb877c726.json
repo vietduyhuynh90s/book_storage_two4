@@ -1,0 +1,125 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/chay-an_14310.html",
+    "title" : "Chạy Án",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Lê Vũ Trọng Nghĩa",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 25015,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/EPUB/EPUB_b1b6102f4d4b15c5910e0dceb877c726.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/IMAGE/IMAGE_b1b6102f4d4b15c5910e0dceb877c726.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/chay-an/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3637,
+    "title" : "Tập 01 - Truyện xã hội thực tế rất hay do MC Đình Duy diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chay-an/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3524,
+    "title" : "Tập 02 - Truyện xã hội thực tế rất hay do MC Đình Duy diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chay-an/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3491,
+    "title" : "Tập 03 - Hé Lộ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chay-an/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3242,
+    "title" : "Tập 04 - Đừng Đùa Với Lửa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chay-an/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2918,
+    "title" : "Tập 05 - Những con người bí ẩn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chay-an/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2902,
+    "title" : "Tập 06 - Lộ Mặt",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chay-an/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5301,
+    "title" : "Tập 07 (HẾT) - Bí Mật Của Mẹ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/chay-an/1.mp3",
+    "title" : "Tập 01 - Truyện xã hội thực tế rất hay do MC Đình Duy diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chay-an/2.mp3",
+    "title" : "Tập 02 - Truyện xã hội thực tế rất hay do MC Đình Duy diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chay-an/3.mp3",
+    "title" : "Tập 03 - Hé Lộ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chay-an/4.mp3",
+    "title" : "Tập 04 - Đừng Đùa Với Lửa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chay-an/5.mp3",
+    "title" : "Tập 05 - Những con người bí ẩn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chay-an/6.mp3",
+    "title" : "Tập 06 - Lộ Mặt",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chay-an/7.mp3",
+    "title" : "Tập 07 (HẾT) - Bí Mật Của Mẹ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

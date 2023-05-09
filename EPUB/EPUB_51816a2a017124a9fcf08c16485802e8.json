@@ -1,0 +1,89 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/quan-go-di-len-nguyen-nhat-anh_10238.html",
+    "title" : "Quán Gò Đi Lên - Nguyễn Nhật Ánh",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nguyễn Nhật Ánh",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 19620,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/EPUB/EPUB_51816a2a017124a9fcf08c16485802e8.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/IMAGE/IMAGE_51816a2a017124a9fcf08c16485802e8.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/quan_go_di_len/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4704,
+    "title" : "Quán Gò Đi Lên Nguyễn Nhật Ánh Audio Book Part 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quan_go_di_len/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4197,
+    "title" : "Quán Gò Đi Lên Nguyễn Nhật Ánh Audio Book Part 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quan_go_di_len/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6638,
+    "title" : "Quán Gò Đi Lên Nguyễn Nhật Ánh Audio Book Part 3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quan_go_di_len/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4081,
+    "title" : "Quán Gò Đi Lên Nguyễn Nhật Ánh Audio Book Part 4 (End)",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/quan_go_di_len/1.mp3",
+    "title" : "Quán Gò Đi Lên Nguyễn Nhật Ánh Audio Book Part 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quan_go_di_len/2.mp3",
+    "title" : "Quán Gò Đi Lên Nguyễn Nhật Ánh Audio Book Part 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quan_go_di_len/3.mp3",
+    "title" : "Quán Gò Đi Lên Nguyễn Nhật Ánh Audio Book Part 3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quan_go_di_len/4.mp3",
+    "title" : "Quán Gò Đi Lên Nguyễn Nhật Ánh Audio Book Part 4 (End)",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

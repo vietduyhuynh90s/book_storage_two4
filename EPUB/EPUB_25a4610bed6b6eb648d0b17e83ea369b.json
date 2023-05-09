@@ -1,0 +1,101 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/phu-van-hoa-hoa-ban_10045.html",
+    "title" : "Phù Vân Hoa - Hoa Ban.",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Hoa Ban",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 39453,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/EPUB/EPUB_25a4610bed6b6eb648d0b17e83ea369b.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/IMAGE/IMAGE_25a4610bed6b6eb648d0b17e83ea369b.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/phuvanhoa/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7761,
+    "title" : "Audio Phù Vân Hoa Hoa Ban Part 1 MC Huệ Trần || Ngôn Tình Cổ Đại Mới Nhất 2017",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phuvanhoa/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7939,
+    "title" : "Audio Phù Vân Hoa Hoa Ban Part 2 MC Huệ Trần || Ngôn Tình Cổ Đại Mới Nhất 2017",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phuvanhoa/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8314,
+    "title" : "Audio Phù Vân Hoa Hoa Ban Part 3 MC Huệ Trần || Ngôn Tình Cổ Đại Mới Nhất 2017",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phuvanhoa/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7669,
+    "title" : "Audio Phù Vân Hoa Hoa Ban Part 4 MC Huệ Trần || Ngôn Tình Cổ Đại Mới Nhất 2017",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phuvanhoa/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7770,
+    "title" : "Audio Phù Vân Hoa Hoa Ban Part 5 (END) MC Huệ Trần || Ngôn Tình Cổ Đại Mới Nhất 2017",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/phuvanhoa/1.mp3",
+    "title" : "Audio Phù Vân Hoa Hoa Ban Part 1 MC Huệ Trần || Ngôn Tình Cổ Đại Mới Nhất 2017",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phuvanhoa/2.mp3",
+    "title" : "Audio Phù Vân Hoa Hoa Ban Part 2 MC Huệ Trần || Ngôn Tình Cổ Đại Mới Nhất 2017",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phuvanhoa/3.mp3",
+    "title" : "Audio Phù Vân Hoa Hoa Ban Part 3 MC Huệ Trần || Ngôn Tình Cổ Đại Mới Nhất 2017",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phuvanhoa/4.mp3",
+    "title" : "Audio Phù Vân Hoa Hoa Ban Part 4 MC Huệ Trần || Ngôn Tình Cổ Đại Mới Nhất 2017",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phuvanhoa/5.mp3",
+    "title" : "Audio Phù Vân Hoa Hoa Ban Part 5 (END) MC Huệ Trần || Ngôn Tình Cổ Đại Mới Nhất 2017",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

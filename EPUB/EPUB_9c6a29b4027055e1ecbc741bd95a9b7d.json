@@ -1,0 +1,173 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/100-quy-luat-bat-bien-de-thanh-cong-trong-kinh-doanh_16983.html",
+    "title" : "100 Quy Luật Bất Biến Để Thành Công Trong Kinh Doanh",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Brian Tracy",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 18505,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/EPUB/EPUB_9c6a29b4027055e1ecbc741bd95a9b7d.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/IMAGE/IMAGE_9c6a29b4027055e1ecbc741bd95a9b7d.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/sachnoi.vn100QuyLuatBatBienDeThanhCongTrongKinhDoanh/100QuyLuatBatBienTrongKinhDoanhP01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1547,
+    "title" : "100QuyLuatBatBienTrongKinhDoanhP01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn100QuyLuatBatBienDeThanhCongTrongKinhDoanh/100QuyLuatBatBienTrongKinhDoanhP02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2459,
+    "title" : "100QuyLuatBatBienTrongKinhDoanhP02",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn100QuyLuatBatBienDeThanhCongTrongKinhDoanh/100QuyLuatBatBienTrongKinhDoanhP03A.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2369,
+    "title" : "100QuyLuatBatBienTrongKinhDoanhP03A",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn100QuyLuatBatBienDeThanhCongTrongKinhDoanh/100QuyLuatBatBienTrongKinhDoanhP03B.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 806,
+    "title" : "100QuyLuatBatBienTrongKinhDoanhP03B",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn100QuyLuatBatBienDeThanhCongTrongKinhDoanh/100QuyLuatBatBienTrongKinhDoanhP04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2011,
+    "title" : "100QuyLuatBatBienTrongKinhDoanhP04",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn100QuyLuatBatBienDeThanhCongTrongKinhDoanh/100QuyLuatBatBienTrongKinhDoanhP05.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2454,
+    "title" : "100QuyLuatBatBienTrongKinhDoanhP05",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn100QuyLuatBatBienDeThanhCongTrongKinhDoanh/100QuyLuatBatBienTrongKinhDoanhP06A.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1322,
+    "title" : "100QuyLuatBatBienTrongKinhDoanhP06A",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn100QuyLuatBatBienDeThanhCongTrongKinhDoanh/100QuyLuatBatBienTrongKinhDoanhP06B.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1318,
+    "title" : "100QuyLuatBatBienTrongKinhDoanhP06B",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn100QuyLuatBatBienDeThanhCongTrongKinhDoanh/100QuyLuatBatBienTrongKinhDoanhP07A.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1399,
+    "title" : "100QuyLuatBatBienTrongKinhDoanhP07A",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn100QuyLuatBatBienDeThanhCongTrongKinhDoanh/100QuyLuatBatBienTrongKinhDoanhP07B.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1074,
+    "title" : "100QuyLuatBatBienTrongKinhDoanhP07B",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn100QuyLuatBatBienDeThanhCongTrongKinhDoanh/100QuyLuatBatBienTrongKinhDoanhP08.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1746,
+    "title" : "100QuyLuatBatBienTrongKinhDoanhP08",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/sachnoi.vn100QuyLuatBatBienDeThanhCongTrongKinhDoanh/100QuyLuatBatBienTrongKinhDoanhP01.mp3",
+    "title" : "100QuyLuatBatBienTrongKinhDoanhP01",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn100QuyLuatBatBienDeThanhCongTrongKinhDoanh/100QuyLuatBatBienTrongKinhDoanhP02.mp3",
+    "title" : "100QuyLuatBatBienTrongKinhDoanhP02",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn100QuyLuatBatBienDeThanhCongTrongKinhDoanh/100QuyLuatBatBienTrongKinhDoanhP03A.mp3",
+    "title" : "100QuyLuatBatBienTrongKinhDoanhP03A",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn100QuyLuatBatBienDeThanhCongTrongKinhDoanh/100QuyLuatBatBienTrongKinhDoanhP03B.mp3",
+    "title" : "100QuyLuatBatBienTrongKinhDoanhP03B",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn100QuyLuatBatBienDeThanhCongTrongKinhDoanh/100QuyLuatBatBienTrongKinhDoanhP04.mp3",
+    "title" : "100QuyLuatBatBienTrongKinhDoanhP04",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn100QuyLuatBatBienDeThanhCongTrongKinhDoanh/100QuyLuatBatBienTrongKinhDoanhP05.mp3",
+    "title" : "100QuyLuatBatBienTrongKinhDoanhP05",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn100QuyLuatBatBienDeThanhCongTrongKinhDoanh/100QuyLuatBatBienTrongKinhDoanhP06A.mp3",
+    "title" : "100QuyLuatBatBienTrongKinhDoanhP06A",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn100QuyLuatBatBienDeThanhCongTrongKinhDoanh/100QuyLuatBatBienTrongKinhDoanhP06B.mp3",
+    "title" : "100QuyLuatBatBienTrongKinhDoanhP06B",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn100QuyLuatBatBienDeThanhCongTrongKinhDoanh/100QuyLuatBatBienTrongKinhDoanhP07A.mp3",
+    "title" : "100QuyLuatBatBienTrongKinhDoanhP07A",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn100QuyLuatBatBienDeThanhCongTrongKinhDoanh/100QuyLuatBatBienTrongKinhDoanhP07B.mp3",
+    "title" : "100QuyLuatBatBienTrongKinhDoanhP07B",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn100QuyLuatBatBienDeThanhCongTrongKinhDoanh/100QuyLuatBatBienTrongKinhDoanhP08.mp3",
+    "title" : "100QuyLuatBatBienTrongKinhDoanhP08",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

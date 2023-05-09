@@ -1,0 +1,101 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/bac-si-tot-nhat-la-chinh-minh_12509.html",
+    "title" : "Bác Sĩ Tốt Nhất Là Chính Mình",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Hồng Chiêu Quang",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 8440,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/EPUB/EPUB_1b7085dc092679074c1bd022b71e86ae.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/IMAGE/IMAGE_1b7085dc092679074c1bd022b71e86ae.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/namnt2_gmail_01/01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2118,
+    "title" : "01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/namnt2_gmail_01/02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1758,
+    "title" : "02",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/namnt2_gmail_01/03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1720,
+    "title" : "03",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/namnt2_gmail_01/04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2211,
+    "title" : "04",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/namnt2_gmail_01/05.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 633,
+    "title" : "05",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/namnt2_gmail_01/01.mp3",
+    "title" : "01",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/namnt2_gmail_01/02.mp3",
+    "title" : "02",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/namnt2_gmail_01/03.mp3",
+    "title" : "03",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/namnt2_gmail_01/04.mp3",
+    "title" : "04",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/namnt2_gmail_01/05.mp3",
+    "title" : "05",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

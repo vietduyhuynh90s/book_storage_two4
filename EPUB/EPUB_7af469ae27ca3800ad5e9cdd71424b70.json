@@ -1,0 +1,173 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/120-ngay-nhin-trom_15673.html",
+    "title" : "120 Ngày Nhìn Trộm",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Sái Tuấn",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 35407,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/EPUB/EPUB_7af469ae27ca3800ad5e9cdd71424b70.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/IMAGE/IMAGE_7af469ae27ca3800ad5e9cdd71424b70.png",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/11_20200115/01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3636,
+    "title" : "Truyện trinh thám | 120 ngày nhìn trộm tập 1 | mc phú cường",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/11_20200115/02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3797,
+    "title" : "120 ngày nhìn trộm tập 2 | Tuổi thơ của Thôi Thiện | mc phú cường",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/11_20200115/03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3403,
+    "title" : "Truyện trinh thám | 120 ngày nhìn trộm | tập 3 | mc phú cường",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/11_20200115/04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2699,
+    "title" : "Cực hay truyện trinh thám 120 ngày nhìn trộm tập 4 | mc phú cường",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/11_20200115/05.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2471,
+    "title" : "Trinh thám hay | 120 ngày nhìn trộm tập 5 | mc phú cường",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/11_20200115/06.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3488,
+    "title" : "120 Ngày nhìn trộm Tập 6 | Ngày thứ 120 | MC Phú Cường",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/11_20200115/07.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2342,
+    "title" : "120 ngày nhìn trộm tập 7 | Sái Tuấn cực hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/11_20200115/08.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2983,
+    "title" : "120 ngày nhìn trộm tập 8 | Cảm ơn mọi người đã ủng hộ PC",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/11_20200115/09.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2335,
+    "title" : "120 ngày nhìn trộm | tập 9 | Âm mưu của hội những bà vợ cả",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/11_20200115/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2777,
+    "title" : "120 ngày nhìn trộm tập 10 | Trở về quê cũ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/11_20200115/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5476,
+    "title" : "tập cuối",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/11_20200115/01.mp3",
+    "title" : "Truyện trinh thám | 120 ngày nhìn trộm tập 1 | mc phú cường",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/11_20200115/02.mp3",
+    "title" : "120 ngày nhìn trộm tập 2 | Tuổi thơ của Thôi Thiện | mc phú cường",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/11_20200115/03.mp3",
+    "title" : "Truyện trinh thám | 120 ngày nhìn trộm | tập 3 | mc phú cường",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/11_20200115/04.mp3",
+    "title" : "Cực hay truyện trinh thám 120 ngày nhìn trộm tập 4 | mc phú cường",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/11_20200115/05.mp3",
+    "title" : "Trinh thám hay | 120 ngày nhìn trộm tập 5 | mc phú cường",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/11_20200115/06.mp3",
+    "title" : "120 Ngày nhìn trộm Tập 6 | Ngày thứ 120 | MC Phú Cường",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/11_20200115/07.mp3",
+    "title" : "120 ngày nhìn trộm tập 7 | Sái Tuấn cực hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/11_20200115/08.mp3",
+    "title" : "120 ngày nhìn trộm tập 8 | Cảm ơn mọi người đã ủng hộ PC",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/11_20200115/09.mp3",
+    "title" : "120 ngày nhìn trộm | tập 9 | Âm mưu của hội những bà vợ cả",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/11_20200115/10.mp3",
+    "title" : "120 ngày nhìn trộm tập 10 | Trở về quê cũ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/11_20200115/11.mp3",
+    "title" : "tập cuối",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

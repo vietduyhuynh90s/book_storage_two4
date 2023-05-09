@@ -1,0 +1,65 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/tu-hu-khong-den-tro-ve-hu-khong_12961.html",
+    "title" : "Từ Hư Không Đến Trở Về Hư Không",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Thích Hằng Đạt",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 58343,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/EPUB/EPUB_635f47e284e8a26fef5047942c8cb20e.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/IMAGE/IMAGE_635f47e284e8a26fef5047942c8cb20e.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/tu-hu-khong-den-tro-ve-hu-khong/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 26367,
+    "title" : "Tập 1 - Hoà Thượng Tuyên Hóa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tu-hu-khong-den-tro-ve-hu-khong/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 31976,
+    "title" : "Tập 2 - Hoà Thượng Tuyên Hóa",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/tu-hu-khong-den-tro-ve-hu-khong/1.mp3",
+    "title" : "Tập 1 - Hoà Thượng Tuyên Hóa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tu-hu-khong-den-tro-ve-hu-khong/2.mp3",
+    "title" : "Tập 2 - Hoà Thượng Tuyên Hóa",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

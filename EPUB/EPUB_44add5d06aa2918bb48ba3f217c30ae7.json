@@ -1,0 +1,65 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/cuc-pham-ac-nam_12929.html",
+    "title" : "Cực Phẩm Ác Nam",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Tiểu Ngôn",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 14385,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/EPUB/EPUB_44add5d06aa2918bb48ba3f217c30ae7.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/IMAGE/IMAGE_44add5d06aa2918bb48ba3f217c30ae7.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/cuc-pham-ac-nam/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6862,
+    "title" : "Truyện Ngôn Tình Hay Hài Hước Khi Lấy Được Chồng Giàu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuc-pham-ac-nam/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7523,
+    "title" : "Cực Phẩm Ác Nam [Phần 2 HẾT] Truyện Ngôn Tình Hay ĐỐN Tim Triệu FAN",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/cuc-pham-ac-nam/1.mp3",
+    "title" : "Truyện Ngôn Tình Hay Hài Hước Khi Lấy Được Chồng Giàu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuc-pham-ac-nam/2.mp3",
+    "title" : "Cực Phẩm Ác Nam [Phần 2 HẾT] Truyện Ngôn Tình Hay ĐỐN Tim Triệu FAN",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

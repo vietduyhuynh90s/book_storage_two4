@@ -1,0 +1,137 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/mat-troi-luc-nua-dem_17850.html",
+    "title" : "Mặt Trời Lúc Nửa Đêm",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Stephenie Meyer",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 19920,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/EPUB/EPUB_a5c013bfbbde021df735ca51a216897c.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/IMAGE/IMAGE_a5c013bfbbde021df735ca51a216897c.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/ma-t-tro-i-lu-c-nu-a-de-m-midnight-sun-chuong-02/M%E1%BA%B6T%20TR%E1%BB%9CI%20L%C3%9AC%20N%E1%BB%ACA%20%C4%90%C3%8AM%20-%20Midnight%20Sun%20-%20Ch%C6%B0%C6%A1ng%2001.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2165,
+    "title" : "MẶT TRỜI LÚC NỬA ĐÊM - Midnight Sun - Chương 01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ma-t-tro-i-lu-c-nu-a-de-m-midnight-sun-chuong-02/M%E1%BA%B6T%20TR%E1%BB%9CI%20L%C3%9AC%20N%E1%BB%ACA%20%C4%90%C3%8AM%20-%20Midnight%20Sun%20-%20Ch%C6%B0%C6%A1ng%2002.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3334,
+    "title" : "MẶT TRỜI LÚC NỬA ĐÊM - Midnight Sun - Chương 02",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ma-t-tro-i-lu-c-nu-a-de-m-midnight-sun-chuong-02/M%E1%BA%B6T%20TR%E1%BB%9CI%20L%C3%9AC%20N%E1%BB%ACA%20%C4%90%C3%8AM%20-%20Midnight%20Sun%20-%20Ch%C6%B0%C6%A1ng%2003.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2830,
+    "title" : "MẶT TRỜI LÚC NỬA ĐÊM - Midnight Sun - Chương 03",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ma-t-tro-i-lu-c-nu-a-de-m-midnight-sun-chuong-02/M%E1%BA%B6T%20TR%E1%BB%9CI%20L%C3%9AC%20N%E1%BB%ACA%20%C4%90%C3%8AM%20-%20Midnight%20Sun%20-%20Ch%C6%B0%C6%A1ng%2004.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1940,
+    "title" : "MẶT TRỜI LÚC NỬA ĐÊM - Midnight Sun - Chương 04",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ma-t-tro-i-lu-c-nu-a-de-m-midnight-sun-chuong-02/M%E1%BA%B6T%20TR%E1%BB%9CI%20L%C3%9AC%20N%E1%BB%ACA%20%C4%90%C3%8AM%20-%20Midnight%20Sun%20-%20Ch%C6%B0%C6%A1ng%2005.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3316,
+    "title" : "MẶT TRỜI LÚC NỬA ĐÊM - Midnight Sun - Chương 05",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ma-t-tro-i-lu-c-nu-a-de-m-midnight-sun-chuong-02/M%E1%BA%B6T%20TR%E1%BB%9CI%20L%C3%9AC%20N%E1%BB%ACA%20%C4%90%C3%8AM%20-%20Midnight%20Sun%20-%20Ch%C6%B0%C6%A1ng%2006.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3070,
+    "title" : "MẶT TRỜI LÚC NỬA ĐÊM - Midnight Sun - Chương 06",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ma-t-tro-i-lu-c-nu-a-de-m-midnight-sun-chuong-02/M%E1%BA%B6T%20TR%E1%BB%9CI%20L%C3%9AC%20N%E1%BB%ACA%20%C4%90%C3%8AM%20-%20Midnight%20Sun%20-%20Ch%C6%B0%C6%A1ng%2007.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1934,
+    "title" : "MẶT TRỜI LÚC NỬA ĐÊM - Midnight Sun - Chương 07",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ma-t-tro-i-lu-c-nu-a-de-m-midnight-sun-chuong-02/M%E1%BA%B6T%20TR%E1%BB%9CI%20L%C3%9AC%20N%E1%BB%ACA%20%C4%90%C3%8AM%20-%20Midnight%20Sun%20-%20Ch%C6%B0%C6%A1ng%2008.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1331,
+    "title" : "MẶT TRỜI LÚC NỬA ĐÊM - Midnight Sun - Chương 08",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/ma-t-tro-i-lu-c-nu-a-de-m-midnight-sun-chuong-02/M%E1%BA%B6T%20TR%E1%BB%9CI%20L%C3%9AC%20N%E1%BB%ACA%20%C4%90%C3%8AM%20-%20Midnight%20Sun%20-%20Ch%C6%B0%C6%A1ng%2001.mp3",
+    "title" : "MẶT TRỜI LÚC NỬA ĐÊM - Midnight Sun - Chương 01",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ma-t-tro-i-lu-c-nu-a-de-m-midnight-sun-chuong-02/M%E1%BA%B6T%20TR%E1%BB%9CI%20L%C3%9AC%20N%E1%BB%ACA%20%C4%90%C3%8AM%20-%20Midnight%20Sun%20-%20Ch%C6%B0%C6%A1ng%2002.mp3",
+    "title" : "MẶT TRỜI LÚC NỬA ĐÊM - Midnight Sun - Chương 02",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ma-t-tro-i-lu-c-nu-a-de-m-midnight-sun-chuong-02/M%E1%BA%B6T%20TR%E1%BB%9CI%20L%C3%9AC%20N%E1%BB%ACA%20%C4%90%C3%8AM%20-%20Midnight%20Sun%20-%20Ch%C6%B0%C6%A1ng%2003.mp3",
+    "title" : "MẶT TRỜI LÚC NỬA ĐÊM - Midnight Sun - Chương 03",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ma-t-tro-i-lu-c-nu-a-de-m-midnight-sun-chuong-02/M%E1%BA%B6T%20TR%E1%BB%9CI%20L%C3%9AC%20N%E1%BB%ACA%20%C4%90%C3%8AM%20-%20Midnight%20Sun%20-%20Ch%C6%B0%C6%A1ng%2004.mp3",
+    "title" : "MẶT TRỜI LÚC NỬA ĐÊM - Midnight Sun - Chương 04",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ma-t-tro-i-lu-c-nu-a-de-m-midnight-sun-chuong-02/M%E1%BA%B6T%20TR%E1%BB%9CI%20L%C3%9AC%20N%E1%BB%ACA%20%C4%90%C3%8AM%20-%20Midnight%20Sun%20-%20Ch%C6%B0%C6%A1ng%2005.mp3",
+    "title" : "MẶT TRỜI LÚC NỬA ĐÊM - Midnight Sun - Chương 05",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ma-t-tro-i-lu-c-nu-a-de-m-midnight-sun-chuong-02/M%E1%BA%B6T%20TR%E1%BB%9CI%20L%C3%9AC%20N%E1%BB%ACA%20%C4%90%C3%8AM%20-%20Midnight%20Sun%20-%20Ch%C6%B0%C6%A1ng%2006.mp3",
+    "title" : "MẶT TRỜI LÚC NỬA ĐÊM - Midnight Sun - Chương 06",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ma-t-tro-i-lu-c-nu-a-de-m-midnight-sun-chuong-02/M%E1%BA%B6T%20TR%E1%BB%9CI%20L%C3%9AC%20N%E1%BB%ACA%20%C4%90%C3%8AM%20-%20Midnight%20Sun%20-%20Ch%C6%B0%C6%A1ng%2007.mp3",
+    "title" : "MẶT TRỜI LÚC NỬA ĐÊM - Midnight Sun - Chương 07",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ma-t-tro-i-lu-c-nu-a-de-m-midnight-sun-chuong-02/M%E1%BA%B6T%20TR%E1%BB%9CI%20L%C3%9AC%20N%E1%BB%ACA%20%C4%90%C3%8AM%20-%20Midnight%20Sun%20-%20Ch%C6%B0%C6%A1ng%2008.mp3",
+    "title" : "MẶT TRỜI LÚC NỬA ĐÊM - Midnight Sun - Chương 08",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

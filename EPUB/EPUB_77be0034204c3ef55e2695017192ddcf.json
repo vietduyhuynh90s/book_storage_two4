@@ -1,0 +1,233 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/12-phuong-phap-khich-le-nhan-vien-tien-khong-lam-duoc_20274.html",
+    "title" : "12 Phương Pháp Khích Lệ Nhân Viên Tiền Không Làm Được",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Tịch Tông Long",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 25598,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/EPUB/EPUB_77be0034204c3ef55e2695017192ddcf.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/IMAGE/IMAGE_77be0034204c3ef55e2695017192ddcf.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/12-phuong-phap-khich-le-nhan-vien-tien-khong-lam-duoc.sna/01.C01A_Bai1A_12PhuongPhapKhichLeNhanVien.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2263,
+    "title" : "01.C01A Bai1A 12PhuongPhapKhichLeNhanVien",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/12-phuong-phap-khich-le-nhan-vien-tien-khong-lam-duoc.sna/02.C01B_Bai1B_Bai2_12PhuongPhapKhichLeNhanVien.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1766,
+    "title" : "02.C01B Bai1B Bai2 12PhuongPhapKhichLeNhanVien",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/12-phuong-phap-khich-le-nhan-vien-tien-khong-lam-duoc.sna/03.C01C_Bai3_12PhuongPhapKhichLeNhanVien.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1701,
+    "title" : "03.C01C Bai3 12PhuongPhapKhichLeNhanVien",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/12-phuong-phap-khich-le-nhan-vien-tien-khong-lam-duoc.sna/04.C02A_Bai1_12PhuongPhapKhichLeNhanVien.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1702,
+    "title" : "04.C02A Bai1 12PhuongPhapKhichLeNhanVien",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/12-phuong-phap-khich-le-nhan-vien-tien-khong-lam-duoc.sna/05.C02B_Bai2_12PhuongPhapKhichLeNhanVien.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1375,
+    "title" : "05.C02B Bai2 12PhuongPhapKhichLeNhanVien",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/12-phuong-phap-khich-le-nhan-vien-tien-khong-lam-duoc.sna/06.C02C_Bai3_12PhuongPhapKhichLeNhanVien.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1534,
+    "title" : "06.C02C Bai3 12PhuongPhapKhichLeNhanVien",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/12-phuong-phap-khich-le-nhan-vien-tien-khong-lam-duoc.sna/07.C02D_Bai4_12PhuongPhapKhichLeNhanVien.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1584,
+    "title" : "07.C02D Bai4 12PhuongPhapKhichLeNhanVien",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/12-phuong-phap-khich-le-nhan-vien-tien-khong-lam-duoc.sna/08.C03A_Bai1_12PhuongPhapKhichLeNhanVien.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1588,
+    "title" : "08.C03A Bai1 12PhuongPhapKhichLeNhanVien",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/12-phuong-phap-khich-le-nhan-vien-tien-khong-lam-duoc.sna/09.C03B_Bai2_12PhuongPhapKhichLeNhanVien.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2271,
+    "title" : "09.C03B Bai2 12PhuongPhapKhichLeNhanVien",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/12-phuong-phap-khich-le-nhan-vien-tien-khong-lam-duoc.sna/10.C04A_Bai1_Bai2_12PhuongPhapKhichLeNhanVien.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2381,
+    "title" : "10.C04A Bai1 Bai2 12PhuongPhapKhichLeNhanVien",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/12-phuong-phap-khich-le-nhan-vien-tien-khong-lam-duoc.sna/11.C04B_Bai3_12PhuongPhapKhichLeNhanVien.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1379,
+    "title" : "11.C04B Bai3 12PhuongPhapKhichLeNhanVien",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/12-phuong-phap-khich-le-nhan-vien-tien-khong-lam-duoc.sna/12.C05A_Bai1_12PhuongPhapKhichLeNhanVien.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 995,
+    "title" : "12.C05A Bai1 12PhuongPhapKhichLeNhanVien",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/12-phuong-phap-khich-le-nhan-vien-tien-khong-lam-duoc.sna/13.C05B_Bai2_12PhuongPhapKhichLeNhanVien.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1754,
+    "title" : "13.C05B Bai2 12PhuongPhapKhichLeNhanVien",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/12-phuong-phap-khich-le-nhan-vien-tien-khong-lam-duoc.sna/14.C05C_Bai3_12PhuongPhapKhichLeNhanVien.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 859,
+    "title" : "14.C05C Bai3 12PhuongPhapKhichLeNhanVien",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/12-phuong-phap-khich-le-nhan-vien-tien-khong-lam-duoc.sna/15.C06A_Bai1_12PhuongPhapKhichLeNhanVien.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1032,
+    "title" : "15.C06A Bai1 12PhuongPhapKhichLeNhanVien",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/12-phuong-phap-khich-le-nhan-vien-tien-khong-lam-duoc.sna/16.C06B_Bai2_HET_12PhuongPhapKhichLeNhanVien.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1414,
+    "title" : "16.C06B Bai2 HET 12PhuongPhapKhichLeNhanVien",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/12-phuong-phap-khich-le-nhan-vien-tien-khong-lam-duoc.sna/01.C01A_Bai1A_12PhuongPhapKhichLeNhanVien.mp3",
+    "title" : "01.C01A Bai1A 12PhuongPhapKhichLeNhanVien",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/12-phuong-phap-khich-le-nhan-vien-tien-khong-lam-duoc.sna/02.C01B_Bai1B_Bai2_12PhuongPhapKhichLeNhanVien.mp3",
+    "title" : "02.C01B Bai1B Bai2 12PhuongPhapKhichLeNhanVien",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/12-phuong-phap-khich-le-nhan-vien-tien-khong-lam-duoc.sna/03.C01C_Bai3_12PhuongPhapKhichLeNhanVien.mp3",
+    "title" : "03.C01C Bai3 12PhuongPhapKhichLeNhanVien",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/12-phuong-phap-khich-le-nhan-vien-tien-khong-lam-duoc.sna/04.C02A_Bai1_12PhuongPhapKhichLeNhanVien.mp3",
+    "title" : "04.C02A Bai1 12PhuongPhapKhichLeNhanVien",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/12-phuong-phap-khich-le-nhan-vien-tien-khong-lam-duoc.sna/05.C02B_Bai2_12PhuongPhapKhichLeNhanVien.mp3",
+    "title" : "05.C02B Bai2 12PhuongPhapKhichLeNhanVien",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/12-phuong-phap-khich-le-nhan-vien-tien-khong-lam-duoc.sna/06.C02C_Bai3_12PhuongPhapKhichLeNhanVien.mp3",
+    "title" : "06.C02C Bai3 12PhuongPhapKhichLeNhanVien",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/12-phuong-phap-khich-le-nhan-vien-tien-khong-lam-duoc.sna/07.C02D_Bai4_12PhuongPhapKhichLeNhanVien.mp3",
+    "title" : "07.C02D Bai4 12PhuongPhapKhichLeNhanVien",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/12-phuong-phap-khich-le-nhan-vien-tien-khong-lam-duoc.sna/08.C03A_Bai1_12PhuongPhapKhichLeNhanVien.mp3",
+    "title" : "08.C03A Bai1 12PhuongPhapKhichLeNhanVien",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/12-phuong-phap-khich-le-nhan-vien-tien-khong-lam-duoc.sna/09.C03B_Bai2_12PhuongPhapKhichLeNhanVien.mp3",
+    "title" : "09.C03B Bai2 12PhuongPhapKhichLeNhanVien",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/12-phuong-phap-khich-le-nhan-vien-tien-khong-lam-duoc.sna/10.C04A_Bai1_Bai2_12PhuongPhapKhichLeNhanVien.mp3",
+    "title" : "10.C04A Bai1 Bai2 12PhuongPhapKhichLeNhanVien",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/12-phuong-phap-khich-le-nhan-vien-tien-khong-lam-duoc.sna/11.C04B_Bai3_12PhuongPhapKhichLeNhanVien.mp3",
+    "title" : "11.C04B Bai3 12PhuongPhapKhichLeNhanVien",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/12-phuong-phap-khich-le-nhan-vien-tien-khong-lam-duoc.sna/12.C05A_Bai1_12PhuongPhapKhichLeNhanVien.mp3",
+    "title" : "12.C05A Bai1 12PhuongPhapKhichLeNhanVien",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/12-phuong-phap-khich-le-nhan-vien-tien-khong-lam-duoc.sna/13.C05B_Bai2_12PhuongPhapKhichLeNhanVien.mp3",
+    "title" : "13.C05B Bai2 12PhuongPhapKhichLeNhanVien",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/12-phuong-phap-khich-le-nhan-vien-tien-khong-lam-duoc.sna/14.C05C_Bai3_12PhuongPhapKhichLeNhanVien.mp3",
+    "title" : "14.C05C Bai3 12PhuongPhapKhichLeNhanVien",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/12-phuong-phap-khich-le-nhan-vien-tien-khong-lam-duoc.sna/15.C06A_Bai1_12PhuongPhapKhichLeNhanVien.mp3",
+    "title" : "15.C06A Bai1 12PhuongPhapKhichLeNhanVien",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/12-phuong-phap-khich-le-nhan-vien-tien-khong-lam-duoc.sna/16.C06B_Bai2_HET_12PhuongPhapKhichLeNhanVien.mp3",
+    "title" : "16.C06B Bai2 HET 12PhuongPhapKhichLeNhanVien",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

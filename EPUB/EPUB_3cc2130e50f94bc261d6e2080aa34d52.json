@@ -1,0 +1,77 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/buc-thu-hoi-han_12146.html",
+    "title" : "Bức Thư Hối Hận",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Hồ Biểu Chánh",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 10690,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/EPUB/EPUB_3cc2130e50f94bc261d6e2080aa34d52.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/IMAGE/IMAGE_3cc2130e50f94bc261d6e2080aa34d52.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/buc_thu_hoi_han/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4492,
+    "title" : "Bức thư hối hận P1 - MC Hồng Nhung",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/buc_thu_hoi_han/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3492,
+    "title" : "Bức thư hối hận P2 - MC Hồng Nhung",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/buc_thu_hoi_han/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2706,
+    "title" : "Bức thư hối hận P3 (Hết) - MC Hồng Nhung",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/buc_thu_hoi_han/1.mp3",
+    "title" : "Bức thư hối hận P1 - MC Hồng Nhung",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/buc_thu_hoi_han/2.mp3",
+    "title" : "Bức thư hối hận P2 - MC Hồng Nhung",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/buc_thu_hoi_han/3.mp3",
+    "title" : "Bức thư hối hận P3 (Hết) - MC Hồng Nhung",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

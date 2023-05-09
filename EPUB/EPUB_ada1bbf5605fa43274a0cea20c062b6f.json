@@ -1,0 +1,401 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/tay-xuat-ngoc-mon-vi-ngu_11364.html",
+    "title" : "Tây Xuất Ngọc Môn - Vĩ Ngư",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Vĩ Ngư",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 129160,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/EPUB/EPUB_ada1bbf5605fa43274a0cea20c062b6f.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/IMAGE/IMAGE_ada1bbf5605fa43274a0cea20c062b6f.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/tay-xuat-ngoc-mon/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3011,
+    "title" : "Phần 1 | MC Nguyễn Thành - Nghe dễ ngủ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tay-xuat-ngoc-mon/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4652,
+    "title" : "10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tay-xuat-ngoc-mon/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2092,
+    "title" : "Phần 11 | Tiến vào Ngọc Môn Quan",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tay-xuat-ngoc-mon/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2719,
+    "title" : "12",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tay-xuat-ngoc-mon/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2801,
+    "title" : "Phần 13 | Thị Thành Ngọc Môn Quan",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tay-xuat-ngoc-mon/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4249,
+    "title" : "14",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tay-xuat-ngoc-mon/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3628,
+    "title" : "15",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tay-xuat-ngoc-mon/16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4576,
+    "title" : "16",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tay-xuat-ngoc-mon/17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5569,
+    "title" : "Phần 17 Truyện Trộm Mộ, Phiêu Lưu Mới Hay | TÂY XUẤT NGỌC MÔN | Hắc Thạch Thành",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tay-xuat-ngoc-mon/18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5562,
+    "title" : "Phần 18 Truyện Trộm Mộ, Phiêu Lưu Mới Hay | TÂY XUẤT NGỌC MÔN | Mắt Bọ Cạp",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tay-xuat-ngoc-mon/19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5436,
+    "title" : "Phần 19 Truyện Trộm Mộ, Phiêu Lưu Mới Hay | TÂY XUẤT NGỌC MÔN | Đâu Cũng Là Địch",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tay-xuat-ngoc-mon/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3624,
+    "title" : "2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tay-xuat-ngoc-mon/20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3227,
+    "title" : "Phần 20 Truyện Trộm Mộ, Phiêu Lưu Mới Hay | TÂY XUẤT NGỌC MÔN | Nhớ Chị Tây quá",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tay-xuat-ngoc-mon/21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3338,
+    "title" : "Phần 21 Truyện Trộm Mộ, Phiêu Lưu Mới Hay | TÂY XUẤT NGỌC MÔN | 18+ Chị Tây Anh Đông",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tay-xuat-ngoc-mon/22.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5077,
+    "title" : "22",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tay-xuat-ngoc-mon/23.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5192,
+    "title" : "Phần 23 Tây Xuất Ngọc Môn | ĐỨA CON THỨ 10 CỦA RỒNG | Sách hay 2019",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tay-xuat-ngoc-mon/24.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5615,
+    "title" : "Phần 24 Tây Xuất Ngọc Môn | SỰ THẬT VỀ DIỆP LƯU TÂY | Sách hay 2019",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tay-xuat-ngoc-mon/25.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4706,
+    "title" : "25",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tay-xuat-ngoc-mon/26.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4707,
+    "title" : "26",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tay-xuat-ngoc-mon/27.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5088,
+    "title" : "27",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tay-xuat-ngoc-mon/28.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4836,
+    "title" : "Phần 28 Tây Xuất Ngọc Môn | HỒI KẾT | MC Nguyễn Thành",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tay-xuat-ngoc-mon/29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4493,
+    "title" : "GIANG TRẢM | MC Nguyễn Thành",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tay-xuat-ngoc-mon/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3729,
+    "title" : "3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tay-xuat-ngoc-mon/30.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4898,
+    "title" : "Phần 30 KẾT THÚC Tây Xuất Ngọc Môn | KHÉP LẠI CUỘC PHIÊU LƯU | MC Nguyễn Thành",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tay-xuat-ngoc-mon/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3592,
+    "title" : "4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tay-xuat-ngoc-mon/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3550,
+    "title" : "5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tay-xuat-ngoc-mon/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4314,
+    "title" : "6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tay-xuat-ngoc-mon/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5765,
+    "title" : "7",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tay-xuat-ngoc-mon/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4416,
+    "title" : "8",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tay-xuat-ngoc-mon/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4698,
+    "title" : "9",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/tay-xuat-ngoc-mon/1.mp3",
+    "title" : "Phần 1 | MC Nguyễn Thành - Nghe dễ ngủ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tay-xuat-ngoc-mon/10.mp3",
+    "title" : "10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tay-xuat-ngoc-mon/11.mp3",
+    "title" : "Phần 11 | Tiến vào Ngọc Môn Quan",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tay-xuat-ngoc-mon/12.mp3",
+    "title" : "12",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tay-xuat-ngoc-mon/13.mp3",
+    "title" : "Phần 13 | Thị Thành Ngọc Môn Quan",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tay-xuat-ngoc-mon/14.mp3",
+    "title" : "14",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tay-xuat-ngoc-mon/15.mp3",
+    "title" : "15",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tay-xuat-ngoc-mon/16.mp3",
+    "title" : "16",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tay-xuat-ngoc-mon/17.mp3",
+    "title" : "Phần 17 Truyện Trộm Mộ, Phiêu Lưu Mới Hay | TÂY XUẤT NGỌC MÔN | Hắc Thạch Thành",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tay-xuat-ngoc-mon/18.mp3",
+    "title" : "Phần 18 Truyện Trộm Mộ, Phiêu Lưu Mới Hay | TÂY XUẤT NGỌC MÔN | Mắt Bọ Cạp",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tay-xuat-ngoc-mon/19.mp3",
+    "title" : "Phần 19 Truyện Trộm Mộ, Phiêu Lưu Mới Hay | TÂY XUẤT NGỌC MÔN | Đâu Cũng Là Địch",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tay-xuat-ngoc-mon/2.mp3",
+    "title" : "2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tay-xuat-ngoc-mon/20.mp3",
+    "title" : "Phần 20 Truyện Trộm Mộ, Phiêu Lưu Mới Hay | TÂY XUẤT NGỌC MÔN | Nhớ Chị Tây quá",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tay-xuat-ngoc-mon/21.mp3",
+    "title" : "Phần 21 Truyện Trộm Mộ, Phiêu Lưu Mới Hay | TÂY XUẤT NGỌC MÔN | 18+ Chị Tây Anh Đông",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tay-xuat-ngoc-mon/22.mp3",
+    "title" : "22",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tay-xuat-ngoc-mon/23.mp3",
+    "title" : "Phần 23 Tây Xuất Ngọc Môn | ĐỨA CON THỨ 10 CỦA RỒNG | Sách hay 2019",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tay-xuat-ngoc-mon/24.mp3",
+    "title" : "Phần 24 Tây Xuất Ngọc Môn | SỰ THẬT VỀ DIỆP LƯU TÂY | Sách hay 2019",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tay-xuat-ngoc-mon/25.mp3",
+    "title" : "25",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tay-xuat-ngoc-mon/26.mp3",
+    "title" : "26",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tay-xuat-ngoc-mon/27.mp3",
+    "title" : "27",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tay-xuat-ngoc-mon/28.mp3",
+    "title" : "Phần 28 Tây Xuất Ngọc Môn | HỒI KẾT | MC Nguyễn Thành",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tay-xuat-ngoc-mon/29.mp3",
+    "title" : "GIANG TRẢM | MC Nguyễn Thành",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tay-xuat-ngoc-mon/3.mp3",
+    "title" : "3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tay-xuat-ngoc-mon/30.mp3",
+    "title" : "Phần 30 KẾT THÚC Tây Xuất Ngọc Môn | KHÉP LẠI CUỘC PHIÊU LƯU | MC Nguyễn Thành",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tay-xuat-ngoc-mon/4.mp3",
+    "title" : "4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tay-xuat-ngoc-mon/5.mp3",
+    "title" : "5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tay-xuat-ngoc-mon/6.mp3",
+    "title" : "6",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tay-xuat-ngoc-mon/7.mp3",
+    "title" : "7",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tay-xuat-ngoc-mon/8.mp3",
+    "title" : "8",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tay-xuat-ngoc-mon/9.mp3",
+    "title" : "9",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

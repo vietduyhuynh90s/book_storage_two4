@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/ai-se-khoc-khi-ban-lia-xa_14835.html",
+    "title" : "Ai Sẽ Khóc Khi Bạn Lìa Xa",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Robin Sharma",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 15499,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/EPUB/EPUB_0f916815b2b1702c8aa15d1683a02da2.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/IMAGE/IMAGE_0f916815b2b1702c8aa15d1683a02da2.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/ASKKBLX/Ai%20s%E1%BA%BD%20kh%C3%B3c%20khi%20b%E1%BA%A1n%20l%C3%ACa%20xa%20-%20Robin%20Sharma%20%28128kbit_AAC%29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 15499,
+    "title" : "Ai sẽ khóc khi bạn lìa xa - Robin Sharma (128kbit AAC)",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/ASKKBLX/Ai%20s%E1%BA%BD%20kh%C3%B3c%20khi%20b%E1%BA%A1n%20l%C3%ACa%20xa%20-%20Robin%20Sharma%20%28128kbit_AAC%29.mp3",
+    "title" : "Ai sẽ khóc khi bạn lìa xa - Robin Sharma (128kbit AAC)",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

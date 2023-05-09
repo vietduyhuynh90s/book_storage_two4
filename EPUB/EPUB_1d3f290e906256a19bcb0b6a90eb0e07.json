@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/vi-giam-doc-mot-phut_14817.html",
+    "title" : "Vị Giám Đốc Một Phút",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Spencer Johnson",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 10003,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/EPUB/EPUB_1d3f290e906256a19bcb0b6a90eb0e07.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/IMAGE/IMAGE_1d3f290e906256a19bcb0b6a90eb0e07.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/vi-giam-doc-mot-phut_202005/V%E1%BB%8A%20GI%C3%81M%20%C4%90%E1%BB%90C%20M%E1%BB%98T%20PH%C3%9AT%20_%20KEN%20BLANCHARD%20_%20S%C3%81CH%20HAY%20M%E1%BB%96I%20NG%C3%80Y%20%28128kbit_AAC%29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 10003,
+    "title" : "VỊ GIÁM ĐỐC MỘT PHÚT   KEN BLANCHARD   SÁCH HAY MỖI NGÀY (128kbit AAC)",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/vi-giam-doc-mot-phut_202005/V%E1%BB%8A%20GI%C3%81M%20%C4%90%E1%BB%90C%20M%E1%BB%98T%20PH%C3%9AT%20_%20KEN%20BLANCHARD%20_%20S%C3%81CH%20HAY%20M%E1%BB%96I%20NG%C3%80Y%20%28128kbit_AAC%29.mp3",
+    "title" : "VỊ GIÁM ĐỐC MỘT PHÚT   KEN BLANCHARD   SÁCH HAY MỖI NGÀY (128kbit AAC)",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,233 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/13-nguyen-tac-nghi-giau-lam-giau_14813.html",
+    "title" : "13 Nguyên tắc Nghĩ Giàu Làm Giàu",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Napoleon Hill",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 27016,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/EPUB/EPUB_a3e36369cf337b42c453e85ca4247be4.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/IMAGE/IMAGE_a3e36369cf337b42c453e85ca4247be4.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/audiobook-thinkandgrowrich/ch00-01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1460,
+    "title" : "ch00-01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/audiobook-thinkandgrowrich/ch00-02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1669,
+    "title" : "ch00-02",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/audiobook-thinkandgrowrich/ch01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1881,
+    "title" : "ch01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/audiobook-thinkandgrowrich/ch02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2130,
+    "title" : "ch02",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/audiobook-thinkandgrowrich/ch03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 827,
+    "title" : "ch03",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/audiobook-thinkandgrowrich/ch04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1570,
+    "title" : "ch04",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/audiobook-thinkandgrowrich/ch05.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1442,
+    "title" : "ch05",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/audiobook-thinkandgrowrich/ch06.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4034,
+    "title" : "ch06",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/audiobook-thinkandgrowrich/ch07.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1442,
+    "title" : "ch07",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/audiobook-thinkandgrowrich/ch08.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1706,
+    "title" : "ch08",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/audiobook-thinkandgrowrich/ch09.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1282,
+    "title" : "ch09",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/audiobook-thinkandgrowrich/ch10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1568,
+    "title" : "ch10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/audiobook-thinkandgrowrich/ch11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 728,
+    "title" : "ch11",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/audiobook-thinkandgrowrich/ch12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 731,
+    "title" : "ch12",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/audiobook-thinkandgrowrich/ch13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 909,
+    "title" : "ch13",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/audiobook-thinkandgrowrich/ch14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3637,
+    "title" : "ch14",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/audiobook-thinkandgrowrich/ch00-01.mp3",
+    "title" : "ch00-01",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/audiobook-thinkandgrowrich/ch00-02.mp3",
+    "title" : "ch00-02",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/audiobook-thinkandgrowrich/ch01.mp3",
+    "title" : "ch01",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/audiobook-thinkandgrowrich/ch02.mp3",
+    "title" : "ch02",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/audiobook-thinkandgrowrich/ch03.mp3",
+    "title" : "ch03",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/audiobook-thinkandgrowrich/ch04.mp3",
+    "title" : "ch04",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/audiobook-thinkandgrowrich/ch05.mp3",
+    "title" : "ch05",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/audiobook-thinkandgrowrich/ch06.mp3",
+    "title" : "ch06",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/audiobook-thinkandgrowrich/ch07.mp3",
+    "title" : "ch07",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/audiobook-thinkandgrowrich/ch08.mp3",
+    "title" : "ch08",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/audiobook-thinkandgrowrich/ch09.mp3",
+    "title" : "ch09",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/audiobook-thinkandgrowrich/ch10.mp3",
+    "title" : "ch10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/audiobook-thinkandgrowrich/ch11.mp3",
+    "title" : "ch11",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/audiobook-thinkandgrowrich/ch12.mp3",
+    "title" : "ch12",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/audiobook-thinkandgrowrich/ch13.mp3",
+    "title" : "ch13",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/audiobook-thinkandgrowrich/ch14.mp3",
+    "title" : "ch14",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

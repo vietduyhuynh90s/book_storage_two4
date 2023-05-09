@@ -1,0 +1,653 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/am-phu-than-tham_17810.html",
+    "title" : "Âm Phủ Thần Thám",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Đạo Môn Lão Cửu",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 153886,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/EPUB/EPUB_606f1695e2e4a1b92dab04b1ab990455.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/IMAGE/IMAGE_606f1695e2e4a1b92dab04b1ab990455.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/am-phu-than-tham-q-01-p-01/%C3%82m%20Ph%E1%BB%A7%20Th%E1%BA%A7n%20Th%C3%A1m%20-%20Q01_P01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2902,
+    "title" : "Âm Phủ Thần Thám - Q01 P01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/am-phu-than-tham-q-01-p-01/%C3%82m%20Ph%E1%BB%A7%20Th%E1%BA%A7n%20Th%C3%A1m%20-%20Q01_P02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2174,
+    "title" : "Âm Phủ Thần Thám - Q01 P02",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/am-phu-than-tham-q-01-p-01/%C3%82m%20Ph%E1%BB%A7%20Th%E1%BA%A7n%20Th%C3%A1m%20-%20Q02_P01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2731,
+    "title" : "Âm Phủ Thần Thám - Q02 P01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/am-phu-than-tham-q-01-p-01/%C3%82m%20Ph%E1%BB%A7%20Th%E1%BA%A7n%20Th%C3%A1m%20-%20Q02_P02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2326,
+    "title" : "Âm Phủ Thần Thám - Q02 P02",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/am-phu-than-tham-q-01-p-01/%C3%82m%20Ph%E1%BB%A7%20Th%E1%BA%A7n%20Th%C3%A1m%20-%20Q02_P03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2280,
+    "title" : "Âm Phủ Thần Thám - Q02 P03",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/am-phu-than-tham-q-01-p-01/%C3%82m%20Ph%E1%BB%A7%20Th%E1%BA%A7n%20Th%C3%A1m%20-%20Q02_P04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2183,
+    "title" : "Âm Phủ Thần Thám - Q02 P04",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/am-phu-than-tham-q-01-p-01/%C3%82m%20Ph%E1%BB%A7%20Th%E1%BA%A7n%20Th%C3%A1m%20-%20Q02_P05.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2850,
+    "title" : "Âm Phủ Thần Thám - Q02 P05",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/am-phu-than-tham-q-01-p-01/%C3%82m%20Ph%E1%BB%A7%20Th%E1%BA%A7n%20Th%C3%A1m%20-%20Q03_P01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2419,
+    "title" : "Âm Phủ Thần Thám - Q03 P01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/am-phu-than-tham-q-01-p-01/%C3%82m%20Ph%E1%BB%A7%20Th%E1%BA%A7n%20Th%C3%A1m%20-%20Q03_P02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2587,
+    "title" : "Âm Phủ Thần Thám - Q03 P02",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/am-phu-than-tham-q-01-p-01/%C3%82m%20Ph%E1%BB%A7%20Th%E1%BA%A7n%20Th%C3%A1m%20-%20Q03_P03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2353,
+    "title" : "Âm Phủ Thần Thám - Q03 P03",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/am-phu-than-tham-q-01-p-01/%C3%82m%20Ph%E1%BB%A7%20Th%E1%BA%A7n%20Th%C3%A1m%20-%20Q03_P04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2000,
+    "title" : "Âm Phủ Thần Thám - Q03 P04",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/am-phu-than-tham-q-01-p-01/%C3%82m%20Ph%E1%BB%A7%20Th%E1%BA%A7n%20Th%C3%A1m%20-%20Q04_P01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2335,
+    "title" : "Âm Phủ Thần Thám - Q04 P01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/am-phu-than-tham-q-01-p-01/%C3%82m%20Ph%E1%BB%A7%20Th%E1%BA%A7n%20Th%C3%A1m%20-%20Q04_P02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2720,
+    "title" : "Âm Phủ Thần Thám - Q04 P02",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/am-phu-than-tham-q-01-p-01/%C3%82m%20Ph%E1%BB%A7%20Th%E1%BA%A7n%20Th%C3%A1m%20-%20Q04_P03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2592,
+    "title" : "Âm Phủ Thần Thám - Q04 P03",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/am-phu-than-tham-q-01-p-01/%C3%82m%20Ph%E1%BB%A7%20Th%E1%BA%A7n%20Th%C3%A1m%20-%20Q04_P04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2896,
+    "title" : "Âm Phủ Thần Thám - Q04 P04",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/am-phu-than-tham-q-01-p-01/%C3%82m%20Ph%E1%BB%A7%20Th%E1%BA%A7n%20Th%C3%A1m%20-%20Q04_P05.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2775,
+    "title" : "Âm Phủ Thần Thám - Q04 P05",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/am-phu-than-tham-q-01-p-01/%C3%82m%20Ph%E1%BB%A7%20Th%E1%BA%A7n%20Th%C3%A1m%20-%20Q04_P06.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2360,
+    "title" : "Âm Phủ Thần Thám - Q04 P06",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/am-phu-than-tham-q-01-p-01/%C3%82m%20Ph%E1%BB%A7%20Th%E1%BA%A7n%20Th%C3%A1m%20-%20Q05_P01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2765,
+    "title" : "Âm Phủ Thần Thám - Q05 P01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/am-phu-than-tham-q-01-p-01/%C3%82m%20Ph%E1%BB%A7%20Th%E1%BA%A7n%20Th%C3%A1m%20-%20Q05_P02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2940,
+    "title" : "Âm Phủ Thần Thám - Q05 P02",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/am-phu-than-tham-q-01-p-01/%C3%82m%20Ph%E1%BB%A7%20Th%E1%BA%A7n%20Th%C3%A1m%20-%20Q05_P03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3225,
+    "title" : "Âm Phủ Thần Thám - Q05 P03",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/am-phu-than-tham-q-01-p-01/%C3%82m%20Ph%E1%BB%A7%20Th%E1%BA%A7n%20Th%C3%A1m%20-%20Q05_P04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3110,
+    "title" : "Âm Phủ Thần Thám - Q05 P04",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/am-phu-than-tham-q-01-p-01/%C3%82m%20Ph%E1%BB%A7%20Th%E1%BA%A7n%20Th%C3%A1m%20-%20Q05_P05.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3141,
+    "title" : "Âm Phủ Thần Thám - Q05 P05",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/am-phu-than-tham-q-01-p-01/%C3%82m%20Ph%E1%BB%A7%20Th%E1%BA%A7n%20Th%C3%A1m%20-%20Q06_P01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3905,
+    "title" : "Âm Phủ Thần Thám - Q06 P01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/am-phu-than-tham-q-01-p-01/%C3%82m%20Ph%E1%BB%A7%20Th%E1%BA%A7n%20Th%C3%A1m%20-%20Q06_P02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4504,
+    "title" : "Âm Phủ Thần Thám - Q06 P02",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/am-phu-than-tham-q-01-p-01/%C3%82m%20Ph%E1%BB%A7%20Th%E1%BA%A7n%20Th%C3%A1m%20-%20Q07_P01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4158,
+    "title" : "Âm Phủ Thần Thám - Q07 P01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/am-phu-than-tham-q-01-p-01/%C3%82m%20Ph%E1%BB%A7%20Th%E1%BA%A7n%20Th%C3%A1m%20-%20Q08_P01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3629,
+    "title" : "Âm Phủ Thần Thám - Q08 P01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/am-phu-than-tham-q-01-p-01/%C3%82m%20Ph%E1%BB%A7%20Th%E1%BA%A7n%20Th%C3%A1m%20-%20Q08_P02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5057,
+    "title" : "Âm Phủ Thần Thám - Q08 P02",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/am-phu-than-tham-q-01-p-01/%C3%82m%20Ph%E1%BB%A7%20Th%E1%BA%A7n%20Th%C3%A1m%20-%20Q09_P01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3966,
+    "title" : "Âm Phủ Thần Thám - Q09 P01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/am-phu-than-tham-q-01-p-01/%C3%82m%20Ph%E1%BB%A7%20Th%E1%BA%A7n%20Th%C3%A1m%20-%20Q09_P02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3713,
+    "title" : "Âm Phủ Thần Thám - Q09 P02",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/am-phu-than-tham-q-01-p-01/%C3%82m%20Ph%E1%BB%A7%20Th%E1%BA%A7n%20Th%C3%A1m%20-%20Q09_P03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2836,
+    "title" : "Âm Phủ Thần Thám - Q09 P03",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/am-phu-than-tham-q-01-p-01/%C3%82m%20Ph%E1%BB%A7%20Th%E1%BA%A7n%20Th%C3%A1m%20-%20Q10_P01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3518,
+    "title" : "Âm Phủ Thần Thám - Q10 P01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/am-phu-than-tham-q-01-p-01/%C3%82m%20Ph%E1%BB%A7%20Th%E1%BA%A7n%20Th%C3%A1m%20-%20Q10_P02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3617,
+    "title" : "Âm Phủ Thần Thám - Q10 P02",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/am-phu-than-tham-q-01-p-01/%C3%82m%20Ph%E1%BB%A7%20Th%E1%BA%A7n%20Th%C3%A1m%20-%20Q11_P01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3586,
+    "title" : "Âm Phủ Thần Thám - Q11 P01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/am-phu-than-tham-q-01-p-01/%C3%82m%20Ph%E1%BB%A7%20Th%E1%BA%A7n%20Th%C3%A1m%20-%20Q11_P02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3141,
+    "title" : "Âm Phủ Thần Thám - Q11 P02",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/am-phu-than-tham-q-01-p-01/%C3%82m%20Ph%E1%BB%A7%20Th%E1%BA%A7n%20Th%C3%A1m%20-%20Q12_P01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3254,
+    "title" : "Âm Phủ Thần Thám - Q12 P01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/am-phu-than-tham-q-01-p-01/%C3%82m%20Ph%E1%BB%A7%20Th%E1%BA%A7n%20Th%C3%A1m%20-%20Q12_P03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1968,
+    "title" : "Âm Phủ Thần Thám - Q12 P03",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/am-phu-than-tham-q-01-p-01/%C3%82m%20Ph%E1%BB%A7%20Th%E1%BA%A7n%20Th%C3%A1m%20-%20Q13_P01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2895,
+    "title" : "Âm Phủ Thần Thám - Q13 P01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/am-phu-than-tham-q-01-p-01/%C3%82m%20Ph%E1%BB%A7%20Th%E1%BA%A7n%20Th%C3%A1m%20-%20Q13_P02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2160,
+    "title" : "Âm Phủ Thần Thám - Q13 P02",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/am-phu-than-tham-q-01-p-01/%C3%82m%20Ph%E1%BB%A7%20Th%E1%BA%A7n%20Th%C3%A1m%20-%20Q14_P01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3260,
+    "title" : "Âm Phủ Thần Thám - Q14 P01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/am-phu-than-tham-q-01-p-01/%C3%82m%20Ph%E1%BB%A7%20Th%E1%BA%A7n%20Th%C3%A1m%20-%20Q14_P02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3356,
+    "title" : "Âm Phủ Thần Thám - Q14 P02",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/am-phu-than-tham-q-01-p-01/%C3%82m%20Ph%E1%BB%A7%20Th%E1%BA%A7n%20Th%C3%A1m%20-%20Q14_P03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3011,
+    "title" : "Âm Phủ Thần Thám - Q14 P03",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/am-phu-than-tham-q-01-p-01/%C3%82m%20Ph%E1%BB%A7%20Th%E1%BA%A7n%20Th%C3%A1m%20-%20Q15_P01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3366,
+    "title" : "Âm Phủ Thần Thám - Q15 P01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/am-phu-than-tham-q-01-p-01/%C3%82m%20Ph%E1%BB%A7%20Th%E1%BA%A7n%20Th%C3%A1m%20-%20Q15_P02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1798,
+    "title" : "Âm Phủ Thần Thám - Q15 P02",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/am-phu-than-tham-q-01-p-01/%C3%82m%20Ph%E1%BB%A7%20Th%E1%BA%A7n%20Th%C3%A1m%20-%20Q16_P01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3065,
+    "title" : "Âm Phủ Thần Thám - Q16 P01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/am-phu-than-tham-q-01-p-01/%C3%82m%20Ph%E1%BB%A7%20Th%E1%BA%A7n%20Th%C3%A1m%20-%20Q17_P01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2710,
+    "title" : "Âm Phủ Thần Thám - Q17 P01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/am-phu-than-tham-q-01-p-01/%C3%82m%20Ph%E1%BB%A7%20Th%E1%BA%A7n%20Th%C3%A1m%20-%20Q17_P02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2895,
+    "title" : "Âm Phủ Thần Thám - Q17 P02",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/am-phu-than-tham-q-01-p-01/%C3%82m%20Ph%E1%BB%A7%20Th%E1%BA%A7n%20Th%C3%A1m%20-%20Q17_P03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2922,
+    "title" : "Âm Phủ Thần Thám - Q17 P03",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/am-phu-than-tham-q-01-p-01/%C3%82m%20Ph%E1%BB%A7%20Th%E1%BA%A7n%20Th%C3%A1m%20-%20Q17_P04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2991,
+    "title" : "Âm Phủ Thần Thám - Q17 P04",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/am-phu-than-tham-q-01-p-01/%C3%82m%20Ph%E1%BB%A7%20Th%E1%BA%A7n%20Th%C3%A1m%20-%20Q18_P01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3200,
+    "title" : "Âm Phủ Thần Thám - Q18 P01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/am-phu-than-tham-q-01-p-01/%C3%82m%20Ph%E1%BB%A7%20Th%E1%BA%A7n%20Th%C3%A1m%20-%20Q18_P02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4591,
+    "title" : "Âm Phủ Thần Thám - Q18 P02",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/am-phu-than-tham-q-01-p-01/%C3%82m%20Ph%E1%BB%A7%20Th%E1%BA%A7n%20Th%C3%A1m%20-%20Q19_P01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3150,
+    "title" : "Âm Phủ Thần Thám - Q19 P01",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/am-phu-than-tham-q-01-p-01/%C3%82m%20Ph%E1%BB%A7%20Th%E1%BA%A7n%20Th%C3%A1m%20-%20Q01_P01.mp3",
+    "title" : "Âm Phủ Thần Thám - Q01 P01",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/am-phu-than-tham-q-01-p-01/%C3%82m%20Ph%E1%BB%A7%20Th%E1%BA%A7n%20Th%C3%A1m%20-%20Q01_P02.mp3",
+    "title" : "Âm Phủ Thần Thám - Q01 P02",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/am-phu-than-tham-q-01-p-01/%C3%82m%20Ph%E1%BB%A7%20Th%E1%BA%A7n%20Th%C3%A1m%20-%20Q02_P01.mp3",
+    "title" : "Âm Phủ Thần Thám - Q02 P01",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/am-phu-than-tham-q-01-p-01/%C3%82m%20Ph%E1%BB%A7%20Th%E1%BA%A7n%20Th%C3%A1m%20-%20Q02_P02.mp3",
+    "title" : "Âm Phủ Thần Thám - Q02 P02",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/am-phu-than-tham-q-01-p-01/%C3%82m%20Ph%E1%BB%A7%20Th%E1%BA%A7n%20Th%C3%A1m%20-%20Q02_P03.mp3",
+    "title" : "Âm Phủ Thần Thám - Q02 P03",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/am-phu-than-tham-q-01-p-01/%C3%82m%20Ph%E1%BB%A7%20Th%E1%BA%A7n%20Th%C3%A1m%20-%20Q02_P04.mp3",
+    "title" : "Âm Phủ Thần Thám - Q02 P04",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/am-phu-than-tham-q-01-p-01/%C3%82m%20Ph%E1%BB%A7%20Th%E1%BA%A7n%20Th%C3%A1m%20-%20Q02_P05.mp3",
+    "title" : "Âm Phủ Thần Thám - Q02 P05",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/am-phu-than-tham-q-01-p-01/%C3%82m%20Ph%E1%BB%A7%20Th%E1%BA%A7n%20Th%C3%A1m%20-%20Q03_P01.mp3",
+    "title" : "Âm Phủ Thần Thám - Q03 P01",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/am-phu-than-tham-q-01-p-01/%C3%82m%20Ph%E1%BB%A7%20Th%E1%BA%A7n%20Th%C3%A1m%20-%20Q03_P02.mp3",
+    "title" : "Âm Phủ Thần Thám - Q03 P02",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/am-phu-than-tham-q-01-p-01/%C3%82m%20Ph%E1%BB%A7%20Th%E1%BA%A7n%20Th%C3%A1m%20-%20Q03_P03.mp3",
+    "title" : "Âm Phủ Thần Thám - Q03 P03",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/am-phu-than-tham-q-01-p-01/%C3%82m%20Ph%E1%BB%A7%20Th%E1%BA%A7n%20Th%C3%A1m%20-%20Q03_P04.mp3",
+    "title" : "Âm Phủ Thần Thám - Q03 P04",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/am-phu-than-tham-q-01-p-01/%C3%82m%20Ph%E1%BB%A7%20Th%E1%BA%A7n%20Th%C3%A1m%20-%20Q04_P01.mp3",
+    "title" : "Âm Phủ Thần Thám - Q04 P01",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/am-phu-than-tham-q-01-p-01/%C3%82m%20Ph%E1%BB%A7%20Th%E1%BA%A7n%20Th%C3%A1m%20-%20Q04_P02.mp3",
+    "title" : "Âm Phủ Thần Thám - Q04 P02",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/am-phu-than-tham-q-01-p-01/%C3%82m%20Ph%E1%BB%A7%20Th%E1%BA%A7n%20Th%C3%A1m%20-%20Q04_P03.mp3",
+    "title" : "Âm Phủ Thần Thám - Q04 P03",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/am-phu-than-tham-q-01-p-01/%C3%82m%20Ph%E1%BB%A7%20Th%E1%BA%A7n%20Th%C3%A1m%20-%20Q04_P04.mp3",
+    "title" : "Âm Phủ Thần Thám - Q04 P04",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/am-phu-than-tham-q-01-p-01/%C3%82m%20Ph%E1%BB%A7%20Th%E1%BA%A7n%20Th%C3%A1m%20-%20Q04_P05.mp3",
+    "title" : "Âm Phủ Thần Thám - Q04 P05",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/am-phu-than-tham-q-01-p-01/%C3%82m%20Ph%E1%BB%A7%20Th%E1%BA%A7n%20Th%C3%A1m%20-%20Q04_P06.mp3",
+    "title" : "Âm Phủ Thần Thám - Q04 P06",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/am-phu-than-tham-q-01-p-01/%C3%82m%20Ph%E1%BB%A7%20Th%E1%BA%A7n%20Th%C3%A1m%20-%20Q05_P01.mp3",
+    "title" : "Âm Phủ Thần Thám - Q05 P01",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/am-phu-than-tham-q-01-p-01/%C3%82m%20Ph%E1%BB%A7%20Th%E1%BA%A7n%20Th%C3%A1m%20-%20Q05_P02.mp3",
+    "title" : "Âm Phủ Thần Thám - Q05 P02",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/am-phu-than-tham-q-01-p-01/%C3%82m%20Ph%E1%BB%A7%20Th%E1%BA%A7n%20Th%C3%A1m%20-%20Q05_P03.mp3",
+    "title" : "Âm Phủ Thần Thám - Q05 P03",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/am-phu-than-tham-q-01-p-01/%C3%82m%20Ph%E1%BB%A7%20Th%E1%BA%A7n%20Th%C3%A1m%20-%20Q05_P04.mp3",
+    "title" : "Âm Phủ Thần Thám - Q05 P04",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/am-phu-than-tham-q-01-p-01/%C3%82m%20Ph%E1%BB%A7%20Th%E1%BA%A7n%20Th%C3%A1m%20-%20Q05_P05.mp3",
+    "title" : "Âm Phủ Thần Thám - Q05 P05",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/am-phu-than-tham-q-01-p-01/%C3%82m%20Ph%E1%BB%A7%20Th%E1%BA%A7n%20Th%C3%A1m%20-%20Q06_P01.mp3",
+    "title" : "Âm Phủ Thần Thám - Q06 P01",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/am-phu-than-tham-q-01-p-01/%C3%82m%20Ph%E1%BB%A7%20Th%E1%BA%A7n%20Th%C3%A1m%20-%20Q06_P02.mp3",
+    "title" : "Âm Phủ Thần Thám - Q06 P02",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/am-phu-than-tham-q-01-p-01/%C3%82m%20Ph%E1%BB%A7%20Th%E1%BA%A7n%20Th%C3%A1m%20-%20Q07_P01.mp3",
+    "title" : "Âm Phủ Thần Thám - Q07 P01",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/am-phu-than-tham-q-01-p-01/%C3%82m%20Ph%E1%BB%A7%20Th%E1%BA%A7n%20Th%C3%A1m%20-%20Q08_P01.mp3",
+    "title" : "Âm Phủ Thần Thám - Q08 P01",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/am-phu-than-tham-q-01-p-01/%C3%82m%20Ph%E1%BB%A7%20Th%E1%BA%A7n%20Th%C3%A1m%20-%20Q08_P02.mp3",
+    "title" : "Âm Phủ Thần Thám - Q08 P02",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/am-phu-than-tham-q-01-p-01/%C3%82m%20Ph%E1%BB%A7%20Th%E1%BA%A7n%20Th%C3%A1m%20-%20Q09_P01.mp3",
+    "title" : "Âm Phủ Thần Thám - Q09 P01",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/am-phu-than-tham-q-01-p-01/%C3%82m%20Ph%E1%BB%A7%20Th%E1%BA%A7n%20Th%C3%A1m%20-%20Q09_P02.mp3",
+    "title" : "Âm Phủ Thần Thám - Q09 P02",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/am-phu-than-tham-q-01-p-01/%C3%82m%20Ph%E1%BB%A7%20Th%E1%BA%A7n%20Th%C3%A1m%20-%20Q09_P03.mp3",
+    "title" : "Âm Phủ Thần Thám - Q09 P03",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/am-phu-than-tham-q-01-p-01/%C3%82m%20Ph%E1%BB%A7%20Th%E1%BA%A7n%20Th%C3%A1m%20-%20Q10_P01.mp3",
+    "title" : "Âm Phủ Thần Thám - Q10 P01",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/am-phu-than-tham-q-01-p-01/%C3%82m%20Ph%E1%BB%A7%20Th%E1%BA%A7n%20Th%C3%A1m%20-%20Q10_P02.mp3",
+    "title" : "Âm Phủ Thần Thám - Q10 P02",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/am-phu-than-tham-q-01-p-01/%C3%82m%20Ph%E1%BB%A7%20Th%E1%BA%A7n%20Th%C3%A1m%20-%20Q11_P01.mp3",
+    "title" : "Âm Phủ Thần Thám - Q11 P01",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/am-phu-than-tham-q-01-p-01/%C3%82m%20Ph%E1%BB%A7%20Th%E1%BA%A7n%20Th%C3%A1m%20-%20Q11_P02.mp3",
+    "title" : "Âm Phủ Thần Thám - Q11 P02",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/am-phu-than-tham-q-01-p-01/%C3%82m%20Ph%E1%BB%A7%20Th%E1%BA%A7n%20Th%C3%A1m%20-%20Q12_P01.mp3",
+    "title" : "Âm Phủ Thần Thám - Q12 P01",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/am-phu-than-tham-q-01-p-01/%C3%82m%20Ph%E1%BB%A7%20Th%E1%BA%A7n%20Th%C3%A1m%20-%20Q12_P03.mp3",
+    "title" : "Âm Phủ Thần Thám - Q12 P03",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/am-phu-than-tham-q-01-p-01/%C3%82m%20Ph%E1%BB%A7%20Th%E1%BA%A7n%20Th%C3%A1m%20-%20Q13_P01.mp3",
+    "title" : "Âm Phủ Thần Thám - Q13 P01",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/am-phu-than-tham-q-01-p-01/%C3%82m%20Ph%E1%BB%A7%20Th%E1%BA%A7n%20Th%C3%A1m%20-%20Q13_P02.mp3",
+    "title" : "Âm Phủ Thần Thám - Q13 P02",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/am-phu-than-tham-q-01-p-01/%C3%82m%20Ph%E1%BB%A7%20Th%E1%BA%A7n%20Th%C3%A1m%20-%20Q14_P01.mp3",
+    "title" : "Âm Phủ Thần Thám - Q14 P01",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/am-phu-than-tham-q-01-p-01/%C3%82m%20Ph%E1%BB%A7%20Th%E1%BA%A7n%20Th%C3%A1m%20-%20Q14_P02.mp3",
+    "title" : "Âm Phủ Thần Thám - Q14 P02",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/am-phu-than-tham-q-01-p-01/%C3%82m%20Ph%E1%BB%A7%20Th%E1%BA%A7n%20Th%C3%A1m%20-%20Q14_P03.mp3",
+    "title" : "Âm Phủ Thần Thám - Q14 P03",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/am-phu-than-tham-q-01-p-01/%C3%82m%20Ph%E1%BB%A7%20Th%E1%BA%A7n%20Th%C3%A1m%20-%20Q15_P01.mp3",
+    "title" : "Âm Phủ Thần Thám - Q15 P01",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/am-phu-than-tham-q-01-p-01/%C3%82m%20Ph%E1%BB%A7%20Th%E1%BA%A7n%20Th%C3%A1m%20-%20Q15_P02.mp3",
+    "title" : "Âm Phủ Thần Thám - Q15 P02",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/am-phu-than-tham-q-01-p-01/%C3%82m%20Ph%E1%BB%A7%20Th%E1%BA%A7n%20Th%C3%A1m%20-%20Q16_P01.mp3",
+    "title" : "Âm Phủ Thần Thám - Q16 P01",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/am-phu-than-tham-q-01-p-01/%C3%82m%20Ph%E1%BB%A7%20Th%E1%BA%A7n%20Th%C3%A1m%20-%20Q17_P01.mp3",
+    "title" : "Âm Phủ Thần Thám - Q17 P01",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/am-phu-than-tham-q-01-p-01/%C3%82m%20Ph%E1%BB%A7%20Th%E1%BA%A7n%20Th%C3%A1m%20-%20Q17_P02.mp3",
+    "title" : "Âm Phủ Thần Thám - Q17 P02",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/am-phu-than-tham-q-01-p-01/%C3%82m%20Ph%E1%BB%A7%20Th%E1%BA%A7n%20Th%C3%A1m%20-%20Q17_P03.mp3",
+    "title" : "Âm Phủ Thần Thám - Q17 P03",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/am-phu-than-tham-q-01-p-01/%C3%82m%20Ph%E1%BB%A7%20Th%E1%BA%A7n%20Th%C3%A1m%20-%20Q17_P04.mp3",
+    "title" : "Âm Phủ Thần Thám - Q17 P04",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/am-phu-than-tham-q-01-p-01/%C3%82m%20Ph%E1%BB%A7%20Th%E1%BA%A7n%20Th%C3%A1m%20-%20Q18_P01.mp3",
+    "title" : "Âm Phủ Thần Thám - Q18 P01",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/am-phu-than-tham-q-01-p-01/%C3%82m%20Ph%E1%BB%A7%20Th%E1%BA%A7n%20Th%C3%A1m%20-%20Q18_P02.mp3",
+    "title" : "Âm Phủ Thần Thám - Q18 P02",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/am-phu-than-tham-q-01-p-01/%C3%82m%20Ph%E1%BB%A7%20Th%E1%BA%A7n%20Th%C3%A1m%20-%20Q19_P01.mp3",
+    "title" : "Âm Phủ Thần Thám - Q19 P01",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

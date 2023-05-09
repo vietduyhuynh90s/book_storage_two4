@@ -1,0 +1,101 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/vuong-gia-ta-biet-sai-roi-loan-loan_10666.html",
+    "title" : "Vương Gia Ta Biết Sai Rồi - Loan Loan",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Loan Loan",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 51510,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/EPUB/EPUB_77edd77f14afd82f388585b6cb351aa9.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/IMAGE/IMAGE_77edd77f14afd82f388585b6cb351aa9.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/vuong-gia-ta-biet-sai-roi/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 11809,
+    "title" : "Vương Gia Ta Biết Sai Rồi ♥ Truyện ngôn tình xuyên không mới hay thật tuyệt vời",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vuong-gia-ta-biet-sai-roi/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 9379,
+    "title" : "[Phần 2] Vương Gia Ta Biết Sai Rồi ♥ Truyện ngôn tình xuyên không mới hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vuong-gia-ta-biet-sai-roi/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8645,
+    "title" : "[Phần 3] Vương Gia Ta Biết Sai Rồi ♥ Truyện ngôn tình hay nhất không thể bỏ qua",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vuong-gia-ta-biet-sai-roi/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8189,
+    "title" : "[Phần 4] Vương Gia Ta Biết Sai Rồi ♥ Truyện ngôn tình xuyên không quá hay luôn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vuong-gia-ta-biet-sai-roi/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 13488,
+    "title" : "[Phần 5 Hết] Vương Gia Ta Biết Sai Rồi ♥ Truyện ngôn tình xuyên không mới hay nhất",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/vuong-gia-ta-biet-sai-roi/1.mp3",
+    "title" : "Vương Gia Ta Biết Sai Rồi ♥ Truyện ngôn tình xuyên không mới hay thật tuyệt vời",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vuong-gia-ta-biet-sai-roi/2.mp3",
+    "title" : "[Phần 2] Vương Gia Ta Biết Sai Rồi ♥ Truyện ngôn tình xuyên không mới hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vuong-gia-ta-biet-sai-roi/3.mp3",
+    "title" : "[Phần 3] Vương Gia Ta Biết Sai Rồi ♥ Truyện ngôn tình hay nhất không thể bỏ qua",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vuong-gia-ta-biet-sai-roi/4.mp3",
+    "title" : "[Phần 4] Vương Gia Ta Biết Sai Rồi ♥ Truyện ngôn tình xuyên không quá hay luôn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vuong-gia-ta-biet-sai-roi/5.mp3",
+    "title" : "[Phần 5 Hết] Vương Gia Ta Biết Sai Rồi ♥ Truyện ngôn tình xuyên không mới hay nhất",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

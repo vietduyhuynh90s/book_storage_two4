@@ -1,0 +1,113 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/oan-trai-cam-luyen_12973.html",
+    "title" : "Oan Trái - Cấm Luyến",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Thanh Vân Bạch Thiên",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 27717,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/EPUB/EPUB_5a19d7feca855d31b28d10e68faf9315.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/IMAGE/IMAGE_5a19d7feca855d31b28d10e68faf9315.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/oan-trai/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4844,
+    "title" : "TRUYỆN NGÔN TÌNH 21 + CỰC KÌ HAY 3 ANH VS 1 CÔ - MC BẢO ANH",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/oan-trai/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4039,
+    "title" : "TRUYỆN NGÔN TÌNH 21 + CỰC KÌ HAY 3 ANH VS 1 CÔ - MC BẢO ANH",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/oan-trai/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4080,
+    "title" : "TRUYỆN NGÔN TÌNH 21 + CỰC KÌ HAY 3 ANH VS 1 CÔ - MC BẢO ANH",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/oan-trai/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3452,
+    "title" : "TRUYỆN NGÔN TÌNH 21 + CỰC KÌ HAY 3 ANH VS 1 CÔ - MC BẢO ANH",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/oan-trai/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4771,
+    "title" : "TRUYỆN NGÔN TÌNH 21 + CỰC KÌ HAY 3 ANH VS 1 CÔ - MC BẢO ANH",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/oan-trai/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6531,
+    "title" : "TRUYỆN NGÔN TÌNH 21 + CỰC KÌ HAY 3 ANH VS 1 CÔ - MC BẢO ANH",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/oan-trai/1.mp3",
+    "title" : "TRUYỆN NGÔN TÌNH 21 + CỰC KÌ HAY 3 ANH VS 1 CÔ - MC BẢO ANH",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/oan-trai/2.mp3",
+    "title" : "TRUYỆN NGÔN TÌNH 21 + CỰC KÌ HAY 3 ANH VS 1 CÔ - MC BẢO ANH",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/oan-trai/3.mp3",
+    "title" : "TRUYỆN NGÔN TÌNH 21 + CỰC KÌ HAY 3 ANH VS 1 CÔ - MC BẢO ANH",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/oan-trai/4.mp3",
+    "title" : "TRUYỆN NGÔN TÌNH 21 + CỰC KÌ HAY 3 ANH VS 1 CÔ - MC BẢO ANH",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/oan-trai/5.mp3",
+    "title" : "TRUYỆN NGÔN TÌNH 21 + CỰC KÌ HAY 3 ANH VS 1 CÔ - MC BẢO ANH",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/oan-trai/6.mp3",
+    "title" : "TRUYỆN NGÔN TÌNH 21 + CỰC KÌ HAY 3 ANH VS 1 CÔ - MC BẢO ANH",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

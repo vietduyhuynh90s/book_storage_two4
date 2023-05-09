@@ -1,0 +1,161 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/dong-the-cuu-lo-phi-huong_10422.html",
+    "title" : "Đồng Thể - Cửu Lộ Phi Hương",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Cửu Lộ Phi Hương",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 40895,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/EPUB/EPUB_5663f99f3b2dfe05604f2b0a9b7fbebd.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/IMAGE/IMAGE_5663f99f3b2dfe05604f2b0a9b7fbebd.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/dong-the/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4502,
+    "title" : "ĐỒNG THỂ [ TẬP 1 ] - MC Bảo Anh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dong-the/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3516,
+    "title" : "ĐỒNG THỂ [ TẬP 10 HẾT ] - MC Bảo Anh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dong-the/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4616,
+    "title" : "ĐỒNG THỂ [ TẬP 2] - MC Bảo Anh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dong-the/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4271,
+    "title" : "ĐỒNG THỂ [ TẬP 3 ] - MC Bảo Anh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dong-the/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3559,
+    "title" : "ĐỒNG THỂ [ TẬP 4 ] - MC Bảo Anh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dong-the/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3989,
+    "title" : "ĐỒNG THỂ [ TẬP 5 ] - MC Bảo Anh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dong-the/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3529,
+    "title" : "ĐỒNG THỂ [ TẬP 6 ] - MC Bảo Anh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dong-the/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3981,
+    "title" : "ĐỒNG THỂ [ TẬP 7 ] - MC Bảo Anh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dong-the/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4342,
+    "title" : "ĐỒNG THỂ [ TẬP 8 ] - MC Bảo Anh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dong-the/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4590,
+    "title" : "ĐỒNG THỂ [ TẬP 9 ] - MC Bảo Anh",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/dong-the/1.mp3",
+    "title" : "ĐỒNG THỂ [ TẬP 1 ] - MC Bảo Anh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dong-the/10.mp3",
+    "title" : "ĐỒNG THỂ [ TẬP 10 HẾT ] - MC Bảo Anh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dong-the/2.mp3",
+    "title" : "ĐỒNG THỂ [ TẬP 2] - MC Bảo Anh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dong-the/3.mp3",
+    "title" : "ĐỒNG THỂ [ TẬP 3 ] - MC Bảo Anh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dong-the/4.mp3",
+    "title" : "ĐỒNG THỂ [ TẬP 4 ] - MC Bảo Anh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dong-the/5.mp3",
+    "title" : "ĐỒNG THỂ [ TẬP 5 ] - MC Bảo Anh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dong-the/6.mp3",
+    "title" : "ĐỒNG THỂ [ TẬP 6 ] - MC Bảo Anh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dong-the/7.mp3",
+    "title" : "ĐỒNG THỂ [ TẬP 7 ] - MC Bảo Anh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dong-the/8.mp3",
+    "title" : "ĐỒNG THỂ [ TẬP 8 ] - MC Bảo Anh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dong-the/9.mp3",
+    "title" : "ĐỒNG THỂ [ TẬP 9 ] - MC Bảo Anh",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

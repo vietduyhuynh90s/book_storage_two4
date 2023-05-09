@@ -1,0 +1,89 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/chiec-luoc-nga_19197.html",
+    "title" : "Chiếc Lược Ngà",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nguyễn Quang Sáng",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 10071,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/EPUB/EPUB_4f0399bdaf7e566c72cd856963c8e2f6.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/IMAGE/IMAGE_4f0399bdaf7e566c72cd856963c8e2f6.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/chiec-luoc-nga.sna/CHIEC_LUOC_NGA_01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2874,
+    "title" : "CHIEC LUOC NGA 01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chiec-luoc-nga.sna/CHIEC_LUOC_NGA_02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2337,
+    "title" : "CHIEC LUOC NGA 02",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chiec-luoc-nga.sna/CHIEC_LUOC_NGA_03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2498,
+    "title" : "CHIEC LUOC NGA 03",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chiec-luoc-nga.sna/CHIEC_LUOC_NGA_04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2362,
+    "title" : "CHIEC LUOC NGA 04",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/chiec-luoc-nga.sna/CHIEC_LUOC_NGA_01.mp3",
+    "title" : "CHIEC LUOC NGA 01",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chiec-luoc-nga.sna/CHIEC_LUOC_NGA_02.mp3",
+    "title" : "CHIEC LUOC NGA 02",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chiec-luoc-nga.sna/CHIEC_LUOC_NGA_03.mp3",
+    "title" : "CHIEC LUOC NGA 03",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chiec-luoc-nga.sna/CHIEC_LUOC_NGA_04.mp3",
+    "title" : "CHIEC LUOC NGA 04",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

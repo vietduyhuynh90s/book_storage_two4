@@ -1,0 +1,257 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/ao-da_15489.html",
+    "title" : "Ảo Dạ",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Higashino Keigo",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 63117,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/EPUB/EPUB_f2c15d33f03778fd6bbca85a3d739250.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/IMAGE/IMAGE_f2c15d33f03778fd6bbca85a3d739250.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/ao-da/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3585,
+    "title" : "Truyện Trinh Thám Nhật Bản Higashino Keigo | ẢO DẠ 01 | MC THANH BÌNH",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ao-da/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3837,
+    "title" : "MC THANH BÌNH",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ao-da/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3229,
+    "title" : "MC THANH BÌNH",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ao-da/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3546,
+    "title" : "MC THANH BÌNH",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ao-da/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3432,
+    "title" : "MC THANH BÌNH",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ao-da/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3420,
+    "title" : "MC THANH BÌNH",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ao-da/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3570,
+    "title" : "MC THANH BÌNH",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ao-da/16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3729,
+    "title" : "TG Higashino Keigo",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ao-da/17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3928,
+    "title" : "ẢO DẠ #17 | Truyện Trinh Thám Nhật Bản rất hay của Higashino Keigo",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ao-da/18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2698,
+    "title" : "ẢO DẠ #18 CUỐI | Truyện Trinh Thám Nhật Bản rất hay của Higashino Keigo",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ao-da/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3440,
+    "title" : "Truyện Trinh Thám Cực Hay | ẢO DẠ 02 | TH HIGASHINO KEIGO MC THANH BÌNH",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ao-da/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3395,
+    "title" : "Truyện Trinh Thám Nhật Bản| ẢO DẠ 03 | TG Higashino Keigo MC THANH BÌNH",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ao-da/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4176,
+    "title" : "ẢO DẠ 4 - TH HIGASHINO KEIGO - MC Thanh Bình",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ao-da/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3086,
+    "title" : "ẢO DẠ 5 - MC Thanh Bình - Higashino Keigo",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ao-da/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4007,
+    "title" : "ẢO DẠ 06 - MC Thanh Bình - TG HIGASHINO KEIGO",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ao-da/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3034,
+    "title" : "TG HIGASHINO KEIGO - MC THANH BÌNH",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ao-da/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3271,
+    "title" : "TG HIGASHINO KEIGO - MC THANH BÌNH",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ao-da/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3734,
+    "title" : "TG HIGASHINO KEIGO - MC THANH BÌNH",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/ao-da/1.mp3",
+    "title" : "Truyện Trinh Thám Nhật Bản Higashino Keigo | ẢO DẠ 01 | MC THANH BÌNH",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ao-da/10.mp3",
+    "title" : "MC THANH BÌNH",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ao-da/11.mp3",
+    "title" : "MC THANH BÌNH",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ao-da/12.mp3",
+    "title" : "MC THANH BÌNH",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ao-da/13.mp3",
+    "title" : "MC THANH BÌNH",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ao-da/14.mp3",
+    "title" : "MC THANH BÌNH",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ao-da/15.mp3",
+    "title" : "MC THANH BÌNH",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ao-da/16.mp3",
+    "title" : "TG Higashino Keigo",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ao-da/17.mp3",
+    "title" : "ẢO DẠ #17 | Truyện Trinh Thám Nhật Bản rất hay của Higashino Keigo",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ao-da/18.mp3",
+    "title" : "ẢO DẠ #18 CUỐI | Truyện Trinh Thám Nhật Bản rất hay của Higashino Keigo",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ao-da/2.mp3",
+    "title" : "Truyện Trinh Thám Cực Hay | ẢO DẠ 02 | TH HIGASHINO KEIGO MC THANH BÌNH",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ao-da/3.mp3",
+    "title" : "Truyện Trinh Thám Nhật Bản| ẢO DẠ 03 | TG Higashino Keigo MC THANH BÌNH",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ao-da/4.mp3",
+    "title" : "ẢO DẠ 4 - TH HIGASHINO KEIGO - MC Thanh Bình",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ao-da/5.mp3",
+    "title" : "ẢO DẠ 5 - MC Thanh Bình - Higashino Keigo",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ao-da/6.mp3",
+    "title" : "ẢO DẠ 06 - MC Thanh Bình - TG HIGASHINO KEIGO",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ao-da/7.mp3",
+    "title" : "TG HIGASHINO KEIGO - MC THANH BÌNH",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ao-da/8.mp3",
+    "title" : "TG HIGASHINO KEIGO - MC THANH BÌNH",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ao-da/9.mp3",
+    "title" : "TG HIGASHINO KEIGO - MC THANH BÌNH",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,113 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/luu-nien-tu-thuy_13034.html",
+    "title" : "Lưu Niên Tự Thủy",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Bạch Vân",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 35024,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/EPUB/EPUB_30769dea93bab730f4b4cae589ba40cd.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/IMAGE/IMAGE_30769dea93bab730f4b4cae589ba40cd.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/luu-nien-tu-thuy/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 9408,
+    "title" : "(Tập 1) H+",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/luu-nien-tu-thuy/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8761,
+    "title" : "(Tập 2) - Audio Đam Mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/luu-nien-tu-thuy/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4802,
+    "title" : "(Tập 3) H+",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/luu-nien-tu-thuy/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4189,
+    "title" : "(Tập 4)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/luu-nien-tu-thuy/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3996,
+    "title" : "(Tập 5)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/luu-nien-tu-thuy/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3868,
+    "title" : "hết",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/luu-nien-tu-thuy/1.mp3",
+    "title" : "(Tập 1) H+",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/luu-nien-tu-thuy/2.mp3",
+    "title" : "(Tập 2) - Audio Đam Mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/luu-nien-tu-thuy/3.mp3",
+    "title" : "(Tập 3) H+",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/luu-nien-tu-thuy/4.mp3",
+    "title" : "(Tập 4)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/luu-nien-tu-thuy/5.mp3",
+    "title" : "(Tập 5)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/luu-nien-tu-thuy/6.mp3",
+    "title" : "hết",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

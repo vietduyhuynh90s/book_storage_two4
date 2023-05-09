@@ -1,0 +1,65 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/dai-thieu-gia-em-lay-cau-lan-rua_10358.html",
+    "title" : "Đại Thiếu Gia, Em Lạy Cậu! - Lan Rùa",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Lan Rùa",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 41439,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/EPUB/EPUB_b18d8db5d1f53e5cac709f0bbc8d9e2d.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/IMAGE/IMAGE_b18d8db5d1f53e5cac709f0bbc8d9e2d.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/daithieugiaemlayanh/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 20703,
+    "title" : "Kim Thanh 3S || TRUYỆN NGẮN HAY 3S",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/daithieugiaemlayanh/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 20736,
+    "title" : "P2(END) - MC Kim Thanh | TRUYỆN TEEN TÌNH CẢM HAY",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/daithieugiaemlayanh/1.mp3",
+    "title" : "Kim Thanh 3S || TRUYỆN NGẮN HAY 3S",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/daithieugiaemlayanh/2.mp3",
+    "title" : "P2(END) - MC Kim Thanh | TRUYỆN TEEN TÌNH CẢM HAY",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

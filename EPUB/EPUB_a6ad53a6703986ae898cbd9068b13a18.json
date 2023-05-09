@@ -1,0 +1,3557 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/audiobook-tien-nghich-nhi-can-tien-hiep_3714.html",
+    "title" : "Tiên Nghịch - Nhĩ Căn.",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nhĩ Căn",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 1385511,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/EPUB/EPUB_a6ad53a6703986ae898cbd9068b13a18.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/IMAGE/IMAGE_a6ad53a6703986ae898cbd9068b13a18.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4245,
+    "title" : "Tiên Nghịch || Phần 1 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3855,
+    "title" : "Tiên Nghịch || Phần 10 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/100.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3526,
+    "title" : "494 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/101.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4243,
+    "title" : "502 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/102.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4130,
+    "title" : "507 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/103.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3934,
+    "title" : "511 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/104.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3861,
+    "title" : "517 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/105.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4634,
+    "title" : "523|| MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/106.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3674,
+    "title" : "527 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/107.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3751,
+    "title" : "531 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/108.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4171,
+    "title" : "536 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/109.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4126,
+    "title" : "541 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4028,
+    "title" : "Tiên Nghịch || Phần 11 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/110.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4584,
+    "title" : "545 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/111.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3652,
+    "title" : "549 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/112.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4044,
+    "title" : "555|| MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/113.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4431,
+    "title" : "561 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/114.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3060,
+    "title" : "565 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/115.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4092,
+    "title" : "572 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/116.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4020,
+    "title" : "578 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/117.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3305,
+    "title" : "583 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/118.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3857,
+    "title" : "589 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/119.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3659,
+    "title" : "594 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3714,
+    "title" : "Tiên Nghịch || Phần 12 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/120.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4012,
+    "title" : "601 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/121.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4177,
+    "title" : "607 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/122.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3455,
+    "title" : "612 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/123.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3808,
+    "title" : "617 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/124.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3835,
+    "title" : "623 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/125.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3727,
+    "title" : "630 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/126.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3892,
+    "title" : "635 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/127.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3894,
+    "title" : "641 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/128.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3607,
+    "title" : "646 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/129.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4651,
+    "title" : "653 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3912,
+    "title" : "Tiên Nghịch || Phần 13 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/130.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3874,
+    "title" : "659 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/131.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3960,
+    "title" : "665 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/132.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4614,
+    "title" : "672 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/133.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4178,
+    "title" : "677 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/134.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3886,
+    "title" : "683 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/135.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3726,
+    "title" : "689 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/136.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3853,
+    "title" : "695 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/137.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4512,
+    "title" : "701 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/138.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3718,
+    "title" : "708 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/139.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3772,
+    "title" : "714 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3454,
+    "title" : "Tiên Nghịch || Phần 14 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/140.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4587,
+    "title" : "720 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/141.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4393,
+    "title" : "726 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/142.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3986,
+    "title" : "732 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/143.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3907,
+    "title" : "737 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/144.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3965,
+    "title" : "742 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/145.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3910,
+    "title" : "749 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/146.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3515,
+    "title" : "755 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/147.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3918,
+    "title" : "761 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/148.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3727,
+    "title" : "766 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/149.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3567,
+    "title" : "769 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3772,
+    "title" : "Tiên Nghịch || Phần 15 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/150.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4457,
+    "title" : "773 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/151.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3464,
+    "title" : "778 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/152.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3785,
+    "title" : "784 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/153.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3447,
+    "title" : "789 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/154.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3635,
+    "title" : "795 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/155.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3818,
+    "title" : "801 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/156.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3454,
+    "title" : "806 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/157.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3423,
+    "title" : "811 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/158.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3656,
+    "title" : "815 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/159.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3681,
+    "title" : "821 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3454,
+    "title" : "Tiên Nghịch || Phần 16 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/160.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3825,
+    "title" : "827 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/161.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3848,
+    "title" : "834 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/162.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3875,
+    "title" : "840 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/163.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3802,
+    "title" : "845 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/164.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3756,
+    "title" : "849 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/165.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4249,
+    "title" : "855 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/166.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3719,
+    "title" : "860 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/167.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3989,
+    "title" : "866 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/168.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4015,
+    "title" : "872 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/169.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3377,
+    "title" : "877 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4093,
+    "title" : "Tiên Nghịch || Phần 17 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/170.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3985,
+    "title" : "883|| MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/171.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3718,
+    "title" : "888 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/172.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3587,
+    "title" : "893 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/173.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3908,
+    "title" : "899 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/174.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3894,
+    "title" : "905 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/175.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3673,
+    "title" : "911 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/176.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3370,
+    "title" : "916 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/177.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4048,
+    "title" : "922 || MC Lê Tuyên || Tác Giả Nhĩ Căn 201877",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/178.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3746,
+    "title" : "928 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/179.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3796,
+    "title" : "934 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3925,
+    "title" : "Tiên Nghịch || Phần 18 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/180.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3687,
+    "title" : "939 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/181.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3919,
+    "title" : "943 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/182.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4005,
+    "title" : "949 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/183.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3691,
+    "title" : "956 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/184.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3623,
+    "title" : "961 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/185.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4013,
+    "title" : "966 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/186.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3630,
+    "title" : "970 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/187.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4226,
+    "title" : "975 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/188.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3631,
+    "title" : "980 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/189.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4009,
+    "title" : "986 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3704,
+    "title" : "116|| MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/190.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4261,
+    "title" : "991 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/191.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4315,
+    "title" : "996 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/192.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4615,
+    "title" : "999 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/193.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3953,
+    "title" : "1005 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/194.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7549,
+    "title" : "1016 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/195.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7756,
+    "title" : "1027 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/196.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7700,
+    "title" : "1038 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/197.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7668,
+    "title" : "1049 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/198.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5975,
+    "title" : "1058 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/199.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7288,
+    "title" : "1068 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3886,
+    "title" : "Tiên Nghịch || Phần 2 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3263,
+    "title" : "120|| MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/200.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 9965,
+    "title" : "1082 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/201.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7646,
+    "title" : "1092 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/202.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 9364,
+    "title" : "1104 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/203.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5511,
+    "title" : "1112 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/204.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6063,
+    "title" : "1121 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/205.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6666,
+    "title" : "1131 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/206.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6066,
+    "title" : "1140 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/207.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5254,
+    "title" : "1148 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/208.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5787,
+    "title" : "1158 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/209.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8086,
+    "title" : "1171 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3542,
+    "title" : "123|| MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/210.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7888,
+    "title" : "1183 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/211.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6638,
+    "title" : "1193 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/212.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7488,
+    "title" : "1203 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/213.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7653,
+    "title" : "1214 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/214.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5275,
+    "title" : "1222 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/215.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7115,
+    "title" : "1233 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/216.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7869,
+    "title" : "1241 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/217.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8790,
+    "title" : "1253 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/218.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8041,
+    "title" : "1264 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/219.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8488,
+    "title" : "1270 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/22.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3687,
+    "title" : "126|| MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/220.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8378,
+    "title" : "1279 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/221.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8143,
+    "title" : "1289 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/222.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8281,
+    "title" : "1301 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/223.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5371,
+    "title" : "1309 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/224.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5909,
+    "title" : "1319 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/225.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7290,
+    "title" : "1332 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/226.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7866,
+    "title" : "1345 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/227.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 10347,
+    "title" : "1363 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/228.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7646,
+    "title" : "1374 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/229.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8185,
+    "title" : "1384 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/23.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3835,
+    "title" : "Tiên Nghịch || Phần 23 || Chương 127 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/230.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 11210,
+    "title" : "1403 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/231.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6996,
+    "title" : "1411 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/232.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7626,
+    "title" : "1421 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/233.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3824,
+    "title" : "1429 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/234.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7451,
+    "title" : "1440 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/235.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6878,
+    "title" : "1451 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/236.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 10501,
+    "title" : "1466 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/237.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6121,
+    "title" : "1475 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/238.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4451,
+    "title" : "1481 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/239.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4200,
+    "title" : "1487 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/24.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3443,
+    "title" : "131 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/240.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8313,
+    "title" : "1500 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/241.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3989,
+    "title" : "1506 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/242.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4013,
+    "title" : "1512 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/243.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3706,
+    "title" : "1518 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/244.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4800,
+    "title" : "1526 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/245.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3806,
+    "title" : "1532 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/246.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5060,
+    "title" : "1540 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/247.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3876,
+    "title" : "1547 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/248.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5044,
+    "title" : "1555 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/249.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6946,
+    "title" : "1567 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/25.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3900,
+    "title" : "137 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/250.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5375,
+    "title" : "1576 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/251.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4138,
+    "title" : "1583 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/252.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3725,
+    "title" : "1589 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/253.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4825,
+    "title" : "1597 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/254.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4034,
+    "title" : "1604 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/255.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4045,
+    "title" : "1611 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/256.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8703,
+    "title" : "1626 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/257.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4023,
+    "title" : "1633 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/258.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3565,
+    "title" : "1639 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/259.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4610,
+    "title" : "1647 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2019",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/26.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2691,
+    "title" : "141 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/260.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3716,
+    "title" : "1653 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2019",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/261.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4857,
+    "title" : "1661 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2019",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/262.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4488,
+    "title" : "1668 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2019",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/263.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3988,
+    "title" : "1674 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2019",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/264.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3449,
+    "title" : "1679 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2019",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/265.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4535,
+    "title" : "1686 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2019",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/266.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3888,
+    "title" : "1692 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2019",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/267.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3896,
+    "title" : "1698 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2019",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/268.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3710,
+    "title" : "1705 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2019",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/269.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3695,
+    "title" : "1711 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2019",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/27.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3198,
+    "title" : "145 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/270.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3870,
+    "title" : "1717 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2019",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/271.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4519,
+    "title" : "1724 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2019",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/272.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6986,
+    "title" : "1735 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2019",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/273.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7808,
+    "title" : "1748 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2019",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/274.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7734,
+    "title" : "1761 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2019",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/275.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6620,
+    "title" : "1772 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2019",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/276.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5689,
+    "title" : "1782 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2019",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/277.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3567,
+    "title" : "1788 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2019",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/278.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6234,
+    "title" : "1798 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2019",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/279.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8324,
+    "title" : "1811 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2019",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/28.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3099,
+    "title" : "148 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/280.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8784,
+    "title" : "1825 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2019",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/281.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7519,
+    "title" : "1837 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2019",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/282.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7760,
+    "title" : "1849 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2019",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/283.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 9538,
+    "title" : "1856 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2019",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/284.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7684,
+    "title" : "1868 || MC Lê Tuyên || Tác Giả Nhĩ Căn 201984",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/285.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7900,
+    "title" : "1881 || MC Lê Tuyên || Tác Giả Nhĩ Căn 201985",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/286.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7985,
+    "title" : "1893 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2019",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/287.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7373,
+    "title" : "1904 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2019",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/288.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7889,
+    "title" : "1915|| MC Lê Tuyên || Tác Giả Nhĩ Căn 2019",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/289.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8410,
+    "title" : "1919 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2019",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3296,
+    "title" : "152 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/290.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8625,
+    "title" : "1932 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2019",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/291.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7578,
+    "title" : "1944 || MC Lê Tuyên || Tác Giả Nhĩ Căn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/292.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8107,
+    "title" : "1957 || MC Lê Tuyên || Tác Giả Nhĩ Căn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/293.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 11894,
+    "title" : "Tập Cuối || Chương 1958 - 1976 || MC Lê Tuyên || Tác Giả Nhĩ Căn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3764,
+    "title" : "Tiên Nghịch || Phần 3 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/30.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3122,
+    "title" : "155 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/31.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3721,
+    "title" : "158 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/32.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3560,
+    "title" : "160 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/33.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4031,
+    "title" : "163 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/34.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3908,
+    "title" : "166 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/35.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3486,
+    "title" : "169 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/36.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3629,
+    "title" : "174 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/37.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3379,
+    "title" : "176 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/38.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3284,
+    "title" : "181 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/39.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3392,
+    "title" : "183 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3943,
+    "title" : "Tiên Nghịch || Phần 4 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/40.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3867,
+    "title" : "186 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/41.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3786,
+    "title" : "189 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/42.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3468,
+    "title" : "191 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/43.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4178,
+    "title" : "197 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/44.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4067,
+    "title" : "200 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/45.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4013,
+    "title" : "203 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/46.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3767,
+    "title" : "207 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/47.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3253,
+    "title" : "210 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/48.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3191,
+    "title" : "212 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/49.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3900,
+    "title" : "216 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3836,
+    "title" : "Tiên Nghịch || Phần 5 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/50.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3680,
+    "title" : "222 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/51.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4129,
+    "title" : "227 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/52.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4084,
+    "title" : "233 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/53.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3555,
+    "title" : "238 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/54.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3688,
+    "title" : "243 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/55.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4159,
+    "title" : "250 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/56.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4592,
+    "title" : "257 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/57.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4182,
+    "title" : "263 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/58.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4113,
+    "title" : "268 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/59.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3780,
+    "title" : "274 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3835,
+    "title" : "Tiên Nghịch || Phần 6 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/60.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4521,
+    "title" : "281 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/61.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3325,
+    "title" : "286 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/62.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3877,
+    "title" : "291 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/63.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3832,
+    "title" : "297 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/64.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3933,
+    "title" : "302 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/65.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3836,
+    "title" : "306 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/66.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4049,
+    "title" : "313 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/67.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3492,
+    "title" : "318 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/68.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3867,
+    "title" : "323 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/69.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3474,
+    "title" : "328 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4029,
+    "title" : "Tiên Nghịch || Phần 7 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/70.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4104,
+    "title" : "334 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/71.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3456,
+    "title" : "339 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/72.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4543,
+    "title" : "345 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/73.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3789,
+    "title" : "351 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/74.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3317,
+    "title" : "355 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/75.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3499,
+    "title" : "361 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/76.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3353,
+    "title" : "366 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/77.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3732,
+    "title" : "371 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/78.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3672,
+    "title" : "376 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/79.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3485,
+    "title" : "381 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3430,
+    "title" : "Tiên Nghịch || Phần 8 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/80.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3495,
+    "title" : "386 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/81.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4036,
+    "title" : "390 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/82.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3480,
+    "title" : "395 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/83.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3628,
+    "title" : "400 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/84.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3613,
+    "title" : "405 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/85.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3938,
+    "title" : "411 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/86.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3841,
+    "title" : "417 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/87.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3577,
+    "title" : "422 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/88.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3400,
+    "title" : "426 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/89.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3931,
+    "title" : "432 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4043,
+    "title" : "Tiên Nghịch || Phần 9 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/90.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3296,
+    "title" : "437 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/91.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3788,
+    "title" : "443 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/92.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4337,
+    "title" : "449 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/93.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3434,
+    "title" : "455 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/94.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3551,
+    "title" : "461 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/95.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3623,
+    "title" : "467 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/96.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3727,
+    "title" : "472 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/97.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3204,
+    "title" : "477 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/98.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3726,
+    "title" : "483 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/99.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3454,
+    "title" : "488 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/1.mp3",
+    "title" : "Tiên Nghịch || Phần 1 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/10.mp3",
+    "title" : "Tiên Nghịch || Phần 10 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/100.mp3",
+    "title" : "494 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/101.mp3",
+    "title" : "502 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/102.mp3",
+    "title" : "507 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/103.mp3",
+    "title" : "511 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/104.mp3",
+    "title" : "517 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/105.mp3",
+    "title" : "523|| MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/106.mp3",
+    "title" : "527 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/107.mp3",
+    "title" : "531 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/108.mp3",
+    "title" : "536 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/109.mp3",
+    "title" : "541 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/11.mp3",
+    "title" : "Tiên Nghịch || Phần 11 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/110.mp3",
+    "title" : "545 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/111.mp3",
+    "title" : "549 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/112.mp3",
+    "title" : "555|| MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/113.mp3",
+    "title" : "561 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/114.mp3",
+    "title" : "565 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/115.mp3",
+    "title" : "572 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/116.mp3",
+    "title" : "578 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/117.mp3",
+    "title" : "583 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/118.mp3",
+    "title" : "589 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/119.mp3",
+    "title" : "594 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/12.mp3",
+    "title" : "Tiên Nghịch || Phần 12 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/120.mp3",
+    "title" : "601 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/121.mp3",
+    "title" : "607 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/122.mp3",
+    "title" : "612 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/123.mp3",
+    "title" : "617 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/124.mp3",
+    "title" : "623 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/125.mp3",
+    "title" : "630 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/126.mp3",
+    "title" : "635 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/127.mp3",
+    "title" : "641 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/128.mp3",
+    "title" : "646 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/129.mp3",
+    "title" : "653 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/13.mp3",
+    "title" : "Tiên Nghịch || Phần 13 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/130.mp3",
+    "title" : "659 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/131.mp3",
+    "title" : "665 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/132.mp3",
+    "title" : "672 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/133.mp3",
+    "title" : "677 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/134.mp3",
+    "title" : "683 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/135.mp3",
+    "title" : "689 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/136.mp3",
+    "title" : "695 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/137.mp3",
+    "title" : "701 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/138.mp3",
+    "title" : "708 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/139.mp3",
+    "title" : "714 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/14.mp3",
+    "title" : "Tiên Nghịch || Phần 14 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/140.mp3",
+    "title" : "720 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/141.mp3",
+    "title" : "726 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/142.mp3",
+    "title" : "732 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/143.mp3",
+    "title" : "737 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/144.mp3",
+    "title" : "742 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/145.mp3",
+    "title" : "749 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/146.mp3",
+    "title" : "755 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/147.mp3",
+    "title" : "761 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/148.mp3",
+    "title" : "766 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/149.mp3",
+    "title" : "769 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/15.mp3",
+    "title" : "Tiên Nghịch || Phần 15 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/150.mp3",
+    "title" : "773 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/151.mp3",
+    "title" : "778 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/152.mp3",
+    "title" : "784 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/153.mp3",
+    "title" : "789 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/154.mp3",
+    "title" : "795 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/155.mp3",
+    "title" : "801 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/156.mp3",
+    "title" : "806 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/157.mp3",
+    "title" : "811 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/158.mp3",
+    "title" : "815 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/159.mp3",
+    "title" : "821 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/16.mp3",
+    "title" : "Tiên Nghịch || Phần 16 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/160.mp3",
+    "title" : "827 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/161.mp3",
+    "title" : "834 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/162.mp3",
+    "title" : "840 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/163.mp3",
+    "title" : "845 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/164.mp3",
+    "title" : "849 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/165.mp3",
+    "title" : "855 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/166.mp3",
+    "title" : "860 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/167.mp3",
+    "title" : "866 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/168.mp3",
+    "title" : "872 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/169.mp3",
+    "title" : "877 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/17.mp3",
+    "title" : "Tiên Nghịch || Phần 17 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/170.mp3",
+    "title" : "883|| MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/171.mp3",
+    "title" : "888 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/172.mp3",
+    "title" : "893 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/173.mp3",
+    "title" : "899 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/174.mp3",
+    "title" : "905 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/175.mp3",
+    "title" : "911 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/176.mp3",
+    "title" : "916 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/177.mp3",
+    "title" : "922 || MC Lê Tuyên || Tác Giả Nhĩ Căn 201877",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/178.mp3",
+    "title" : "928 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/179.mp3",
+    "title" : "934 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/18.mp3",
+    "title" : "Tiên Nghịch || Phần 18 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/180.mp3",
+    "title" : "939 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/181.mp3",
+    "title" : "943 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/182.mp3",
+    "title" : "949 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/183.mp3",
+    "title" : "956 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/184.mp3",
+    "title" : "961 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/185.mp3",
+    "title" : "966 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/186.mp3",
+    "title" : "970 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/187.mp3",
+    "title" : "975 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/188.mp3",
+    "title" : "980 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/189.mp3",
+    "title" : "986 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/19.mp3",
+    "title" : "116|| MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/190.mp3",
+    "title" : "991 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/191.mp3",
+    "title" : "996 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/192.mp3",
+    "title" : "999 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/193.mp3",
+    "title" : "1005 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/194.mp3",
+    "title" : "1016 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/195.mp3",
+    "title" : "1027 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/196.mp3",
+    "title" : "1038 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/197.mp3",
+    "title" : "1049 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/198.mp3",
+    "title" : "1058 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/199.mp3",
+    "title" : "1068 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/2.mp3",
+    "title" : "Tiên Nghịch || Phần 2 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/20.mp3",
+    "title" : "120|| MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/200.mp3",
+    "title" : "1082 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/201.mp3",
+    "title" : "1092 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/202.mp3",
+    "title" : "1104 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/203.mp3",
+    "title" : "1112 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/204.mp3",
+    "title" : "1121 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/205.mp3",
+    "title" : "1131 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/206.mp3",
+    "title" : "1140 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/207.mp3",
+    "title" : "1148 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/208.mp3",
+    "title" : "1158 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/209.mp3",
+    "title" : "1171 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/21.mp3",
+    "title" : "123|| MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/210.mp3",
+    "title" : "1183 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/211.mp3",
+    "title" : "1193 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/212.mp3",
+    "title" : "1203 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/213.mp3",
+    "title" : "1214 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/214.mp3",
+    "title" : "1222 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/215.mp3",
+    "title" : "1233 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/216.mp3",
+    "title" : "1241 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/217.mp3",
+    "title" : "1253 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/218.mp3",
+    "title" : "1264 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/219.mp3",
+    "title" : "1270 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/22.mp3",
+    "title" : "126|| MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/220.mp3",
+    "title" : "1279 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/221.mp3",
+    "title" : "1289 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/222.mp3",
+    "title" : "1301 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/223.mp3",
+    "title" : "1309 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/224.mp3",
+    "title" : "1319 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/225.mp3",
+    "title" : "1332 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/226.mp3",
+    "title" : "1345 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/227.mp3",
+    "title" : "1363 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/228.mp3",
+    "title" : "1374 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/229.mp3",
+    "title" : "1384 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/23.mp3",
+    "title" : "Tiên Nghịch || Phần 23 || Chương 127 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/230.mp3",
+    "title" : "1403 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/231.mp3",
+    "title" : "1411 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/232.mp3",
+    "title" : "1421 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/233.mp3",
+    "title" : "1429 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/234.mp3",
+    "title" : "1440 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/235.mp3",
+    "title" : "1451 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/236.mp3",
+    "title" : "1466 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/237.mp3",
+    "title" : "1475 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/238.mp3",
+    "title" : "1481 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/239.mp3",
+    "title" : "1487 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/24.mp3",
+    "title" : "131 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/240.mp3",
+    "title" : "1500 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/241.mp3",
+    "title" : "1506 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/242.mp3",
+    "title" : "1512 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/243.mp3",
+    "title" : "1518 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/244.mp3",
+    "title" : "1526 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/245.mp3",
+    "title" : "1532 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/246.mp3",
+    "title" : "1540 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/247.mp3",
+    "title" : "1547 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/248.mp3",
+    "title" : "1555 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/249.mp3",
+    "title" : "1567 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/25.mp3",
+    "title" : "137 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/250.mp3",
+    "title" : "1576 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/251.mp3",
+    "title" : "1583 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/252.mp3",
+    "title" : "1589 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/253.mp3",
+    "title" : "1597 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/254.mp3",
+    "title" : "1604 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/255.mp3",
+    "title" : "1611 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/256.mp3",
+    "title" : "1626 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/257.mp3",
+    "title" : "1633 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/258.mp3",
+    "title" : "1639 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/259.mp3",
+    "title" : "1647 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2019",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/26.mp3",
+    "title" : "141 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/260.mp3",
+    "title" : "1653 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2019",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/261.mp3",
+    "title" : "1661 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2019",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/262.mp3",
+    "title" : "1668 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2019",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/263.mp3",
+    "title" : "1674 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2019",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/264.mp3",
+    "title" : "1679 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2019",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/265.mp3",
+    "title" : "1686 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2019",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/266.mp3",
+    "title" : "1692 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2019",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/267.mp3",
+    "title" : "1698 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2019",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/268.mp3",
+    "title" : "1705 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2019",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/269.mp3",
+    "title" : "1711 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2019",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/27.mp3",
+    "title" : "145 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/270.mp3",
+    "title" : "1717 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2019",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/271.mp3",
+    "title" : "1724 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2019",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/272.mp3",
+    "title" : "1735 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2019",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/273.mp3",
+    "title" : "1748 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2019",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/274.mp3",
+    "title" : "1761 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2019",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/275.mp3",
+    "title" : "1772 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2019",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/276.mp3",
+    "title" : "1782 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2019",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/277.mp3",
+    "title" : "1788 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2019",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/278.mp3",
+    "title" : "1798 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2019",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/279.mp3",
+    "title" : "1811 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2019",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/28.mp3",
+    "title" : "148 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/280.mp3",
+    "title" : "1825 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2019",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/281.mp3",
+    "title" : "1837 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2019",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/282.mp3",
+    "title" : "1849 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2019",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/283.mp3",
+    "title" : "1856 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2019",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/284.mp3",
+    "title" : "1868 || MC Lê Tuyên || Tác Giả Nhĩ Căn 201984",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/285.mp3",
+    "title" : "1881 || MC Lê Tuyên || Tác Giả Nhĩ Căn 201985",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/286.mp3",
+    "title" : "1893 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2019",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/287.mp3",
+    "title" : "1904 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2019",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/288.mp3",
+    "title" : "1915|| MC Lê Tuyên || Tác Giả Nhĩ Căn 2019",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/289.mp3",
+    "title" : "1919 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2019",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/29.mp3",
+    "title" : "152 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/290.mp3",
+    "title" : "1932 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2019",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/291.mp3",
+    "title" : "1944 || MC Lê Tuyên || Tác Giả Nhĩ Căn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/292.mp3",
+    "title" : "1957 || MC Lê Tuyên || Tác Giả Nhĩ Căn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/293.mp3",
+    "title" : "Tập Cuối || Chương 1958 - 1976 || MC Lê Tuyên || Tác Giả Nhĩ Căn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/3.mp3",
+    "title" : "Tiên Nghịch || Phần 3 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/30.mp3",
+    "title" : "155 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/31.mp3",
+    "title" : "158 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/32.mp3",
+    "title" : "160 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/33.mp3",
+    "title" : "163 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/34.mp3",
+    "title" : "166 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/35.mp3",
+    "title" : "169 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/36.mp3",
+    "title" : "174 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/37.mp3",
+    "title" : "176 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/38.mp3",
+    "title" : "181 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/39.mp3",
+    "title" : "183 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/4.mp3",
+    "title" : "Tiên Nghịch || Phần 4 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/40.mp3",
+    "title" : "186 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/41.mp3",
+    "title" : "189 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/42.mp3",
+    "title" : "191 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/43.mp3",
+    "title" : "197 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/44.mp3",
+    "title" : "200 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/45.mp3",
+    "title" : "203 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/46.mp3",
+    "title" : "207 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/47.mp3",
+    "title" : "210 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/48.mp3",
+    "title" : "212 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/49.mp3",
+    "title" : "216 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/5.mp3",
+    "title" : "Tiên Nghịch || Phần 5 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/50.mp3",
+    "title" : "222 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/51.mp3",
+    "title" : "227 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/52.mp3",
+    "title" : "233 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/53.mp3",
+    "title" : "238 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/54.mp3",
+    "title" : "243 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/55.mp3",
+    "title" : "250 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/56.mp3",
+    "title" : "257 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/57.mp3",
+    "title" : "263 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/58.mp3",
+    "title" : "268 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/59.mp3",
+    "title" : "274 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/6.mp3",
+    "title" : "Tiên Nghịch || Phần 6 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/60.mp3",
+    "title" : "281 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/61.mp3",
+    "title" : "286 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/62.mp3",
+    "title" : "291 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/63.mp3",
+    "title" : "297 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/64.mp3",
+    "title" : "302 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/65.mp3",
+    "title" : "306 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/66.mp3",
+    "title" : "313 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/67.mp3",
+    "title" : "318 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/68.mp3",
+    "title" : "323 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/69.mp3",
+    "title" : "328 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/7.mp3",
+    "title" : "Tiên Nghịch || Phần 7 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/70.mp3",
+    "title" : "334 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/71.mp3",
+    "title" : "339 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/72.mp3",
+    "title" : "345 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/73.mp3",
+    "title" : "351 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/74.mp3",
+    "title" : "355 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/75.mp3",
+    "title" : "361 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/76.mp3",
+    "title" : "366 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/77.mp3",
+    "title" : "371 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/78.mp3",
+    "title" : "376 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/79.mp3",
+    "title" : "381 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/8.mp3",
+    "title" : "Tiên Nghịch || Phần 8 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/80.mp3",
+    "title" : "386 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/81.mp3",
+    "title" : "390 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/82.mp3",
+    "title" : "395 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/83.mp3",
+    "title" : "400 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/84.mp3",
+    "title" : "405 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/85.mp3",
+    "title" : "411 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/86.mp3",
+    "title" : "417 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/87.mp3",
+    "title" : "422 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/88.mp3",
+    "title" : "426 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/89.mp3",
+    "title" : "432 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/9.mp3",
+    "title" : "Tiên Nghịch || Phần 9 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/90.mp3",
+    "title" : "437 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/91.mp3",
+    "title" : "443 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/92.mp3",
+    "title" : "449 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/93.mp3",
+    "title" : "455 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/94.mp3",
+    "title" : "461 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/95.mp3",
+    "title" : "467 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/96.mp3",
+    "title" : "472 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/97.mp3",
+    "title" : "477 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/98.mp3",
+    "title" : "483 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tien_nghich/99.mp3",
+    "title" : "488 || MC Lê Tuyên || Tác Giả Nhĩ Căn 2018",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

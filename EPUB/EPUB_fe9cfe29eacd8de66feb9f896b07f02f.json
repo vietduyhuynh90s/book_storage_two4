@@ -1,0 +1,209 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/gia-dinh-ma-bay-phan-tu_9368.html",
+    "title" : "Gia Đình Má Bảy - Phan Tứ",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Phan Tứ",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 50372,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/EPUB/EPUB_fe9cfe29eacd8de66feb9f896b07f02f.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/IMAGE/IMAGE_fe9cfe29eacd8de66feb9f896b07f02f.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/DTV_GDMB/01_GDMB.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3601,
+    "title" : "01 GDMB",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DTV_GDMB/02_GDMB.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3620,
+    "title" : "02 GDMB",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DTV_GDMB/03_GDMB.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3604,
+    "title" : "03 GDMB",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DTV_GDMB/04_GDMB.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3605,
+    "title" : "04 GDMB",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DTV_GDMB/05_GDMB.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3588,
+    "title" : "05 GDMB",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DTV_GDMB/06_GDMB.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3600,
+    "title" : "06 GDMB",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DTV_GDMB/07_GDMB.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3545,
+    "title" : "07 GDMB",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DTV_GDMB/08_GDMB.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3602,
+    "title" : "08 GDMB",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DTV_GDMB/09_GDMB.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3602,
+    "title" : "09 GDMB",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DTV_GDMB/10_GDMB.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3594,
+    "title" : "10 GDMB",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DTV_GDMB/11_GDMB.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3601,
+    "title" : "11 GDMB",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DTV_GDMB/12_GDMB.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3598,
+    "title" : "12 GDMB",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DTV_GDMB/13_GDMB.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3604,
+    "title" : "13 GDMB",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DTV_GDMB/14_GDMB.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3608,
+    "title" : "14 GDMB",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/DTV_GDMB/01_GDMB.mp3",
+    "title" : "01 GDMB",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DTV_GDMB/02_GDMB.mp3",
+    "title" : "02 GDMB",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DTV_GDMB/03_GDMB.mp3",
+    "title" : "03 GDMB",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DTV_GDMB/04_GDMB.mp3",
+    "title" : "04 GDMB",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DTV_GDMB/05_GDMB.mp3",
+    "title" : "05 GDMB",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DTV_GDMB/06_GDMB.mp3",
+    "title" : "06 GDMB",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DTV_GDMB/07_GDMB.mp3",
+    "title" : "07 GDMB",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DTV_GDMB/08_GDMB.mp3",
+    "title" : "08 GDMB",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DTV_GDMB/09_GDMB.mp3",
+    "title" : "09 GDMB",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DTV_GDMB/10_GDMB.mp3",
+    "title" : "10 GDMB",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DTV_GDMB/11_GDMB.mp3",
+    "title" : "11 GDMB",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DTV_GDMB/12_GDMB.mp3",
+    "title" : "12 GDMB",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DTV_GDMB/13_GDMB.mp3",
+    "title" : "13 GDMB",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DTV_GDMB/14_GDMB.mp3",
+    "title" : "14 GDMB",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
