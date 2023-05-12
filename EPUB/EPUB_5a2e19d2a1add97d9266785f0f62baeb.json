@@ -1,0 +1,89 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/lam-di-vu-trong-phung_3635.html",
+    "title" : "Làm Đĩ - Vũ Trọng Phụng.",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Vũ Trọng Phụng",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-12",
+    "duration" : 17288,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/EPUB/EPUB_5a2e19d2a1add97d9266785f0f62baeb.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/IMAGE/IMAGE_5a2e19d2a1add97d9266785f0f62baeb.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/lamdi_202004/LamDi_01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5029,
+    "title" : "LamDi 01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lamdi_202004/LamDi_02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3754,
+    "title" : "LamDi 02",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lamdi_202004/LamDi_03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3819,
+    "title" : "LamDi 03",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lamdi_202004/LamDi_04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4686,
+    "title" : "LamDi 04",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/lamdi_202004/LamDi_01.mp3",
+    "title" : "LamDi 01",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lamdi_202004/LamDi_02.mp3",
+    "title" : "LamDi 02",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lamdi_202004/LamDi_03.mp3",
+    "title" : "LamDi 03",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lamdi_202004/LamDi_04.mp3",
+    "title" : "LamDi 04",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

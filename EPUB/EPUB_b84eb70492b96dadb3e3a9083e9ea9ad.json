@@ -1,0 +1,233 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/lua-thieu-rung-hanh_14953.html",
+    "title" : "Lửa Thiêu Rừng Hạnh",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Tùng Ưng",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-12",
+    "duration" : 46799,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/EPUB/EPUB_b84eb70492b96dadb3e3a9083e9ea9ad.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/IMAGE/IMAGE_b84eb70492b96dadb3e3a9083e9ea9ad.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/lua-thieu-rung-hanh/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2507,
+    "title" : "Truyện Trinh Thám mới nhất : Lửa Thiêu Rừng Hạnh Tập 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lua-thieu-rung-hanh/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3055,
+    "title" : "Truyện Trinh Thám mới nhất : Lửa Thiêu Rừng Hạnh Tập 10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lua-thieu-rung-hanh/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2767,
+    "title" : "Truyện Trinh Thám mới nhất : Lửa Thiêu Rừng Hạnh Tập 11",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lua-thieu-rung-hanh/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3010,
+    "title" : "Truyện Trinh Thám mới nhất : Lửa Thiêu Rừng Hạnh Tập 12",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lua-thieu-rung-hanh/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2838,
+    "title" : "Truyện Trinh Thám mới nhất : Lửa Thiêu Rừng Hạnh Tập 13",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lua-thieu-rung-hanh/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2454,
+    "title" : "Truyện Trinh Thám mới nhất : Lửa Thiêu Rừng Hạnh Tập 14",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lua-thieu-rung-hanh/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2580,
+    "title" : "Truyện Trinh Thám mới nhất : Lửa Thiêu Rừng Hạnh Tập 15",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lua-thieu-rung-hanh/16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3524,
+    "title" : "Truyện Trinh Thám mới nhất : Lửa Thiêu Rừng Hạnh Tập 16 ( Tập Cuối )",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lua-thieu-rung-hanh/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2997,
+    "title" : "Truyện Trinh Thám mới nhất : Lửa Thiêu Rừng Hạnh Tập 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lua-thieu-rung-hanh/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2898,
+    "title" : "Truyện Trinh Thám mới nhất : Lửa Thiêu Rừng Hạnh Tập 3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lua-thieu-rung-hanh/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3735,
+    "title" : "Truyện Trinh Thám mới nhất : Lửa Thiêu Rừng Hạnh Tập 4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lua-thieu-rung-hanh/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2325,
+    "title" : "Truyện Trinh Thám mới nhất : Lửa Thiêu Rừng Hạnh Tập 5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lua-thieu-rung-hanh/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3432,
+    "title" : "Truyện Trinh Thám mới nhất : Lửa Thiêu Rừng Hạnh Tập 6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lua-thieu-rung-hanh/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2967,
+    "title" : "Truyện Trinh Thám mới nhất : Lửa Thiêu Rừng Hạnh Tập 7",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lua-thieu-rung-hanh/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2849,
+    "title" : "Truyện Trinh Thám mới nhất : Lửa Thiêu Rừng Hạnh Tập 8",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lua-thieu-rung-hanh/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2861,
+    "title" : "Truyện Trinh Thám mới nhất : Lửa Thiêu Rừng Hạnh Tập 9",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/lua-thieu-rung-hanh/1.mp3",
+    "title" : "Truyện Trinh Thám mới nhất : Lửa Thiêu Rừng Hạnh Tập 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lua-thieu-rung-hanh/10.mp3",
+    "title" : "Truyện Trinh Thám mới nhất : Lửa Thiêu Rừng Hạnh Tập 10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lua-thieu-rung-hanh/11.mp3",
+    "title" : "Truyện Trinh Thám mới nhất : Lửa Thiêu Rừng Hạnh Tập 11",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lua-thieu-rung-hanh/12.mp3",
+    "title" : "Truyện Trinh Thám mới nhất : Lửa Thiêu Rừng Hạnh Tập 12",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lua-thieu-rung-hanh/13.mp3",
+    "title" : "Truyện Trinh Thám mới nhất : Lửa Thiêu Rừng Hạnh Tập 13",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lua-thieu-rung-hanh/14.mp3",
+    "title" : "Truyện Trinh Thám mới nhất : Lửa Thiêu Rừng Hạnh Tập 14",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lua-thieu-rung-hanh/15.mp3",
+    "title" : "Truyện Trinh Thám mới nhất : Lửa Thiêu Rừng Hạnh Tập 15",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lua-thieu-rung-hanh/16.mp3",
+    "title" : "Truyện Trinh Thám mới nhất : Lửa Thiêu Rừng Hạnh Tập 16 ( Tập Cuối )",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lua-thieu-rung-hanh/2.mp3",
+    "title" : "Truyện Trinh Thám mới nhất : Lửa Thiêu Rừng Hạnh Tập 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lua-thieu-rung-hanh/3.mp3",
+    "title" : "Truyện Trinh Thám mới nhất : Lửa Thiêu Rừng Hạnh Tập 3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lua-thieu-rung-hanh/4.mp3",
+    "title" : "Truyện Trinh Thám mới nhất : Lửa Thiêu Rừng Hạnh Tập 4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lua-thieu-rung-hanh/5.mp3",
+    "title" : "Truyện Trinh Thám mới nhất : Lửa Thiêu Rừng Hạnh Tập 5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lua-thieu-rung-hanh/6.mp3",
+    "title" : "Truyện Trinh Thám mới nhất : Lửa Thiêu Rừng Hạnh Tập 6",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lua-thieu-rung-hanh/7.mp3",
+    "title" : "Truyện Trinh Thám mới nhất : Lửa Thiêu Rừng Hạnh Tập 7",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lua-thieu-rung-hanh/8.mp3",
+    "title" : "Truyện Trinh Thám mới nhất : Lửa Thiêu Rừng Hạnh Tập 8",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lua-thieu-rung-hanh/9.mp3",
+    "title" : "Truyện Trinh Thám mới nhất : Lửa Thiêu Rừng Hạnh Tập 9",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

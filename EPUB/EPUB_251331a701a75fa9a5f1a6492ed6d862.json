@@ -1,0 +1,77 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/nguoi-tinh-nguy-hiem-mac-nhan_10017.html",
+    "title" : "Người Tình Nguy Hiểm - Mạc Nhan.",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Mạc Nhan",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-12",
+    "duration" : 16094,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/EPUB/EPUB_251331a701a75fa9a5f1a6492ed6d862.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/IMAGE/IMAGE_251331a701a75fa9a5f1a6492ed6d862.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Ntnh/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6261,
+    "title" : "Người tình nguy hiểm – (1,2&3)–Truyện Audio Lê Duyên-Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Ntnh/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6498,
+    "title" : "Người tình nguy hiểm – Mạc Nhan - (4,5&6)–Truyện Audio Lê Duyên-Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Ntnh/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3335,
+    "title" : "Người tình nguy hiểm – Mạc Nhan - (7&8 END))–Truyện Audio Lê Duyên-Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Ntnh/1.mp3",
+    "title" : "Người tình nguy hiểm – (1,2&3)–Truyện Audio Lê Duyên-Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Ntnh/2.mp3",
+    "title" : "Người tình nguy hiểm – Mạc Nhan - (4,5&6)–Truyện Audio Lê Duyên-Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Ntnh/3.mp3",
+    "title" : "Người tình nguy hiểm – Mạc Nhan - (7&8 END))–Truyện Audio Lê Duyên-Duyên Lê",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

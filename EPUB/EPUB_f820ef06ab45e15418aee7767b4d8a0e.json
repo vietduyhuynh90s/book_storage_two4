@@ -1,0 +1,113 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/audiobook-kiep-nan-troi-dinh-thuong-quan-ngo-da-kinh-di_2949.html",
+    "title" : "Kiếp Nạn Trời Định - Thượng Quan Ngọ Dạ",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Thượng Quan Ngọ Dạ",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-12",
+    "duration" : 41688,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/EPUB/EPUB_f820ef06ab45e15418aee7767b4d8a0e.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/IMAGE/IMAGE_f820ef06ab45e15418aee7767b4d8a0e.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_6kntd/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5238,
+    "title" : "Truyện ma kinh dị MC Ngọc Lâm diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_6kntd/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6180,
+    "title" : "MC Ngọc Lâm diễn đọc Phần 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_6kntd/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5588,
+    "title" : "Phần 3 Truyện ma kinh dị cực rùng rợn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_6kntd/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6419,
+    "title" : "Truyện ma kinh dị MC Ngọc Lâm diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_6kntd/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7179,
+    "title" : "Truyện ma kinh dị cực rùng rợn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_6kntd/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 11084,
+    "title" : "Phần cuối Truyện Ma Kinh Dị Kiếp Nạn Trời Đã Định",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_6kntd/1.mp3",
+    "title" : "Truyện ma kinh dị MC Ngọc Lâm diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_6kntd/2.mp3",
+    "title" : "MC Ngọc Lâm diễn đọc Phần 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_6kntd/3.mp3",
+    "title" : "Phần 3 Truyện ma kinh dị cực rùng rợn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_6kntd/4.mp3",
+    "title" : "Truyện ma kinh dị MC Ngọc Lâm diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_6kntd/5.mp3",
+    "title" : "Truyện ma kinh dị cực rùng rợn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_6kntd/6.mp3",
+    "title" : "Phần cuối Truyện Ma Kinh Dị Kiếp Nạn Trời Đã Định",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

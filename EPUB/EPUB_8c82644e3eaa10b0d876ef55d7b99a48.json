@@ -1,0 +1,89 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/hai-mat-cua-gia-dinh_20249.html",
+    "title" : "Hai Mặt Của Gia Đình",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Choi Kwanghyun",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-12",
+    "duration" : 17532,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/EPUB/EPUB_8c82644e3eaa10b0d876ef55d7b99a48.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/IMAGE/IMAGE_8c82644e3eaa10b0d876ef55d7b99a48.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/hai-mat-1_202202/hai-mat-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5478,
+    "title" : "Sách nói| Hai Mặt Của Gia Đình_P1| TG: Choi Kwanghyun| Giọng đọc: Thảo Nguyên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hai-mat-1_202202/hai-mat-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2942,
+    "title" : "Sách nói| Hai Mặt Của Gia Đình_P2| TG: Choi Kwanghyun| Giọng đọc: Thảo Nguyên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hai-mat-1_202202/hai-mat-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3984,
+    "title" : "Sách nói| Hai Mặt Của Gia Đình_P3| TG: Choi Kwanghyun| Giọng đọc: Thảo Nguyên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hai-mat-1_202202/hai-mat-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5128,
+    "title" : "Sách nói| Hai Mặt Của Gia Đình_P4| TG: Choi Kwanghyun| Giọng đọc: Thảo Nguyên",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/hai-mat-1_202202/hai-mat-1.mp3",
+    "title" : "Sách nói| Hai Mặt Của Gia Đình_P1| TG: Choi Kwanghyun| Giọng đọc: Thảo Nguyên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hai-mat-1_202202/hai-mat-2.mp3",
+    "title" : "Sách nói| Hai Mặt Của Gia Đình_P2| TG: Choi Kwanghyun| Giọng đọc: Thảo Nguyên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hai-mat-1_202202/hai-mat-3.mp3",
+    "title" : "Sách nói| Hai Mặt Của Gia Đình_P3| TG: Choi Kwanghyun| Giọng đọc: Thảo Nguyên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hai-mat-1_202202/hai-mat-4.mp3",
+    "title" : "Sách nói| Hai Mặt Của Gia Đình_P4| TG: Choi Kwanghyun| Giọng đọc: Thảo Nguyên",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

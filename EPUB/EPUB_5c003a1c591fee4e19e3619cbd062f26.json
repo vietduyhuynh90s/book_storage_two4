@@ -1,0 +1,101 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/nguon-chan-le-that_20207.html",
+    "title" : "Nguồn Chân Lẽ Thật",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nguyên Minh",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-12",
+    "duration" : 17188,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/EPUB/EPUB_5c003a1c591fee4e19e3619cbd062f26.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/IMAGE/IMAGE_5c003a1c591fee4e19e3619cbd062f26.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/nguon-chan-1/nguon-chan-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3600,
+    "title" : "nguon-chan-1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguon-chan-1/nguon-chan-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3600,
+    "title" : "nguon-chan-2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguon-chan-1/nguon-chan-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3600,
+    "title" : "nguon-chan-3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguon-chan-1/nguon-chan-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3600,
+    "title" : "nguon-chan-4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguon-chan-1/nguon-chan-5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2788,
+    "title" : "nguon-chan-5",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/nguon-chan-1/nguon-chan-1.mp3",
+    "title" : "nguon-chan-1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguon-chan-1/nguon-chan-2.mp3",
+    "title" : "nguon-chan-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguon-chan-1/nguon-chan-3.mp3",
+    "title" : "nguon-chan-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguon-chan-1/nguon-chan-4.mp3",
+    "title" : "nguon-chan-4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguon-chan-1/nguon-chan-5.mp3",
+    "title" : "nguon-chan-5",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

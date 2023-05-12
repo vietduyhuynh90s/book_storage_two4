@@ -1,0 +1,113 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/dich-vu-khach-hang-hoan-hao_18674.html",
+    "title" : "Dịch Vụ Khách Hàng Hoàn Hảo",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Adam Toporek",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-12",
+    "duration" : 20280,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/EPUB/EPUB_011fd962515eab190c5fe2c89fbac83e.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/IMAGE/IMAGE_011fd962515eab190c5fe2c89fbac83e.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/dich-vu-1/dich-vu-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3600,
+    "title" : "dich-vu-1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dich-vu-1/dich-vu-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3600,
+    "title" : "dich-vu-2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dich-vu-1/dich-vu-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3600,
+    "title" : "dich-vu-3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dich-vu-1/dich-vu-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3600,
+    "title" : "dich-vu-4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dich-vu-1/dich-vu-5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3600,
+    "title" : "dich-vu-5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dich-vu-1/dich-vu-6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2280,
+    "title" : "dich-vu-6",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/dich-vu-1/dich-vu-1.mp3",
+    "title" : "dich-vu-1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dich-vu-1/dich-vu-2.mp3",
+    "title" : "dich-vu-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dich-vu-1/dich-vu-3.mp3",
+    "title" : "dich-vu-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dich-vu-1/dich-vu-4.mp3",
+    "title" : "dich-vu-4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dich-vu-1/dich-vu-5.mp3",
+    "title" : "dich-vu-5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dich-vu-1/dich-vu-6.mp3",
+    "title" : "dich-vu-6",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

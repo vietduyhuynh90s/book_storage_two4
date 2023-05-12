@@ -1,0 +1,161 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/lam-cha-lam-ban-lam-thay_20181.html",
+    "title" : "Làm Cha, Làm Bạn, Làm Thầy",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nguyễn Công Điền",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-12",
+    "duration" : 20014,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/EPUB/EPUB_d9cbd3510543d12cd215b400ef99e1a2.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/IMAGE/IMAGE_d9cbd3510543d12cd215b400ef99e1a2.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/lam-cha-lam-ban-lam-thay.sna/LAM_CHA_LAM_BAN_LAM_THAY_01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1435,
+    "title" : "LAM CHA LAM BAN LAM THAY 01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lam-cha-lam-ban-lam-thay.sna/LAM_CHA_LAM_BAN_LAM_THAY_02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1841,
+    "title" : "LAM CHA LAM BAN LAM THAY 02",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lam-cha-lam-ban-lam-thay.sna/LAM_CHA_LAM_BAN_LAM_THAY_03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1478,
+    "title" : "LAM CHA LAM BAN LAM THAY 03",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lam-cha-lam-ban-lam-thay.sna/LAM_CHA_LAM_BAN_LAM_THAY_04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3086,
+    "title" : "LAM CHA LAM BAN LAM THAY 04",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lam-cha-lam-ban-lam-thay.sna/LAM_CHA_LAM_BAN_LAM_THAY_05.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3293,
+    "title" : "LAM CHA LAM BAN LAM THAY 05",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lam-cha-lam-ban-lam-thay.sna/LAM_CHA_LAM_BAN_LAM_THAY_06.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1585,
+    "title" : "LAM CHA LAM BAN LAM THAY 06",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lam-cha-lam-ban-lam-thay.sna/LAM_CHA_LAM_BAN_LAM_THAY_07.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1907,
+    "title" : "LAM CHA LAM BAN LAM THAY 07",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lam-cha-lam-ban-lam-thay.sna/LAM_CHA_LAM_BAN_LAM_THAY_08.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2171,
+    "title" : "LAM CHA LAM BAN LAM THAY 08",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lam-cha-lam-ban-lam-thay.sna/LAM_CHA_LAM_BAN_LAM_THAY_09.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1729,
+    "title" : "LAM CHA LAM BAN LAM THAY 09",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lam-cha-lam-ban-lam-thay.sna/LAM_CHA_LAM_BAN_LAM_THAY_10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1489,
+    "title" : "LAM CHA LAM BAN LAM THAY 10",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/lam-cha-lam-ban-lam-thay.sna/LAM_CHA_LAM_BAN_LAM_THAY_01.mp3",
+    "title" : "LAM CHA LAM BAN LAM THAY 01",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lam-cha-lam-ban-lam-thay.sna/LAM_CHA_LAM_BAN_LAM_THAY_02.mp3",
+    "title" : "LAM CHA LAM BAN LAM THAY 02",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lam-cha-lam-ban-lam-thay.sna/LAM_CHA_LAM_BAN_LAM_THAY_03.mp3",
+    "title" : "LAM CHA LAM BAN LAM THAY 03",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lam-cha-lam-ban-lam-thay.sna/LAM_CHA_LAM_BAN_LAM_THAY_04.mp3",
+    "title" : "LAM CHA LAM BAN LAM THAY 04",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lam-cha-lam-ban-lam-thay.sna/LAM_CHA_LAM_BAN_LAM_THAY_05.mp3",
+    "title" : "LAM CHA LAM BAN LAM THAY 05",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lam-cha-lam-ban-lam-thay.sna/LAM_CHA_LAM_BAN_LAM_THAY_06.mp3",
+    "title" : "LAM CHA LAM BAN LAM THAY 06",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lam-cha-lam-ban-lam-thay.sna/LAM_CHA_LAM_BAN_LAM_THAY_07.mp3",
+    "title" : "LAM CHA LAM BAN LAM THAY 07",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lam-cha-lam-ban-lam-thay.sna/LAM_CHA_LAM_BAN_LAM_THAY_08.mp3",
+    "title" : "LAM CHA LAM BAN LAM THAY 08",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lam-cha-lam-ban-lam-thay.sna/LAM_CHA_LAM_BAN_LAM_THAY_09.mp3",
+    "title" : "LAM CHA LAM BAN LAM THAY 09",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lam-cha-lam-ban-lam-thay.sna/LAM_CHA_LAM_BAN_LAM_THAY_10.mp3",
+    "title" : "LAM CHA LAM BAN LAM THAY 10",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

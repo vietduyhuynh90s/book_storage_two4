@@ -1,0 +1,197 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/hanh-phuc-dich-thuc_20201.html",
+    "title" : "Hạnh Phúc Đích Thực",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Hoàng Anh Sướng",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-12",
+    "duration" : 29855,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/EPUB/EPUB_9ee0e1b382b9435149fa692eea8f4fe0.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/IMAGE/IMAGE_9ee0e1b382b9435149fa692eea8f4fe0.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/hanh-phuc-07/hanh-phuc-01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1927,
+    "title" : "Hạnh phúc đích thực: 1. Lời giới thiệu - wWw.ChuaGiacNgo.com",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hanh-phuc-07/hanh-phuc-02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2141,
+    "title" : "Hạnh phúc đích thực: 2. Ý niệm về hạnh phúc chính là những chướng ngại của hạnh phúc -...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hanh-phuc-07/hanh-phuc-03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2485,
+    "title" : "Hạnh phúc đích thực: 3. Bụt cũng có khổ đau nhưng khổ rất ít vì ngài có tuệ giác -...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hanh-phuc-07/hanh-phuc-04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2417,
+    "title" : "Hạnh phúc đích thực: 4. Không hiểu, không thể thương yêu sâu sắc - wWw.ChuaGiacNgo.com",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hanh-phuc-07/hanh-phuc-05.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2475,
+    "title" : "Hạnh phúc đích thực: 5. Chúng ta đang sử dụng chữ yêu một cách bừa bãi - wWw.ChuaGiacNgo.com",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hanh-phuc-07/hanh-phuc-06.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2720,
+    "title" : "Hạnh phúc đích thực: 6. Không có truyền thông, không có hạnh phúc - wWw.ChuaGiacNgo.com",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hanh-phuc-07/hanh-phuc-07.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2747,
+    "title" : "Hạnh phúc đích thực: 7. Với tuệ giác vô phân biệt và bất nhị, ta sẽ không còn coi ai là kẻ thù nữa...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hanh-phuc-07/hanh-phuc-08.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2227,
+    "title" : "Hạnh phúc đích thực: 8. Ta không nên bị ảnh hưởng bởi thói quen ăn uống của một ngôi sao nổi tiếng...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hanh-phuc-07/hanh-phuc-09.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2006,
+    "title" : "Hạnh phúc đích thực: 9. Quán chiếu kỹ sẽ thấy mình đã và đang luân hồi - wWw.ChuaGiacNgo.com",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hanh-phuc-07/hanh-phuc-10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2295,
+    "title" : "Hạnh phúc đích thực: 10. Nếu không có niềm tin, bạn sẽ đau khổ - wWw.ChuaGiacNgo.com",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hanh-phuc-07/hanh-phuc-11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2079,
+    "title" : "Hạnh phúc đích thực: 11. Phật giáo cần được hiện đại hóa, nếu không sẽ không có tương lai -...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hanh-phuc-07/hanh-phuc-12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2540,
+    "title" : "Hạnh phúc đích thực: 12. Muốn thế kỷ 21 không có chiến tranh và bạo động... - wWw.ChuaGiacNgo.com",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hanh-phuc-07/hanh-phuc-13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1796,
+    "title" : "Hạnh phúc đích thực: 13. Việc cúng tế chuyển nghiệp xuất phát từ tình thương - wWw.ChuaGiacNgo.com",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/hanh-phuc-07/hanh-phuc-01.mp3",
+    "title" : "Hạnh phúc đích thực: 1. Lời giới thiệu - wWw.ChuaGiacNgo.com",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hanh-phuc-07/hanh-phuc-02.mp3",
+    "title" : "Hạnh phúc đích thực: 2. Ý niệm về hạnh phúc chính là những chướng ngại của hạnh phúc -...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hanh-phuc-07/hanh-phuc-03.mp3",
+    "title" : "Hạnh phúc đích thực: 3. Bụt cũng có khổ đau nhưng khổ rất ít vì ngài có tuệ giác -...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hanh-phuc-07/hanh-phuc-04.mp3",
+    "title" : "Hạnh phúc đích thực: 4. Không hiểu, không thể thương yêu sâu sắc - wWw.ChuaGiacNgo.com",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hanh-phuc-07/hanh-phuc-05.mp3",
+    "title" : "Hạnh phúc đích thực: 5. Chúng ta đang sử dụng chữ yêu một cách bừa bãi - wWw.ChuaGiacNgo.com",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hanh-phuc-07/hanh-phuc-06.mp3",
+    "title" : "Hạnh phúc đích thực: 6. Không có truyền thông, không có hạnh phúc - wWw.ChuaGiacNgo.com",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hanh-phuc-07/hanh-phuc-07.mp3",
+    "title" : "Hạnh phúc đích thực: 7. Với tuệ giác vô phân biệt và bất nhị, ta sẽ không còn coi ai là kẻ thù nữa...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hanh-phuc-07/hanh-phuc-08.mp3",
+    "title" : "Hạnh phúc đích thực: 8. Ta không nên bị ảnh hưởng bởi thói quen ăn uống của một ngôi sao nổi tiếng...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hanh-phuc-07/hanh-phuc-09.mp3",
+    "title" : "Hạnh phúc đích thực: 9. Quán chiếu kỹ sẽ thấy mình đã và đang luân hồi - wWw.ChuaGiacNgo.com",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hanh-phuc-07/hanh-phuc-10.mp3",
+    "title" : "Hạnh phúc đích thực: 10. Nếu không có niềm tin, bạn sẽ đau khổ - wWw.ChuaGiacNgo.com",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hanh-phuc-07/hanh-phuc-11.mp3",
+    "title" : "Hạnh phúc đích thực: 11. Phật giáo cần được hiện đại hóa, nếu không sẽ không có tương lai -...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hanh-phuc-07/hanh-phuc-12.mp3",
+    "title" : "Hạnh phúc đích thực: 12. Muốn thế kỷ 21 không có chiến tranh và bạo động... - wWw.ChuaGiacNgo.com",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hanh-phuc-07/hanh-phuc-13.mp3",
+    "title" : "Hạnh phúc đích thực: 13. Việc cúng tế chuyển nghiệp xuất phát từ tình thương - wWw.ChuaGiacNgo.com",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

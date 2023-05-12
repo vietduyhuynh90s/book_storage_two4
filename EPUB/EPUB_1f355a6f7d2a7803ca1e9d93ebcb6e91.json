@@ -1,0 +1,125 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/bo-me-da-cua-do-to_20141.html",
+    "title" : "Bố Mẹ Đã Cưa Đổ Tớ",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Đỗ Nhật Nam",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-12",
+    "duration" : 11162,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/EPUB/EPUB_1f355a6f7d2a7803ca1e9d93ebcb6e91.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/IMAGE/IMAGE_1f355a6f7d2a7803ca1e9d93ebcb6e91.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/bo-me-da-cua-do-to.sna/01.P01A_BoTo_BoMeDaCuaDoTo.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1798,
+    "title" : "01.P01A BoTo BoMeDaCuaDoTo",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bo-me-da-cua-do-to.sna/02.P01B_BoTo_BoMeDaCuaDoTo.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2754,
+    "title" : "02.P01B BoTo BoMeDaCuaDoTo",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bo-me-da-cua-do-to.sna/03.P02A_VaMeTo_BoMeDaCuaDoTo.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1596,
+    "title" : "03.P02A VaMeTo BoMeDaCuaDoTo",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bo-me-da-cua-do-to.sna/04.P02B_VaMeTo_BoMeDaCuaDoTo.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 845,
+    "title" : "04.P02B VaMeTo BoMeDaCuaDoTo",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bo-me-da-cua-do-to.sna/05.P03A_WelcomeTuoiDayThi_BoMeDaCuaDoTo.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2019,
+    "title" : "05.P03A WelcomeTuoiDayThi BoMeDaCuaDoTo",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bo-me-da-cua-do-to.sna/06.P03B_WelcomeTuoiDayThi_BoMeDaCuaDoTo.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2105,
+    "title" : "06.P03B WelcomeTuoiDayThi BoMeDaCuaDoTo",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bo-me-da-cua-do-to.sna/ThaiHabook.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 45,
+    "title" : "ThaiHabook",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/bo-me-da-cua-do-to.sna/01.P01A_BoTo_BoMeDaCuaDoTo.mp3",
+    "title" : "01.P01A BoTo BoMeDaCuaDoTo",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bo-me-da-cua-do-to.sna/02.P01B_BoTo_BoMeDaCuaDoTo.mp3",
+    "title" : "02.P01B BoTo BoMeDaCuaDoTo",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bo-me-da-cua-do-to.sna/03.P02A_VaMeTo_BoMeDaCuaDoTo.mp3",
+    "title" : "03.P02A VaMeTo BoMeDaCuaDoTo",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bo-me-da-cua-do-to.sna/04.P02B_VaMeTo_BoMeDaCuaDoTo.mp3",
+    "title" : "04.P02B VaMeTo BoMeDaCuaDoTo",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bo-me-da-cua-do-to.sna/05.P03A_WelcomeTuoiDayThi_BoMeDaCuaDoTo.mp3",
+    "title" : "05.P03A WelcomeTuoiDayThi BoMeDaCuaDoTo",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bo-me-da-cua-do-to.sna/06.P03B_WelcomeTuoiDayThi_BoMeDaCuaDoTo.mp3",
+    "title" : "06.P03B WelcomeTuoiDayThi BoMeDaCuaDoTo",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bo-me-da-cua-do-to.sna/ThaiHabook.mp3",
+    "title" : "ThaiHabook",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
