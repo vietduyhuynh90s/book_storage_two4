@@ -1,0 +1,89 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/cham-soc-suc-khoe-khong-dung-thuoc_20290.html",
+    "title" : "Chăm Sóc Sức Khoẻ Không Dùng Thuốc",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Biswaroop Roy Chowdhury",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-16",
+    "duration" : 22091,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/EPUB/EPUB_b1e0778e3f7bc232b26970acca4c4bad.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/IMAGE/IMAGE_b1e0778e3f7bc232b26970acca4c4bad.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/cham-soc-1/cham-soc-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5700,
+    "title" : "cham-soc-1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cham-soc-1/cham-soc-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5700,
+    "title" : "cham-soc-2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cham-soc-1/cham-soc-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5700,
+    "title" : "cham-soc-3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cham-soc-1/cham-soc-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4991,
+    "title" : "cham-soc-4",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/cham-soc-1/cham-soc-1.mp3",
+    "title" : "cham-soc-1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cham-soc-1/cham-soc-2.mp3",
+    "title" : "cham-soc-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cham-soc-1/cham-soc-3.mp3",
+    "title" : "cham-soc-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cham-soc-1/cham-soc-4.mp3",
+    "title" : "cham-soc-4",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

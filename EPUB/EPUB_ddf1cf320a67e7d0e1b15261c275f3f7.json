@@ -1,0 +1,89 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/lam-sach-tam-hon-cac-bai-tap-thien_20325.html",
+    "title" : "Làm Sạch Tâm Hồn - Các Bài Tập Thiền",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nishi Katsuzo",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-16",
+    "duration" : 15509,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/EPUB/EPUB_ddf1cf320a67e7d0e1b15261c275f3f7.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/IMAGE/IMAGE_ddf1cf320a67e7d0e1b15261c275f3f7.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/lam-sach-1_202203/lam-sach-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3900,
+    "title" : "lam-sach-1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lam-sach-1_202203/lam-sach-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3900,
+    "title" : "lam-sach-2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lam-sach-1_202203/lam-sach-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3900,
+    "title" : "lam-sach-3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lam-sach-1_202203/lam-sach-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3809,
+    "title" : "lam-sach-4",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/lam-sach-1_202203/lam-sach-1.mp3",
+    "title" : "lam-sach-1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lam-sach-1_202203/lam-sach-2.mp3",
+    "title" : "lam-sach-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lam-sach-1_202203/lam-sach-3.mp3",
+    "title" : "lam-sach-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lam-sach-1_202203/lam-sach-4.mp3",
+    "title" : "lam-sach-4",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

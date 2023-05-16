@@ -1,0 +1,89 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/ke-sach-theo-duoi-phu-quan-sau-khi-song-lai_20344.html",
+    "title" : "Kế Sách Theo Đuổi Phu Quân Sau Khi Sống Lại",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Tô Nhị Thiếu",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-16",
+    "duration" : 41775,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/EPUB/EPUB_81a38e4242ad1e1600bfdc867197ca26.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/IMAGE/IMAGE_81a38e4242ad1e1600bfdc867197ca26.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/ke-sach-1/ke-sach-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 12931,
+    "title" : "Kế Sách Theo Đuổi Phu Quân Sau Khi Sống Lại // Phần 1 // MC Trần Vân // Ngôn Tình Cổ Đại",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ke-sach-1/ke-sach-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 9595,
+    "title" : "Kế Sách Theo Đuổi Phu Quân Sau Khi Sống Lại [Phần 2] MC Trần Vân // Ngôn Tình Cổ Đại",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ke-sach-1/ke-sach-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7971,
+    "title" : "Kế Sách Theo Đuổi Phu Quân Sau Khi Sống Lại [Phần 3] MC Trần Vân || Ngôn Tình Cổ Đại",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ke-sach-1/ke-sach-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 11278,
+    "title" : "Kế Sách Theo Đuổi Phu Quân Sau Khi Sống Lại [Phần Cuối] MC Trần Vân Ngôn Tình Cổ Đại",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/ke-sach-1/ke-sach-1.mp3",
+    "title" : "Kế Sách Theo Đuổi Phu Quân Sau Khi Sống Lại // Phần 1 // MC Trần Vân // Ngôn Tình Cổ Đại",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ke-sach-1/ke-sach-2.mp3",
+    "title" : "Kế Sách Theo Đuổi Phu Quân Sau Khi Sống Lại [Phần 2] MC Trần Vân // Ngôn Tình Cổ Đại",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ke-sach-1/ke-sach-3.mp3",
+    "title" : "Kế Sách Theo Đuổi Phu Quân Sau Khi Sống Lại [Phần 3] MC Trần Vân || Ngôn Tình Cổ Đại",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ke-sach-1/ke-sach-4.mp3",
+    "title" : "Kế Sách Theo Đuổi Phu Quân Sau Khi Sống Lại [Phần Cuối] MC Trần Vân Ngôn Tình Cổ Đại",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

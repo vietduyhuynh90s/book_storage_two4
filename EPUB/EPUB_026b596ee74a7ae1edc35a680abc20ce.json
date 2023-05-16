@@ -1,0 +1,89 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/trong-dep-la-loi-the-song-dep-la-ban-linh_20357.html",
+    "title" : "Trông Đẹp Là Lợi Thế, Sống Đẹp Là Bản Lĩnh",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Cách Tỷ",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-16",
+    "duration" : 19616,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/EPUB/EPUB_026b596ee74a7ae1edc35a680abc20ce.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/IMAGE/IMAGE_026b596ee74a7ae1edc35a680abc20ce.png",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/trong-dep-1/trong-dep-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5295,
+    "title" : "1#Trông đẹp là lợi thế, sống đẹp là bản lĩnh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/trong-dep-1/trong-dep-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4785,
+    "title" : "2# Trông đẹp là lợi thế, sống đẹp là bản lĩnh - Độc lập khiến bạn tỏa ra sức hấp dẫn của riêng mình",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/trong-dep-1/trong-dep-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4293,
+    "title" : "3# Trông Đẹp Là Lợi Thế, Sống Đẹp Là Bản Lĩnh - K có sự độc lập, HP của bạn có thể sẽ sụp đổ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/trong-dep-1/trong-dep-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5243,
+    "title" : "4#Trông đẹp là lợi thế, sống đẹp là bản lĩnh",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/trong-dep-1/trong-dep-1.mp3",
+    "title" : "1#Trông đẹp là lợi thế, sống đẹp là bản lĩnh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/trong-dep-1/trong-dep-2.mp3",
+    "title" : "2# Trông đẹp là lợi thế, sống đẹp là bản lĩnh - Độc lập khiến bạn tỏa ra sức hấp dẫn của riêng mình",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/trong-dep-1/trong-dep-3.mp3",
+    "title" : "3# Trông Đẹp Là Lợi Thế, Sống Đẹp Là Bản Lĩnh - K có sự độc lập, HP của bạn có thể sẽ sụp đổ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/trong-dep-1/trong-dep-4.mp3",
+    "title" : "4#Trông đẹp là lợi thế, sống đẹp là bản lĩnh",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
