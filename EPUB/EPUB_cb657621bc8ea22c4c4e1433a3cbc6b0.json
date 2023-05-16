@@ -1,0 +1,185 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/10-quy-tac-cua-sam-walton_17065.html",
+    "title" : "10 Quy Tắc Của Sam Walton",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "M Desypri",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-16",
+    "duration" : 29572,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/EPUB/EPUB_cb657621bc8ea22c4c4e1433a3cbc6b0.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/IMAGE/IMAGE_cb657621bc8ea22c4c4e1433a3cbc6b0.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/SachNoi.vn_10QuyTacCuaSamWalton/10QuyTacCuaSamWalton_00.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2864,
+    "title" : "Lời nói đầu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/SachNoi.vn_10QuyTacCuaSamWalton/10QuyTacCuaSamWalton_01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2589,
+    "title" : "Quy tắc 1: Cam kết phải đạt được thành công và lúc nào cũng nhiệt tâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/SachNoi.vn_10QuyTacCuaSamWalton/10QuyTacCuaSamWalton_02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2561,
+    "title" : "Quy tắc 2: Chia sẻ thành công với những ai gúp đỡ bạn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/SachNoi.vn_10QuyTacCuaSamWalton/10QuyTacCuaSamWalton_03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2866,
+    "title" : "Quy tắc 3: Tạo động lực cho chính mình và cho người khác để đạt được điều mình mơ ước",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/SachNoi.vn_10QuyTacCuaSamWalton/10QuyTacCuaSamWalton_04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2731,
+    "title" : "Quy tắc 4: Truyền thông với người khác và bày tỏ rằng bạn đang quan tâm đến họ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/SachNoi.vn_10QuyTacCuaSamWalton/10QuyTacCuaSamWalton_05.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1810,
+    "title" : "Quy tắc 5: Trân trọng và ghi nhận những nỗ lực cùng thành quả của người khác",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/SachNoi.vn_10QuyTacCuaSamWalton/10QuyTacCuaSamWalton_06.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2252,
+    "title" : "Quy tắc 6: Tổ chúc mừng thành tựu của bạn và của người khác",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/SachNoi.vn_10QuyTacCuaSamWalton/10QuyTacCuaSamWalton_07.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2877,
+    "title" : "Quy tắc 7: Lắng nghe người khác và học hỏi ý tưởng của họ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/SachNoi.vn_10QuyTacCuaSamWalton/10QuyTacCuaSamWalton_08.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3042,
+    "title" : "Quy tắc 8: Vượt hơn mong đợi của khách hàng và của người khác",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/SachNoi.vn_10QuyTacCuaSamWalton/10QuyTacCuaSamWalton_09.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2107,
+    "title" : "Quy tắc 9: Kiểm soát chi phí để rút ngắn con đường làm giàu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/SachNoi.vn_10QuyTacCuaSamWalton/10QuyTacCuaSamWalton_10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2662,
+    "title" : "Quy tắc 10: Bơi ngược dòng, tạo sự khác biệt và đương đầu với tinh thế",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/SachNoi.vn_10QuyTacCuaSamWalton/10QuyTacCuaSamWalton_11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1211,
+    "title" : "Phần kết: Người của chúng ta tạo ra sự khác biệt",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/SachNoi.vn_10QuyTacCuaSamWalton/10QuyTacCuaSamWalton_00.mp3",
+    "title" : "Lời nói đầu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/SachNoi.vn_10QuyTacCuaSamWalton/10QuyTacCuaSamWalton_01.mp3",
+    "title" : "Quy tắc 1: Cam kết phải đạt được thành công và lúc nào cũng nhiệt tâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/SachNoi.vn_10QuyTacCuaSamWalton/10QuyTacCuaSamWalton_02.mp3",
+    "title" : "Quy tắc 2: Chia sẻ thành công với những ai gúp đỡ bạn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/SachNoi.vn_10QuyTacCuaSamWalton/10QuyTacCuaSamWalton_03.mp3",
+    "title" : "Quy tắc 3: Tạo động lực cho chính mình và cho người khác để đạt được điều mình mơ ước",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/SachNoi.vn_10QuyTacCuaSamWalton/10QuyTacCuaSamWalton_04.mp3",
+    "title" : "Quy tắc 4: Truyền thông với người khác và bày tỏ rằng bạn đang quan tâm đến họ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/SachNoi.vn_10QuyTacCuaSamWalton/10QuyTacCuaSamWalton_05.mp3",
+    "title" : "Quy tắc 5: Trân trọng và ghi nhận những nỗ lực cùng thành quả của người khác",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/SachNoi.vn_10QuyTacCuaSamWalton/10QuyTacCuaSamWalton_06.mp3",
+    "title" : "Quy tắc 6: Tổ chúc mừng thành tựu của bạn và của người khác",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/SachNoi.vn_10QuyTacCuaSamWalton/10QuyTacCuaSamWalton_07.mp3",
+    "title" : "Quy tắc 7: Lắng nghe người khác và học hỏi ý tưởng của họ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/SachNoi.vn_10QuyTacCuaSamWalton/10QuyTacCuaSamWalton_08.mp3",
+    "title" : "Quy tắc 8: Vượt hơn mong đợi của khách hàng và của người khác",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/SachNoi.vn_10QuyTacCuaSamWalton/10QuyTacCuaSamWalton_09.mp3",
+    "title" : "Quy tắc 9: Kiểm soát chi phí để rút ngắn con đường làm giàu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/SachNoi.vn_10QuyTacCuaSamWalton/10QuyTacCuaSamWalton_10.mp3",
+    "title" : "Quy tắc 10: Bơi ngược dòng, tạo sự khác biệt và đương đầu với tinh thế",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/SachNoi.vn_10QuyTacCuaSamWalton/10QuyTacCuaSamWalton_11.mp3",
+    "title" : "Phần kết: Người của chúng ta tạo ra sự khác biệt",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

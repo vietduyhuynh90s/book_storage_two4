@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/chua-tung-trai-qua-lam-sao-thau-hieu_17727.html",
+    "title" : "Chưa Từng Trải Qua, Làm Sao Thấu Hiểu",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Xa Như Vậy Gần Như Thế",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-16",
+    "duration" : 18657,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/EPUB/EPUB_a74652044698d8ae402e97ad1581efa6.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/IMAGE/IMAGE_a74652044698d8ae402e97ad1581efa6.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/cttqlsth/CHU%CC%9BA%20TU%CC%9B%CC%80NG%20TRA%CC%89I%20QUA%20LA%CC%80M%20SAO%20THA%CC%82%CC%81U%20HIE%CC%82%CC%89U%20%28128kbit_AAC%29.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 18657,
+    "title" : "CHƯA TỪNG TRẢI QUA LÀM SAO THẤU HIỂU (128kbit AAC)",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/cttqlsth/CHU%CC%9BA%20TU%CC%9B%CC%80NG%20TRA%CC%89I%20QUA%20LA%CC%80M%20SAO%20THA%CC%82%CC%81U%20HIE%CC%82%CC%89U%20%28128kbit_AAC%29.m4a",
+    "title" : "CHƯA TỪNG TRẢI QUA LÀM SAO THẤU HIỂU (128kbit AAC)",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
