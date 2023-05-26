@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/doi-thoai-giua-triet-hoc-va-phat-giao-595.html",
+    "title" : "ĐỐI THOẠI GIỮA TRIẾT HỌC VÀ PHẬT GIÁO",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Jean Francois Revel",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Giới thiệu Do một sự tình cờ may mắn, tôi được đọc quyển \"Le moine et le philosophe\" của Jean Francois Revel và Matthieu Ricard vốn là hai cha con Jean Francois Revel vốn là viện sĩ viện Hàn lâm Pháp, giáo sư triết học còn Matthieu Ricard là tiến sĩ sinh vật tại viện Pasteur Paris. Hai ông này vốn không xa lạ với nền văn học Pháp đương đại Toàn bộ nội dung quyển sách là việc trao đổi quan điểm giữa hai con người mà một vốn là một triết gia vô thần và người kia là một khoa học gia tầm cỡ bỗng nhiên cắt ngang sự nghiệp kha học của mình để sang Tây tạng theo học Phật giáo rồi trở thành tu sĩ và hiện là thị giả của Ðức Ðạt Lai Lạt Ma. Quyển sách đã đem lại cho độc giã một cái nhìn mới của Tây phương đối với Phật giáo trước đây vốn hoàn toàn xa lạ và hiện nay đang rất thịnh hành ở Châu Âu và Châu Mỹ. Với vốn ngoại ngữ cüng như kinh nghiệm học Phật còn rất hạn chế, bản dịch chắc chắn có rất nhiều sơ sót, rất mong các bậc tri túc trong và ngoài đạo vui lòng chỉ giáo. Thâm tạ. Bác sĩ Hồ Hữu Hưng</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/EPUB/EPUB_01edc0f9c9652de6a683e350b3a7d7c7.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/IMAGE/IMAGE_01edc0f9c9652de6a683e350b3a7d7c7.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/595-doi-thoai-giua-triet-hoc-va-phat-giao-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/595-doi-thoai-giua-triet-hoc-va-phat-giao-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

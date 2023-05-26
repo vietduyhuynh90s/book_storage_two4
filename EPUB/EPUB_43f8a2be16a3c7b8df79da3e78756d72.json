@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/tu-duy-de-thang-dam-that-bai-391.html",
+    "title" : "TƯ DUY ĐỂ THẮNG - DÁM THẤT BẠI",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Billi P. S. Lim",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>MỤC LỤC Chương I Thời thơ ấu Chương II Những ngày ở trung học Chương III VÀ CÔNG TY CỦA CHÚNG TÔI ĐƯỢC SÁNG LẬP Chương IV TRỞ LẠI LÀM CÔNG CHO NGƯỜI KHÁC Chương V THẤT BẠI Chương VI GIÁ TRỊ CỦA THẤT BẠI Chương 7 NỖI SỢ HÃI THẤT BẠI Chương 8 THẤT BẠI TRONG CÁC MỐI QUAN HỆ TÌNH CẢM CHƯƠNG 9 CÁC HẬU QUẢ CỦA SỰ THẤT BẠI TRONG XÃ HỘI CHÚNG TA CHƯƠNG 10 NỖI SỢ HÃI KHÔNG KIẾM ĐƯỢC VIỆC LÀM CHƯƠNG 11 NỖI SỢ HÃI MÌNH ĐÃ QUÁ GIÀ ĐỂ THÀNH CÔNG CHƯƠNG 12 SỢ KHÔNG ĐẠT KẾT QUẢ CHƯƠNG 13 CÁC ĐAU ĐỚN RẮC RỐI, KHÓ KHĂN, VÀ ĐAU KHỔ CHƯƠNG 14 LÀM GÌ ĐỂ ĐỐI MẶT VỚI THẤT BẠI Chương 15 KHI TẤT CẢ ĐỀU THẤT BẠI Chương 16 BẠN SẼ LÀM GÌ NẾU KHÔNG THỂ THẤT BẠI? LỜI ĐỀ TẶNG NGƯỜI BỊ THẤT BẠI</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/EPUB/EPUB_43f8a2be16a3c7b8df79da3e78756d72.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/IMAGE/IMAGE_43f8a2be16a3c7b8df79da3e78756d72.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/391-tu-duy-de-thang-dam-that-bai-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/391-tu-duy-de-thang-dam-that-bai-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

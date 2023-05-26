@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/tim-kiem-tri-thuc-thieng-lieng-con-an-giau-1209.html",
+    "title" : "TÌM KIẾM TRI THỨC THIÊNG LIÊNG CÒN ẨN GIẤU",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Dolores Cannon",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Trong cuốn sách mới này, Dolores Cannon tiếp tục câu chuyện bắt đầu trong hai cuốn sách trước đó của cô, Keepers of the Garden và The Custodians. Trong những cuốn sách đó, cô giải thích cách Người ngoài Trái đất phát triển sự sống trên Trái đất, cách họ được coi là các vị thần và khám phá mối quan hệ phức tạp giữa con người và ETs. Cuốn sách này tập trung vào những kiến thức bí mật được truyền từ thế hệ này sang thế hệ khác sau khi Người ngoài Trái đất rời khỏi trái đất. Trong nhiều thế kỷ, trí tuệ ET đã được bảo vệ bởi một số ít người thuộc các trường phái Bí ẩn bí mật, nơi một số đồng tu được chọn để học và thực hành các kỹ thuật khác nhau. Kiến thức phải được bảo vệ và bảo vệ. Họ biết rằng nó không được chết. Trải qua vô số thế kỷ, kiến thức này chỉ được bảo vệ và chia sẻ cho một số ít được chọn. Các cuộc chiến đã xảy ra và những bất công khủng khiếp đã được thực hiện trong nỗ lực tiếp cận kiến thức này. Những người có kiến thức thường chết hơn là để nó rơi vào tay kẻ xấu. Giờ đây, nó không còn được dành riêng cho các vị thần thánh trong các đền thờ, các ẩn sĩ trong hang động, hoặc các nhà thông thái học trong các trường học ẩn. Nó đang quay trở lại thời đại của chúng ta và hiện có sẵn cho tất cả mọi người tìm hiểu.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/EPUB/EPUB_6fc6c606af9f289588c5fa7da6bc0b01.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/IMAGE/IMAGE_6fc6c606af9f289588c5fa7da6bc0b01.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/1209-tim-kiem-tri-thuc-thieng-lieng-con-an-giau-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/1209-tim-kiem-tri-thuc-thieng-lieng-con-an-giau-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

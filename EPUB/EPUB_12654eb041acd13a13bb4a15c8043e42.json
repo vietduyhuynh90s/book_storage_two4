@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/bay-buoc-den-thanh-cong-8260.html",
+    "title" : "BẢY BƯỚC ĐẾN THÀNH CÔNG",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nguyễn Hiến Lê",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Cuốn sách 7 Bước Đến Thành Công do Học giả Nguyễn Hiến Lê viết phỏng dịch theo cuốn GIVE YOURSELF A CHANCE (The Seven Steps to Success) của tác giả Gordon Byron. Trong Lời Tựa người dịch viết: “Đọc cuốn sách này, độc giả sẽ được tác giả cầm tay dắt lần lần lên bảy bực thang để đến của thành công Bảy bậc thang đó là: 1. Luyện lòng tự tin và rèn nghị lực 2. Luyện nhân cách 3. Đắc nhân tâm 4. Luyện tập và giữ gìn sức khỏe 5. Khéo dùng tiếng mẹ đẻ 6. Luyện trí 7. Kiếm việc làm và dự bị để được thăng cấp 8. Toàn là những điều thực hành ngay được. Còn về kết quả thì trong sách tác giả đã đưa ra nhiều thí dụ có thật để chứng minh hiệu quả của phương pháp”.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/EPUB/EPUB_12654eb041acd13a13bb4a15c8043e42.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/IMAGE/IMAGE_12654eb041acd13a13bb4a15c8043e42.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/8260-bay-buoc-den-thanh-cong-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/8260-bay-buoc-den-thanh-cong-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/y-nghia-moi-thu-tren-doi-909.html",
+    "title" : "Ý NGHĨA MỌI THỨ TRÊN ĐỜI",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Richard Feynman",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>LỜI NGƯỜI DỊCH Tôi là người gần như suốt cuộc đời theo đuổi công việc nghiên cứu khoa học, nhưng luôn băn khoăn với câu hỏi: “Cái công việc nghiên cứu khoa học mình đang làm đây thực chất là gì vậy? Ý nghĩa của nó là gì? Và nói cho cùng thì khoa học là gì?\" Khi đã có điều kiện tìm hiểu lời giải đáp cho những câu hỏi ấy tôi mới hiểu rằng mình đã đụng chạm đến lĩnh vực khoa học luận (Philosophy of Science) làm bận tâm trí nhiều nhà tư tưởng lớn và những bài viết của họ không dễ đọc chút nào. Tôi phát hiện ra rằng ở ta khái niệm khoa học bị hiểu sai lệch rất nhiều và thuật ngữ \"khoa học\" đang bị lạm dụng rất tùy tiện, khiến cho nội hàm của nó trở nên khác biệt với cái mà các dân tộc khác vẫn quy ước cho nó. Dường như bất cứ một công việc có kỹ năng chuyên môn nào cũng được gọi là khoa học, bất cứ hiện tượng nào được quan sát thấy cũng là khoa học. Một mặt thì người ta đồng nghĩa khoa học với chân lý (một khi được gọi là khoa học rồi thì mãi mãi đúng), mặt khác người ta lại không coi trọng giá trị nhận thức của khoa học mà chỉ coi trọng giá trị lợi dụng nó cho các mục tiêu trước mắt. Nhiều người muốn tôn vinh các danh nhân khoa học theo kiểu tôn vinh các thánh nhân “tiên tri tiên giác”, một nhà khoa học nổi tiếng dường như có thẩm quyền phán truyền đủ mọi thứ. Tuy nhiên, việc giải mã những ngộ nhận ấy thực không dễ dàng chút nào. Một dịp tình cờ được đọc cuốn sách mỏng The Meaning of It All của Richard P. Feynman khiến tôi vô cùng thích thú. Giá trị tuyệt vời của cuốn sách là ở chỗ Feynman đã diễn giải những vấn đề phức tạp của khoa học luận bằng một ngôn ngữ sinh động và giản dị trong ba bài giảng dành cho sinh viên Đại học Washington (Seattle) năm 1963. Ông không chỉ dừng lại ở đó mà còn luận bàn cởi mở về mối tương quan của khoa học với mọi mặt của cuộc sống nhân sinh với những nhận xét rất tinh tế. Tôi sung sướng được làm công việc dịch tác phẩm này sang tiếng Việt với hy vọng bản dịch sẽ đem lại hứng thú cho các độc giả Việt Nam, đặc biệt là các bạn sinh viên. Điều tôi băn khoăn e ngại là khả năng dịch thuật không chuyên nghiệp của tôi sẽ làm giảm đi giá trị của tác phẩm mà tôi rất yêu thích. Vì cuốn sách mỏng này tập hợp các bài giảng của Feynman nên có một số câu, đoạn rất đặc trưng của văn nói. Trong khi chuyển ngữ, với những câu đoạn như thế, người dịch xin giữ nguyên văn phong nói của văn bản. Xin trân trọng giới thiệu cùng bạn đọc. NGUYỄN VĂN TRỌNG</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/EPUB/EPUB_0512c298139ae50bead3e489ba904b1e.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/IMAGE/IMAGE_0512c298139ae50bead3e489ba904b1e.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/909-y-nghia-moi-thu-tren-doi-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/909-y-nghia-moi-thu-tren-doi-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

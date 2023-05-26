@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/thoi-mien-nhin-tu-goc-do-tam-ly-hoc-1238.html",
+    "title" : "THÔI MIÊN NHÌN TỪ GÓC ĐỘ TÂM LÝ HỌC",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Lý Ưng",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Thôi miên nhìn từ góc độ tâm lý học - thôi miên là một phương pháp trị liệu tâm lý có thể làm thay đổi hoặc kiểm soát trạng thái tinh thần của người bệnh, được quan tâm ngày càng rộng rãi và cũng tạo ra không ít những ngộ nhận. Trong thời đại khoa học ngày nay, phạm vi sử dụng thôi miên bao gồm cả trị liệu lâm sàng của nhiều căn bệnh thực thể, và có vị trí quan trọng trong tâm lý học hiện đại. Không ít nhà khoa học đã dày công nghiên cứu thôi miên từ nhiều góc độ khác nhau và khẳng định tính khoa học cũng như giá trị ứng dụng của thôi miên vào quá trình chữa trị các căn bệnh thần kinh, tâm thần. Bằng những dẫn chứng thực tế trong quá trình trị liệu, tác giả đã giới thiệu, phân tích một cách rõ ràng về thôi miên và những ảnh hưởng của nó trong y học và trong đời sống con người.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/EPUB/EPUB_3289c139572830cb1fe76dfb96b8a6e7.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/IMAGE/IMAGE_3289c139572830cb1fe76dfb96b8a6e7.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/1238-thoi-mien-nhin-tu-goc-do-tam-ly-hoc-thuviensach.vn.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/1238-thoi-mien-nhin-tu-goc-do-tam-ly-hoc-thuviensach.vn.m4a",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

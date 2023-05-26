@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/nho-mac-can-7799.html",
+    "title" : "NHỚ - MẠC CAN",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Mạc Can",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Là những truyện ngắn và tản văn mà nhà văn Mạc Can viết trong vòng một tháng cuối năm 2010 khi đang ở Dallas, Texas, Hoa Kỳ. Bằng nỗi nhớ của một người gần như gắn bó suốt cuộc đời với Sài Gòn và vùng đất Nam bộ, tác giả đã gợi lại những kỷ niệm giờ đây đã trở thành dĩ vãng, nhưng vẫn luôn sống động trong lòng những người nặng tình với quê hương. Ngắn gọn, dung dị và hài hước, cộng với sự tài tình khi trộn lẫn thực - hư trong vài câu chuyện, Mạc Can dắt người đọc đi với ông từ tuổi thơ “trôi sông lạc chợ” đầy cam khó, thời lưu linh theo các gánh hát, học làm hề, học ảo thuật đến lúc về Sài Gòn đi bán bồ câu kiếm sống, rồi đi thử vai trong “phim Tây”, đi đóng phim nghệ thuật... Những ký ức rời, vậy mà tập hợp lại là cả một kho tàng không dễ nhà văn nào có được. Chỉ riêng chuyện đời ông thôi, khi chưa cần tác giả thêm “gia vị”, đã đủ vừa mời gọi vừa thách thức các nhà biên kịch, đạo diễn.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/EPUB/EPUB_d2ad091870558731773d106f2d13cdba.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/IMAGE/IMAGE_d2ad091870558731773d106f2d13cdba.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/7799-nho-mac-can-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/7799-nho-mac-can-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

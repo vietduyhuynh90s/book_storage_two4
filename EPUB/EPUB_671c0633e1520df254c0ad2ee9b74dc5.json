@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/so-do-7817.html",
+    "title" : "SỐ ĐỎ",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Vũ Trọng Phụng",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Trong Số đỏ, một tiểu thuyết hoạt kê, Vũ Trọng Phụng đả kích cay độc cái xã hội tư sản bịp bợm, đang chạy theo lối sống văn minh rởm, hết sức lố lăng thối nát. Tác phẩm này cũng đả kích phong trào được thực dân khuyến khích như: phong trào Âu hoá, vui vẻ trẻ trung, giải phóng phụ nữ, thể dục thể thao, chấn hưng Phật giáo và khẩu hiệu Bình dân dối gạt của bọn cơ hội đương thời… Một đóng góp hết sức to lớn của Vũ Trong Phụng với tác phẩm này là đã xây dựng được những nhân vật trở thành điển hình về mặt tâm lý xã hội mà đến hôm nay bóng dáng những nhân vật ấy vẫn không mất hẳn, vẫn còn quanh quẩn ở bên cạnh cúng ta, đó là những Xuân Tóc đỏ, bà Phó Đoan, em Chã, ông TYPN, cô Tuyết, cụ cố Hồng biết rồi, khổ lắm, nói mãi…</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/EPUB/EPUB_671c0633e1520df254c0ad2ee9b74dc5.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/IMAGE/IMAGE_671c0633e1520df254c0ad2ee9b74dc5.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/7817-so-do-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/7817-so-do-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

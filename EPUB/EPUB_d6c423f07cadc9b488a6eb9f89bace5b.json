@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/xay-dung-thuong-hieu-tu-a-den-z-13539.html",
+    "title" : "XÂY DỰNG THƯƠNG HIỆU TỪ A ĐẾN Z",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Fabian Geyrhalter",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Hầu hết các doanh nhân, ngay cả những nhà quản lý thương hiệu dày dạn kinh nghiệm, bắt đầu kinh doanh trước, sau đó mới bắt đầu từ từ chuyển đổi sản phẩm mới thành một thương hiệu. Tôi đồng ý đây là một sự tiến triển hợp lý. Bởi lẽ, làm sao bạn có thể ra mắt với tư cách là một thương hiệu nếu bạn không có bất kỳ khách hàng hoặc phạm vi tiếp cận tiếp thị nào và - rõ ràng là, vì bạn vừa tung ra một sản phẩm mới - bạn không có bất kỳ sự kế thừa hoặc người ủng hộ nào. Câu trả lời đơn giản là do thiết kế. Thiết kế liên quan đến quy trình có hệ thống mà bạn phải tuân thủ, đây có thể là lý do chính khiến bạn cầm trên tay cuốn sách này. Ngoài ra, thiết kế thực sự nắm giữ chìa khóa thành công cho thương hiệu mới của bạn. Nó sẽ làm cho sản phẩm của bạn trở nên khác biệt với giao diện, cảm nhận và âm thanh giống như một thương hiệu tại thời điểm ra mắt, trái ngược với một thứ có thể có hoặc không có sức mạnh cuối cùng biến thành một thương hiệu. Cuốn sách này sẽ dạy bạn cách giới thiệu thương hiệu của mình bằng thiết kế. Trong cuốn sách này, tôi chia sẻ những hiểu biết sâu sắc của chuyên gia dựa trên hai thập kỷ kinh nghiệm chuyên môn trong việc chuyển đổi các dự án sản phẩm và dịch vụ mới từ giai đoạn hình thành ý tưởng thành thương hiệu hữu hình. Mỗi giai đoạn quan trọng của việc chuẩn bị ra mắt thương hiệu được chia thành các hướng dẫn thực tế được thiết kế để giúp bạn đưa ra quyết định xây dựng thương hiệu đúng đắn trong suốt chặng đường.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/EPUB/EPUB_d6c423f07cadc9b488a6eb9f89bace5b.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/IMAGE/IMAGE_d6c423f07cadc9b488a6eb9f89bace5b.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13539-xay-dung-thuong-hieu-tu-a-den-z-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13539-xay-dung-thuong-hieu-tu-a-den-z-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

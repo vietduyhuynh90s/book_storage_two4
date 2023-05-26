@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/nguoi-thong-minh-lam-the-nao-de-hanh-phuc-981.html",
+    "title" : "NGƯỜI THÔNG MINH LÀM THẾ NÀO ĐỂ HẠNH PHÚC",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Tom Rath",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Mục mục CUỘC SỐNG AN KHANG, HẠNH PHÚC CHƯƠNG 1: NIỀM VUI TRONG CÔNG VIỆC CHƯƠNG 2: HẠNH PHÚC VỀ MẶT XÃ HỘI CHƯƠNG 3: HÀI LÒNG VỀ TÀI CHÍNH CHƯƠNG 4: BỀN VỮNG VỀ THỂ CHẤT CHƯƠNG 5: YÊN VUI TRONG ĐỜI SỐNG CỘNG ĐỒNG SUY NGẪM: ĐO LƯỜNG NHỮNG ĐIỀU LÀM CHO CUỘC SỐNG TRỞ NÊN ĐÁNG SỐNG CÁCH SỬ DỤNG THỜI GIAN ĐỂ MỖI NGÀY LÀ MỘT NIỀM VUI VAI TRÒ CỦA NHÀ QUẢN LÝ ĐỐI VỚI SỰ PHỒN THỊNH CỦA CÔNG TY MỘT SỐ CÂU HỎI KHẢO SÁT CHỈ SỐ HẠNH PHÚC VỀ TÁC GIẢ Tom Rath</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/EPUB/EPUB_d80ecf688eee7c3010ca5986bec3c3d7.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/IMAGE/IMAGE_d80ecf688eee7c3010ca5986bec3c3d7.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/981-nguoi-thong-minh-lam-the-nao-de-hanh-phuc-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/981-nguoi-thong-minh-lam-the-nao-de-hanh-phuc-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,113 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/thang-to-tuong-13627.html",
+    "title" : "THẰNG TƠ TƯỞNG",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nguyễn Công Kiệt",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>\"Thằng Tơ Tưởng\" dựng lại sống động quang cảnh đất nước ta những năm đánh Mỹ. Những năm Mỹ thả bom xuống miền Bắc rất khốc liệt, người dân thành phố phải đi sơ tán đến các vùng nông thôn và miền núi. Hai anh em Thanh đi sơ tán tận làng Nậm, Thái Nguyên. Trên đó, cùng với đám trẻ trong làng, các em đã dựng lên một trận địa pháo đánh giặc, học tập các chú các anh, với một tinh thần yêu nước mãnh liệt. Nhưng pháo của các em là giả mà bom của địch lại là thật. Bởi vậy dù các em rất quả cảm, làm việc rất tốt, nhưng vẫn không tránh khỏi thương vong. Cũng từ đó, các em đã trưởng thành, đã chính thức được trở thành anh bộ đội cụ Hồ, góp được công sức của mình vào cuộc đấu tranh thống nhất đất nước.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/EPUB/EPUB_cee826203c9e278fa9dbf9dceb92984d.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/IMAGE/IMAGE_cee826203c9e278fa9dbf9dceb92984d.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13627-thang-to-tuong-thuviensach.vn.mp3?t=0",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:00:00 Thằng Tơ Tưởng - Phần 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13627-thang-to-tuong-thuviensach.vn.mp3?t=2903",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:48:23 Thằng Tơ Tưởng - Phần 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13627-thang-to-tuong-thuviensach.vn.mp3?t=5733",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:35:33 Thằng Tơ Tưởng - Phần 3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13627-thang-to-tuong-thuviensach.vn.mp3?t=9032",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:30:32 Thằng Tơ Tưởng - Phần 4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13627-thang-to-tuong-thuviensach.vn.mp3?t=12062",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03:21:02 Thằng Tơ Tưởng - Phần 5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13627-thang-to-tuong-thuviensach.vn.mp3?t=15133",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "04:12:13 Thằng Tơ Tưởng - Phần Cuối",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13627-thang-to-tuong-thuviensach.vn.mp3?t=0",
+    "title" : "00:00:00 Thằng Tơ Tưởng - Phần 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13627-thang-to-tuong-thuviensach.vn.mp3?t=2903",
+    "title" : "00:48:23 Thằng Tơ Tưởng - Phần 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13627-thang-to-tuong-thuviensach.vn.mp3?t=5733",
+    "title" : "01:35:33 Thằng Tơ Tưởng - Phần 3",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13627-thang-to-tuong-thuviensach.vn.mp3?t=9032",
+    "title" : "02:30:32 Thằng Tơ Tưởng - Phần 4",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13627-thang-to-tuong-thuviensach.vn.mp3?t=12062",
+    "title" : "03:21:02 Thằng Tơ Tưởng - Phần 5",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13627-thang-to-tuong-thuviensach.vn.mp3?t=15133",
+    "title" : "04:12:13 Thằng Tơ Tưởng - Phần Cuối",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

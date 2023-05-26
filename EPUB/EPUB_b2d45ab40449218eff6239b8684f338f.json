@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/nghe-thuat-song-606.html",
+    "title" : "NGHỆ THUẬT SỐNG",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Epictetus",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>ĐÔI DÒNG CỦA NGƯỜI DỊCH BẢN VIỆT NGỮ 1. Cuốn sách này - Nghệ thuật sống, là một bản thuyết minh tư tưởng của Epictetus. 2. Nghệ thuật sống có hai phần chính: - Phần I: Cẩm nang thư. Là một bản đúc kết những điểm cốt yếu trong tư tưởng của Epictetus. Cẩm nang thư đã xuất hiện từ rất lâu, ngay từ thời cổ đại. - Phần II: Những lời dạy khác về cách sống, được trích và thuyết minh từ tác phẩm Discourses (1) của Epictetus. 3. Người thuyết minh là Sharon Lebell. Cô cho biết: “… Tôi đã góp phần của riêng mình trong việc tuyển chọn, giải thích, và ứng tác dựa trên những ý tưởng chứa đựng trong The Enchiridion (2) và The Discourses, là những tài liệu duy nhất còn sót lại, vốn tóm tắt triết lý của Epictetus”. (1) Những bài thuyết giảng. (2) Tạm dịch là cẩm nang thư, là một bản tóm tắt súc tích những tư tưởng của Epictetus trong các tập Discourses của ông. 4. Bản dịch này chủ yếu dựa trên bản tiếng Anh, nhưng cũng có tham khảo cuốn Enchiridion mà chúng tôi đang có trong tay. Trong quá trình dịch, chúng tôi đã tham khảo tư tưởng của Epictetus từ nhiều nguồn khác. 5. Những chỗ in đậm, in nghiêng và những ghi chú trong bản dịch này, đều là của người dịch bản Việt ngữ. 6. Những ghi chú của người dịch, hầu hết là những ý nghĩ chủ quan khi tiếp xúc với văn bản. Thay vì giữ lại cho riêng mình, xin gửi đến bạn đọc như một chia sẻ chân tình giữa những người bạn. Bạn đọc hoàn toàn có thể bỏ qua, nếu không thấy cộng hưởng. 7. Mặc dù đã cố gắng nhiều, nhưng chắc chắn khó tránh khỏi những sai sót. Rất mong bạn đọc và các bậc cao minh góp ý để bản dịch được hoàn thiện hơn. Đà Lạt,15/07/2016 Đỗ Tư Nghĩa</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/EPUB/EPUB_b2d45ab40449218eff6239b8684f338f.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/IMAGE/IMAGE_b2d45ab40449218eff6239b8684f338f.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/606-nghe-thuat-song-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/606-nghe-thuat-song-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

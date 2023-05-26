@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/chua-troi-co-phai-la-nha-toan-hoc-1052.html",
+    "title" : "CHÚA TRỜI CÓ PHẢI LÀ NHÀ TOÁN HỌC",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Simon Singh",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Chúa trời có phải là nhà toán học? đề cập đến câu hỏi tại sao toán học lại hiệu quả và có sức mạnh ghê gớm trong việc mô tả từ các định luật của tự nhiên cho tới tính chất của các nút thắt. Thực tế là nếu như không có toán học, các nhà vũ trụ học hiện đại sẽ không thể tiến thêm một bước nào trên con đường tìm hiểu các định luật của tự nhiên. Toán học cung cấp bộ khung vững chắc để gắn kết bất kỳ một lý thuyết về vũ trụ nào. Điều này có thể không gây ngạc nhiên lắm đối với bạn cho tới khi bạn nhận ra được rằng thậm chí bản chất của toán học cũng là chưa hoàn toàn rõ ràng. Trong cuốn sách này tác giả cố gắng để làm sáng tỏ một số phương diện về bản chất của toán học và đặc biệt là bản chất của mối quan hệ giữa toán học và thế giới mà chúng ta quan sát được. Mục đích của cuốn sách không phải là giới thiệu một cách đầy đủ lịch sử của toán học mà là đi theo trình tự thời gian của sự biến đổi một số khái niệm có ảnh hưởng trực tiếp đến việc làm rõ vai trò của toán học trong những hiểu biết của chúng ta về vũ trụ.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/EPUB/EPUB_e3753a1cdacc6b9a400be5c8f30e6614.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/IMAGE/IMAGE_e3753a1cdacc6b9a400be5c8f30e6614.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/1052-chua-troi-co-phai-la-nha-toan-hoc-thuviensach.vn.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/1052-chua-troi-co-phai-la-nha-toan-hoc-thuviensach.vn.m4a",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

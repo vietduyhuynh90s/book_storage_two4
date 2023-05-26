@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/minh-triet-co-truyen-quyen-1-1784.html",
+    "title" : "MINH TRIẾT CỔ TRUYỀN - QUYỂN 1",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Annie Besant",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Quyển sách này với mục đích cống hiến đến toàn thể độc giả một tóm lược đơn giản, rõ ràng về những giáo huấn Thần Triết. Đồng thời đối với sinh viên huyền môn, nó là nền tảng thích hợp cho những kiến thức sâu xa hơn. Mong sao quyển sách này có thể hữu dụng, như là lời giới thiệu những công trình thâm sâu hơn của bà H. P. Blavatsky, và là nền tảng thích hợp cho sự nghiên cứu của sinh viên. Những người có nghiên cứu chút ít về Minh Triết Cổ Truyền, đều nhận thấy rằng trí tuệ của họ được soi sáng, bình an, vui tươi và vững mạnh, nhờ những bài học đem đến cho đời sống của họ. Mong sao có được một số người nghiền ngẫm và nhận được chân giá trị của những giáo lý trong quyển sách này. Đây là lời cầu nguyện, xin gởi khắp thế gian.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/EPUB/EPUB_996b19e71833f2da08de4eba021bc882.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/IMAGE/IMAGE_996b19e71833f2da08de4eba021bc882.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/1784-minh-triet-co-truyen-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/1784-minh-triet-co-truyen-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

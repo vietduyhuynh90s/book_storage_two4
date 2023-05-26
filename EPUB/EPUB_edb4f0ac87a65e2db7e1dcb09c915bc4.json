@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/thong-thien-hoc-khai-luoc-1265.html",
+    "title" : "THÔNG THIÊN HỌC KHÁI LƯỢC",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "C. W. Leadbeater",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Ðã bao nhiêu thế kỷ, người ta đã tranh luận, dẫn chứng, tìm tòi rất nhiều về một vài Chơn-Lý trọng đại, như sự hiện tồn của Thượng-Ðế, và bản thể của Ngài, sự liên quan của Ngài với nhân loại, cùng dĩ vãng và tương lai của nhân-loại nầy. Về những điểm trên, người ta có những tín niệm rất khác nhau, rồi bắt đầu công- kích và nhạo báng những tín ngưỡng của nhau một cách chua chát và dữ dội, đến nỗi sau cùng, trong đám dư-luận quần-chúng có một luồng tư-tưởng thiệt đơn-giản là: Về những vấn-đề nầy, người ta không thể biết được một điều gì chắc chắn, tất cả chỉ là những lý- thuyết mơ hồ, những lý-luận mông lung, thỉnh thoảng lại phát sinh ra một suy luận thất thiệt căn cứ ở những tiền đề không vững vàng. Để chống lại với luồng dư-luận ấy của quần-chúng, những xác ngôn rõ ràng, minh-bạch, nhưng thường thường khó tin của các Tôn-Giáo không làm sao đoạt ưu thắng được.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/EPUB/EPUB_edb4f0ac87a65e2db7e1dcb09c915bc4.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/IMAGE/IMAGE_edb4f0ac87a65e2db7e1dcb09c915bc4.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/1265-thong-thien-hoc-khai-luoc-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/1265-thong-thien-hoc-khai-luoc-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

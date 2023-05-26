@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/cau-chuyen-linh-hon-nho-va-mat-troi-171.html",
+    "title" : "CÂU CHUYỆN LINH HỒN NHỎ VÀ MẶT TRỜI",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Neale Donald Walsch",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Một lần vào không thời nào cả, có một linh hồn nhỏ nói với Chúa, “Con biết con là ai”. Và Chúa nói, “Thật tuyệt vời! Thế con là ai?” Linh hồn nhỏ hô to lên, “Con là Ánh sáng!” Chúa nở nụ cười thật rạng rỡ. “Đúng vậy!” Chúa tuyên bố. “Con là Ánh sáng”. Linh hồn nhỏ thấy rất hạnh phúc, vì nó đã nhận ra điều mà tất cả các linh hồn trong Vương quốc ở đó để mà nhận ra. “Oa,” Linh hồn nhỏ nói, “điều này thật sự là tuyệt nha!” Nhưng rồi, biết rằng nó là ai cũng vẫn chưa đủ. Linh hồn nhỏ cảm thấy bên trong mình xáo trộn, và giờ lại muốn làm kẻ mà nó biết nó là. Và vì thế Linh hồn nhỏ quay trở lại gặp Chúa (đây không phải là ý tồi đối với tất cả những linh hồn muốn làm kẻ mà chúng thực sự là) và nói, “Chúa ơi! Giờ đây con biết con là ai, thế nếu con muốn là nó thì có được không?” Và Chúa nói, “Ý của con là con muốn làm kẻ mà con thực sự là ư?” “Thì,” Linh hồn nhỏ đáp lại, “biết mình là ai là một chuyện, còn thực sự là nó lại là một chuyện hoàn toàn khác. Con muốn cảm nhận sẽ như thế nào khi là Ánh sáng!” “Nhưng mà con đã là Ánh sáng rồi cơ mà,” Chúa nhắc lại, và lại cười. “Vâng, nhưng mà con muốn thấy như thế thì sẽ cảm thấy như thế nào cơ!” Linh hồn nhỏ kêu lên. “Ừ,” Chúa cười thầm nói, “Ta cho rằng ta phải biết chuyện này mới phải. Con vẫn luôn là một linh hồn thích phiêu lưu.” Và rồi vẻ mặt của Chúa thay đổi. “Chỉ có một điều là….” “Cái gì cơ ạ?” Linh hồn nhỏ hỏi. “Thì, chẳng có cái gì khác ngoài Ánh sáng. Con thấy đấy, ta tạo ra không gì ngoài cái mà con là; và vì thế, không có cách dễ dàng nào để con trải nghiệm bản thân như Con thực sự là, bởi chẳng có gì mà không phải là con.” “Hả?” Linh hồn nhỏ thốt lên, giờ trông nó có chút bối rối. “Hãy nghĩ theo cách này nhé,” Chúa nói. “Con như một ngọn nến trong Mặt trời. Ôi, con yên ổn ở đó. Cùng với hàng triệu, hàng muôn ức những ngọn nến khác làm nên Mặt trời. Và Mặt trời sẽ không phải là Mặt trời nếu không có con. Không, nó sẽ là một mặt trời khác khi không có một trong những ngọn nến của nó… và đó sẽ không phải là Mặt trời này tí nào; bởi nó sẽ không sáng bằng. Thế nhưng, làm thế nào để biết bản thân con là Ánh sáng khi con đang ở giữa Ánh sáng - đấy là câu hỏi.”</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/EPUB/EPUB_674e5cccb01fad1d3ac8db2b379aec58.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/IMAGE/IMAGE_674e5cccb01fad1d3ac8db2b379aec58.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/171-cau-chuyen-linh-hon-nho-va-mat-troi-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/171-cau-chuyen-linh-hon-nho-va-mat-troi-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

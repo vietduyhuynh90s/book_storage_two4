@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/thuong-de-giang-chan-ly-235.html",
+    "title" : "THƯỢNG ĐẾ GIẢNG CHÂN LÝ",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Đạo Cao Đài",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Chân lý là điều mà chúng ta hằng đi tìm trong cuộc đời, nhưng mấy ai tìm thấy trong kiếp đời ngắn ngủi vô thường này, cơ duyên rất lớn cho quý vị được nghe và cảm nhận những lời giảng vàng ngọc này. Không nói về đạo Phật, không nói về đạo Thiên chúa …, mà là Chân lý bao trùm dẫn chúng ta tới trí tuệ, hiểu biết. Thật mới mẻ, tuyệt vời bởi chân lý nhiệm mầu của càn khôn vũ trụ vượt ra ngoài sự hiểu biết của con người. Đúng hay sai do quý vị tự cảm nhận, tự lĩnh ngộ. Kính mời quí vị đọc cuốn sách in lời giảng của Đức Kim Thân CHA TRỜI mang xác thân tại thế cũng là</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/EPUB/EPUB_93aa2cbd54782c22633e8d7950246abf.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/IMAGE/IMAGE_93aa2cbd54782c22633e8d7950246abf.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/235-thuong-de-giang-chan-ly-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/235-thuong-de-giang-chan-ly-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

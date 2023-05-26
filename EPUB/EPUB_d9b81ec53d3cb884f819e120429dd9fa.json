@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/nhung-cau-chuyen-cua-homer-7869.html",
+    "title" : "NHỮNG CÂU CHUYỆN CỦA HOMER",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Cao Xuân Hạo",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Sử thi Odyssey của Homer kể về hành trình trở về của Odysseus sau chiến thắng ở thành Troy. Tuy là câu chuyện hư cấu nhưng theo các chuyên gia, nó có thể cho chúng ta những cái nhìn sâu sắc, có giá trị về hiện thực cuộc sống thời cổ đại, bao gồm cả các loài động thực vật thời đó. Hành trình trở về của người anh hùng Odysseus là mười năm đằng đẵng đi qua bao hòn đảo, phải đối mặt với những vị thần hung dữ, những con quái vật khát máu, những tiên nữ đầy cám dỗ với vô số bùa chú mê hoặc. Đây là một câu chuyện kinh điển đã thu hút các học giả kể từ lần đầu được xuất bản vào thế kỷ 8 trước Công Nguyên. Bằng những phương pháp khoa học thực sự, các nhà nghiên cứu đã soi đi lật lại từng câu chữ trong văn bản để tìm ý nghĩa và giải thích những chi tiết nổi bật nhất của câu chuyện. Một vài trường hợp nghiên cứu cho thấy những sinh vật được kể trong câu chuyện hư cấu này có thể đã thực sự tồn tại ở thời cổ đại.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/EPUB/EPUB_d9b81ec53d3cb884f819e120429dd9fa.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/IMAGE/IMAGE_d9b81ec53d3cb884f819e120429dd9fa.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/7869-nhung-cau-chuyen-cua-homer-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/7869-nhung-cau-chuyen-cua-homer-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

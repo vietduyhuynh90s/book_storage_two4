@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/cuoc-doi-duc-phat-thich-ca-7809.html",
+    "title" : "CUỘC ĐỜI ĐỨC PHẬT THÍCH CA",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Sưu Tầm",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Cuộc Đời Đức Phật Thích Ca là cuốn sách diễn tả những tiến trình từ khi Đức Phật vừa sinh ra, lớn lên, rồi từ bỏ cung vàng điện ngọc để đi tìm chân lý. Cuộc hành trình dài, đầy gian khổ và sau cùng Ngài đắc đạo trở thành đấng giác ngộ và nhân loại đã gọi Ngài là Phật. Sau khi thành đạo, Ngài thu nhận đệ tử và bắt đầu hoằng dương Phật pháp trong suốt chiều dài 45 năm. Hễ nơi nào có bước chân Ngài đến là ánh đạo vàng bừng tỏa huy hoàng. Hạt giống từ bi được Ngài tinh tấn gieo khắp các nơi ở Ấn Độ. Ngài đã được mọi người từ nghèo đến giàu, từ vua chúa đến thứ dân, từ thiện nam đến tín nữ, từ già đến trẻ đều vui vẻ được tắm gội trong ánh sáng trí tuệ và nước từ bi do Ngài tưới xuống. Bất cứ ở đâu có ánh đạo vàng đến thì tà giáo và ngoại đạo phải tránh xa, tan biến như những làn mây, như những bóng tối trước ánh bình minh đang lên. Khi giác hạnh của Phật viên mãn thì Ngài đã 80 tuổi. Cũng giống như mọi người trên thế gian nầy, sắc thân tứ đại của Ngài cũng theo luật vô thường mà biến đổi. Mặc dầu biết trước ba tháng trước ngày nhập diệt, Ngài vẫn không nghỉ ngơi mà vẫn tiếp tục đi truyền đạo và cuối cùng Đức Phật dừng chân tại Kushinagar và nhập Niết bàn.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/EPUB/EPUB_338ffc1e9afbe34cf2d2f18b9999ff6b.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/IMAGE/IMAGE_338ffc1e9afbe34cf2d2f18b9999ff6b.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/7809-cuoc-doi-duc-phat-thich-ca-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/7809-cuoc-doi-duc-phat-thich-ca-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

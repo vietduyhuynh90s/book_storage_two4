@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/tup-leu-bac-tom-7182.html",
+    "title" : "TÚP LỀU BÁC TOM",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Harriet Beecher Stowe",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>“Túp lều bác Tom\" kể về cuộc đời thống khổ của một người nô lệ da đen là bác Tom với chuỗi ngày đen tối, đầy tủi nhục. Bác phải lìa bỏ vợ con, bị bán từ nơi này sang nơi khác, bị đánh đập tàn nhẫn. Cuối cùng do bảo vệ nhân phẩm của mình, bác bị đánh chết trong đồn điền trồng bông khủng khiếp ở miền Nam nước Mỹ, đây cũng là nơi chôn vùi bao cuộc đời lầm than như cuộc đời bác. Tác phẩm cũng kể về số phận của Êlida cùng đứa con bỏ trốn. Đó là một người mẹ đã hy sinh tất cả để cứu đứa con khỏi rơi vào tay một tên buôn nô lệ tàn ác. “Túp lều bác Tom” ca ngợi những người nô lệ da đen là những người trung thực, biết tôn trọng phẩm giá con người như bác Tom, những người mẹ dũng cảm như Êlida, những thanh niên cương nghị, tha thiết với tự do như Gioocgiơ. Đồng thời tác phẩm cũng lên án đanh thép chế độ nô lệ với những chủ nô lệ, các tay sai, các con buôn vô cùng tàn bạo. Lên án Pháp luật nước Mỹ khi đó đã bênh vực chế độ nô lệ, cho phép đánh đập xiềng xích, giết chết những người da đen vô tội và trừng trị những ai che chở người nô lệ. Với tác phẩm của mình, nhà văn đã đóng góp một phần vào công cuộc giải phóng nô lệ ở nước Mỹ, tố cáo thống thiết chế độ vô nhân đạo, khích lệ những người Mỹ có lương tâm đấu tranh để tiêu diệt nó.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/EPUB/EPUB_ced11ccec33738093b64800c320692b0.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/IMAGE/IMAGE_ced11ccec33738093b64800c320692b0.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/7182-tup-leu-bac-tom-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/7182-tup-leu-bac-tom-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

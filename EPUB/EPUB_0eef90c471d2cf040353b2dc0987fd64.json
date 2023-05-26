@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/qua-tang-dieu-ky-570.html",
+    "title" : "QUÀ TẶNG DIỆU KỲ",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Spencer Johnson",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>“Quà tặng diệu kỳ” là một câu chuyện thú vị về cuộc hành trình gian nan của một chàng trai, khi phải đối diện với những thử thách, thất bại trong cuộc sống, đã cất công đi tìm món quà đặc biệt, một món quà bí ẩn và khó tìm. Tại sao chàng trai và sau đó là rất nhiều người nữa lại muốn đi tìm món quà đó? Vì theo lời một lão ông thông thái, thì đó chính là món quà quý giá nhất mà con người có thể có được. Nó chứa đựng bí quyết làm thay đổi ý nghĩa cuộc sống, đem lại hạnh phúc và thành công cho con người. Đây là câu chuyện rất thực tế và hữu ích cho cuộc sống hiện tại của chúng ta. Khi cuộc sống, công việc gặp khó khăn, trải qua những thất bại, trả giá cho niềm tin, những tổn thương về tinh thần, tình cảm, chúng ta luôn mong muốn tìm lại được sự thanh thản trong tâm hồn, tìm lại được nghị lực và sức sống mới, muốn khẳng định được mình, đạt được thành công và hạnh phúc trong cuộc sống. Nhưng chúng ta thường phải tốn rất nhiều thời gian và công sức, thậm chí có người phải trả giá đắt hơn, để có thể tìm ra phần nào của lời giải. Và một số ngưòi đã tìm ra được khi còn trẻ. Một số thì vào tuổi trung niên. Một số khác thì mãi tận khi đã lớn tuổi. Và cũng có rất nhiều người không tìm thấy được trọn vẹn và chấp nhận sống với dằn vặt, khổ đau. Câu chuyện trong cuốn sách Quà tặng diệu kỳ của tiến sĩ Spencer Johnson sẽ giúp bạn tìm được cách tư duy mới, một hướng đi đúng nhất, một lời giải giúp bạn khám phá ra những chân lý và giá trị vĩnh hẳng của cuộc sống, vốn luôn tồn tại mà chúng ta - đôi khi băng qua quá nhanh trong cuộc sống - đã vô tình lãng quên. Mời bạn đón đọc.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/EPUB/EPUB_0eef90c471d2cf040353b2dc0987fd64.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/IMAGE/IMAGE_0eef90c471d2cf040353b2dc0987fd64.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/570-qua-tang-dieu-ky-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/570-qua-tang-dieu-ky-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
