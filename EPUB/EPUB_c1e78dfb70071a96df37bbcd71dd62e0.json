@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/bon-mua-cuoc-song-672.html",
+    "title" : "BỐN MÙA CUỘC SỐNG",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Jim Rohn",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>JOHN KENNEDY TỪNG nhận xét rằng Winston Churchill “đã huy động tiếng Anh và điều ngôn ngữ ấy ra mặt trận.” Các thế hệ trước đã được nghe những lời nói hào hùng của Cicero, Daniel Webster, Disraeli, Churchill và Kennedy,… những người đã được đấng sáng tạo ban tặng khả năng sử dụng ngôn từ tài tình để thay đổi dòng chảy lịch sử nhân loại và chất lượng cuộc sống mỗi cá nhân. Jim Rohn, một người thuộc thế hệ của chúng ta, được ban tặng tài năng thiên phú đó. Những cuộc hội thảo đầy cảm hứng của ông trên khắp nước Mĩ và trên toàn thế giới đã thay đổi cuộc sống của hàng chục nghìn người. Ông có biệt tài tìm ra điều kỳ diệu ẩn giấu giữa những thứ thông thường, và khả năng dụng ngôn giàu hình ảnh gây tác động sâu sắc lên toàn bộ người nghe. Bốn mùa cuộc sống là một cái nhìn thoáng qua vào chiều sâu tính cách của Jim Rohn. Khả năng của ông trong việc khơi dậy tinh thần đang say ngủ bên trong tất cả chúng ta là điều vôcùng cần thiết trong một thời đại đầy biến động và thách thức. Đây là cuốn sách đầu tiên của Jim Rohn, nhưng chắc chắn nó chưa phải là cuốn cuối cùng. Quá trình hợp tác với ông để cho ra mắt cuốn sách đã khiến tôi nhận ra rằng người đàn ông này cần được thế giới biết đến nhiều hơn. Những tư tưởng của ông về mục đích, phát triển cá nhân, kỹ năng lãnh đạo, giá trị của truyền thông hiệu quả là những vấn đề cần thiết trong tất cả các lĩnh vực như giáo dục, điều hành, kinh doanh… và những cống hiến của ông để cải thiện chất lượng đời sống gia đình là vô cùng to lớn. Có lẽ cuốn sách này đã được số mệnh lựa chọn để trở thành một kiệt tác trong nền văn học. - Ronald L. Reynolds</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-27",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/EPUB/EPUB_c1e78dfb70071a96df37bbcd71dd62e0.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/IMAGE/IMAGE_c1e78dfb70071a96df37bbcd71dd62e0.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/672-bon-mua-cuoc-song-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/672-bon-mua-cuoc-song-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

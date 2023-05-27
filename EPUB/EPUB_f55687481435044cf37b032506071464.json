@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/tuoi-tre-tinh-yeu-ly-tuong-150.html",
+    "title" : "TUỔI TRẺ, TÌNH YÊU, LÝ TƯỞNG",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Thích Nhất Hạnh",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Mục lục Giấc mơ chung của chúng ta..3 Xây dựng tình huynh đệ...5 Hiến tặng cho nhau những gì tốt đẹp nhất...6 Khả năng chuyển hóa và biến dưỡng...7 Tương tức và liên lập...9 Bảo tồn để còn sử dụng được mãi.10 Cởi mở bao dung, buông bỏ thái độ giáo điều.11 Bảo vệ sông núi của nhau là tự bảo vệ..13 Liên Hiệp Đông Á...15 Việt Nam trên đường tương lai..17 Tự do và liên lập..18 Hạnh phúc chân thật ngay bây giờ..19 Nối lại nhịp cầu.22 Lắng nghe để hiểu, nhìn lại để thương..25 Điều chỉnh nhận thức...27 Trái tim đã nở như một đóa hoa...28 Vốn liếng lên đường..29 Dựng lại tình thâm, ban phát hạnh phúc.30 Đối phó với cơn bão cảm xúc...32 Anh phải sống để giúp đời...34 Chiều hướng tâm linh..35 Đạo đức không phải là tôn giáo.36 Một nền văn hóa hòa bình.38 Chúng ta đã đông đến hơn 75 triệu.38 Tuyên Ngôn 2000.40 Tu tập chứ không phải chỉ là kêu gọi.42 Đi như một dòng sông..42</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-27",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/EPUB/EPUB_f55687481435044cf37b032506071464.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/IMAGE/IMAGE_f55687481435044cf37b032506071464.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/150-tuoi-tre-tinh-yeu-ly-tuong-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/150-tuoi-tre-tinh-yeu-ly-tuong-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

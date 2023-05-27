@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/dao-phat-di-vao-cuoc-doi-97.html",
+    "title" : "ĐẠO PHẬT ĐI VÀO CUỘC ĐỜI",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Thích Nhất Hạnh",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Mục lục Chương 01: Đạo Phật đi vào cuộc đời...3 Sự hiện diện vô hành của đạo đức...5 Sự hiện hữu của ngôn ngữ đạo đức..12 Sự hiện diện hữu hành của đạo đức.22 Chương 02: Nói chuyện về vấn đề đóng góp.32 Nói Chuyện Về Vấn Đề Đóng Góp I.32 Nói Chuyện Về Vấn Đề Đóng Góp II..38 Chương 03: Đức Phật của thế kỷ chúng ta..43 Đức Phật của thế kỷ chúng ta I.43 Đức Phật của thế kỷ chúng ta II..49 Đức Phật của thế kỷ chúng ta III.55 Chương 04: Để thiết lập đối thoại.60 Chương 05: Đi tìm prajnapti cho thời đại...69 Chương 06: Chính trị và tôn giáo...76 Chương 07: Đạo Phật con đường thực nghiệm tâm linh...84 Chương 08: Người trí thức và đạo Phật.89</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-27",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/EPUB/EPUB_c818b22f6e236d68987e2946bd234ea6.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/IMAGE/IMAGE_c818b22f6e236d68987e2946bd234ea6.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/97-dao-phat-di-vao-cuoc-doi-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/97-dao-phat-di-vao-cuoc-doi-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

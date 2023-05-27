@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/tinh-yeu-tu-do-mot-minh-18.html",
+    "title" : "TÌNH YÊU - TỰ DO - MỘT MÌNH",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Osho",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Lời giớ i thiệ u Trong Symposium của Plato, Socrates nói: Người công phu điều huyền diệu của yêu sẽ trong tiếp xúc không chỉ với cái phản xạ, mà với bản thân chân lí. Để biết ân huệ này của bản tính con người, người ta không thể tìm đâu ra người giúp đỡ tốt hơn là tình yêu.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-27",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/EPUB/EPUB_c91b97ffca2ba255a3f0583627b7ca18.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/IMAGE/IMAGE_c91b97ffca2ba255a3f0583627b7ca18.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/18-tinh-yeu-tu-do-mot-minh-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/18-tinh-yeu-tu-do-mot-minh-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

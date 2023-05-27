@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/con-nguoi-da-chieu-49.html",
+    "title" : "CON NGƯỜI ĐA CHIỀU",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Dolores Cannon",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Mục Lục 1. Tổng quan về con người đa chiều.. 4 1.1 Cao, thấp & trung... 4 1.2 Câu chuyện về 3 con kiến. 5 1.3 Con ngươ u.. 6 1.4 Con ngươ i đ u trong các hệ quy chiếu.. 8 1.5 Quan hệ giữa các thể.13 1.6 Thiền định và con người đa chiều.14 2. Tổng quan về các thể thấp 1D-6D..18 2.1 Căn thể 6D...18 2.2 Hạ trí thể 3D...22 2.3 Thể phách 5D.25 2.4 Thể tình cảm 2D...30 2.5 Thể vía 4D.32 2.6 Thể xác 1D...35 3. Hòa hợp giữa các cái tôi..40 3.1 Căn thể & các cái tôi thấp...40 3.2 Chiến tranh của các cái tôi.42 3.3 Hòa hợp giữa các cái tôi..45 3.4 Kết nối với tâm hồn.49 3.5 Làm sao biết các cái tôi đang hòa hợp?.54 3.6 Sức mạnh của sự hợp nhất.54 3.7 Tôi tư duy nên tôi... ngừng tồn tại...56 4. Linh hồn 7D & siêu linh hồn..59 4.1 Bảng tia linh hồn và các đường tiến hoa (phần 2).59 4.2 Các vị thầy nhân loại màu gì?...65 4.3 Linh hồn.70 4.4 Linh hồn bạn màu gì?..73 4.5 Màu sắc của bạn là gì?.76 5. Thăng lên cơ thể ánh sáng 5D từ cơ thể vật lý 3D...79 5.1 Các dạng năng lượng cơ bản...79 5.2 Chữa trị hàn gắn qua tác động vào ma trận năng lượng...85 5.3 Chuyển đổi cơ thể trong tiến hóa..86 5.4 DNA & Tiến hóa.91 5.5 Luân xa.102 5.6 Thức tỉnh tâm linh...108 6. Wanderers, Lightworkers, Starseeds...111 6.1 Các wanderers chơi bài tarot.111 6.2 Doraemon hóa thân làm mèo nhà..116 6.3 Tôi muốn sống cuộc đời có ý nghĩa hơn hiện nay!...118 6.4 Wanderers awakening...123</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-27",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/EPUB/EPUB_3e2715782d5a6b361248b8af1e199b5d.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/IMAGE/IMAGE_3e2715782d5a6b361248b8af1e199b5d.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/49-con-nguoi-da-chieu-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/49-con-nguoi-da-chieu-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

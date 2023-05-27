@@ -1,0 +1,77 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/khong-nuoc-khong-trang-9.html",
+    "title" : "KHÔNG NƯỚC KHÔNG TRĂNG",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Osho",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Mục lục Giới thiệu.. i 1 Không nước không trăng. 1 2 Đối thoại kiếm chỗ trọ. 35 3 Vậy thế sao?.. 79 4 Câu trả lời của người chết... 107 5 Ngón tay của Gutei. 139 6 Sao ông không đi nghỉ đi... 167 7 Phật mũi nhọ.. 199 8 Người cho phải cám ơn.. 229 9 Triết gia hỏi Phật.. 267 10 Nụ cười Ninakawa... 299 Về Osho.. 331</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-27",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/EPUB/EPUB_cc84b162e1807bc86cbb6be2f918a652.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/IMAGE/IMAGE_cc84b162e1807bc86cbb6be2f918a652.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/9-khong-nuoc-khong-trang-thuviensach.vn.mp3?t=0",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:00:00 Không Nước Không Trăng: Phần 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9-khong-nuoc-khong-trang-thuviensach.vn.mp3?t=3204",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:53:24 Không Nước Không Trăng: Phần 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9-khong-nuoc-khong-trang-thuviensach.vn.mp3?t=6107",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:41:47 Không Nước Không Trăng: Phần 3",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/9-khong-nuoc-khong-trang-thuviensach.vn.mp3?t=0",
+    "title" : "00:00:00 Không Nước Không Trăng: Phần 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9-khong-nuoc-khong-trang-thuviensach.vn.mp3?t=3204",
+    "title" : "00:53:24 Không Nước Không Trăng: Phần 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9-khong-nuoc-khong-trang-thuviensach.vn.mp3?t=6107",
+    "title" : "01:41:47 Không Nước Không Trăng: Phần 3",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

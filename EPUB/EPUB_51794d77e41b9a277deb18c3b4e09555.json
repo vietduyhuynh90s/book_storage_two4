@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/khong-dam-mo-loi-yeu-13952.html",
+    "title" : "KHÔNG DÁM MỞ LỜI YÊU",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Blog Radio",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Sáng đi làm rồi về nhà lúc phố đã lên đèn. Làm sếp nên công việc cũng nhiều vô kể, hết chạy dự án này lại đến dự án khác, áp lực chồng áp lực. Có những lúc không có thời gian gọi về nhà, không có thời gian chăm sóc gia đình huống chi là nghĩ đến chuyện hẹn hò. Mà lý do cũng chỉ là lý do thôi! Thất bại hết lần này đến lần khác, vươn lên từ một cô gái nhà quê chẳng có gì trong tay, có những lúc tiền rỗng túi phải ăn mì tôm sống qua ngày.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-27",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/EPUB/EPUB_51794d77e41b9a277deb18c3b4e09555.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/IMAGE/IMAGE_51794d77e41b9a277deb18c3b4e09555.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13952-khong-dam-mo-loi-yeu-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13952-khong-dam-mo-loi-yeu-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

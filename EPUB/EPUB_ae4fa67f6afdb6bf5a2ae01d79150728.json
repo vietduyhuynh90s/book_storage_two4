@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/kinh-duy-ma-cat-giang-giai-1774.html",
+    "title" : "KINH DUY MA CẬT GIẢNG GIẢI",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Lê Sỹ Minh Tùng",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Chủ yếu của kinh là đề cao tư tưởng Đại thừa bằng cách phục hưng tinh thần hoạt động của Phật giáo nguyên thủy. Kinh khuyến khích phong trào tu học Phật cho cả hai giới xuất gia và tại gia và mang lại một luồng sinh khí mới cho đạo Phật làm cho mọi người có cơ hội thực hành Bồ-tát đạo để tìm sự giải thoát giác ngộ ngay trong cuộc đời này. Đó chính là tự độ rồi độ tha và tự giác rồi giác tha. Chính tư tưởng tự giác rồi giác tha sẽ đem con người gần với nhau hơn vì một khi lòng từ bi phát triển trọn vẹn, con người sẽ không còn ao ước giải thoát cho riêng mình vì họ thấy mình và chúng sinh là một không hề khác nhau cho nên nếu chúng sinh còn vướng mắc trong vòng đau khổ thì làm sao họ có thể giải thoát cho riêng mình được. Tôn chỉ của kinh là đề cao nguyên lý Bất Nhị hay vào Pháp Môn Không Hai để gạn lọc tất cả những sự phân biết đối đãi trong tâm thức mà chính là cội nguồn của phiền não khổ đau. Sống trong thế giới tương đối, con người nhìn đâu, thấy đâu cũng có Hai nghĩa là còn thấy có cao có thấp, có tốt có xấu, có thiện có ác, có giàu có nghèo, có mình có người, có xuất gia tại gia, có chùa lớn chùa nhỏ, có Phật đứng Phật ngồi, có da trắng da đen…Ngược lại nguyên lý Bất nhị cho rằng cái Hai ấy không phải là Hai vì chúng là song lập, cùng tồn tại bất khả phân ly. Chân lý ở đây không phải là không thấy có sự khác nhau về hình tướng của vạn pháp mà là không chấp về sự khác biệt về hình tướng đó.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-27",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/EPUB/EPUB_ae4fa67f6afdb6bf5a2ae01d79150728.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/IMAGE/IMAGE_ae4fa67f6afdb6bf5a2ae01d79150728.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/1774-kinh-duy-ma-cat-giang-giai-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/1774-kinh-duy-ma-cat-giang-giai-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

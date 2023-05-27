@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/huong-di-cua-dao-but-cho-hoa-binh-va-moi-sinh-111.html",
+    "title" : "HƯỚNG ĐI CỦA ĐẠO BỤT CHO HÒA BÌNH VÀ MÔI SINH",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Thích Nhất Hạnh",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Mục lục Phần 1: Ý thức cộng đồng Lời giới thiệu..4 Chương 1: Tiếng chuông chánh niệm...13 Chương 2: Nền đạo đức toàn cầu.17 Năm giới quý báu.19 Giới thứ nhất: Bảo vệ sự sống..20 Giới thứ hai: Hạnh phúc chân thực..21 Giới thứ ba: Tình thương đích thực.21 Giới thứ tư: Lắng nghe và ái ngữ..22 Giới thứ năm: Nuôi dưỡng và trị liệu.22 Chương ba: Sống biết tiết chế là giữ gìn cho đất Mẹ..24 Chương bốn: Thiên nhiên và tình thương bất bạo động..33 Chương năm: Vượt thoát sợ hãi.40 Năm phép quán tưởng..46 Phần 2: Tình thương bằng hành động Chương sáu: Sự tiếp nối đẹp đẽ.51 Chương bảy: Biết chăm sóc chính ta, người muốn bảo vệ môi trường...55 Chương tám: Thành phố vắng bóng cây xanh.62 Chương chín: Chuyển hóa tâm thức cộng đồng.67 Chương mười: Đôi mắt của voi chúa.72 Phần 3: Sống chánh niệm Thi kệ - Thiền tập trong đời sống hằng ngày...77 Quơ dép...77 Vặn nước.78 Rửa tay.78 Nâng bát không..79 Nâng bát đầy...79 Làm vườn...80 Tưới cây...80 Đổ rác...81 Thiền buông thư.81 Bài tập buông thư..83 Thiền lạy..85 Lạy thứ nhất.86 Lạy thứ hai...86 Lạy thứ ba.87 Lạy thứ tư.88 Lạy thứ năm.89 Hiệp ước sống chung an lạc với đất Mẹ...91</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-27",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/EPUB/EPUB_71bf4cb03fbf40ec76b7c78a43050acd.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/IMAGE/IMAGE_71bf4cb03fbf40ec76b7c78a43050acd.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/111-huong-di-cua-dao-but-cho-hoa-binh-va-moi-sinh-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/111-huong-di-cua-dao-but-cho-hoa-binh-va-moi-sinh-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

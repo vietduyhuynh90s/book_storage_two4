@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/tam-su-sau-tu-chuyen-24.html",
+    "title" : "TÂM SỰ SÂU TỰ CHUYỆN",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Khôi Hoàng",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Tâm sự sâu tự chuyện “khi bạn đọc quyển sách này, bạn hãy tạm thời quên hết tất câ những gì mình đã từng biết đi nhé, để bạn không đem so sánh những cái mình đã biết với điều được kể ở đåy. Bởi nếu không thì bạn sẽ dùng sai mục đích của những kiến thức này cũng như những kiến thức mà bạn đã đọc được. Và ở những lúc khác, khi bạn đọc những kiến thức tâm linh tương tự như thế này thì bạn cũng hãy quên hết mọi thứ mà tớ đã kể với bạn ở đåy đi nhé.” MỤC LỤC 1. KHÔNG AI CHẤP NHẬN MÌNH BUỒN...4 2. BẢO MẬT VÀ SỰ TÁCH BIỆT...10 3. ĐƠN GIẢN NHƯNG GIÀU CÓ...17 4. TẦN SỐ VÀ LUẬT HẤP DẪN.25 5. SỰ SỢ HÃI VÀ NIỀM TIN.33 6. VAI TRÒ CỦA CƠ THỂ CẢM XÚC..40 7. CỨU MUÔN LOÀI ĐỂ CỨU TÔI...53 8. SAI VÀ ĐÚNG ĐỀU LÀ MỘT.64 9. CHỮA LÀNH CƠ THỂ CẢM XÚC..77 10. CON ĐƯỜNG SÁNG TẠO.89 11. NGUỒN GỐC SÁNG TẠO...93 12. TỐT HAY KHÔNG TỐT.113 13. SỐNG LÀ 1 VỚI VẠN VẬT.130 14. ÁNH SÁNG VÀ BÓNG TỐI..152 15. GỠ BỎ HỆ NIỀM TIN.182 16. SỰ THẬT CAO NHẤT..204</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-27",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/EPUB/EPUB_087f4bf6e3299a8e94365a8f73dce745.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/IMAGE/IMAGE_087f4bf6e3299a8e94365a8f73dce745.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/24-tam-su-sau-tu-chuyen-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/24-tam-su-sau-tu-chuyen-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

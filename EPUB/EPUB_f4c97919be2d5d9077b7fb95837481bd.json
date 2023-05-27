@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/tam-gioi-toan-thu-quyen-4-1139.html",
+    "title" : "TAM GIỚI TOÀN THƯ - QUYỂN 4",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Thủy Liên Tử",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Vậy là Tam Giới Toàn Thư đã đi thêm được một chặng đường nữa trên bước đường chia sẻ sự thật về các sự vận hành của Tam Giới Đại Vũ Trụ. Từ thuở xa xưa, loài người luôn tìm về nguồn cội của chính mình, luôn mong cầu hiểu về những con đường chúng ta có thể đi để trở về nơi chúng ta thuộc về. Trong quyển 4 này, Tam Giới Toàn Thư xin chia sẻ cùng quý đạo hữu sự xuất hiện của chư Đấng thiêng liêng từ khi vũ trụ này còn chưa có chi. Mọi thứ khởi nguyên từ một khí Hư Vô, phát xuất nên vạn loại sinh linh trongTam Giới. Mọi vật từ đó sinh trưởng và phát triển trong tình yêu thương bao la của Thầy Mẫu, sự vận hành công bình, bác ái của Đại Đạo. Mến chúc tất thảy quý vị hữu duyên xem qua tác phẩm này đều có thể trang bị cho mình những tri thức hữu ích, làm hành trang trên bước đường trở về nguồn cội, hòa hiệp với Thiên Chân, nhìn thấy bản tính trọn lành thanh tịnh, thuần lương vô nhiễm vốn có của mình. Thanh âm trong trẻo giữa vô thường Giục khách trần gian nhớ cố hương Nhất niệm hồi tâm liền thị ngạn Vô ưu thảo quyện gió đưa hương...</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-27",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/EPUB/EPUB_f4c97919be2d5d9077b7fb95837481bd.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/IMAGE/IMAGE_f4c97919be2d5d9077b7fb95837481bd.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/1139-tam-gioi-toan-thu-quyen-4-thuviensach.vn.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/1139-tam-gioi-toan-thu-quyen-4-thuviensach.vn.m4a",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

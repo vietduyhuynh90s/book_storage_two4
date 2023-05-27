@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/doi-thay-doi-khi-chung-ta-thay-doi-tap-2-1123.html",
+    "title" : "ĐỜI THAY ĐỔI KHI CHÚNG TA THAY ĐỔI - TẬP 2",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Andrew Matthews",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Đơn giản, thực tiễn và rất thú vị, Đời Thay Đổi Khi Chúng Ta Thay Đổi Tập 2 nói về những người chúng ta yêu thương, những người giúp đỡ chúng ta và những người cần đến chúng ta, những người chúng ta muốn gặp và những người chúng ta tránh né. Quyển sách này còn nói về: - Niềm vui trong việc giao tiếp với mọi người Đối phó với những nhà tiên tri bi quan - Đôi khi phải biết nói KHÔNG - Chiến thắng tật ngồi lê đôi mách, tính nhỏ nhen và cơn nóng giận. Tất cả là nhằm để hiểu một điều nếu bạn muốn có bạn, trước hết bạn phải là một người bạn.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-27",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/EPUB/EPUB_0c54d6ccc625481c2d7f376f392b86b4.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/IMAGE/IMAGE_0c54d6ccc625481c2d7f376f392b86b4.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/1123-doi-thay-doi-khi-chung-ta-thay-doi-tap-2-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/1123-doi-thay-doi-khi-chung-ta-thay-doi-tap-2-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/6-triet-ly-song-cua-nguoi-tay-tang-13878.html",
+    "title" : "6 TRIẾT LÝ SỐNG CỦA NGƯỜI TÂY TẠNG",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Blog Radio",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Đối với nhiều người, cao nguyên Tây Tạng là một trong những vùng đất huyền bí, linh thiêng bậc nhất. Nơi đây có Học viện Phật giáo lớn nhất thế giới mà hàng năm có rất nhiều tín đồ Phật giáo từ khắp mọi miền hành hương và tu tập tại đây. Người Tây Tạng có một bề dày truyền thống văn hóa, tôn giáo. Họ có một lối sống giản dị với những quan niệm nhân sinh cao cả. Giọng đọc: Lan Phương</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-27",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/EPUB/EPUB_4a89d37b43aba1780d48488d44e3e283.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/IMAGE/IMAGE_4a89d37b43aba1780d48488d44e3e283.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13878-6-triet-ly-song-cua-nguoi-tay-tang-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13878-6-triet-ly-song-cua-nguoi-tay-tang-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
