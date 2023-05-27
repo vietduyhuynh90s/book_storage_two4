@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/lam-sao-de-giup-nguoi-minh-yeu-13933.html",
+    "title" : "LÀM SAO ĐỂ GIÚP NGƯỜI MÌNH YÊU?",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Blog Radio",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Con có lòng tốt muốn giúp anh ấy lúc khó khăn thì con cứ tiếp tục nuôi dưỡng lòng tốt ấy, nhưng đừng hiểu lầm giữa lòng tốt và tình yêu. Tình yêu là hai trái tim rung cùng một nhịp... Lòng tốt là thấy khổ thì muốn giúp, nhưng con phải tự xét lại lòng tốt của con. Biết bao nhiêu người khác đang đau khổ hơn anh ấy, sao con không giúp họ mà khổ vì một người? Con nghĩ con giúp anh để anh thay đổi mà yêu con thì con lầm. Đó chỉ tình yêu miễn cưỡng, là một loại tình thương có tính toán, có điều kiện. Tình yêu đích thật không phải sự trao đổi đâu con. Con có biết không? Không ai có thể thay đổi được tính nết người khác, chỉ có người ấy tự thay đổi thôi con ạ. Giọng đọc: Hằng Nga, Tuấn Anh</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-27",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/EPUB/EPUB_a5c320f73dad5dbd0880311718827f74.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/IMAGE/IMAGE_a5c320f73dad5dbd0880311718827f74.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13933-lam-sao-de-giup-nguoi-minh-yeu-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13933-lam-sao-de-giup-nguoi-minh-yeu-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

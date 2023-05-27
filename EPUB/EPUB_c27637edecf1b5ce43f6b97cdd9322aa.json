@@ -1,0 +1,89 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/cho-toi-mot-lieu-quen-lang-13961.html",
+    "title" : "CHO TÔI MỘT LIỀU QUÊN LÃNG",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Blog Radio",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Sai lầm của nhiều người là để bản thân dính mắc vào tình yêu. Biết rằng trái tim người ấy không thuộc về mình mà vẫn cố giành giật bằng được cái xác rỗng. Ở bên cạnh người mình yêu và họ cũng yêu mình thì nơi đâu cũng là thiên đường. Nhưng ở cạnh người vĩnh viễn không yêu mình thì mỗi giờ khắc trôi qua đều là địa ngục. Nếu được trở lại quá khứ để sửa lại những điều chưa đúng, liệu kết cục của câu chuyện có khác đi.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-27",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/EPUB/EPUB_c27637edecf1b5ce43f6b97cdd9322aa.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/IMAGE/IMAGE_c27637edecf1b5ce43f6b97cdd9322aa.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13961-cho-toi-mot-lieu-quen-lang-thuviensach.vn.mp3?t=0",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:00:00 Duyên Tình Đứt Đoạn Mà Niệm Vẫn Chưa Buông",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13961-cho-toi-mot-lieu-quen-lang-thuviensach.vn.mp3?t=1945",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:32:25 Hạnh Phúc Chỉ Dành Cho Những Ai Xứng Đáng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13961-cho-toi-mot-lieu-quen-lang-thuviensach.vn.mp3?t=5193",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:26:33 Hạnh Phúc Là Biết Buông Tay Đúng Lúc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13961-cho-toi-mot-lieu-quen-lang-thuviensach.vn.mp3?t=7175",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:59:35 Yêu Là Đau",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13961-cho-toi-mot-lieu-quen-lang-thuviensach.vn.mp3?t=0",
+    "title" : "00:00:00 Duyên Tình Đứt Đoạn Mà Niệm Vẫn Chưa Buông",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13961-cho-toi-mot-lieu-quen-lang-thuviensach.vn.mp3?t=1945",
+    "title" : "00:32:25 Hạnh Phúc Chỉ Dành Cho Những Ai Xứng Đáng",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13961-cho-toi-mot-lieu-quen-lang-thuviensach.vn.mp3?t=5193",
+    "title" : "01:26:33 Hạnh Phúc Là Biết Buông Tay Đúng Lúc",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13961-cho-toi-mot-lieu-quen-lang-thuviensach.vn.mp3?t=7175",
+    "title" : "01:59:35 Yêu Là Đau",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

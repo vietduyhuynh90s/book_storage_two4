@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/4-dieu-xuong-mau-ma-tuoi-tre-thuong-bo-qua-ve-gia-moi-tham-thia-13875.html",
+    "title" : "4 ĐIỀU XƯƠNG MÁU MÀ TUỔI TRẺ THƯỜNG BỎ QUA VỀ GIÀ MỚI THẤM THÍA",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Blog Radio",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Khi còn trẻ, chúng ta hồn nhiên tưởng rằng, quen càng nhiều người càng tốt. Vì thế, chúng ta điên cuồng thiết lập mạng lưới quan hệ. Ngày càng nhiều người biết đến chúng ta. Chúng ta cảm thấy hài lòng. Đến một ngày, chúng ta chợt giật mình nhận ra: Quen thì nhiều, nhưng khi xảy ra chuyện lại chẳng nhờ được ai. Bạn điểm được mấy người bạn, sẵn sàng cho bạn mượn tiền mỗi khi bạn cần? Bạn điểm được mấy người bạn, sẵn sàng giúp đỡ bạn khi bạn gặp khó khăn? Giọng đọc: Lan Phương</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-27",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/EPUB/EPUB_ed650d07d0154de1b5db82813f3529a3.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/IMAGE/IMAGE_ed650d07d0154de1b5db82813f3529a3.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13875-4-dieu-xuong-mau-ma-tuoi-tre-thuong-bo-qua-ve-gia-moi-tham-thia-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13875-4-dieu-xuong-mau-ma-tuoi-tre-thuong-bo-qua-ve-gia-moi-tham-thia-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
