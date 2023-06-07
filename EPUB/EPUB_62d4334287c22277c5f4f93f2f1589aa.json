@@ -1,0 +1,449 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/nhung-chuyen-mao-hiem-cua-loraine-bay-mat-dong-ho_19600.html",
+    "title" : "Những Chuyện Mạo Hiểm Của Loraine (Bảy Mặt Đồng Hồ)",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Agatha Christie",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-07",
+    "duration" : 21101,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/EPUB/EPUB_62d4334287c22277c5f4f93f2f1589aa.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/IMAGE/IMAGE_62d4334287c22277c5f4f93f2f1589aa.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Bay-Mat-Dong-Ho/SNNL001%20%E2%80%95%20B%E1%BA%A3y%20M%E1%BA%B7t%20%C4%90%E1%BB%93ng%20H%E1%BB%93%20%E2%80%95%20Ch%C6%B0%C6%A1ng%201%20%20Ngh%E1%BB%87%20Thu%E1%BA%ADt%20D%E1%BA%ADy%20S%E1%BB%9Bm.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 937,
+    "title" : "SNNL001 ― Bảy Mặt Đồng Hồ ― Chương 1  Nghệ Thuật Dậy Sớm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Bay-Mat-Dong-Ho/SNNL002%20%E2%80%95%20B%E1%BA%A3y%20M%E1%BA%B7t%20%C4%90%E1%BB%93ng%20H%E1%BB%93%20%E2%80%95%20Ch%C6%B0%C6%A1ng%202%20%20%C4%90%E1%BB%93ng%20H%E1%BB%93%20B%C3%A1o%20Th%E1%BB%A9c%20%C4%90%E1%BA%B7t%20%E1%BB%9E%20%C4%90%C3%A2u%20%C4%90%C3%A2y%20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 433,
+    "title" : "SNNL002 ― Bảy Mặt Đồng Hồ ― Chương 2  Đồng Hồ Báo Thức Đặt Ở Đâu Đây ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Bay-Mat-Dong-Ho/SNNL003%20%E2%80%95%20B%E1%BA%A3y%20M%E1%BA%B7t%20%C4%90%E1%BB%93ng%20H%E1%BB%93%20%E2%80%95%20Ch%C6%B0%C6%A1ng%203%20%20Cu%E1%BB%99c%20%C4%90%C3%B9a%20Vui%20Th%E1%BA%A5t%20B%E1%BA%A1i.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 821,
+    "title" : "SNNL003 ― Bảy Mặt Đồng Hồ ― Chương 3  Cuộc Đùa Vui Thất Bại",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Bay-Mat-Dong-Ho/SNNL004%20%E2%80%95%20B%E1%BA%A3y%20M%E1%BA%B7t%20%C4%90%E1%BB%93ng%20H%E1%BB%93%20%E2%80%95%20Ch%C6%B0%C6%A1ng%204%20%20M%E1%BB%99t%20B%E1%BB%A9c%20Th%C6%B0.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 647,
+    "title" : "SNNL004 ― Bảy Mặt Đồng Hồ ― Chương 4  Một Bức Thư",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Bay-Mat-Dong-Ho/SNNL005%20%E2%80%95%20B%E1%BA%A3y%20M%E1%BA%B7t%20%C4%90%E1%BB%93ng%20H%E1%BB%93%20%E2%80%95%20Ch%C6%B0%C6%A1ng%205%20%20Ng%C6%B0%E1%BB%9Di%20Thanh%20Ni%C3%AAn%20Tr%C3%AAn%20%C4%90%C6%B0%E1%BB%9Dng%20V%E1%BA%AFng.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 462,
+    "title" : "SNNL005 ― Bảy Mặt Đồng Hồ ― Chương 5  Người Thanh Niên Trên Đường Vắng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Bay-Mat-Dong-Ho/SNNL006%20%E2%80%95%20B%E1%BA%A3y%20M%E1%BA%B7t%20%C4%90%E1%BB%93ng%20H%E1%BB%93%20%E2%80%95%20Ch%C6%B0%C6%A1ng%206%20%20L%E1%BA%A1i%20L%C3%A0%20B%E1%BA%A3y%20M%E1%BA%B7t%20%C4%90%E1%BB%93ng%20H%E1%BB%93.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 574,
+    "title" : "SNNL006 ― Bảy Mặt Đồng Hồ ― Chương 6  Lại Là Bảy Mặt Đồng Hồ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Bay-Mat-Dong-Ho/SNNL007%20%E2%80%95%20B%E1%BA%A3y%20M%E1%BA%B7t%20%C4%90%E1%BB%93ng%20H%E1%BB%93%20%E2%80%95%20Ch%C6%B0%C6%A1ng%207%20%20M%E1%BB%99t%20Cu%E1%BB%99c%20Th%C4%83m%20Vi%E1%BA%BFng%20C%E1%BB%A7a%20Bundle.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 441,
+    "title" : "SNNL007 ― Bảy Mặt Đồng Hồ ― Chương 7  Một Cuộc Thăm Viếng Của Bundle",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Bay-Mat-Dong-Ho/SNNL008%20%E2%80%95%20B%E1%BA%A3y%20M%E1%BA%B7t%20%C4%90%E1%BB%93ng%20H%E1%BB%93%20%E2%80%95%20Ch%C6%B0%C6%A1ng%208%20%20Nh%E1%BB%AFng%20Ng%C6%B0%E1%BB%9Di%20Kh%C3%A1ch%20N%E1%BB%AF%20C%E1%BB%A7a%20Jimmy.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 500,
+    "title" : "SNNL008 ― Bảy Mặt Đồng Hồ ― Chương 8  Những Người Khách Nữ Của Jimmy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Bay-Mat-Dong-Ho/SNNL009%20%E2%80%95%20B%E1%BA%A3y%20M%E1%BA%B7t%20%C4%90%E1%BB%93ng%20H%E1%BB%93%20%E2%80%95%20Ch%C6%B0%C6%A1ng%209%20%20Nh%E1%BB%AFng%20D%E1%BB%B1%20%C4%90%E1%BB%8Bnh.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 702,
+    "title" : "SNNL009 ― Bảy Mặt Đồng Hồ ― Chương 9  Những Dự Định",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Bay-Mat-Dong-Ho/SNNL010%20%E2%80%95%20B%E1%BA%A3y%20M%E1%BA%B7t%20%C4%90%E1%BB%93ng%20H%E1%BB%93%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2010%20%20Bundle%20T%E1%BB%9Bi%20S%E1%BB%9F%20C%E1%BA%A3nh%20S%C3%A1t%20Anh.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 562,
+    "title" : "SNNL010 ― Bảy Mặt Đồng Hồ ― Chương 10  Bundle Tới Sở Cảnh Sát Anh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Bay-Mat-Dong-Ho/SNNL011%20%E2%80%95%20B%E1%BA%A3y%20M%E1%BA%B7t%20%C4%90%E1%BB%93ng%20H%E1%BB%93%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2011%20%20Bundle%20C%C3%B9ng%20V%E1%BB%9Bi%20Bill%20%C4%82n%20T%E1%BB%91i.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 649,
+    "title" : "SNNL011 ― Bảy Mặt Đồng Hồ ― Chương 11  Bundle Cùng Với Bill Ăn Tối",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Bay-Mat-Dong-Ho/SNNL012%20%E2%80%95%20B%E1%BA%A3y%20M%E1%BA%B7t%20%C4%90%E1%BB%93ng%20H%E1%BB%93%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2012%20%20Bundle%20%C4%90%E1%BA%B7t%20Nh%E1%BB%AFng%20C%C3%A2u%20H%E1%BB%8Fi%20Cho%20Chimneys.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 899,
+    "title" : "SNNL012 ― Bảy Mặt Đồng Hồ ― Chương 12  Bundle Đặt Những Câu Hỏi Cho Chimneys",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Bay-Mat-Dong-Ho/SNNL013%20%E2%80%95%20B%E1%BA%A3y%20M%E1%BA%B7t%20%C4%90%E1%BB%93ng%20H%E1%BB%93%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2013%20%20C%C3%A2u%20L%E1%BA%A1c%20B%E1%BB%99%20%E2%80%9CB%E1%BA%A3y%20M%E1%BA%B7t%20%C4%90%E1%BB%93ng%20H%E1%BB%93%E2%80%9D.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 621,
+    "title" : "SNNL013 ― Bảy Mặt Đồng Hồ ― Chương 13  Câu Lạc Bộ “Bảy Mặt Đồng Hồ”",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Bay-Mat-Dong-Ho/SNNL014%20%E2%80%95%20B%E1%BA%A3y%20M%E1%BA%B7t%20%C4%90%E1%BB%93ng%20H%E1%BB%93%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2014%20%20Cu%E1%BB%99c%20H%E1%BB%8Dp%20C%E1%BB%A7a%20%20%20B%E1%BA%A3y%20M%E1%BA%B7t%20%C4%90%E1%BB%93ng%20H%E1%BB%93%20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 654,
+    "title" : "SNNL014 ― Bảy Mặt Đồng Hồ ― Chương 14  Cuộc Họp Của   Bảy Mặt Đồng Hồ ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Bay-Mat-Dong-Ho/SNNL015%20%E2%80%95%20B%E1%BA%A3y%20M%E1%BA%B7t%20%C4%90%E1%BB%93ng%20H%E1%BB%93%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2015%20%20Cu%E1%BB%99c%20%C4%90i%E1%BB%81u%20Tra.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 643,
+    "title" : "SNNL015 ― Bảy Mặt Đồng Hồ ― Chương 15  Cuộc Điều Tra",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Bay-Mat-Dong-Ho/SNNL016%20%E2%80%95%20B%E1%BA%A3y%20M%E1%BA%B7t%20%C4%90%E1%BB%93ng%20H%E1%BB%93%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2016%20%20Cu%E1%BB%99c%20H%E1%BB%8Dp%20%E1%BB%9E%20Tu%20Vi%E1%BB%87n.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 691,
+    "title" : "SNNL016 ― Bảy Mặt Đồng Hồ ― Chương 16  Cuộc Họp Ở Tu Viện",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Bay-Mat-Dong-Ho/SNNL017%20%E2%80%95%20B%E1%BA%A3y%20M%E1%BA%B7t%20%C4%90%E1%BB%93ng%20H%E1%BB%93%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2017%20%20Sau%20B%E1%BB%AFa%20%C4%82n%20Bu%E1%BB%95i%20T%E1%BB%91i.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 607,
+    "title" : "SNNL017 ― Bảy Mặt Đồng Hồ ― Chương 17  Sau Bữa Ăn Buổi Tối",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Bay-Mat-Dong-Ho/SNNL018%20%E2%80%95%20B%E1%BA%A3y%20M%E1%BA%B7t%20%C4%90%E1%BB%93ng%20H%E1%BB%93%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2018%20%20Nh%E1%BB%AFng%20Chuy%E1%BB%87n%20M%E1%BA%A1o%20Hi%E1%BB%83m%20C%E1%BB%A7a%20Jimmy.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 427,
+    "title" : "SNNL018 ― Bảy Mặt Đồng Hồ ― Chương 18  Những Chuyện Mạo Hiểm Của Jimmy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Bay-Mat-Dong-Ho/SNNL019%20%E2%80%95%20B%E1%BA%A3y%20M%E1%BA%B7t%20%C4%90%E1%BB%93ng%20H%E1%BB%93%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2019%20%20Nh%E1%BB%AFng%20Chuy%E1%BB%87n%20M%E1%BA%A1o%20Hi%E1%BB%83m%20C%E1%BB%A7a%20Bundle.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 417,
+    "title" : "SNNL019 ― Bảy Mặt Đồng Hồ ― Chương 19  Những Chuyện Mạo Hiểm Của Bundle",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Bay-Mat-Dong-Ho/SNNL020%20%E2%80%95%20B%E1%BA%A3y%20M%E1%BA%B7t%20%C4%90%E1%BB%93ng%20H%E1%BB%93%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2020%20%20Nh%E1%BB%AFng%20Chuy%E1%BB%87n%20M%E1%BA%A1o%20Hi%E1%BB%83m%20C%E1%BB%A7a%20Loraine.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 511,
+    "title" : "SNNL020 ― Bảy Mặt Đồng Hồ ― Chương 20  Những Chuyện Mạo Hiểm Của Loraine",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Bay-Mat-Dong-Ho/SNNL021%20%E2%80%95%20B%E1%BA%A3y%20M%E1%BA%B7t%20%C4%90%E1%BB%93ng%20H%E1%BB%93%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2021%20%20Th%E1%BA%A5y%20L%E1%BA%A1i%20T%C3%A0i%20Li%E1%BB%87u.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 734,
+    "title" : "SNNL021 ― Bảy Mặt Đồng Hồ ― Chương 21  Thấy Lại Tài Liệu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Bay-Mat-Dong-Ho/SNNL022%20%E2%80%95%20B%E1%BA%A3y%20M%E1%BA%B7t%20%C4%90%E1%BB%93ng%20H%E1%BB%93%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2022%20%20C%C3%A2u%20Chuy%E1%BB%87n%20C%E1%BB%A7a%20N%E1%BB%AF%20B%C3%A1%20T%C6%B0%E1%BB%9Bc%20Radzk.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 680,
+    "title" : "SNNL022 ― Bảy Mặt Đồng Hồ ― Chương 22  Câu Chuyện Của Nữ Bá Tước Radzk",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Bay-Mat-Dong-Ho/SNNL023%20%E2%80%95%20B%E1%BA%A3y%20M%E1%BA%B7t%20%C4%90%E1%BB%93ng%20H%E1%BB%93%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2023%20%20C%E1%BA%A3nh%20S%C3%A1t%20Tr%C6%B0%E1%BB%9Fng%20Battle%20Ra%20Tay%20L%C3%A1i%20C%C3%A1c%20Bi%E1%BA%BFn%20C%E1%BB%91.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 738,
+    "title" : "SNNL023 ― Bảy Mặt Đồng Hồ ― Chương 23  Cảnh Sát Trưởng Battle Ra Tay Lái Các Biến Cố",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Bay-Mat-Dong-Ho/SNNL024%20%E2%80%95%20B%E1%BA%A3y%20M%E1%BA%B7t%20%C4%90%E1%BB%93ng%20H%E1%BB%93%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2024%20%20Bundle%20Hoang%20Mang.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 687,
+    "title" : "SNNL024 ― Bảy Mặt Đồng Hồ ― Chương 24  Bundle Hoang Mang",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Bay-Mat-Dong-Ho/SNNL025%20%E2%80%95%20B%E1%BA%A3y%20M%E1%BA%B7t%20%C4%90%E1%BB%93ng%20H%E1%BB%93%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2025%20%20Jimmy%20Ph%C3%A1c%20M%E1%BB%99t%20K%E1%BA%BF%20Ho%E1%BA%A1ch.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 850,
+    "title" : "SNNL025 ― Bảy Mặt Đồng Hồ ― Chương 25  Jimmy Phác Một Kế Hoạch",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Bay-Mat-Dong-Ho/SNNL026%20%E2%80%95%20B%E1%BA%A3y%20M%E1%BA%B7t%20%C4%90%E1%BB%93ng%20H%E1%BB%93%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2026%20%20Ch%E1%BB%A7%20Y%E1%BA%BFu%20L%C3%A0%20V%E1%BA%A5n%20%C4%90%E1%BB%81%20Ch%C6%A1i%20G%C3%B4n.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 351,
+    "title" : "SNNL026 ― Bảy Mặt Đồng Hồ ― Chương 26  Chủ Yếu Là Vấn Đề Chơi Gôn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Bay-Mat-Dong-Ho/SNNL027%20%E2%80%95%20B%E1%BA%A3y%20M%E1%BA%B7t%20%C4%90%E1%BB%93ng%20H%E1%BB%93%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2027%20%20Chuy%E1%BB%87n%20T%C3%ACnh%20C%E1%BB%9D%20X%E1%BA%A3y%20Ra%20Trong%20%C4%90%C3%AAm.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 515,
+    "title" : "SNNL027 ― Bảy Mặt Đồng Hồ ― Chương 27  Chuyện Tình Cờ Xảy Ra Trong Đêm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Bay-Mat-Dong-Ho/SNNL028%20%E2%80%95%20B%E1%BA%A3y%20M%E1%BA%B7t%20%C4%90%E1%BB%93ng%20H%E1%BB%93%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2028%20%20Nh%E1%BB%AFng%20M%E1%BB%91i%20Nghi%20Ng%E1%BB%9D.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 585,
+    "title" : "SNNL028 ― Bảy Mặt Đồng Hồ ― Chương 28  Những Mối Nghi Ngờ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Bay-Mat-Dong-Ho/SNNL029%20%E2%80%95%20B%E1%BA%A3y%20M%E1%BA%B7t%20%C4%90%E1%BB%93ng%20H%E1%BB%93%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2029%20%20Th%C3%A1i%20%C4%90%E1%BB%99%20L%E1%BA%A1%20K%E1%BB%B3%20C%E1%BB%A7a%20Georges%20Lomax.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 830,
+    "title" : "SNNL029 ― Bảy Mặt Đồng Hồ ― Chương 29  Thái Độ Lạ Kỳ Của Georges Lomax",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Bay-Mat-Dong-Ho/SNNL030%20%E2%80%95%20B%E1%BA%A3y%20M%E1%BA%B7t%20%C4%90%E1%BB%93ng%20H%E1%BB%93%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2030%20%20M%E1%BB%99t%20Ti%E1%BA%BFng%20G%E1%BB%8Di%20Kh%E1%BA%A9n%20C%E1%BA%A5p.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 829,
+    "title" : "SNNL030 ― Bảy Mặt Đồng Hồ ― Chương 30  Một Tiếng Gọi Khẩn Cấp",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Bay-Mat-Dong-Ho/SNNL031%20%E2%80%95%20B%E1%BA%A3y%20M%E1%BA%B7t%20%C4%90%E1%BB%93ng%20H%E1%BB%93%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2031%20%20H%E1%BB%99i%20%E2%80%9CB%E1%BA%A3y%20M%E1%BA%B7t%20%C4%90%E1%BB%93ng%20H%E1%BB%93%E2%80%9D.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 515,
+    "title" : "SNNL031 ― Bảy Mặt Đồng Hồ ― Chương 31  Hội “Bảy Mặt Đồng Hồ”",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Bay-Mat-Dong-Ho/SNNL032%20%E2%80%95%20B%E1%BA%A3y%20M%E1%BA%B7t%20%C4%90%E1%BB%93ng%20H%E1%BB%93%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2032%20%20Bundle%20Ch%E1%BA%BFt%20S%E1%BB%AFng.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 360,
+    "title" : "SNNL032 ― Bảy Mặt Đồng Hồ ― Chương 32  Bundle Chết Sững",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Bay-Mat-Dong-Ho/SNNL033%20%E2%80%95%20B%E1%BA%A3y%20M%E1%BA%B7t%20%C4%90%E1%BB%93ng%20H%E1%BB%93%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2033%20%20Battle%20L%C3%A0m%20R%C3%B5%20S%E1%BB%B1%20Vi%E1%BB%87c.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1072,
+    "title" : "SNNL033 ― Bảy Mặt Đồng Hồ ― Chương 33  Battle Làm Rõ Sự Việc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Bay-Mat-Dong-Ho/SNNL034%20%E2%80%95%20B%E1%BA%A3y%20M%E1%BA%B7t%20%C4%90%E1%BB%93ng%20H%E1%BB%93%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2034%20%20Hu%C3%A2n%20T%C6%B0%E1%BB%9Bc%20Caterham%20Ch%E1%BA%A5p%20Thu%E1%BA%ADn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 157,
+    "title" : "SNNL034 ― Bảy Mặt Đồng Hồ ― Chương 34  Huân Tước Caterham Chấp Thuận",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Bay-Mat-Dong-Ho/SNNL001%20%E2%80%95%20B%E1%BA%A3y%20M%E1%BA%B7t%20%C4%90%E1%BB%93ng%20H%E1%BB%93%20%E2%80%95%20Ch%C6%B0%C6%A1ng%201%20%20Ngh%E1%BB%87%20Thu%E1%BA%ADt%20D%E1%BA%ADy%20S%E1%BB%9Bm.mp3",
+    "title" : "SNNL001 ― Bảy Mặt Đồng Hồ ― Chương 1  Nghệ Thuật Dậy Sớm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Bay-Mat-Dong-Ho/SNNL002%20%E2%80%95%20B%E1%BA%A3y%20M%E1%BA%B7t%20%C4%90%E1%BB%93ng%20H%E1%BB%93%20%E2%80%95%20Ch%C6%B0%C6%A1ng%202%20%20%C4%90%E1%BB%93ng%20H%E1%BB%93%20B%C3%A1o%20Th%E1%BB%A9c%20%C4%90%E1%BA%B7t%20%E1%BB%9E%20%C4%90%C3%A2u%20%C4%90%C3%A2y%20.mp3",
+    "title" : "SNNL002 ― Bảy Mặt Đồng Hồ ― Chương 2  Đồng Hồ Báo Thức Đặt Ở Đâu Đây ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Bay-Mat-Dong-Ho/SNNL003%20%E2%80%95%20B%E1%BA%A3y%20M%E1%BA%B7t%20%C4%90%E1%BB%93ng%20H%E1%BB%93%20%E2%80%95%20Ch%C6%B0%C6%A1ng%203%20%20Cu%E1%BB%99c%20%C4%90%C3%B9a%20Vui%20Th%E1%BA%A5t%20B%E1%BA%A1i.mp3",
+    "title" : "SNNL003 ― Bảy Mặt Đồng Hồ ― Chương 3  Cuộc Đùa Vui Thất Bại",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Bay-Mat-Dong-Ho/SNNL004%20%E2%80%95%20B%E1%BA%A3y%20M%E1%BA%B7t%20%C4%90%E1%BB%93ng%20H%E1%BB%93%20%E2%80%95%20Ch%C6%B0%C6%A1ng%204%20%20M%E1%BB%99t%20B%E1%BB%A9c%20Th%C6%B0.mp3",
+    "title" : "SNNL004 ― Bảy Mặt Đồng Hồ ― Chương 4  Một Bức Thư",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Bay-Mat-Dong-Ho/SNNL005%20%E2%80%95%20B%E1%BA%A3y%20M%E1%BA%B7t%20%C4%90%E1%BB%93ng%20H%E1%BB%93%20%E2%80%95%20Ch%C6%B0%C6%A1ng%205%20%20Ng%C6%B0%E1%BB%9Di%20Thanh%20Ni%C3%AAn%20Tr%C3%AAn%20%C4%90%C6%B0%E1%BB%9Dng%20V%E1%BA%AFng.mp3",
+    "title" : "SNNL005 ― Bảy Mặt Đồng Hồ ― Chương 5  Người Thanh Niên Trên Đường Vắng",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Bay-Mat-Dong-Ho/SNNL006%20%E2%80%95%20B%E1%BA%A3y%20M%E1%BA%B7t%20%C4%90%E1%BB%93ng%20H%E1%BB%93%20%E2%80%95%20Ch%C6%B0%C6%A1ng%206%20%20L%E1%BA%A1i%20L%C3%A0%20B%E1%BA%A3y%20M%E1%BA%B7t%20%C4%90%E1%BB%93ng%20H%E1%BB%93.mp3",
+    "title" : "SNNL006 ― Bảy Mặt Đồng Hồ ― Chương 6  Lại Là Bảy Mặt Đồng Hồ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Bay-Mat-Dong-Ho/SNNL007%20%E2%80%95%20B%E1%BA%A3y%20M%E1%BA%B7t%20%C4%90%E1%BB%93ng%20H%E1%BB%93%20%E2%80%95%20Ch%C6%B0%C6%A1ng%207%20%20M%E1%BB%99t%20Cu%E1%BB%99c%20Th%C4%83m%20Vi%E1%BA%BFng%20C%E1%BB%A7a%20Bundle.mp3",
+    "title" : "SNNL007 ― Bảy Mặt Đồng Hồ ― Chương 7  Một Cuộc Thăm Viếng Của Bundle",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Bay-Mat-Dong-Ho/SNNL008%20%E2%80%95%20B%E1%BA%A3y%20M%E1%BA%B7t%20%C4%90%E1%BB%93ng%20H%E1%BB%93%20%E2%80%95%20Ch%C6%B0%C6%A1ng%208%20%20Nh%E1%BB%AFng%20Ng%C6%B0%E1%BB%9Di%20Kh%C3%A1ch%20N%E1%BB%AF%20C%E1%BB%A7a%20Jimmy.mp3",
+    "title" : "SNNL008 ― Bảy Mặt Đồng Hồ ― Chương 8  Những Người Khách Nữ Của Jimmy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Bay-Mat-Dong-Ho/SNNL009%20%E2%80%95%20B%E1%BA%A3y%20M%E1%BA%B7t%20%C4%90%E1%BB%93ng%20H%E1%BB%93%20%E2%80%95%20Ch%C6%B0%C6%A1ng%209%20%20Nh%E1%BB%AFng%20D%E1%BB%B1%20%C4%90%E1%BB%8Bnh.mp3",
+    "title" : "SNNL009 ― Bảy Mặt Đồng Hồ ― Chương 9  Những Dự Định",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Bay-Mat-Dong-Ho/SNNL010%20%E2%80%95%20B%E1%BA%A3y%20M%E1%BA%B7t%20%C4%90%E1%BB%93ng%20H%E1%BB%93%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2010%20%20Bundle%20T%E1%BB%9Bi%20S%E1%BB%9F%20C%E1%BA%A3nh%20S%C3%A1t%20Anh.mp3",
+    "title" : "SNNL010 ― Bảy Mặt Đồng Hồ ― Chương 10  Bundle Tới Sở Cảnh Sát Anh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Bay-Mat-Dong-Ho/SNNL011%20%E2%80%95%20B%E1%BA%A3y%20M%E1%BA%B7t%20%C4%90%E1%BB%93ng%20H%E1%BB%93%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2011%20%20Bundle%20C%C3%B9ng%20V%E1%BB%9Bi%20Bill%20%C4%82n%20T%E1%BB%91i.mp3",
+    "title" : "SNNL011 ― Bảy Mặt Đồng Hồ ― Chương 11  Bundle Cùng Với Bill Ăn Tối",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Bay-Mat-Dong-Ho/SNNL012%20%E2%80%95%20B%E1%BA%A3y%20M%E1%BA%B7t%20%C4%90%E1%BB%93ng%20H%E1%BB%93%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2012%20%20Bundle%20%C4%90%E1%BA%B7t%20Nh%E1%BB%AFng%20C%C3%A2u%20H%E1%BB%8Fi%20Cho%20Chimneys.mp3",
+    "title" : "SNNL012 ― Bảy Mặt Đồng Hồ ― Chương 12  Bundle Đặt Những Câu Hỏi Cho Chimneys",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Bay-Mat-Dong-Ho/SNNL013%20%E2%80%95%20B%E1%BA%A3y%20M%E1%BA%B7t%20%C4%90%E1%BB%93ng%20H%E1%BB%93%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2013%20%20C%C3%A2u%20L%E1%BA%A1c%20B%E1%BB%99%20%E2%80%9CB%E1%BA%A3y%20M%E1%BA%B7t%20%C4%90%E1%BB%93ng%20H%E1%BB%93%E2%80%9D.mp3",
+    "title" : "SNNL013 ― Bảy Mặt Đồng Hồ ― Chương 13  Câu Lạc Bộ “Bảy Mặt Đồng Hồ”",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Bay-Mat-Dong-Ho/SNNL014%20%E2%80%95%20B%E1%BA%A3y%20M%E1%BA%B7t%20%C4%90%E1%BB%93ng%20H%E1%BB%93%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2014%20%20Cu%E1%BB%99c%20H%E1%BB%8Dp%20C%E1%BB%A7a%20%20%20B%E1%BA%A3y%20M%E1%BA%B7t%20%C4%90%E1%BB%93ng%20H%E1%BB%93%20.mp3",
+    "title" : "SNNL014 ― Bảy Mặt Đồng Hồ ― Chương 14  Cuộc Họp Của   Bảy Mặt Đồng Hồ ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Bay-Mat-Dong-Ho/SNNL015%20%E2%80%95%20B%E1%BA%A3y%20M%E1%BA%B7t%20%C4%90%E1%BB%93ng%20H%E1%BB%93%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2015%20%20Cu%E1%BB%99c%20%C4%90i%E1%BB%81u%20Tra.mp3",
+    "title" : "SNNL015 ― Bảy Mặt Đồng Hồ ― Chương 15  Cuộc Điều Tra",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Bay-Mat-Dong-Ho/SNNL016%20%E2%80%95%20B%E1%BA%A3y%20M%E1%BA%B7t%20%C4%90%E1%BB%93ng%20H%E1%BB%93%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2016%20%20Cu%E1%BB%99c%20H%E1%BB%8Dp%20%E1%BB%9E%20Tu%20Vi%E1%BB%87n.mp3",
+    "title" : "SNNL016 ― Bảy Mặt Đồng Hồ ― Chương 16  Cuộc Họp Ở Tu Viện",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Bay-Mat-Dong-Ho/SNNL017%20%E2%80%95%20B%E1%BA%A3y%20M%E1%BA%B7t%20%C4%90%E1%BB%93ng%20H%E1%BB%93%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2017%20%20Sau%20B%E1%BB%AFa%20%C4%82n%20Bu%E1%BB%95i%20T%E1%BB%91i.mp3",
+    "title" : "SNNL017 ― Bảy Mặt Đồng Hồ ― Chương 17  Sau Bữa Ăn Buổi Tối",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Bay-Mat-Dong-Ho/SNNL018%20%E2%80%95%20B%E1%BA%A3y%20M%E1%BA%B7t%20%C4%90%E1%BB%93ng%20H%E1%BB%93%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2018%20%20Nh%E1%BB%AFng%20Chuy%E1%BB%87n%20M%E1%BA%A1o%20Hi%E1%BB%83m%20C%E1%BB%A7a%20Jimmy.mp3",
+    "title" : "SNNL018 ― Bảy Mặt Đồng Hồ ― Chương 18  Những Chuyện Mạo Hiểm Của Jimmy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Bay-Mat-Dong-Ho/SNNL019%20%E2%80%95%20B%E1%BA%A3y%20M%E1%BA%B7t%20%C4%90%E1%BB%93ng%20H%E1%BB%93%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2019%20%20Nh%E1%BB%AFng%20Chuy%E1%BB%87n%20M%E1%BA%A1o%20Hi%E1%BB%83m%20C%E1%BB%A7a%20Bundle.mp3",
+    "title" : "SNNL019 ― Bảy Mặt Đồng Hồ ― Chương 19  Những Chuyện Mạo Hiểm Của Bundle",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Bay-Mat-Dong-Ho/SNNL020%20%E2%80%95%20B%E1%BA%A3y%20M%E1%BA%B7t%20%C4%90%E1%BB%93ng%20H%E1%BB%93%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2020%20%20Nh%E1%BB%AFng%20Chuy%E1%BB%87n%20M%E1%BA%A1o%20Hi%E1%BB%83m%20C%E1%BB%A7a%20Loraine.mp3",
+    "title" : "SNNL020 ― Bảy Mặt Đồng Hồ ― Chương 20  Những Chuyện Mạo Hiểm Của Loraine",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Bay-Mat-Dong-Ho/SNNL021%20%E2%80%95%20B%E1%BA%A3y%20M%E1%BA%B7t%20%C4%90%E1%BB%93ng%20H%E1%BB%93%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2021%20%20Th%E1%BA%A5y%20L%E1%BA%A1i%20T%C3%A0i%20Li%E1%BB%87u.mp3",
+    "title" : "SNNL021 ― Bảy Mặt Đồng Hồ ― Chương 21  Thấy Lại Tài Liệu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Bay-Mat-Dong-Ho/SNNL022%20%E2%80%95%20B%E1%BA%A3y%20M%E1%BA%B7t%20%C4%90%E1%BB%93ng%20H%E1%BB%93%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2022%20%20C%C3%A2u%20Chuy%E1%BB%87n%20C%E1%BB%A7a%20N%E1%BB%AF%20B%C3%A1%20T%C6%B0%E1%BB%9Bc%20Radzk.mp3",
+    "title" : "SNNL022 ― Bảy Mặt Đồng Hồ ― Chương 22  Câu Chuyện Của Nữ Bá Tước Radzk",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Bay-Mat-Dong-Ho/SNNL023%20%E2%80%95%20B%E1%BA%A3y%20M%E1%BA%B7t%20%C4%90%E1%BB%93ng%20H%E1%BB%93%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2023%20%20C%E1%BA%A3nh%20S%C3%A1t%20Tr%C6%B0%E1%BB%9Fng%20Battle%20Ra%20Tay%20L%C3%A1i%20C%C3%A1c%20Bi%E1%BA%BFn%20C%E1%BB%91.mp3",
+    "title" : "SNNL023 ― Bảy Mặt Đồng Hồ ― Chương 23  Cảnh Sát Trưởng Battle Ra Tay Lái Các Biến Cố",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Bay-Mat-Dong-Ho/SNNL024%20%E2%80%95%20B%E1%BA%A3y%20M%E1%BA%B7t%20%C4%90%E1%BB%93ng%20H%E1%BB%93%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2024%20%20Bundle%20Hoang%20Mang.mp3",
+    "title" : "SNNL024 ― Bảy Mặt Đồng Hồ ― Chương 24  Bundle Hoang Mang",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Bay-Mat-Dong-Ho/SNNL025%20%E2%80%95%20B%E1%BA%A3y%20M%E1%BA%B7t%20%C4%90%E1%BB%93ng%20H%E1%BB%93%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2025%20%20Jimmy%20Ph%C3%A1c%20M%E1%BB%99t%20K%E1%BA%BF%20Ho%E1%BA%A1ch.mp3",
+    "title" : "SNNL025 ― Bảy Mặt Đồng Hồ ― Chương 25  Jimmy Phác Một Kế Hoạch",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Bay-Mat-Dong-Ho/SNNL026%20%E2%80%95%20B%E1%BA%A3y%20M%E1%BA%B7t%20%C4%90%E1%BB%93ng%20H%E1%BB%93%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2026%20%20Ch%E1%BB%A7%20Y%E1%BA%BFu%20L%C3%A0%20V%E1%BA%A5n%20%C4%90%E1%BB%81%20Ch%C6%A1i%20G%C3%B4n.mp3",
+    "title" : "SNNL026 ― Bảy Mặt Đồng Hồ ― Chương 26  Chủ Yếu Là Vấn Đề Chơi Gôn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Bay-Mat-Dong-Ho/SNNL027%20%E2%80%95%20B%E1%BA%A3y%20M%E1%BA%B7t%20%C4%90%E1%BB%93ng%20H%E1%BB%93%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2027%20%20Chuy%E1%BB%87n%20T%C3%ACnh%20C%E1%BB%9D%20X%E1%BA%A3y%20Ra%20Trong%20%C4%90%C3%AAm.mp3",
+    "title" : "SNNL027 ― Bảy Mặt Đồng Hồ ― Chương 27  Chuyện Tình Cờ Xảy Ra Trong Đêm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Bay-Mat-Dong-Ho/SNNL028%20%E2%80%95%20B%E1%BA%A3y%20M%E1%BA%B7t%20%C4%90%E1%BB%93ng%20H%E1%BB%93%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2028%20%20Nh%E1%BB%AFng%20M%E1%BB%91i%20Nghi%20Ng%E1%BB%9D.mp3",
+    "title" : "SNNL028 ― Bảy Mặt Đồng Hồ ― Chương 28  Những Mối Nghi Ngờ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Bay-Mat-Dong-Ho/SNNL029%20%E2%80%95%20B%E1%BA%A3y%20M%E1%BA%B7t%20%C4%90%E1%BB%93ng%20H%E1%BB%93%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2029%20%20Th%C3%A1i%20%C4%90%E1%BB%99%20L%E1%BA%A1%20K%E1%BB%B3%20C%E1%BB%A7a%20Georges%20Lomax.mp3",
+    "title" : "SNNL029 ― Bảy Mặt Đồng Hồ ― Chương 29  Thái Độ Lạ Kỳ Của Georges Lomax",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Bay-Mat-Dong-Ho/SNNL030%20%E2%80%95%20B%E1%BA%A3y%20M%E1%BA%B7t%20%C4%90%E1%BB%93ng%20H%E1%BB%93%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2030%20%20M%E1%BB%99t%20Ti%E1%BA%BFng%20G%E1%BB%8Di%20Kh%E1%BA%A9n%20C%E1%BA%A5p.mp3",
+    "title" : "SNNL030 ― Bảy Mặt Đồng Hồ ― Chương 30  Một Tiếng Gọi Khẩn Cấp",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Bay-Mat-Dong-Ho/SNNL031%20%E2%80%95%20B%E1%BA%A3y%20M%E1%BA%B7t%20%C4%90%E1%BB%93ng%20H%E1%BB%93%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2031%20%20H%E1%BB%99i%20%E2%80%9CB%E1%BA%A3y%20M%E1%BA%B7t%20%C4%90%E1%BB%93ng%20H%E1%BB%93%E2%80%9D.mp3",
+    "title" : "SNNL031 ― Bảy Mặt Đồng Hồ ― Chương 31  Hội “Bảy Mặt Đồng Hồ”",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Bay-Mat-Dong-Ho/SNNL032%20%E2%80%95%20B%E1%BA%A3y%20M%E1%BA%B7t%20%C4%90%E1%BB%93ng%20H%E1%BB%93%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2032%20%20Bundle%20Ch%E1%BA%BFt%20S%E1%BB%AFng.mp3",
+    "title" : "SNNL032 ― Bảy Mặt Đồng Hồ ― Chương 32  Bundle Chết Sững",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Bay-Mat-Dong-Ho/SNNL033%20%E2%80%95%20B%E1%BA%A3y%20M%E1%BA%B7t%20%C4%90%E1%BB%93ng%20H%E1%BB%93%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2033%20%20Battle%20L%C3%A0m%20R%C3%B5%20S%E1%BB%B1%20Vi%E1%BB%87c.mp3",
+    "title" : "SNNL033 ― Bảy Mặt Đồng Hồ ― Chương 33  Battle Làm Rõ Sự Việc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Bay-Mat-Dong-Ho/SNNL034%20%E2%80%95%20B%E1%BA%A3y%20M%E1%BA%B7t%20%C4%90%E1%BB%93ng%20H%E1%BB%93%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2034%20%20Hu%C3%A2n%20T%C6%B0%E1%BB%9Bc%20Caterham%20Ch%E1%BA%A5p%20Thu%E1%BA%ADn.mp3",
+    "title" : "SNNL034 ― Bảy Mặt Đồng Hồ ― Chương 34  Huân Tước Caterham Chấp Thuận",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

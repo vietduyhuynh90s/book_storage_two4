@@ -1,0 +1,245 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/mua-he-gia-buot_20434.html",
+    "title" : "Mùa Hè Giá Buốt",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Văn Lê",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-07",
+    "duration" : 60753,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/EPUB/EPUB_1ae196c6d87d119d3af5bbb86d2a69c9.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/IMAGE/IMAGE_1ae196c6d87d119d3af5bbb86d2a69c9.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/mua-he/Mua-He-%201.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3598,
+    "title" : "Mua-He- 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mua-he/Mua-He-%2010.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3561,
+    "title" : "Mua-He- 10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mua-he/Mua-He-%2011.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3566,
+    "title" : "Mua-He- 11",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mua-he/Mua-He-%2012.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3570,
+    "title" : "Mua-He- 12",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mua-he/Mua-He-%2013.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3615,
+    "title" : "Mua-He- 13",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mua-he/Mua-He-%2014.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3562,
+    "title" : "Mua-He- 14",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mua-he/Mua-He-%2015.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3570,
+    "title" : "Mua-He- 15",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mua-he/Mua-He-%2016.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3553,
+    "title" : "Mua-He- 16",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mua-he/Mua-He-%2017.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3572,
+    "title" : "Mua-He- 17",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mua-he/Mua-He-%202.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3591,
+    "title" : "Mua-He- 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mua-he/Mua-He-%203.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3580,
+    "title" : "Mua-He- 3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mua-he/Mua-He-%204.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3606,
+    "title" : "Mua-He- 4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mua-he/Mua-He-%205.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3557,
+    "title" : "Mua-He- 5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mua-he/Mua-He-%206.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3585,
+    "title" : "Mua-He- 6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mua-he/Mua-He-%207.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3565,
+    "title" : "Mua-He- 7",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mua-he/Mua-He-%208.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3570,
+    "title" : "Mua-He- 8",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mua-he/Mua-He-%209.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3532,
+    "title" : "Mua-He- 9",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/mua-he/Mua-He-%201.mp3",
+    "title" : "Mua-He- 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mua-he/Mua-He-%2010.mp3",
+    "title" : "Mua-He- 10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mua-he/Mua-He-%2011.mp3",
+    "title" : "Mua-He- 11",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mua-he/Mua-He-%2012.mp3",
+    "title" : "Mua-He- 12",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mua-he/Mua-He-%2013.mp3",
+    "title" : "Mua-He- 13",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mua-he/Mua-He-%2014.mp3",
+    "title" : "Mua-He- 14",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mua-he/Mua-He-%2015.mp3",
+    "title" : "Mua-He- 15",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mua-he/Mua-He-%2016.mp3",
+    "title" : "Mua-He- 16",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mua-he/Mua-He-%2017.mp3",
+    "title" : "Mua-He- 17",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mua-he/Mua-He-%202.mp3",
+    "title" : "Mua-He- 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mua-he/Mua-He-%203.mp3",
+    "title" : "Mua-He- 3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mua-he/Mua-He-%204.mp3",
+    "title" : "Mua-He- 4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mua-he/Mua-He-%205.mp3",
+    "title" : "Mua-He- 5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mua-he/Mua-He-%206.mp3",
+    "title" : "Mua-He- 6",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mua-he/Mua-He-%207.mp3",
+    "title" : "Mua-He- 7",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mua-he/Mua-He-%208.mp3",
+    "title" : "Mua-He- 8",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mua-he/Mua-He-%209.mp3",
+    "title" : "Mua-He- 9",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
