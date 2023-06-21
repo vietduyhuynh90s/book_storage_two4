@@ -1,0 +1,197 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/tu-la-chuyen-nghiep_20408.html",
+    "title" : "Tu Là Chuyển Nghiệp",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Thích Thanh Từ",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-21",
+    "duration" : 15371,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/EPUB/EPUB_fda8b10bfe3f3249d791a8fa8ccbe528.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/IMAGE/IMAGE_fda8b10bfe3f3249d791a8fa8ccbe528.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/tu-la-11/tu-la-01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1187,
+    "title" : "tu-la-01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tu-la-11/tu-la-02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1129,
+    "title" : "tu-la-02",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tu-la-11/tu-la-03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1337,
+    "title" : "tu-la-03",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tu-la-11/tu-la-04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1148,
+    "title" : "tu-la-04",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tu-la-11/tu-la-05.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1148,
+    "title" : "tu-la-05",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tu-la-11/tu-la-06.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1264,
+    "title" : "tu-la-06",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tu-la-11/tu-la-07.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1112,
+    "title" : "tu-la-07",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tu-la-11/tu-la-08.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 817,
+    "title" : "tu-la-08",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tu-la-11/tu-la-09.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1149,
+    "title" : "tu-la-09",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tu-la-11/tu-la-10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1566,
+    "title" : "tu-la-10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tu-la-11/tu-la-11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1623,
+    "title" : "tu-la-11",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tu-la-11/tu-la-12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1027,
+    "title" : "tu-la-12",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tu-la-11/tu-la-13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 864,
+    "title" : "tu-la-13",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/tu-la-11/tu-la-01.mp3",
+    "title" : "tu-la-01",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tu-la-11/tu-la-02.mp3",
+    "title" : "tu-la-02",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tu-la-11/tu-la-03.mp3",
+    "title" : "tu-la-03",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tu-la-11/tu-la-04.mp3",
+    "title" : "tu-la-04",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tu-la-11/tu-la-05.mp3",
+    "title" : "tu-la-05",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tu-la-11/tu-la-06.mp3",
+    "title" : "tu-la-06",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tu-la-11/tu-la-07.mp3",
+    "title" : "tu-la-07",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tu-la-11/tu-la-08.mp3",
+    "title" : "tu-la-08",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tu-la-11/tu-la-09.mp3",
+    "title" : "tu-la-09",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tu-la-11/tu-la-10.mp3",
+    "title" : "tu-la-10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tu-la-11/tu-la-11.mp3",
+    "title" : "tu-la-11",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tu-la-11/tu-la-12.mp3",
+    "title" : "tu-la-12",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tu-la-11/tu-la-13.mp3",
+    "title" : "tu-la-13",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
