@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/gulliver-du-ki-14074.html",
+    "title" : "GULLIVER DU KÍ",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Jonathan Swift",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Câu chuyện phiêu lưu đến những xứ sở kỳ lạ của anh chàng Gulliver dễ thương và nhân hậu đã được nhà văn nổi tiếng người Anh Jonathan Swift gửi đến độc giả từ những năm của thế kỷ 18 nhưng đến nay vẫn là một cuốn sách gắn liền với tuổi thơ của nhiều thế hệ. “Gulliver du ký” hay “Những cuộc phiêu lưu của Gulliver” được viết vào năm 1726 và chỉnh sửa năm 1735, là một tác phẩm kinh điển của văn học Anh và thế giới. Cuốn sách kể về những cuộc hành trình kì lạ, viễn tưởng nhưng vô cùng tuyệt vời của chàng bác sĩ - thủy thủ Gulliver đến những vùng đất kì bí, đầy mới lạ. Đó là xứ Lilliput với những con người tí hon mà tham vọng lại vô cùng lớn, là Brobdingnang, đất nước của người khổng lồ thông minh nhân đức hay chuyến phiêu lưu tới Laput và xứ BaniBac, vùng đất của những người bất tử và cuối cùng là cuộc phiêu lưu đến xứ Huin. Mỗi xứ sở mới lạ mà Gulliver đi đến đều là một chuyến đi có một không hai, hấp dẫn và lôi cuốn mọi lưa tuổi độc giả.“Gulliver du ký” là tác phẩm được gửi gắm nhiều thông điệp. Trước hết, cuốn sách thể hiện ước mơ khám phá và chinh phục những vùng đất mới. Tác phẩm là những câu chuyện phiêu lưu tưởng tượng kỳ thú, đưa người đọc đến thế giới của những người tí hon, chỉ bé bằng ngón chân cái nhưng có cuộc sống chẳng khác gì những người bình thường, rồi lại được đến đất nước của những người khổng lồ, một thế giới kỳ diệu nơi có những con người đầy lòng nhân ái, ngay thẳng. Ở đó con khỉ to bằng con voi, những con chuột có thể ăn thịt người… Thông qua tưởng tượng tuyệt vời và giọng văn dí dỏm của nhà văn Johnathan Swift, cuốn sách đã mang đến cả một thế giới sinh động và đầy mới lạ, dễ dàng hấp dẫn các độc giả yêu thích những chuyến phiêu lưu. Bên cạnh ước mơ về những chuyến phiêu lưu kỳ thú, \"Gulliver du ký\" còn là một cuốn sách “chiến đấu”, là một tác phẩm châm biếm sâu sắc xã hội nước Anh thế kỷ 18 với bức tranh toàn cảnh về những kẻ thống trị là giai cấp phong kiến và tư sản xấu xa, tàn ác, cuốn sách phản kháng chế độ xã hội bất công, ca ngợi lòng khoan dung, độ lượng và chủ nghĩa nhân đạo. Mặc dù đã ra đời gần ba thế kỷ nhưng đến nay “Gulliver du ký” vẫn được nhiều thế hệ độc giả yêu thích và tìm đọc. Thông qua cuộc phiêu lưu vui nhộn của Gulliver, cùng những nhân vật ngộ nghĩnh, hóm hỉnh, độc giả nói chung và đặc biệt là những em nhỏ sẽ dễ dàng tìm thấy những tiếng cười thú vị và cùng phát huy trí tưởng tượng của bản thân trong một câu chuyện đầy sáng tạo.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-22",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/EPUB/EPUB_b3b96aa50b5cae59d32601c3010f2e7c.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/IMAGE/IMAGE_b3b96aa50b5cae59d32601c3010f2e7c.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14074-gulliver-du-ki-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14074-gulliver-du-ki-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

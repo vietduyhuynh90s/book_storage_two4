@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/chua-lanh-bang-tam-thuc-10118.html",
+    "title" : "CHỮA LÀNH BẰNG TÂM THỨC",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Newton Kondaveti",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Newton Kondaveti Là bác sĩ Y khoa tốt nghiệp Trường Cao đẳng Y tế Kurnool, Andhra Pradesh, Ấn Độ vào năm 1992. Ông học cao học tại Viện Khoa học Y tế Nizam, Hyderabad, Ấn Độ. Bác sĩ Newton bỏ qua cách chữa bệnh thông thường để chuyên tâm vào \"liệu pháp trở về tiền kiếp và trị liệu toàn diện\". Ông cũng giảng dạy về siêu hình và là nhà khoa học tâm linh. Thông qua sự cống hiến không ngừng nghỉ và làm việc không mệt mỏi, bác sĩ Newton đã giúp hàng ngàn người tiếp cận cuộc sống quá khứ của mình và đạt được sự tự chủ. \"Chữa Lành Bằng Tâm Thức là quyển sách tuyệt vời về khoa học tâm linh. Sự thật phổ quát đầu tiên, chúng ta không chỉ là cơ thể vật lý, mà còn là tâm thức thuần khiết. Thứ hai, chúng ta tạo nên thực tại của riêng mình - chúng ta tạo ra sự khỏe mạnh - và chúng ta cũng tạo ra bệnh tật. Tuy nhiên, hầu như mọi người chưa hiểu hết những sự thật này. Newton Kondaveti diễn đạt Chữa Lành Bằng Tâm Thức bằng bút pháp rõ ràng đáng khâm phục và dễ hiểu. Những bài tập thực hành và thiền định sẽ dẫn dắt chúng ta tiến gần hơn đến cái nhìn thông tuệ, có thể áp dụng lên đời sống hằng ngày.\" - Brahmarshi Patriji - Nhà sáng lập Pyramid Spiritual Societies Movement (PSSM)</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-22",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/EPUB/EPUB_73eb3404e6997e54aa79cd7c16e3fb16.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/IMAGE/IMAGE_73eb3404e6997e54aa79cd7c16e3fb16.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/10118-chua-lanh-bang-tam-thuc-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/10118-chua-lanh-bang-tam-thuc-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

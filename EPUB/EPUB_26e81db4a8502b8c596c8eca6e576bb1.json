@@ -1,0 +1,209 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/kinh-duy-ma-cat-1773.html",
+    "title" : "KINH DUY MA CẬT",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Đoàn Trung Còn",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Kinh Duy Ma Cật là một trong những bộ kinh được phổ biến khá rộng rãi trong giới học Phật, nhất là Phật giáo Đại thừa. Điều này một phần lớn cũng nhờ công lao của các vị tiền bối đã sớm chuyển dịch và giới thiệu kinh này bằng tiếng Việt. Trong số những người làm công việc này từ rất sớm, phải nhắc đến cố học giả Đoàn Trung Còn. Gần đây, trong nỗ lực bảo tồn và phát huy những công trình của người đi trước, tác giả đã lần lượt hiệu đính, bổ sung, chữa chữa hoàn thiện nhiều công trình trước đây của học giả Đoàn Trung Còn, trong số đó có Kinh Duy Ma Cật đã được dịch lại trên cơ sở tham khảo bản dịch cũ và bổ sung các chủ giải, đồng thời giới thiệu cả nguyên tác Hán văn để phục vụ mục đích tham khảo.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-22",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/EPUB/EPUB_26e81db4a8502b8c596c8eca6e576bb1.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/IMAGE/IMAGE_26e81db4a8502b8c596c8eca6e576bb1.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/1773-kinh-duy-ma-cat-thuviensach.vn.mp3?t=0",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:00:00 01/14: Phẩm Phật Quốc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1773-kinh-duy-ma-cat-thuviensach.vn.mp3?t=1246",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:20:46 02/14: Phẩm Phương Tiện",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1773-kinh-duy-ma-cat-thuviensach.vn.mp3?t=1721",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:28:41 03/14: Phẩm Đệ Tử",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1773-kinh-duy-ma-cat-thuviensach.vn.mp3?t=3134",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:52:14 04/14: Phẩm Bồ Tát",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1773-kinh-duy-ma-cat-thuviensach.vn.mp3?t=4120",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:08:40 05/14: Phẩm Văn Thù Sư Lợi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1773-kinh-duy-ma-cat-thuviensach.vn.mp3?t=5048",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:24:08 06/14: Phẩm Bất Tư Nghị",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1773-kinh-duy-ma-cat-thuviensach.vn.mp3?t=5720",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:35:20 07/14: Phẩm Quán Chúng Sanh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1773-kinh-duy-ma-cat-thuviensach.vn.mp3?t=6823",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:53:43 08/14: Phẩm Phật Đạo",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1773-kinh-duy-ma-cat-thuviensach.vn.mp3?t=7574",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:06:14 09/14: Phẩm Vào Pháp Môn Không Hai",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1773-kinh-duy-ma-cat-thuviensach.vn.mp3?t=8187",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:16:27 10/14: Phẩm Phật Hương Tích",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1773-kinh-duy-ma-cat-thuviensach.vn.mp3?t=9041",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:30:41 11/14: Phẩm Hạnh Bồ Tát",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1773-kinh-duy-ma-cat-thuviensach.vn.mp3?t=9844",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:44:04 12/14: Phẩm Thấy Phật A Súc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1773-kinh-duy-ma-cat-thuviensach.vn.mp3?t=10451",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:54:11 13/14: Phẩm Pháp Cúng Dường",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1773-kinh-duy-ma-cat-thuviensach.vn.mp3?t=11034",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03:03:54 14/14: Phẩm Chúc Lụy",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/1773-kinh-duy-ma-cat-thuviensach.vn.mp3?t=0",
+    "title" : "00:00:00 01/14: Phẩm Phật Quốc",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1773-kinh-duy-ma-cat-thuviensach.vn.mp3?t=1246",
+    "title" : "00:20:46 02/14: Phẩm Phương Tiện",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1773-kinh-duy-ma-cat-thuviensach.vn.mp3?t=1721",
+    "title" : "00:28:41 03/14: Phẩm Đệ Tử",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1773-kinh-duy-ma-cat-thuviensach.vn.mp3?t=3134",
+    "title" : "00:52:14 04/14: Phẩm Bồ Tát",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1773-kinh-duy-ma-cat-thuviensach.vn.mp3?t=4120",
+    "title" : "01:08:40 05/14: Phẩm Văn Thù Sư Lợi",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1773-kinh-duy-ma-cat-thuviensach.vn.mp3?t=5048",
+    "title" : "01:24:08 06/14: Phẩm Bất Tư Nghị",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1773-kinh-duy-ma-cat-thuviensach.vn.mp3?t=5720",
+    "title" : "01:35:20 07/14: Phẩm Quán Chúng Sanh",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1773-kinh-duy-ma-cat-thuviensach.vn.mp3?t=6823",
+    "title" : "01:53:43 08/14: Phẩm Phật Đạo",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1773-kinh-duy-ma-cat-thuviensach.vn.mp3?t=7574",
+    "title" : "02:06:14 09/14: Phẩm Vào Pháp Môn Không Hai",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1773-kinh-duy-ma-cat-thuviensach.vn.mp3?t=8187",
+    "title" : "02:16:27 10/14: Phẩm Phật Hương Tích",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1773-kinh-duy-ma-cat-thuviensach.vn.mp3?t=9041",
+    "title" : "02:30:41 11/14: Phẩm Hạnh Bồ Tát",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1773-kinh-duy-ma-cat-thuviensach.vn.mp3?t=9844",
+    "title" : "02:44:04 12/14: Phẩm Thấy Phật A Súc",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1773-kinh-duy-ma-cat-thuviensach.vn.mp3?t=10451",
+    "title" : "02:54:11 13/14: Phẩm Pháp Cúng Dường",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1773-kinh-duy-ma-cat-thuviensach.vn.mp3?t=11034",
+    "title" : "03:03:54 14/14: Phẩm Chúc Lụy",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

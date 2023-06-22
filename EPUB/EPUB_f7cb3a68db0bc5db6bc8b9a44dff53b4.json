@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/101-cach-hieu-qua-de-su-dung-luat-hap-dan-7916.html",
+    "title" : "101 CÁCH HIỆU QUẢ ĐỂ SỬ DỤNG LUẬT HẤP DẪN",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Steve G. Jones",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Luật hấp dẫn là câu trả lời của bạn cho vô số câu hỏi và là giải pháp cho bất kỳ và mọi vấn đề. Nó rộng lớn và mạnh mẽ đến mức khó có thể biết bắt đầu từ đâu khi sử dụng định luật kỳ diệu này. Nhiều người thường nghĩ đến việc thu hút thành công mà không thực sự biết ý nghĩa của nó. Và nếu không có sự chắc chắn thì rất khó để thu hút chính xác bất cứ thứ gì. Vì vậy, cuối cùng bạn có thể thu hút những thứ mà bạn không thực sự muốn chút nào! Đó là lý do tại sao 101 cách mạnh mẽ này sẽ giúp bạn bắt đầu hoặc thậm chí tạo động lực trên hành trình của bạn với Luật hấp dẫn.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-22",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/EPUB/EPUB_f7cb3a68db0bc5db6bc8b9a44dff53b4.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/IMAGE/IMAGE_f7cb3a68db0bc5db6bc8b9a44dff53b4.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/7916-101-cach-hieu-qua-de-su-dung-luat-hap-dan-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/7916-101-cach-hieu-qua-de-su-dung-luat-hap-dan-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

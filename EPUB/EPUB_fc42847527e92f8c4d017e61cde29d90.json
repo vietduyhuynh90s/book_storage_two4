@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/kinh-vu-lan-bon-vu-lan-bao-hieu-14065.html",
+    "title" : "KINH VU LAN BỒN - VU LAN BÁO HIẾU",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Thích Nhật Từ",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Kinh Vu-lan Báo Hiếu là tên gọi tắt của Kinh Vu-lan và Kinh Báo Ân Cha Mẹ, dạy về đạo hiếu thảo của Phật giáo theo truyền thống Bắc tông. Hai tụng bản trong nghi thức này là bản dịch song thất lục bát của HT. Thích Huệ Đăng, mà phần lớn Tăng Ni và Phật tử đều thuộc lòng. Nghi thức được biên soan gồm ba phần: Phần dẫn nhập, phần Chánh kinh và phần hồi hướng. Đây là nghi thức thuần Việt có nhiều bài sám nguyện, thường đọc tụng suốt mùa Vu-lan tháng bảy như là tháng báo hiếu của người con Phật. Nhưng thật ra kinh này có thể được đọc tụng hàng ngày để hồi hướng công đức cho cha mẹ hiện tiền, đồng thời thắp sáng truyền thống hiếu đạo cho con cháu. Mục Lục Lời nói đầu Phần Nghi Thức Dẫn Nhập Nguyện Hương Tán Phật và Đảnh Lễ Tam Bảo Tán Hương Phát Nguyện Trì Kinh Tán Dương Giáo Pháp Phần Chánh Kinh 6. Phật Nói Kinh Vu Lan Bồn 7. Phật Nói Kinh Báo Hiếu Công Ơn Cha Mẹ Phần Sám Nguyện Và Hồi Hướng 8. Kinh Tinh Hoa Trí Tuệ 9. Niệm Phật 10-A. Sám Mười Ân Đức Của Mẹ 10-B. Sám Vu-lan 10-C. Sám Bốn Ơn 10-D. Sám Tống Táng 10-E. Sám Niệm Phật 10-F. Sám Nhất Tâm 10-G. Sám Phát Nguyện 11. Hồi Hướng Công Đức 12. Phục Nguyện 13. Đảnh Lễ Ba Ngôi Báu</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-22",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/EPUB/EPUB_fc42847527e92f8c4d017e61cde29d90.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/IMAGE/IMAGE_fc42847527e92f8c4d017e61cde29d90.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14065-kinh-vu-lan-bon-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14065-kinh-vu-lan-bon-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/buoi-sang-bong-toi-co-don-14029.html",
+    "title" : "BUỔI SÁNG BÓNG TỐI CÔ ĐƠN",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Quỳnh Dao",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Khởi Bội Thanh (nữ) và Hạ Mộng Can (nam) gặp nhau trong một buổi tiệc. Thanh đã có chồng - Phạm Bá Nam nhưng cô bị vô sinh. Can cũng đã có vợ và 2 đứa con nhỏ. Rồi họ yêu nhau. Can giúp Thanh thoát khỏi tay người chồng độc ác, nhưng anh lại không nỡ li dị người vợ Mỹ Thuyên hiền lành. Thanh sống cùng Can trong sự đàm tiếu. Mỹ Thuyên nghe lời người chị và anh rể độc ác đòi đâm đơn kiện Thanh tội phá hoại gia cang, Can phải bỏ một số tiền lớn cho tên anh rể để mua lại tờ đơn, hết tờ này đến tờ khác, khiến công ty xuống dốc. Bá Nam thường gọi điện nhục mạ Thanh. 2 đứa con Can chán ghét, Mỹ Thuyên đau khổ. Đứa con gái của Can sau một lần mắng Thanh xong bỏ chạy đã té xuống dốc, phải vào bệnh viện. Thanh thấy mình là nguồn cơ tội lỗi nên đã bỏ đi. Kết thúc mở, gia đình Can đồng ý chấp nhận Thanh nhưng cô đã bỏ đi. Tìm hơn một tuần, Can nhìn thấy chiếc xe cùng với khăn tay của Thanh trên bãi biển, dưới lớp cát là mảnh vỏ sò tím - kỷ vật của hai người, không rõ Thanh có phải chăng đã trầm mình xuống biển.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-22",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/EPUB/EPUB_55f709305e69daf5d621447e2139f86c.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/IMAGE/IMAGE_55f709305e69daf5d621447e2139f86c.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14029-buoi-sang-bong-toi-co-don-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14029-buoi-sang-bong-toi-co-don-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
