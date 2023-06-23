@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/rebecca-o-trang-trai-suoi-nang-14079.html",
+    "title" : "REBECCA Ở TRANG TRẠI SUỐI NẮNG",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Kate Douglas Wiggin",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>“Tuyệt vời, ấm áp và đáng đọc” - Mark Twain Cô bé Rebecca 11 tuổi thông minh, nhanh miệng, vui tính và hồn nhiên được mẹ gửi đến ở với hai người dì ở thị trấn Riverboro. Giờ thì cô bé phải bắt đầu làm quen với một cuộc sống mới, trường học, bạn bè, những người hàng xóm mới. Và trên hết là bà dì khó tính lúc nào cũng tìm cách soi lỗi của Rebecca. Liệu những bộ quần áo đẹp và trường học có đáng để cô bé mơ mộng giàu tưởng tượng ấy phải hi sinh, hay sẽ khiến cô bé tìm cách quay trở về Trang Trại Suối Nắng? Rebecca Ở Trang Trại Suối Nắng là cuốn tiểu thuyết thiếu nhi kinh điển sẽ đưa các em vào cuộc khám phá trải nghiệm tuyệt vời về con người và vùng quê nước Mỹ thế kỷ XIX. Đây thực sự là một tác phẩm hấp dẫn và có sức lôi cuốn mạnh mẽ, được nhiều tầng lớp độc giả yêu thích từ nhiều thập kỷ qua.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-23",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/EPUB/EPUB_7b87be490682ac7c9aa099a2a8b051dd.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/IMAGE/IMAGE_7b87be490682ac7c9aa099a2a8b051dd.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14079-rebecca-o-trang-trai-suoi-nang-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14079-rebecca-o-trang-trai-suoi-nang-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
