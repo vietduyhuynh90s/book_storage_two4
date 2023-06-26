@@ -1,0 +1,65 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/chuyen-do-ve-am-phu.html",
+    "title" : "Chuyến đò về âm phủ",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Huỳnh Anh Nguyễn",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/EPUB/EPUB_5f3216d80957eb42f52c5ec4274ad6b3.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/IMAGE/IMAGE_5f3216d80957eb42f52c5ec4274ad6b3.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://ia801506.us.archive.org/25/items/chuyen-do-ve-am-phu-full/ChuyenDoVeAmPhu_01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Chuyến đò về âm phủ tập 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://ia801506.us.archive.org/25/items/chuyen-do-ve-am-phu-full/ChuyenDoVeAmPhu_02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Chuyến đò về âm phủ tập 2",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://ia801506.us.archive.org/25/items/chuyen-do-ve-am-phu-full/ChuyenDoVeAmPhu_01.mp3",
+    "title" : "Chuyến đò về âm phủ tập 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://ia801506.us.archive.org/25/items/chuyen-do-ve-am-phu-full/ChuyenDoVeAmPhu_02.mp3",
+    "title" : "Chuyến đò về âm phủ tập 2",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

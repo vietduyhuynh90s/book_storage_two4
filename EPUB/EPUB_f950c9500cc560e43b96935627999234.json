@@ -1,0 +1,77 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/mien-tay-nhung-ngay-kinh-di.html",
+    "title" : "Miền Tây Những Ngày Kinh Dị",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Đại Thất Tử",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-26",
+    "duration" : 11380,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/EPUB/EPUB_f950c9500cc560e43b96935627999234.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/IMAGE/IMAGE_f950c9500cc560e43b96935627999234.webp",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/mien-tay-nhung-ngay-kinh-di/mien-tay-nhung-ngay-kinh-di.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4155,
+    "title" : "mien-tay-nhung-ngay-kinh-di",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mien-tay-nhung-ngay-kinh-di/mien-tay-nhung-ngay-kinh-di-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3417,
+    "title" : "mien-tay-nhung-ngay-kinh-di-tap-2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mien-tay-nhung-ngay-kinh-di/mien-tay-nhung-ngay-kinh-di-tap-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3808,
+    "title" : "mien-tay-nhung-ngay-kinh-di-tap-3",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/mien-tay-nhung-ngay-kinh-di/mien-tay-nhung-ngay-kinh-di.mp3",
+    "title" : "mien-tay-nhung-ngay-kinh-di",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mien-tay-nhung-ngay-kinh-di/mien-tay-nhung-ngay-kinh-di-tap-2.mp3",
+    "title" : "mien-tay-nhung-ngay-kinh-di-tap-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mien-tay-nhung-ngay-kinh-di/mien-tay-nhung-ngay-kinh-di-tap-3.mp3",
+    "title" : "mien-tay-nhung-ngay-kinh-di-tap-3",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

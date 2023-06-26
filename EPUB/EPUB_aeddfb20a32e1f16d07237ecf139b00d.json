@@ -1,0 +1,65 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/tron-tim-voi-quy.html",
+    "title" : "Trốn tìm với quỷ",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Âm Sát",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/EPUB/EPUB_aeddfb20a32e1f16d07237ecf139b00d.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/IMAGE/IMAGE_aeddfb20a32e1f16d07237ecf139b00d.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://ia801503.us.archive.org/27/items/tron-tim-voi-quy/TronTimVoiQuy_01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trốn tìm với quỷ tập 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://ia801503.us.archive.org/27/items/tron-tim-voi-quy/TronTimVoiQuy_02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trốn tìm với quỷ tập 2",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://ia801503.us.archive.org/27/items/tron-tim-voi-quy/TronTimVoiQuy_01.mp3",
+    "title" : "Trốn tìm với quỷ tập 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://ia801503.us.archive.org/27/items/tron-tim-voi-quy/TronTimVoiQuy_02.mp3",
+    "title" : "Trốn tìm với quỷ tập 2",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

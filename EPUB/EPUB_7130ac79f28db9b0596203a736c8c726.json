@@ -1,0 +1,113 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/chiec-vay-quy-am.html",
+    "title" : "Chiếc Váy Quỷ Ám",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Trần Đan Linh",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-26",
+    "duration" : 22164,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/EPUB/EPUB_7130ac79f28db9b0596203a736c8c726.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/IMAGE/IMAGE_7130ac79f28db9b0596203a736c8c726.webp",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/chiec-vay-quy-am/chiec-vay-quy-am-tap-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3763,
+    "title" : "chiec-vay-quy-am-tap-1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chiec-vay-quy-am/chiec-vay-quy-am-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3679,
+    "title" : "chiec-vay-quy-am-tap-2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chiec-vay-quy-am/chiec-vay-quy-am-tap-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3658,
+    "title" : "chiec-vay-quy-am-tap-3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chiec-vay-quy-am/chiec-vay-quy-am-tap-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3458,
+    "title" : "chiec-vay-quy-am-tap-4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chiec-vay-quy-am/chiec-vay-quy-am-tap-5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3602,
+    "title" : "chiec-vay-quy-am-tap-5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chiec-vay-quy-am/chiec-vay-quy-am-tap-6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4004,
+    "title" : "chiec-vay-quy-am-tap-6",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/chiec-vay-quy-am/chiec-vay-quy-am-tap-1.mp3",
+    "title" : "chiec-vay-quy-am-tap-1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chiec-vay-quy-am/chiec-vay-quy-am-tap-2.mp3",
+    "title" : "chiec-vay-quy-am-tap-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chiec-vay-quy-am/chiec-vay-quy-am-tap-3.mp3",
+    "title" : "chiec-vay-quy-am-tap-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chiec-vay-quy-am/chiec-vay-quy-am-tap-4.mp3",
+    "title" : "chiec-vay-quy-am-tap-4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chiec-vay-quy-am/chiec-vay-quy-am-tap-5.mp3",
+    "title" : "chiec-vay-quy-am-tap-5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chiec-vay-quy-am/chiec-vay-quy-am-tap-6.mp3",
+    "title" : "chiec-vay-quy-am-tap-6",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

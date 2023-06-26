@@ -1,0 +1,77 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/thay-nham-tim-quy.html",
+    "title" : "Thay Nhầm Tim Quỷ",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Trần Linh",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/EPUB/EPUB_5e222a633027198fbc37ec57f8ace492.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/IMAGE/IMAGE_5e222a633027198fbc37ec57f8ace492.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://ia801508.us.archive.org/6/items/thay-nham-tim-quy/thay-nham-tim-quy-tap-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Thay nhầm tim quỷ tập 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://ia801508.us.archive.org/6/items/thay-nham-tim-quy/thay-nham-tim-quy-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Thay nhầm tim quỷ tập 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://ia801508.us.archive.org/6/items/thay-nham-tim-quy/thay-nham-tim-quy-tap-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Thay nhầm tim quỷ tập 3",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://ia801508.us.archive.org/6/items/thay-nham-tim-quy/thay-nham-tim-quy-tap-1.mp3",
+    "title" : "Thay nhầm tim quỷ tập 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://ia801508.us.archive.org/6/items/thay-nham-tim-quy/thay-nham-tim-quy-tap-2.mp3",
+    "title" : "Thay nhầm tim quỷ tập 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://ia801508.us.archive.org/6/items/thay-nham-tim-quy/thay-nham-tim-quy-tap-3.mp3",
+    "title" : "Thay nhầm tim quỷ tập 3",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,65 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/dem-tren-dong-song.html",
+    "title" : "Đêm trên dòng sông",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Phượng Trà",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/EPUB/EPUB_9429beb9f056976e08bd923d718c015f.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/IMAGE/IMAGE_9429beb9f056976e08bd923d718c015f.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://ia801406.us.archive.org/12/items/dem-tren-dong-song/DemTrenDongSong_01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Đêm trên dòng sông tập 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://ia801406.us.archive.org/12/items/dem-tren-dong-song/DemTrenDongSong_02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Đêm trên dòng sông tập 2",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://ia801406.us.archive.org/12/items/dem-tren-dong-song/DemTrenDongSong_01.mp3",
+    "title" : "Đêm trên dòng sông tập 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://ia801406.us.archive.org/12/items/dem-tren-dong-song/DemTrenDongSong_02.mp3",
+    "title" : "Đêm trên dòng sông tập 2",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

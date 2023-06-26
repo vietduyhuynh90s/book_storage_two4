@@ -1,0 +1,65 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/linh-nhi.html",
+    "title" : "Linh Nhi",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Âm Sát",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/EPUB/EPUB_b4b1e859b7aadd90ae4a32b1c4b2861d.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/IMAGE/IMAGE_b4b1e859b7aadd90ae4a32b1c4b2861d.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://ia801508.us.archive.org/32/items/linh-nhi/LinhNhi_01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Linh Nhi tập 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://ia801508.us.archive.org/32/items/linh-nhi/LinhNhi_02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Linh Nhi tập 2",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://ia801508.us.archive.org/32/items/linh-nhi/LinhNhi_01.mp3",
+    "title" : "Linh Nhi tập 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://ia801508.us.archive.org/32/items/linh-nhi/LinhNhi_02.mp3",
+    "title" : "Linh Nhi tập 2",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

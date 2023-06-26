@@ -1,0 +1,65 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/khi-tao-den-nha-thi-may-la-khach.html",
+    "title" : "Khi tao đến nhà thì mày là khách",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Ngọc Sơn",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/EPUB/EPUB_336f2b08597d4e284a5536478d6a6fbe.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/IMAGE/IMAGE_336f2b08597d4e284a5536478d6a6fbe.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://ia801406.us.archive.org/9/items/khi-tao-den-nha-thi-may-la-khach/KhiTaoDenNha_ThiMayLaKhach_01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Khi tao đến nhà thì mày là khách tập 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://ia801406.us.archive.org/9/items/khi-tao-den-nha-thi-may-la-khach/KhiTaoDenNha_ThiMayLaKhach_02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Khi tao đến nhà thì mày là khách tập 2",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://ia801406.us.archive.org/9/items/khi-tao-den-nha-thi-may-la-khach/KhiTaoDenNha_ThiMayLaKhach_01.mp3",
+    "title" : "Khi tao đến nhà thì mày là khách tập 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://ia801406.us.archive.org/9/items/khi-tao-den-nha-thi-may-la-khach/KhiTaoDenNha_ThiMayLaKhach_02.mp3",
+    "title" : "Khi tao đến nhà thì mày là khách tập 2",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
