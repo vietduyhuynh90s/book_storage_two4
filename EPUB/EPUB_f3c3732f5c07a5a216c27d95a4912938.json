@@ -1,0 +1,77 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/toi-ac-khong-dung-thu.html",
+    "title" : "Tội Ác Không Dung Thứ",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Hoàng Dung",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-26",
+    "duration" : 10714,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/EPUB/EPUB_f3c3732f5c07a5a216c27d95a4912938.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/IMAGE/IMAGE_f3c3732f5c07a5a216c27d95a4912938.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/toi-ac-khong-dung-thu/toi-ac-khong-dung-thu.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3709,
+    "title" : "toi-ac-khong-dung-thu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/toi-ac-khong-dung-thu/toi-ac-khong-dung-thu-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3705,
+    "title" : "toi-ac-khong-dung-thu-tap-2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/toi-ac-khong-dung-thu/toi-ac-khong-dung-thu-tap-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3300,
+    "title" : "toi-ac-khong-dung-thu-tap-3",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/toi-ac-khong-dung-thu/toi-ac-khong-dung-thu.mp3",
+    "title" : "toi-ac-khong-dung-thu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/toi-ac-khong-dung-thu/toi-ac-khong-dung-thu-tap-2.mp3",
+    "title" : "toi-ac-khong-dung-thu-tap-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/toi-ac-khong-dung-thu/toi-ac-khong-dung-thu-tap-3.mp3",
+    "title" : "toi-ac-khong-dung-thu-tap-3",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

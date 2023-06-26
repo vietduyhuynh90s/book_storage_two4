@@ -1,0 +1,125 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/manh-dat-trung-tang.html",
+    "title" : "Mảnh Đất Trùng Tang",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Trần Linh",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-26",
+    "duration" : 25675,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/EPUB/EPUB_44fcccc1fada13e6dce8c49b4887950d.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/IMAGE/IMAGE_44fcccc1fada13e6dce8c49b4887950d.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/manh-dat-trung-tang/manh-dat-trung-tang.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3702,
+    "title" : "manh-dat-trung-tang",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/manh-dat-trung-tang/manh-dat-trung-tang-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3619,
+    "title" : "manh-dat-trung-tang-tap-2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/manh-dat-trung-tang/manh-dat-trung-tang-tap-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3627,
+    "title" : "manh-dat-trung-tang-tap-3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/manh-dat-trung-tang/manh-dat-trung-tang-tap-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3634,
+    "title" : "manh-dat-trung-tang-tap-4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/manh-dat-trung-tang/manh-dat-trung-tang-tap-5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3626,
+    "title" : "manh-dat-trung-tang-tap-5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/manh-dat-trung-tang/manh-dat-trung-tang-tap-6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3719,
+    "title" : "manh-dat-trung-tang-tap-6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/manh-dat-trung-tang/manh-dat-trung-tang-tap-7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3748,
+    "title" : "manh-dat-trung-tang-tap-7",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/manh-dat-trung-tang/manh-dat-trung-tang.mp3",
+    "title" : "manh-dat-trung-tang",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/manh-dat-trung-tang/manh-dat-trung-tang-tap-2.mp3",
+    "title" : "manh-dat-trung-tang-tap-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/manh-dat-trung-tang/manh-dat-trung-tang-tap-3.mp3",
+    "title" : "manh-dat-trung-tang-tap-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/manh-dat-trung-tang/manh-dat-trung-tang-tap-4.mp3",
+    "title" : "manh-dat-trung-tang-tap-4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/manh-dat-trung-tang/manh-dat-trung-tang-tap-5.mp3",
+    "title" : "manh-dat-trung-tang-tap-5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/manh-dat-trung-tang/manh-dat-trung-tang-tap-6.mp3",
+    "title" : "manh-dat-trung-tang-tap-6",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/manh-dat-trung-tang/manh-dat-trung-tang-tap-7.mp3",
+    "title" : "manh-dat-trung-tang-tap-7",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

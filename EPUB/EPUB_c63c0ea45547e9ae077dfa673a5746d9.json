@@ -1,0 +1,65 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/g-iet-nguoi-yeu-dang-mang-thai.html",
+    "title" : "G.iết Người Yêu Đang Mang Thai",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Trần Linh",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-26",
+    "duration" : 7050,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/EPUB/EPUB_c63c0ea45547e9ae077dfa673a5746d9.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/IMAGE/IMAGE_c63c0ea45547e9ae077dfa673a5746d9.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/g-iet-nguoi-yeu-dang-mang-thai/g-iet-nguoi-yeu-dang-mang-thai.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3393,
+    "title" : "g-iet-nguoi-yeu-dang-mang-thai",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/g-iet-nguoi-yeu-dang-mang-thai/g-iet-nguoi-yeu-dang-mang-thai-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3657,
+    "title" : "g-iet-nguoi-yeu-dang-mang-thai-tap-2",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/g-iet-nguoi-yeu-dang-mang-thai/g-iet-nguoi-yeu-dang-mang-thai.mp3",
+    "title" : "g-iet-nguoi-yeu-dang-mang-thai",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/g-iet-nguoi-yeu-dang-mang-thai/g-iet-nguoi-yeu-dang-mang-thai-tap-2.mp3",
+    "title" : "g-iet-nguoi-yeu-dang-mang-thai-tap-2",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

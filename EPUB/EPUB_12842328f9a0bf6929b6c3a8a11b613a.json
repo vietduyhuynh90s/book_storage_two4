@@ -1,0 +1,137 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/nang-dau-ky-bi.html",
+    "title" : "Nàng Dâu Kỳ Bí",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Uyển Nguyệt",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-26",
+    "duration" : 30213,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/EPUB/EPUB_12842328f9a0bf6929b6c3a8a11b613a.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/IMAGE/IMAGE_12842328f9a0bf6929b6c3a8a11b613a.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/nang-dau-ky-bi/nang-dau-ky-bi.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3835,
+    "title" : "nang-dau-ky-bi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nang-dau-ky-bi/nang-dau-ky-bi-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3805,
+    "title" : "nang-dau-ky-bi-tap-2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nang-dau-ky-bi/nang-dau-ky-bi-tap-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3681,
+    "title" : "nang-dau-ky-bi-tap-3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nang-dau-ky-bi/nang-dau-ky-bi-tap-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3642,
+    "title" : "nang-dau-ky-bi-tap-4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nang-dau-ky-bi/nang-dau-ky-bi-tap-5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3487,
+    "title" : "nang-dau-ky-bi-tap-5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nang-dau-ky-bi/nang-dau-ky-bi-tap-6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3933,
+    "title" : "nang-dau-ky-bi-tap-6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nang-dau-ky-bi/nang-dau-ky-bi-tap-7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3788,
+    "title" : "nang-dau-ky-bi-tap-7",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nang-dau-ky-bi/nang-dau-ky-bi-tap-8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4042,
+    "title" : "nang-dau-ky-bi-tap-8",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/nang-dau-ky-bi/nang-dau-ky-bi.mp3",
+    "title" : "nang-dau-ky-bi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nang-dau-ky-bi/nang-dau-ky-bi-tap-2.mp3",
+    "title" : "nang-dau-ky-bi-tap-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nang-dau-ky-bi/nang-dau-ky-bi-tap-3.mp3",
+    "title" : "nang-dau-ky-bi-tap-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nang-dau-ky-bi/nang-dau-ky-bi-tap-4.mp3",
+    "title" : "nang-dau-ky-bi-tap-4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nang-dau-ky-bi/nang-dau-ky-bi-tap-5.mp3",
+    "title" : "nang-dau-ky-bi-tap-5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nang-dau-ky-bi/nang-dau-ky-bi-tap-6.mp3",
+    "title" : "nang-dau-ky-bi-tap-6",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nang-dau-ky-bi/nang-dau-ky-bi-tap-7.mp3",
+    "title" : "nang-dau-ky-bi-tap-7",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nang-dau-ky-bi/nang-dau-ky-bi-tap-8.mp3",
+    "title" : "nang-dau-ky-bi-tap-8",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

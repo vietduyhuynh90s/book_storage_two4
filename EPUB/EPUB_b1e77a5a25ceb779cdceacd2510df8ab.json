@@ -1,0 +1,113 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/oan-hon-hoa-thuy-quy.html",
+    "title" : "Oan Hồn Hóa Thủy Quỷ",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Cổ Phong Sĩ",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-26",
+    "duration" : 23570,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/EPUB/EPUB_b1e77a5a25ceb779cdceacd2510df8ab.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/IMAGE/IMAGE_b1e77a5a25ceb779cdceacd2510df8ab.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/oan-hon-hoa-thuy-quy/oan-hon-hoa-thuy-quy.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3853,
+    "title" : "oan-hon-hoa-thuy-quy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/oan-hon-hoa-thuy-quy/oan-hon-hoa-thuy-quy-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3601,
+    "title" : "oan-hon-hoa-thuy-quy-tap-2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/oan-hon-hoa-thuy-quy/oan-hon-hoa-thuy-quy-tap-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3927,
+    "title" : "oan-hon-hoa-thuy-quy-tap-3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/oan-hon-hoa-thuy-quy/oan-hon-hoa-thuy-quy-tap-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3963,
+    "title" : "oan-hon-hoa-thuy-quy-tap-4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/oan-hon-hoa-thuy-quy/oan-hon-hoa-thuy-quy-tap-5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4111,
+    "title" : "oan-hon-hoa-thuy-quy-tap-5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/oan-hon-hoa-thuy-quy/oan-hon-hoa-thuy-quy-tap-6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4115,
+    "title" : "oan-hon-hoa-thuy-quy-tap-6",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/oan-hon-hoa-thuy-quy/oan-hon-hoa-thuy-quy.mp3",
+    "title" : "oan-hon-hoa-thuy-quy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/oan-hon-hoa-thuy-quy/oan-hon-hoa-thuy-quy-tap-2.mp3",
+    "title" : "oan-hon-hoa-thuy-quy-tap-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/oan-hon-hoa-thuy-quy/oan-hon-hoa-thuy-quy-tap-3.mp3",
+    "title" : "oan-hon-hoa-thuy-quy-tap-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/oan-hon-hoa-thuy-quy/oan-hon-hoa-thuy-quy-tap-4.mp3",
+    "title" : "oan-hon-hoa-thuy-quy-tap-4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/oan-hon-hoa-thuy-quy/oan-hon-hoa-thuy-quy-tap-5.mp3",
+    "title" : "oan-hon-hoa-thuy-quy-tap-5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/oan-hon-hoa-thuy-quy/oan-hon-hoa-thuy-quy-tap-6.mp3",
+    "title" : "oan-hon-hoa-thuy-quy-tap-6",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
