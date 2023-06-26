@@ -1,0 +1,641 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/bat-hon-su-ngheo-nhat.html",
+    "title" : "Bắt Hồn Sư Nghèo Nhất",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Tả Mộc Trà Trà Quân",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-26",
+    "duration" : 186993,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/EPUB/EPUB_c6970be7e8281a7fb1c39e429d4fb754.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/IMAGE/IMAGE_c6970be7e8281a7fb1c39e429d4fb754.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/bat-hon-su-ngheo-nhat/bat-hon-su-ngheo-nhat-tap-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4833,
+    "title" : "bat-hon-su-ngheo-nhat-tap-1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-hon-su-ngheo-nhat/bat-hon-su-ngheo-nhat-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4045,
+    "title" : "bat-hon-su-ngheo-nhat-tap-2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-hon-su-ngheo-nhat/bat-hon-su-ngheo-nhat-tap-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4959,
+    "title" : "bat-hon-su-ngheo-nhat-tap-3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-hon-su-ngheo-nhat/bat-hon-su-ngheo-nhat-tap-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5064,
+    "title" : "bat-hon-su-ngheo-nhat-tap-4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-hon-su-ngheo-nhat/bat-hon-su-ngheo-nhat-tap-5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3747,
+    "title" : "bat-hon-su-ngheo-nhat-tap-5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-hon-su-ngheo-nhat/bat-hon-su-ngheo-nhat-tap-6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4706,
+    "title" : "bat-hon-su-ngheo-nhat-tap-6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-hon-su-ngheo-nhat/bat-hon-su-ngheo-nhat-tap-7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3677,
+    "title" : "bat-hon-su-ngheo-nhat-tap-7",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-hon-su-ngheo-nhat/bat-hon-su-ngheo-nhat-tap-8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3173,
+    "title" : "bat-hon-su-ngheo-nhat-tap-8",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-hon-su-ngheo-nhat/bat-hon-su-ngheo-nhat-tap-9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3565,
+    "title" : "bat-hon-su-ngheo-nhat-tap-9",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-hon-su-ngheo-nhat/bat-hon-su-ngheo-nhat-tap-10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4056,
+    "title" : "bat-hon-su-ngheo-nhat-tap-10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-hon-su-ngheo-nhat/bat-hon-su-ngheo-nhat-tap-11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3185,
+    "title" : "bat-hon-su-ngheo-nhat-tap-11",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-hon-su-ngheo-nhat/bat-hon-su-ngheo-nhat-tap-12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3083,
+    "title" : "bat-hon-su-ngheo-nhat-tap-12",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-hon-su-ngheo-nhat/bat-hon-su-ngheo-nhat-tap-13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2401,
+    "title" : "bat-hon-su-ngheo-nhat-tap-13",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-hon-su-ngheo-nhat/bat-hon-su-ngheo-nhat-tap-14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2579,
+    "title" : "bat-hon-su-ngheo-nhat-tap-14",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-hon-su-ngheo-nhat/bat-hon-su-ngheo-nhat-tap-15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2520,
+    "title" : "bat-hon-su-ngheo-nhat-tap-15",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-hon-su-ngheo-nhat/bat-hon-su-ngheo-nhat-tap-16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2284,
+    "title" : "bat-hon-su-ngheo-nhat-tap-16",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-hon-su-ngheo-nhat/bat-hon-su-ngheo-nhat-tap-17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4736,
+    "title" : "bat-hon-su-ngheo-nhat-tap-17",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-hon-su-ngheo-nhat/bat-hon-su-ngheo-nhat-tap-18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3932,
+    "title" : "bat-hon-su-ngheo-nhat-tap-18",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-hon-su-ngheo-nhat/bat-hon-su-ngheo-nhat-tap-19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4213,
+    "title" : "bat-hon-su-ngheo-nhat-tap-19",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-hon-su-ngheo-nhat/bat-hon-su-ngheo-nhat-tap-20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3948,
+    "title" : "bat-hon-su-ngheo-nhat-tap-20",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-hon-su-ngheo-nhat/bat-hon-su-ngheo-nhat-tap-21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2138,
+    "title" : "bat-hon-su-ngheo-nhat-tap-21",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-hon-su-ngheo-nhat/bat-hon-su-ngheo-nhat-tap-22.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2867,
+    "title" : "bat-hon-su-ngheo-nhat-tap-22",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-hon-su-ngheo-nhat/bat-hon-su-ngheo-nhat-tap-23.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5713,
+    "title" : "bat-hon-su-ngheo-nhat-tap-23",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-hon-su-ngheo-nhat/bat-hon-su-ngheo-nhat-tap-24.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4387,
+    "title" : "bat-hon-su-ngheo-nhat-tap-24",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-hon-su-ngheo-nhat/bat-hon-su-ngheo-nhat-tap-25.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3830,
+    "title" : "bat-hon-su-ngheo-nhat-tap-25",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-hon-su-ngheo-nhat/bat-hon-su-ngheo-nhat-tap-26.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4300,
+    "title" : "bat-hon-su-ngheo-nhat-tap-26",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-hon-su-ngheo-nhat/bat-hon-su-ngheo-nhat-tap-27.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4141,
+    "title" : "bat-hon-su-ngheo-nhat-tap-27",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-hon-su-ngheo-nhat/bat-hon-su-ngheo-nhat-tap-28.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5064,
+    "title" : "bat-hon-su-ngheo-nhat-tap-28",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-hon-su-ngheo-nhat/bat-hon-su-ngheo-nhat-tap-29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2779,
+    "title" : "bat-hon-su-ngheo-nhat-tap-29",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-hon-su-ngheo-nhat/bat-hon-su-ngheo-nhat-tap-30.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2641,
+    "title" : "bat-hon-su-ngheo-nhat-tap-30",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-hon-su-ngheo-nhat/bat-hon-su-ngheo-nhat-tap-31.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4576,
+    "title" : "bat-hon-su-ngheo-nhat-tap-31",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-hon-su-ngheo-nhat/bat-hon-su-ngheo-nhat-tap-32.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2920,
+    "title" : "bat-hon-su-ngheo-nhat-tap-32",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-hon-su-ngheo-nhat/bat-hon-su-ngheo-nhat-tap-33.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2835,
+    "title" : "bat-hon-su-ngheo-nhat-tap-33",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-hon-su-ngheo-nhat/bat-hon-su-ngheo-nhat-tap-34.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4881,
+    "title" : "bat-hon-su-ngheo-nhat-tap-34",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-hon-su-ngheo-nhat/bat-hon-su-ngheo-nhat-tap-35.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5034,
+    "title" : "bat-hon-su-ngheo-nhat-tap-35",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-hon-su-ngheo-nhat/bat-hon-su-ngheo-nhat-tap-36.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3528,
+    "title" : "bat-hon-su-ngheo-nhat-tap-36",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-hon-su-ngheo-nhat/bat-hon-su-ngheo-nhat-tap-37.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3866,
+    "title" : "bat-hon-su-ngheo-nhat-tap-37",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-hon-su-ngheo-nhat/bat-hon-su-ngheo-nhat-tap-38.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5776,
+    "title" : "bat-hon-su-ngheo-nhat-tap-38",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-hon-su-ngheo-nhat/bat-hon-su-ngheo-nhat-tap-39.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4503,
+    "title" : "bat-hon-su-ngheo-nhat-tap-39",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-hon-su-ngheo-nhat/bat-hon-su-ngheo-nhat-tap-40.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3471,
+    "title" : "bat-hon-su-ngheo-nhat-tap-40",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-hon-su-ngheo-nhat/bat-hon-su-ngheo-nhat-tap-41.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3173,
+    "title" : "bat-hon-su-ngheo-nhat-tap-41",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-hon-su-ngheo-nhat/bat-hon-su-ngheo-nhat-tap-42.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4043,
+    "title" : "bat-hon-su-ngheo-nhat-tap-42",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-hon-su-ngheo-nhat/bat-hon-su-ngheo-nhat-tap-43.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3543,
+    "title" : "bat-hon-su-ngheo-nhat-tap-43",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-hon-su-ngheo-nhat/bat-hon-su-ngheo-nhat-tap-44.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2802,
+    "title" : "bat-hon-su-ngheo-nhat-tap-44",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-hon-su-ngheo-nhat/bat-hon-su-ngheo-nhat-tap-45.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4121,
+    "title" : "bat-hon-su-ngheo-nhat-tap-45",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-hon-su-ngheo-nhat/bat-hon-su-ngheo-nhat-tap-46.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3423,
+    "title" : "bat-hon-su-ngheo-nhat-tap-46",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-hon-su-ngheo-nhat/bat-hon-su-ngheo-nhat-tap-47.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3081,
+    "title" : "bat-hon-su-ngheo-nhat-tap-47",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-hon-su-ngheo-nhat/bat-hon-su-ngheo-nhat-tap-48.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2016,
+    "title" : "bat-hon-su-ngheo-nhat-tap-48",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-hon-su-ngheo-nhat/bat-hon-su-ngheo-nhat-tap-49.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2772,
+    "title" : "bat-hon-su-ngheo-nhat-tap-49",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-hon-su-ngheo-nhat/bat-hon-su-ngheo-nhat-tap-50.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4063,
+    "title" : "bat-hon-su-ngheo-nhat-tap-50",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/bat-hon-su-ngheo-nhat/bat-hon-su-ngheo-nhat-tap-1.mp3",
+    "title" : "bat-hon-su-ngheo-nhat-tap-1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-hon-su-ngheo-nhat/bat-hon-su-ngheo-nhat-tap-2.mp3",
+    "title" : "bat-hon-su-ngheo-nhat-tap-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-hon-su-ngheo-nhat/bat-hon-su-ngheo-nhat-tap-3.mp3",
+    "title" : "bat-hon-su-ngheo-nhat-tap-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-hon-su-ngheo-nhat/bat-hon-su-ngheo-nhat-tap-4.mp3",
+    "title" : "bat-hon-su-ngheo-nhat-tap-4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-hon-su-ngheo-nhat/bat-hon-su-ngheo-nhat-tap-5.mp3",
+    "title" : "bat-hon-su-ngheo-nhat-tap-5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-hon-su-ngheo-nhat/bat-hon-su-ngheo-nhat-tap-6.mp3",
+    "title" : "bat-hon-su-ngheo-nhat-tap-6",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-hon-su-ngheo-nhat/bat-hon-su-ngheo-nhat-tap-7.mp3",
+    "title" : "bat-hon-su-ngheo-nhat-tap-7",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-hon-su-ngheo-nhat/bat-hon-su-ngheo-nhat-tap-8.mp3",
+    "title" : "bat-hon-su-ngheo-nhat-tap-8",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-hon-su-ngheo-nhat/bat-hon-su-ngheo-nhat-tap-9.mp3",
+    "title" : "bat-hon-su-ngheo-nhat-tap-9",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-hon-su-ngheo-nhat/bat-hon-su-ngheo-nhat-tap-10.mp3",
+    "title" : "bat-hon-su-ngheo-nhat-tap-10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-hon-su-ngheo-nhat/bat-hon-su-ngheo-nhat-tap-11.mp3",
+    "title" : "bat-hon-su-ngheo-nhat-tap-11",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-hon-su-ngheo-nhat/bat-hon-su-ngheo-nhat-tap-12.mp3",
+    "title" : "bat-hon-su-ngheo-nhat-tap-12",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-hon-su-ngheo-nhat/bat-hon-su-ngheo-nhat-tap-13.mp3",
+    "title" : "bat-hon-su-ngheo-nhat-tap-13",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-hon-su-ngheo-nhat/bat-hon-su-ngheo-nhat-tap-14.mp3",
+    "title" : "bat-hon-su-ngheo-nhat-tap-14",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-hon-su-ngheo-nhat/bat-hon-su-ngheo-nhat-tap-15.mp3",
+    "title" : "bat-hon-su-ngheo-nhat-tap-15",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-hon-su-ngheo-nhat/bat-hon-su-ngheo-nhat-tap-16.mp3",
+    "title" : "bat-hon-su-ngheo-nhat-tap-16",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-hon-su-ngheo-nhat/bat-hon-su-ngheo-nhat-tap-17.mp3",
+    "title" : "bat-hon-su-ngheo-nhat-tap-17",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-hon-su-ngheo-nhat/bat-hon-su-ngheo-nhat-tap-18.mp3",
+    "title" : "bat-hon-su-ngheo-nhat-tap-18",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-hon-su-ngheo-nhat/bat-hon-su-ngheo-nhat-tap-19.mp3",
+    "title" : "bat-hon-su-ngheo-nhat-tap-19",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-hon-su-ngheo-nhat/bat-hon-su-ngheo-nhat-tap-20.mp3",
+    "title" : "bat-hon-su-ngheo-nhat-tap-20",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-hon-su-ngheo-nhat/bat-hon-su-ngheo-nhat-tap-21.mp3",
+    "title" : "bat-hon-su-ngheo-nhat-tap-21",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-hon-su-ngheo-nhat/bat-hon-su-ngheo-nhat-tap-22.mp3",
+    "title" : "bat-hon-su-ngheo-nhat-tap-22",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-hon-su-ngheo-nhat/bat-hon-su-ngheo-nhat-tap-23.mp3",
+    "title" : "bat-hon-su-ngheo-nhat-tap-23",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-hon-su-ngheo-nhat/bat-hon-su-ngheo-nhat-tap-24.mp3",
+    "title" : "bat-hon-su-ngheo-nhat-tap-24",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-hon-su-ngheo-nhat/bat-hon-su-ngheo-nhat-tap-25.mp3",
+    "title" : "bat-hon-su-ngheo-nhat-tap-25",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-hon-su-ngheo-nhat/bat-hon-su-ngheo-nhat-tap-26.mp3",
+    "title" : "bat-hon-su-ngheo-nhat-tap-26",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-hon-su-ngheo-nhat/bat-hon-su-ngheo-nhat-tap-27.mp3",
+    "title" : "bat-hon-su-ngheo-nhat-tap-27",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-hon-su-ngheo-nhat/bat-hon-su-ngheo-nhat-tap-28.mp3",
+    "title" : "bat-hon-su-ngheo-nhat-tap-28",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-hon-su-ngheo-nhat/bat-hon-su-ngheo-nhat-tap-29.mp3",
+    "title" : "bat-hon-su-ngheo-nhat-tap-29",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-hon-su-ngheo-nhat/bat-hon-su-ngheo-nhat-tap-30.mp3",
+    "title" : "bat-hon-su-ngheo-nhat-tap-30",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-hon-su-ngheo-nhat/bat-hon-su-ngheo-nhat-tap-31.mp3",
+    "title" : "bat-hon-su-ngheo-nhat-tap-31",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-hon-su-ngheo-nhat/bat-hon-su-ngheo-nhat-tap-32.mp3",
+    "title" : "bat-hon-su-ngheo-nhat-tap-32",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-hon-su-ngheo-nhat/bat-hon-su-ngheo-nhat-tap-33.mp3",
+    "title" : "bat-hon-su-ngheo-nhat-tap-33",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-hon-su-ngheo-nhat/bat-hon-su-ngheo-nhat-tap-34.mp3",
+    "title" : "bat-hon-su-ngheo-nhat-tap-34",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-hon-su-ngheo-nhat/bat-hon-su-ngheo-nhat-tap-35.mp3",
+    "title" : "bat-hon-su-ngheo-nhat-tap-35",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-hon-su-ngheo-nhat/bat-hon-su-ngheo-nhat-tap-36.mp3",
+    "title" : "bat-hon-su-ngheo-nhat-tap-36",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-hon-su-ngheo-nhat/bat-hon-su-ngheo-nhat-tap-37.mp3",
+    "title" : "bat-hon-su-ngheo-nhat-tap-37",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-hon-su-ngheo-nhat/bat-hon-su-ngheo-nhat-tap-38.mp3",
+    "title" : "bat-hon-su-ngheo-nhat-tap-38",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-hon-su-ngheo-nhat/bat-hon-su-ngheo-nhat-tap-39.mp3",
+    "title" : "bat-hon-su-ngheo-nhat-tap-39",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-hon-su-ngheo-nhat/bat-hon-su-ngheo-nhat-tap-40.mp3",
+    "title" : "bat-hon-su-ngheo-nhat-tap-40",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-hon-su-ngheo-nhat/bat-hon-su-ngheo-nhat-tap-41.mp3",
+    "title" : "bat-hon-su-ngheo-nhat-tap-41",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-hon-su-ngheo-nhat/bat-hon-su-ngheo-nhat-tap-42.mp3",
+    "title" : "bat-hon-su-ngheo-nhat-tap-42",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-hon-su-ngheo-nhat/bat-hon-su-ngheo-nhat-tap-43.mp3",
+    "title" : "bat-hon-su-ngheo-nhat-tap-43",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-hon-su-ngheo-nhat/bat-hon-su-ngheo-nhat-tap-44.mp3",
+    "title" : "bat-hon-su-ngheo-nhat-tap-44",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-hon-su-ngheo-nhat/bat-hon-su-ngheo-nhat-tap-45.mp3",
+    "title" : "bat-hon-su-ngheo-nhat-tap-45",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-hon-su-ngheo-nhat/bat-hon-su-ngheo-nhat-tap-46.mp3",
+    "title" : "bat-hon-su-ngheo-nhat-tap-46",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-hon-su-ngheo-nhat/bat-hon-su-ngheo-nhat-tap-47.mp3",
+    "title" : "bat-hon-su-ngheo-nhat-tap-47",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-hon-su-ngheo-nhat/bat-hon-su-ngheo-nhat-tap-48.mp3",
+    "title" : "bat-hon-su-ngheo-nhat-tap-48",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-hon-su-ngheo-nhat/bat-hon-su-ngheo-nhat-tap-49.mp3",
+    "title" : "bat-hon-su-ngheo-nhat-tap-49",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-hon-su-ngheo-nhat/bat-hon-su-ngheo-nhat-tap-50.mp3",
+    "title" : "bat-hon-su-ngheo-nhat-tap-50",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

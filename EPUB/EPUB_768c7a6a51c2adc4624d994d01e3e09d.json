@@ -1,0 +1,77 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/diet-quy-o-nam-dinh.html",
+    "title" : "Diệt Quỷ Ở Nam Định",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Đức Minh",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-26",
+    "duration" : 10153,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/EPUB/EPUB_768c7a6a51c2adc4624d994d01e3e09d.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/IMAGE/IMAGE_768c7a6a51c2adc4624d994d01e3e09d.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/diet-quy-o-nam-dinh/diet-quy-o-nam-dinh.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3834,
+    "title" : "diet-quy-o-nam-dinh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/diet-quy-o-nam-dinh/diet-quy-o-nam-dinh-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3733,
+    "title" : "diet-quy-o-nam-dinh-tap-2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/diet-quy-o-nam-dinh/diet-quy-o-nam-dinh-tap-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2586,
+    "title" : "diet-quy-o-nam-dinh-tap-3",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/diet-quy-o-nam-dinh/diet-quy-o-nam-dinh.mp3",
+    "title" : "diet-quy-o-nam-dinh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/diet-quy-o-nam-dinh/diet-quy-o-nam-dinh-tap-2.mp3",
+    "title" : "diet-quy-o-nam-dinh-tap-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/diet-quy-o-nam-dinh/diet-quy-o-nam-dinh-tap-3.mp3",
+    "title" : "diet-quy-o-nam-dinh-tap-3",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,125 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/ngai-doc-vung-bien.html",
+    "title" : "Ngải Độc Vùng Biên",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Thanh Khang",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-26",
+    "duration" : 27119,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/EPUB/EPUB_3db2f01c0d166f37f6cf204af19a5f92.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/IMAGE/IMAGE_3db2f01c0d166f37f6cf204af19a5f92.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/ngai-doc-vung-bien-tap-1/ngai-doc-vung-bien-tap-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4390,
+    "title" : "ngai-doc-vung-bien-tap-1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngai-doc-vung-bien-tap-1/ngai-doc-vung-bien-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3988,
+    "title" : "ngai-doc-vung-bien-tap-2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngai-doc-vung-bien-tap-1/ngai-doc-vung-bien-tap-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3653,
+    "title" : "ngai-doc-vung-bien-tap-3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngai-doc-vung-bien-tap-1/ngai-doc-vung-bien-tap-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3861,
+    "title" : "ngai-doc-vung-bien-tap-4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngai-doc-vung-bien-tap-1/ngai-doc-vung-bien-tap-5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3710,
+    "title" : "ngai-doc-vung-bien-tap-5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngai-doc-vung-bien-tap-1/ngai-doc-vung-bien-tap-6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3890,
+    "title" : "ngai-doc-vung-bien-tap-6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngai-doc-vung-bien-tap-1/ngai-doc-vung-bien-tap-7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3627,
+    "title" : "ngai-doc-vung-bien-tap-7",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/ngai-doc-vung-bien-tap-1/ngai-doc-vung-bien-tap-1.mp3",
+    "title" : "ngai-doc-vung-bien-tap-1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngai-doc-vung-bien-tap-1/ngai-doc-vung-bien-tap-2.mp3",
+    "title" : "ngai-doc-vung-bien-tap-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngai-doc-vung-bien-tap-1/ngai-doc-vung-bien-tap-3.mp3",
+    "title" : "ngai-doc-vung-bien-tap-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngai-doc-vung-bien-tap-1/ngai-doc-vung-bien-tap-4.mp3",
+    "title" : "ngai-doc-vung-bien-tap-4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngai-doc-vung-bien-tap-1/ngai-doc-vung-bien-tap-5.mp3",
+    "title" : "ngai-doc-vung-bien-tap-5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngai-doc-vung-bien-tap-1/ngai-doc-vung-bien-tap-6.mp3",
+    "title" : "ngai-doc-vung-bien-tap-6",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngai-doc-vung-bien-tap-1/ngai-doc-vung-bien-tap-7.mp3",
+    "title" : "ngai-doc-vung-bien-tap-7",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,281 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/thien-linh-co-thuat.html",
+    "title" : "Thiên Linh Cổ Thuật",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Tĩnh Thủy",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-26",
+    "duration" : 90799,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/EPUB/EPUB_7823be40f6f03d95d9d3564d48bea22f.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/IMAGE/IMAGE_7823be40f6f03d95d9d3564d48bea22f.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/thien-linh-co-thuat/thien-linh-co-thuat.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4071,
+    "title" : "thien-linh-co-thuat",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thien-linh-co-thuat/thien-linh-co-thuat-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4426,
+    "title" : "thien-linh-co-thuat-tap-2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thien-linh-co-thuat/thien-linh-co-thuat-tap-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3986,
+    "title" : "thien-linh-co-thuat-tap-3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thien-linh-co-thuat/thien-linh-co-thuat-tap-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4243,
+    "title" : "thien-linh-co-thuat-tap-4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thien-linh-co-thuat/thien-linh-co-thuat-tap-5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4041,
+    "title" : "thien-linh-co-thuat-tap-5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thien-linh-co-thuat/thien-linh-co-thuat-tap-6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4152,
+    "title" : "thien-linh-co-thuat-tap-6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thien-linh-co-thuat/thien-linh-co-thuat-tap-7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4271,
+    "title" : "thien-linh-co-thuat-tap-7",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thien-linh-co-thuat/thien-linh-co-thuat-tap-8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4319,
+    "title" : "thien-linh-co-thuat-tap-8",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thien-linh-co-thuat/thien-linh-co-thuat-tap-9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4406,
+    "title" : "thien-linh-co-thuat-tap-9",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thien-linh-co-thuat/thien-linh-co-thuat-tap-10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4185,
+    "title" : "thien-linh-co-thuat-tap-10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thien-linh-co-thuat/thien-linh-co-thuat-tap-11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4480,
+    "title" : "thien-linh-co-thuat-tap-11",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thien-linh-co-thuat/thien-linh-co-thuat-tap-12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4231,
+    "title" : "thien-linh-co-thuat-tap-12",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thien-linh-co-thuat/thien-linh-co-thuat-tap-13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4247,
+    "title" : "thien-linh-co-thuat-tap-13",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thien-linh-co-thuat/thien-linh-co-thuat-tap-14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4230,
+    "title" : "thien-linh-co-thuat-tap-14",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thien-linh-co-thuat/thien-linh-co-thuat-tap-15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4884,
+    "title" : "thien-linh-co-thuat-tap-15",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thien-linh-co-thuat/thien-linh-co-thuat-tap-16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5276,
+    "title" : "thien-linh-co-thuat-tap-16",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thien-linh-co-thuat/thien-linh-co-thuat-tap-17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5235,
+    "title" : "thien-linh-co-thuat-tap-17",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thien-linh-co-thuat/thien-linh-co-thuat-tap-18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5327,
+    "title" : "thien-linh-co-thuat-tap-18",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thien-linh-co-thuat/thien-linh-co-thuat-tap-19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5517,
+    "title" : "thien-linh-co-thuat-tap-19",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thien-linh-co-thuat/thien-linh-co-thuat-tap-20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5272,
+    "title" : "thien-linh-co-thuat-tap-20",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/thien-linh-co-thuat/thien-linh-co-thuat.mp3",
+    "title" : "thien-linh-co-thuat",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thien-linh-co-thuat/thien-linh-co-thuat-tap-2.mp3",
+    "title" : "thien-linh-co-thuat-tap-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thien-linh-co-thuat/thien-linh-co-thuat-tap-3.mp3",
+    "title" : "thien-linh-co-thuat-tap-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thien-linh-co-thuat/thien-linh-co-thuat-tap-4.mp3",
+    "title" : "thien-linh-co-thuat-tap-4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thien-linh-co-thuat/thien-linh-co-thuat-tap-5.mp3",
+    "title" : "thien-linh-co-thuat-tap-5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thien-linh-co-thuat/thien-linh-co-thuat-tap-6.mp3",
+    "title" : "thien-linh-co-thuat-tap-6",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thien-linh-co-thuat/thien-linh-co-thuat-tap-7.mp3",
+    "title" : "thien-linh-co-thuat-tap-7",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thien-linh-co-thuat/thien-linh-co-thuat-tap-8.mp3",
+    "title" : "thien-linh-co-thuat-tap-8",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thien-linh-co-thuat/thien-linh-co-thuat-tap-9.mp3",
+    "title" : "thien-linh-co-thuat-tap-9",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thien-linh-co-thuat/thien-linh-co-thuat-tap-10.mp3",
+    "title" : "thien-linh-co-thuat-tap-10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thien-linh-co-thuat/thien-linh-co-thuat-tap-11.mp3",
+    "title" : "thien-linh-co-thuat-tap-11",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thien-linh-co-thuat/thien-linh-co-thuat-tap-12.mp3",
+    "title" : "thien-linh-co-thuat-tap-12",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thien-linh-co-thuat/thien-linh-co-thuat-tap-13.mp3",
+    "title" : "thien-linh-co-thuat-tap-13",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thien-linh-co-thuat/thien-linh-co-thuat-tap-14.mp3",
+    "title" : "thien-linh-co-thuat-tap-14",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thien-linh-co-thuat/thien-linh-co-thuat-tap-15.mp3",
+    "title" : "thien-linh-co-thuat-tap-15",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thien-linh-co-thuat/thien-linh-co-thuat-tap-16.mp3",
+    "title" : "thien-linh-co-thuat-tap-16",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thien-linh-co-thuat/thien-linh-co-thuat-tap-17.mp3",
+    "title" : "thien-linh-co-thuat-tap-17",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thien-linh-co-thuat/thien-linh-co-thuat-tap-18.mp3",
+    "title" : "thien-linh-co-thuat-tap-18",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thien-linh-co-thuat/thien-linh-co-thuat-tap-19.mp3",
+    "title" : "thien-linh-co-thuat-tap-19",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thien-linh-co-thuat/thien-linh-co-thuat-tap-20.mp3",
+    "title" : "thien-linh-co-thuat-tap-20",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

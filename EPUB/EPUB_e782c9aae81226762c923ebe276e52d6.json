@@ -1,0 +1,89 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/biet-thu-khong-nguoi-o-da-lat.html",
+    "title" : "Biệt Thự Không Người Ở Đà Lạt",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Hữu Đang",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-26",
+    "duration" : 15385,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/EPUB/EPUB_e782c9aae81226762c923ebe276e52d6.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/IMAGE/IMAGE_e782c9aae81226762c923ebe276e52d6.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/biet-thu-khong-nguoi-o-da-lat/biet-thu-khong-nguoi-o-da-lat.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3986,
+    "title" : "biet-thu-khong-nguoi-o-da-lat",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/biet-thu-khong-nguoi-o-da-lat/biet-thu-khong-nguoi-o-da-lat-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3500,
+    "title" : "biet-thu-khong-nguoi-o-da-lat-tap-2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/biet-thu-khong-nguoi-o-da-lat/biet-thu-khong-nguoi-o-da-lat-tap-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3801,
+    "title" : "biet-thu-khong-nguoi-o-da-lat-tap-3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/biet-thu-khong-nguoi-o-da-lat/biet-thu-khong-nguoi-o-da-lat-tap-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4098,
+    "title" : "biet-thu-khong-nguoi-o-da-lat-tap-4",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/biet-thu-khong-nguoi-o-da-lat/biet-thu-khong-nguoi-o-da-lat.mp3",
+    "title" : "biet-thu-khong-nguoi-o-da-lat",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/biet-thu-khong-nguoi-o-da-lat/biet-thu-khong-nguoi-o-da-lat-tap-2.mp3",
+    "title" : "biet-thu-khong-nguoi-o-da-lat-tap-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/biet-thu-khong-nguoi-o-da-lat/biet-thu-khong-nguoi-o-da-lat-tap-3.mp3",
+    "title" : "biet-thu-khong-nguoi-o-da-lat-tap-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/biet-thu-khong-nguoi-o-da-lat/biet-thu-khong-nguoi-o-da-lat-tap-4.mp3",
+    "title" : "biet-thu-khong-nguoi-o-da-lat-tap-4",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

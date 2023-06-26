@@ -1,0 +1,65 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/hanh-thi-xuat-the.html",
+    "title" : "Hành Thi Xuất Thế",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Cao Minh Sang",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-26",
+    "duration" : 12133,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/EPUB/EPUB_dd831f9f4827e962d70e34b8209fe1f7.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/IMAGE/IMAGE_dd831f9f4827e962d70e34b8209fe1f7.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/hanh-thi-xuat-the/hanh-thi-xuat-the.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6051,
+    "title" : "hanh-thi-xuat-the",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hanh-thi-xuat-the/hanh-thi-xuat-the-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6082,
+    "title" : "hanh-thi-xuat-the-tap-2",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/hanh-thi-xuat-the/hanh-thi-xuat-the.mp3",
+    "title" : "hanh-thi-xuat-the",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hanh-thi-xuat-the/hanh-thi-xuat-the-tap-2.mp3",
+    "title" : "hanh-thi-xuat-the-tap-2",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
