@@ -1,0 +1,77 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/lao-tao-lao-tu-bat-quy-doi.html",
+    "title" : "Lão Tam Lão Tứ Bắt Quỷ Đói",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Lương Duy",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-27",
+    "duration" : 15837,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/EPUB/EPUB_174a398b3310aef0ca93c951c69a8875.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/IMAGE/IMAGE_174a398b3310aef0ca93c951c69a8875.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/lao-tam-lao-tu-bat-quy-doi/lao-tam-lao-tu-bat-quy-doi.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5088,
+    "title" : "lao-tam-lao-tu-bat-quy-doi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lao-tam-lao-tu-bat-quy-doi/lao-tam-lao-tu-bat-quy-doi-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5064,
+    "title" : "lao-tam-lao-tu-bat-quy-doi-tap-2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lao-tam-lao-tu-bat-quy-doi/lao-tam-lao-tu-bat-quy-doi-tap-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5685,
+    "title" : "lao-tam-lao-tu-bat-quy-doi-tap-3",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/lao-tam-lao-tu-bat-quy-doi/lao-tam-lao-tu-bat-quy-doi.mp3",
+    "title" : "lao-tam-lao-tu-bat-quy-doi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lao-tam-lao-tu-bat-quy-doi/lao-tam-lao-tu-bat-quy-doi-tap-2.mp3",
+    "title" : "lao-tam-lao-tu-bat-quy-doi-tap-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lao-tam-lao-tu-bat-quy-doi/lao-tam-lao-tu-bat-quy-doi-tap-3.mp3",
+    "title" : "lao-tam-lao-tu-bat-quy-doi-tap-3",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

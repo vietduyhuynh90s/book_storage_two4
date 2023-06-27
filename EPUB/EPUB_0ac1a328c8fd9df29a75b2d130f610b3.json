@@ -1,0 +1,77 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/lao-tam-lao-tu-bat-vong-con-hoai.html",
+    "title" : "Lão Tam Lão Tứ Bắt Vong Con Hoài",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Lương Duy",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-27",
+    "duration" : 19031,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/EPUB/EPUB_0ac1a328c8fd9df29a75b2d130f610b3.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/IMAGE/IMAGE_0ac1a328c8fd9df29a75b2d130f610b3.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/lao-tam-lao-tu-bat-vong-con-hoai/lao-tam-lao-tu-bat-vong-con-hoai.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5702,
+    "title" : "lao-tam-lao-tu-bat-vong-con-hoai",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lao-tam-lao-tu-bat-vong-con-hoai/lao-tam-lao-tu-bat-vong-con-hoai-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6456,
+    "title" : "lao-tam-lao-tu-bat-vong-con-hoai-tap-2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lao-tam-lao-tu-bat-vong-con-hoai/lao-tam-lao-tu-bat-vong-con-hoai-tap-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6873,
+    "title" : "lao-tam-lao-tu-bat-vong-con-hoai-tap-3",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/lao-tam-lao-tu-bat-vong-con-hoai/lao-tam-lao-tu-bat-vong-con-hoai.mp3",
+    "title" : "lao-tam-lao-tu-bat-vong-con-hoai",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lao-tam-lao-tu-bat-vong-con-hoai/lao-tam-lao-tu-bat-vong-con-hoai-tap-2.mp3",
+    "title" : "lao-tam-lao-tu-bat-vong-con-hoai-tap-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lao-tam-lao-tu-bat-vong-con-hoai/lao-tam-lao-tu-bat-vong-con-hoai-tap-3.mp3",
+    "title" : "lao-tam-lao-tu-bat-vong-con-hoai-tap-3",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

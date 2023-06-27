@@ -1,0 +1,101 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/giai-tru-phong-an-song-tien.html",
+    "title" : "Giải Trừ Phong Ấn Sông Tiền",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Cổ Nguyệt",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-27",
+    "duration" : 18530,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/EPUB/EPUB_77912796bd356fd0e6413bd7261e1eda.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/IMAGE/IMAGE_77912796bd356fd0e6413bd7261e1eda.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/giai-tru-phong-an-song-tien/giai-tru-phong-an-song-tien.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3777,
+    "title" : "giai-tru-phong-an-song-tien",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/giai-tru-phong-an-song-tien/giai-tru-phong-an-song-tien-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3787,
+    "title" : "giai-tru-phong-an-song-tien-tap-2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/giai-tru-phong-an-song-tien/giai-tru-phong-an-song-tien-tap-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3906,
+    "title" : "giai-tru-phong-an-song-tien-tap-3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/giai-tru-phong-an-song-tien/giai-tru-phong-an-song-tien-tap-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3785,
+    "title" : "giai-tru-phong-an-song-tien-tap-4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/giai-tru-phong-an-song-tien/giai-tru-phong-an-song-tien-tap-5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3275,
+    "title" : "giai-tru-phong-an-song-tien-tap-5",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/giai-tru-phong-an-song-tien/giai-tru-phong-an-song-tien.mp3",
+    "title" : "giai-tru-phong-an-song-tien",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/giai-tru-phong-an-song-tien/giai-tru-phong-an-song-tien-tap-2.mp3",
+    "title" : "giai-tru-phong-an-song-tien-tap-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/giai-tru-phong-an-song-tien/giai-tru-phong-an-song-tien-tap-3.mp3",
+    "title" : "giai-tru-phong-an-song-tien-tap-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/giai-tru-phong-an-song-tien/giai-tru-phong-an-song-tien-tap-4.mp3",
+    "title" : "giai-tru-phong-an-song-tien-tap-4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/giai-tru-phong-an-song-tien/giai-tru-phong-an-song-tien-tap-5.mp3",
+    "title" : "giai-tru-phong-an-song-tien-tap-5",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

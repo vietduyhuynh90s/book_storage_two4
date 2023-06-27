@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/cau-chuyen-dau-nam-cua-lang-binh-lang.html",
+    "title" : "Câu Chuyện Đầu Năm Của Làng Bình Lăng",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Lương Duy",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-27",
+    "duration" : 5227,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/EPUB/EPUB_ca9c77f20c34b73bd0b3fd2534da0dd5.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/IMAGE/IMAGE_ca9c77f20c34b73bd0b3fd2534da0dd5.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/cau-chuyen-dau-nam-lang-binh-lang/cau-chuyen-dau-nam-lang-binh-lang.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5227,
+    "title" : "cau-chuyen-dau-nam-lang-binh-lang",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/cau-chuyen-dau-nam-lang-binh-lang/cau-chuyen-dau-nam-lang-binh-lang.mp3",
+    "title" : "cau-chuyen-dau-nam-lang-binh-lang",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

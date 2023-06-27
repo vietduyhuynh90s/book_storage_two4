@@ -1,0 +1,65 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/tieu-thien-bat-bup-be-bang-bong.html",
+    "title" : "Tiểu Thiên Bắt Búp Bê Bằng Bông",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Ninh Nguyễn",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-27",
+    "duration" : 11196,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/EPUB/EPUB_93092d26a997b4003829a147c4f7a888.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/IMAGE/IMAGE_93092d26a997b4003829a147c4f7a888.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/tieu-thien-bat-bup-be-bang-bong/tieu-thien-bat-bup-be-bang-bong.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6211,
+    "title" : "tieu-thien-bat-bup-be-bang-bong",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tieu-thien-bat-bup-be-bang-bong/tieu-thien-bat-bup-be-bang-bong-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4985,
+    "title" : "tieu-thien-bat-bup-be-bang-bong-tap-2",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/tieu-thien-bat-bup-be-bang-bong/tieu-thien-bat-bup-be-bang-bong.mp3",
+    "title" : "tieu-thien-bat-bup-be-bang-bong",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tieu-thien-bat-bup-be-bang-bong/tieu-thien-bat-bup-be-bang-bong-tap-2.mp3",
+    "title" : "tieu-thien-bat-bup-be-bang-bong-tap-2",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

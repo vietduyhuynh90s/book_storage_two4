@@ -1,0 +1,233 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/tet-am-hon.html",
+    "title" : "Tết Âm Hồn",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Thảo Trang",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-27",
+    "duration" : 67216,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/EPUB/EPUB_87b5987f8eadf4930508d0bcfb379d95.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/IMAGE/IMAGE_87b5987f8eadf4930508d0bcfb379d95.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/canh-mai-nhuom-mau/than-tai-doi-loc.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4396,
+    "title" : "than-tai-doi-loc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/canh-mai-nhuom-mau/oan-linh-ho-thon.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4246,
+    "title" : "oan-linh-ho-thon",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/canh-mai-nhuom-mau/mung-tuoi-cho-ma.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3781,
+    "title" : "mung-tuoi-cho-ma",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/canh-mai-nhuom-mau/quy-goi-dem-mua.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4541,
+    "title" : "quy-goi-dem-mua",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/canh-mai-nhuom-mau/bo-ngai-trong-banh-chung.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5080,
+    "title" : "bo-ngai-trong-banh-chung",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/canh-mai-nhuom-mau/ong-muong-bat-ma-troi.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4162,
+    "title" : "ong-muong-bat-ma-troi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/canh-mai-nhuom-mau/co-ma-o-tap-the-hoang-cu.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3791,
+    "title" : "co-ma-o-tap-the-hoang-cu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/canh-mai-nhuom-mau/nguoi-o-dau-ma-o-do.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3951,
+    "title" : "nguoi-o-dau-ma-o-do",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/canh-mai-nhuom-mau/canh-mai-nhuom-mau.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4298,
+    "title" : "canh-mai-nhuom-mau",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/canh-mai-nhuom-mau/dot-phao-duoi-ma.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3848,
+    "title" : "dot-phao-duoi-ma",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/canh-mai-nhuom-mau/canh-mai-nhuom-mau-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4274,
+    "title" : "canh-mai-nhuom-mau-tap-2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/canh-mai-nhuom-mau/oan-linh-ho-thon-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4354,
+    "title" : "oan-linh-ho-thon-tap-2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/canh-mai-nhuom-mau/nguoi-o-dau-ma-o-do-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3654,
+    "title" : "nguoi-o-dau-ma-o-do-tap-2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/canh-mai-nhuom-mau/doa-hon-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4587,
+    "title" : "doa-hon-tap-2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/canh-mai-nhuom-mau/mung-tuoi-cho-ma-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3812,
+    "title" : "mung-tuoi-cho-ma-tap-2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/canh-mai-nhuom-mau/than-tai-doi-no-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4441,
+    "title" : "than-tai-doi-no-tap-2",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/canh-mai-nhuom-mau/than-tai-doi-loc.mp3",
+    "title" : "than-tai-doi-loc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/canh-mai-nhuom-mau/oan-linh-ho-thon.mp3",
+    "title" : "oan-linh-ho-thon",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/canh-mai-nhuom-mau/mung-tuoi-cho-ma.mp3",
+    "title" : "mung-tuoi-cho-ma",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/canh-mai-nhuom-mau/quy-goi-dem-mua.mp3",
+    "title" : "quy-goi-dem-mua",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/canh-mai-nhuom-mau/bo-ngai-trong-banh-chung.mp3",
+    "title" : "bo-ngai-trong-banh-chung",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/canh-mai-nhuom-mau/ong-muong-bat-ma-troi.mp3",
+    "title" : "ong-muong-bat-ma-troi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/canh-mai-nhuom-mau/co-ma-o-tap-the-hoang-cu.mp3",
+    "title" : "co-ma-o-tap-the-hoang-cu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/canh-mai-nhuom-mau/nguoi-o-dau-ma-o-do.mp3",
+    "title" : "nguoi-o-dau-ma-o-do",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/canh-mai-nhuom-mau/canh-mai-nhuom-mau.mp3",
+    "title" : "canh-mai-nhuom-mau",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/canh-mai-nhuom-mau/dot-phao-duoi-ma.mp3",
+    "title" : "dot-phao-duoi-ma",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/canh-mai-nhuom-mau/canh-mai-nhuom-mau-tap-2.mp3",
+    "title" : "canh-mai-nhuom-mau-tap-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/canh-mai-nhuom-mau/oan-linh-ho-thon-tap-2.mp3",
+    "title" : "oan-linh-ho-thon-tap-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/canh-mai-nhuom-mau/nguoi-o-dau-ma-o-do-tap-2.mp3",
+    "title" : "nguoi-o-dau-ma-o-do-tap-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/canh-mai-nhuom-mau/doa-hon-tap-2.mp3",
+    "title" : "doa-hon-tap-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/canh-mai-nhuom-mau/mung-tuoi-cho-ma-tap-2.mp3",
+    "title" : "mung-tuoi-cho-ma-tap-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/canh-mai-nhuom-mau/than-tai-doi-no-tap-2.mp3",
+    "title" : "than-tai-doi-no-tap-2",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

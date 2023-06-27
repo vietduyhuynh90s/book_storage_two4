@@ -1,0 +1,77 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/ma-am-lang-huong-xa.html",
+    "title" : "Ma Ám Làng Hương Xá",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Trung Kiên",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-27",
+    "duration" : 18661,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/EPUB/EPUB_4bb0b1301d270accb9e67f78baae8ece.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/IMAGE/IMAGE_4bb0b1301d270accb9e67f78baae8ece.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/ma-am-lang-huong-xa/ma-am-lang-huong-xa.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5819,
+    "title" : "ma-am-lang-huong-xa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ma-am-lang-huong-xa/ma-am-lang-huong-xa-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6689,
+    "title" : "ma-am-lang-huong-xa-tap-2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ma-am-lang-huong-xa/ma-am-lang-huong-xa-tap-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6153,
+    "title" : "ma-am-lang-huong-xa-tap-3",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/ma-am-lang-huong-xa/ma-am-lang-huong-xa.mp3",
+    "title" : "ma-am-lang-huong-xa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ma-am-lang-huong-xa/ma-am-lang-huong-xa-tap-2.mp3",
+    "title" : "ma-am-lang-huong-xa-tap-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ma-am-lang-huong-xa/ma-am-lang-huong-xa-tap-3.mp3",
+    "title" : "ma-am-lang-huong-xa-tap-3",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
