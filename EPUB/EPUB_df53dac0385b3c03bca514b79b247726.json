@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.youtube.com/watch?v=zeI1JM3UiRg",
+    "title" : "Homecoming - Hồi sinh đứa trẻ bên trong bạn",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "John Bradshaw",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "“Ba điều đáng kinh ngạc mà công việc chữa lành đứa trẻ bên trong mang lại: tốc độ mà mọi người thay đổi; mức độ thay đổi; sức mạnh cũng như sự sáng tạo mà họ có được khi những vết thương trong quá khứ được chữa lành” Bradshaw chia sẻ.",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-28",
+    "duration" : 3643,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/EPUB/EPUB_df53dac0385b3c03bca514b79b247726.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/IMAGE/IMAGE_df53dac0385b3c03bca514b79b247726.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://ia902708.us.archive.org/28/items/hoi-sinh-dua-tre-ben-trong-ban/hoi-sinh-dua-tre-ben-trong-ban.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3643,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://ia902708.us.archive.org/28/items/hoi-sinh-dua-tre-ben-trong-ban/hoi-sinh-dua-tre-ben-trong-ban.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
