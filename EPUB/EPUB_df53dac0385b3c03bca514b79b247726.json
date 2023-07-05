@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-06-28",
+    "published" : "2023-07-05",
     "duration" : 3643,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,17 +36,29 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://ia902708.us.archive.org/28/items/hoi-sinh-dua-tre-ben-trong-ban/hoi-sinh-dua-tre-ben-trong-ban.mp3",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/AUDIO/AUDIO_df53dac0385b3c03bca514b79b247726_736f19b08301dcf2fce9465f342fb1a9_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 3643,
-    "title" : "Trọn bộ",
+    "duration" : 0,
+    "title" : "Trọn bộ (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/AUDIO/AUDIO_df53dac0385b3c03bca514b79b247726_736f19b08301dcf2fce9465f342fb1a9_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ (2)",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://ia902708.us.archive.org/28/items/hoi-sinh-dua-tre-ben-trong-ban/hoi-sinh-dua-tre-ben-trong-ban.mp3",
-    "title" : "Trọn bộ",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/AUDIO/AUDIO_df53dac0385b3c03bca514b79b247726_736f19b08301dcf2fce9465f342fb1a9_1.mp3",
+    "title" : "Trọn bộ (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/AUDIO/AUDIO_df53dac0385b3c03bca514b79b247726_736f19b08301dcf2fce9465f342fb1a9_2.mp3",
+    "title" : "Trọn bộ (2)",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"
