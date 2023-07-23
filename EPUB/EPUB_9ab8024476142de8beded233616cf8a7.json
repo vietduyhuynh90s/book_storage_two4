@@ -1,0 +1,77 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/chu-tho-de-14435.html",
+    "title" : "CHÚ THỎ ĐẾ",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Bích Thủy",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-07-23",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/EPUB/EPUB_9ab8024476142de8beded233616cf8a7.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/IMAGE/IMAGE_9ab8024476142de8beded233616cf8a7.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14435-chu-tho-de-thuviensach.vn.mp3?t=0",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:00:00 Chú Thỏ Đế (Hoa Xanh-Sách Tuổi Hoa). Tập Một",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14435-chu-tho-de-thuviensach.vn.mp3?t=2030",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:33:50 Chú Thỏ Đế (Hoa Xanh-Sách Tuổi Hoa). Tập Hai",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14435-chu-tho-de-thuviensach.vn.mp3?t=4441",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:14:01 Chú Thỏ Đế (Hoa Xanh-Sách Tuổi Hoa). Tập Ba - Hết",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14435-chu-tho-de-thuviensach.vn.mp3?t=0",
+    "title" : "00:00:00 Chú Thỏ Đế (Hoa Xanh-Sách Tuổi Hoa). Tập Một",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14435-chu-tho-de-thuviensach.vn.mp3?t=2030",
+    "title" : "00:33:50 Chú Thỏ Đế (Hoa Xanh-Sách Tuổi Hoa). Tập Hai",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14435-chu-tho-de-thuviensach.vn.mp3?t=4441",
+    "title" : "01:14:01 Chú Thỏ Đế (Hoa Xanh-Sách Tuổi Hoa). Tập Ba - Hết",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/100-cau-chuyen-triet-ly-va-ke-tri-14140.html",
+    "title" : "100 CÂU CHUYỆN TRIẾT LÝ VÀ KẺ TRÍ",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Quách Thành",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Trong câu chuyện “Tài và bất tài”, người học trò đã hỏi Trang Tử: Hôm qua, cái cây trong núi vì bất tài mà được sống (cây không bị tiều phu đốn vì nó vô dụng), còn con chim vì bất tài mà chết (chim không biết gáy nên bị chủ nhà giết thịt đãi khách). Nếu là thầy, thầy sẽ xử trí thế nào? Trang Tử trả lời: “Tài” và “bất tài” cũng đều không tránh khỏi lụy thân, muốn sống yên ổn thì phải biết ở giữa “tài” và “bất tài”. Qua câu chuyện, ta thấy được thái độ xử thế minh triết của Trang Tử. Bậc trí giả luôn biết tùy thời mà phát huy sở trưởng cũng như khắc phục sở đoản. Người tài trí luôn được mọi người tôn trọng, bởi người tài trí biết cách ứng xử trong mọi tình huống không chỉ giúp ích cho bản thân mà còn mang lại lợi ích cho cộng đồng.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-07-23",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/EPUB/EPUB_1b54c397db9946d24083009ca23aeb97.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/IMAGE/IMAGE_1b54c397db9946d24083009ca23aeb97.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14140-100-cau-chuyen-triet-ly-va-ke-tri-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14140-100-cau-chuyen-triet-ly-va-ke-tri-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

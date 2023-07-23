@@ -1,0 +1,773 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/sung-mi-phan-5-14183.html",
+    "title" : "SỦNG MỊ - PHẦN 5",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Ngư Thiên Không",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>“Vân Điểu giương cánh bay lượn giữa trời xanh. Dã Huyết Lang cuồng ngạo tung hoành hoang nguyên, sa mạc. Hải Linh cự thú khổng lồ tựa núi Thái Sơn, một thân trấn ải không người nào qua nổi. Dạ Mộng Thú nương nhờ ánh trăng, xuyên qua rừng rậm nhanh như tia chớp. Quỷ Khung Quân Vương đứng trên vách núi không ngừng thôn mây hấp khí, tư thế kiêu hùng bá chủ một phương. Kiếm Chập, Tịch Tịch Dương Bằng, Viễn Cổ Mộc Yêu, Hỗn Độn Lôi Quan Tinh Linh, Lăng Băng Trớ Ấn Yêu Hồ... Chủng tộc thực vật, yêu thú, nguyên tố, vong linh thiên kỳ bách quái tạo ra một thế giới Hồn Sủng vô cùng rộng lớn.” Nhân vật chính của Sủng Mị là một vị Hồn sủng sư trẻ tuổi, lúc ban đầu mang theo một con dị biến Nguyệt Quang Hồ chiến đấu liên miên bất tuyệt, vượt qua vô vàn khó khăn cách trở, hiểm cảnh cầu sinh từ từ phát triển biến hóa thành Tà Diễm Lục Vĩ Yêu Hồ, Miện Diễm Cửu Vĩ Yêu Hồ và chủng tộc cao cấp hơn nữa. Hắn chậm rãi bước lên con đường cường giả, không ngừng thu phục các loại Hồn sủng trân quý, phấn đấu vì một ngày đứng trên đỉnh thế giới. Vương - Hắn sẽ ngồi lên Kim Đỉnh Vương Tọa, vị trí cao nhất của thế giới nhân loại. Hồn sủng của hắn phải là Vạn Thú Vương thống lĩnh muôn loài. Theo từng bước chân của hắn, một con đường máu kéo dài liên tu bất tận…</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-07-23",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/EPUB/EPUB_c25fcb3097756865dd6c5a4d84d27d9b.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/IMAGE/IMAGE_c25fcb3097756865dd6c5a4d84d27d9b.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14183-sung-mi-phan-5-thuviensach.vn.mp3?t=0",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:00:00 Sủng Mị - Tập 241",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14183-sung-mi-phan-5-thuviensach.vn.mp3?t=7765",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:09:25 Sủng Mị - Tập 242",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14183-sung-mi-phan-5-thuviensach.vn.mp3?t=14919",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "04:08:39 Sủng Mị - Tập 243",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14183-sung-mi-phan-5-thuviensach.vn.mp3?t=22570",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "06:16:10 Sủng Mị - Tập 244",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14183-sung-mi-phan-5-thuviensach.vn.mp3?t=29876",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "08:17:56 Sủng Mị - Tập 245",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14183-sung-mi-phan-5-thuviensach.vn.mp3?t=37260",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "10:21:00 Sủng Mị - Tập 246",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14183-sung-mi-phan-5-thuviensach.vn.mp3?t=44625",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "12:23:45 Sủng Mị - Tập 247",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14183-sung-mi-phan-5-thuviensach.vn.mp3?t=52046",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "14:27:26 Sủng Mị - Tập 248",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14183-sung-mi-phan-5-thuviensach.vn.mp3?t=59608",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "16:33:28 Sủng Mị - Tập 249",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14183-sung-mi-phan-5-thuviensach.vn.mp3?t=67134",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "18:38:54 Sủng Mị - Tập 250",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14183-sung-mi-phan-5-thuviensach.vn.mp3?t=74834",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "20:47:14 Sủng Mị - Tập 251",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14183-sung-mi-phan-5-thuviensach.vn.mp3?t=82337",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "22:52:17 Sủng Mị - Tập 252",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14183-sung-mi-phan-5-thuviensach.vn.mp3?t=89849",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "24:57:29 Sủng Mị - Tập 253",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14183-sung-mi-phan-5-thuviensach.vn.mp3?t=97235",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "27:00:35 Sủng Mị - Tập 254",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14183-sung-mi-phan-5-thuviensach.vn.mp3?t=100882",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "28:01:22 Sủng Mị - Tập 255",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14183-sung-mi-phan-5-thuviensach.vn.mp3?t=104492",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "29:01:32 Sủng Mị - Tập 256",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14183-sung-mi-phan-5-thuviensach.vn.mp3?t=112045",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "31:07:25 Sủng Mị - Tập 257",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14183-sung-mi-phan-5-thuviensach.vn.mp3?t=120361",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "33:26:01 Sủng Mị - Tập 258",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14183-sung-mi-phan-5-thuviensach.vn.mp3?t=128647",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "35:44:07 Sủng Mị - Tập 259",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14183-sung-mi-phan-5-thuviensach.vn.mp3?t=136374",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "37:52:54 Sủng Mị - Tập 260",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14183-sung-mi-phan-5-thuviensach.vn.mp3?t=140288",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "38:58:08 Sủng Mị - Tập 261",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14183-sung-mi-phan-5-thuviensach.vn.mp3?t=144539",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "40:08:59 Sủng Mị - Tập 262",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14183-sung-mi-phan-5-thuviensach.vn.mp3?t=148125",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "41:08:45 Sủng Mị - Tập 263",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14183-sung-mi-phan-5-thuviensach.vn.mp3?t=152392",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "42:19:52 Sủng Mị - Tập 264",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14183-sung-mi-phan-5-thuviensach.vn.mp3?t=156390",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "43:26:30 Sủng Mị - Tập 265",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14183-sung-mi-phan-5-thuviensach.vn.mp3?t=160147",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "44:29:07 Sủng Mị - Tập 266",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14183-sung-mi-phan-5-thuviensach.vn.mp3?t=164109",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "45:35:09 Sủng Mị - Tập 267",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14183-sung-mi-phan-5-thuviensach.vn.mp3?t=168726",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "46:52:06 Sủng Mị - Tập 268",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14183-sung-mi-phan-5-thuviensach.vn.mp3?t=176574",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "49:02:54 Sủng Mị - Tập 269",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14183-sung-mi-phan-5-thuviensach.vn.mp3?t=180256",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "50:04:16 Sủng Mị - Tập 270",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14183-sung-mi-phan-5-thuviensach.vn.mp3?t=184170",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "51:09:30 Sủng Mị - Tập 271",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14183-sung-mi-phan-5-thuviensach.vn.mp3?t=188768",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "52:26:08 Sủng Mị - Tập 272",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14183-sung-mi-phan-5-thuviensach.vn.mp3?t=192588",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "53:29:48 Sủng Mị - Tập 273",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14183-sung-mi-phan-5-thuviensach.vn.mp3?t=196468",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "54:34:28 Sủng Mị - Tập 274",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14183-sung-mi-phan-5-thuviensach.vn.mp3?t=200650",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "55:44:10 Sủng Mị - Tập 275",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14183-sung-mi-phan-5-thuviensach.vn.mp3?t=204689",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "56:51:29 Sủng Mị - Tập 276",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14183-sung-mi-phan-5-thuviensach.vn.mp3?t=209778",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "58:16:18 Sủng Mị - Tập 277",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14183-sung-mi-phan-5-thuviensach.vn.mp3?t=214253",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "59:30:53 Sủng Mị - Tập 278",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14183-sung-mi-phan-5-thuviensach.vn.mp3?t=218590",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "60:43:10 Sủng Mị - Tập 279",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14183-sung-mi-phan-5-thuviensach.vn.mp3?t=226072",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "62:47:52 Sủng Mị - Tập 280",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14183-sung-mi-phan-5-thuviensach.vn.mp3?t=229889",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "63:51:29 Sủng Mị - Tập 281",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14183-sung-mi-phan-5-thuviensach.vn.mp3?t=234174",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "65:02:54 Sủng Mị - Tập 282",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14183-sung-mi-phan-5-thuviensach.vn.mp3?t=238281",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "66:11:21 Sủng Mị - Tập 283",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14183-sung-mi-phan-5-thuviensach.vn.mp3?t=241903",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "67:11:43 Sủng Mị - Tập 284",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14183-sung-mi-phan-5-thuviensach.vn.mp3?t=245727",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "68:15:27 Sủng Mị - Tập 285",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14183-sung-mi-phan-5-thuviensach.vn.mp3?t=249534",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "69:18:54 Sủng Mị - Tập 286",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14183-sung-mi-phan-5-thuviensach.vn.mp3?t=257024",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "71:23:44 Sủng Mị - Tập 287",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14183-sung-mi-phan-5-thuviensach.vn.mp3?t=259205",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "72:00:05 Sủng Mị - Tập 288",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14183-sung-mi-phan-5-thuviensach.vn.mp3?t=262595",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "72:56:35 Sủng Mị - Tập 289",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14183-sung-mi-phan-5-thuviensach.vn.mp3?t=266567",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "74:02:47 Sủng Mị - Tập 290",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14183-sung-mi-phan-5-thuviensach.vn.mp3?t=270428",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "75:07:08 Sủng Mị - Tập 291",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14183-sung-mi-phan-5-thuviensach.vn.mp3?t=274030",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "76:07:10 Sủng Mị - Tập 292",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14183-sung-mi-phan-5-thuviensach.vn.mp3?t=278189",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "77:16:29 Sủng Mị - Tập 293",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14183-sung-mi-phan-5-thuviensach.vn.mp3?t=282285",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "78:24:45 Sủng Mị - Tập 294",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14183-sung-mi-phan-5-thuviensach.vn.mp3?t=286398",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "79:33:18 Sủng Mị - Tập 295",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14183-sung-mi-phan-5-thuviensach.vn.mp3?t=290558",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "80:42:38 Sủng Mị - Tập 296",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14183-sung-mi-phan-5-thuviensach.vn.mp3?t=294630",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "81:50:30 Sủng Mị - Tập 297",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14183-sung-mi-phan-5-thuviensach.vn.mp3?t=298357",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "82:52:37 Sủng Mị - Tập 298",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14183-sung-mi-phan-5-thuviensach.vn.mp3?t=301983",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "83:53:03 Sủng Mị - Tập 299",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14183-sung-mi-phan-5-thuviensach.vn.mp3?t=305862",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "84:57:42 Sủng Mị - Tập 300",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14183-sung-mi-phan-5-thuviensach.vn.mp3?t=310014",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "86:06:54 Sủng Mị - Tập 301 Hết",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14183-sung-mi-phan-5-thuviensach.vn.mp3?t=0",
+    "title" : "00:00:00 Sủng Mị - Tập 241",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14183-sung-mi-phan-5-thuviensach.vn.mp3?t=7765",
+    "title" : "02:09:25 Sủng Mị - Tập 242",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14183-sung-mi-phan-5-thuviensach.vn.mp3?t=14919",
+    "title" : "04:08:39 Sủng Mị - Tập 243",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14183-sung-mi-phan-5-thuviensach.vn.mp3?t=22570",
+    "title" : "06:16:10 Sủng Mị - Tập 244",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14183-sung-mi-phan-5-thuviensach.vn.mp3?t=29876",
+    "title" : "08:17:56 Sủng Mị - Tập 245",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14183-sung-mi-phan-5-thuviensach.vn.mp3?t=37260",
+    "title" : "10:21:00 Sủng Mị - Tập 246",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14183-sung-mi-phan-5-thuviensach.vn.mp3?t=44625",
+    "title" : "12:23:45 Sủng Mị - Tập 247",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14183-sung-mi-phan-5-thuviensach.vn.mp3?t=52046",
+    "title" : "14:27:26 Sủng Mị - Tập 248",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14183-sung-mi-phan-5-thuviensach.vn.mp3?t=59608",
+    "title" : "16:33:28 Sủng Mị - Tập 249",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14183-sung-mi-phan-5-thuviensach.vn.mp3?t=67134",
+    "title" : "18:38:54 Sủng Mị - Tập 250",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14183-sung-mi-phan-5-thuviensach.vn.mp3?t=74834",
+    "title" : "20:47:14 Sủng Mị - Tập 251",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14183-sung-mi-phan-5-thuviensach.vn.mp3?t=82337",
+    "title" : "22:52:17 Sủng Mị - Tập 252",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14183-sung-mi-phan-5-thuviensach.vn.mp3?t=89849",
+    "title" : "24:57:29 Sủng Mị - Tập 253",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14183-sung-mi-phan-5-thuviensach.vn.mp3?t=97235",
+    "title" : "27:00:35 Sủng Mị - Tập 254",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14183-sung-mi-phan-5-thuviensach.vn.mp3?t=100882",
+    "title" : "28:01:22 Sủng Mị - Tập 255",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14183-sung-mi-phan-5-thuviensach.vn.mp3?t=104492",
+    "title" : "29:01:32 Sủng Mị - Tập 256",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14183-sung-mi-phan-5-thuviensach.vn.mp3?t=112045",
+    "title" : "31:07:25 Sủng Mị - Tập 257",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14183-sung-mi-phan-5-thuviensach.vn.mp3?t=120361",
+    "title" : "33:26:01 Sủng Mị - Tập 258",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14183-sung-mi-phan-5-thuviensach.vn.mp3?t=128647",
+    "title" : "35:44:07 Sủng Mị - Tập 259",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14183-sung-mi-phan-5-thuviensach.vn.mp3?t=136374",
+    "title" : "37:52:54 Sủng Mị - Tập 260",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14183-sung-mi-phan-5-thuviensach.vn.mp3?t=140288",
+    "title" : "38:58:08 Sủng Mị - Tập 261",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14183-sung-mi-phan-5-thuviensach.vn.mp3?t=144539",
+    "title" : "40:08:59 Sủng Mị - Tập 262",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14183-sung-mi-phan-5-thuviensach.vn.mp3?t=148125",
+    "title" : "41:08:45 Sủng Mị - Tập 263",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14183-sung-mi-phan-5-thuviensach.vn.mp3?t=152392",
+    "title" : "42:19:52 Sủng Mị - Tập 264",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14183-sung-mi-phan-5-thuviensach.vn.mp3?t=156390",
+    "title" : "43:26:30 Sủng Mị - Tập 265",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14183-sung-mi-phan-5-thuviensach.vn.mp3?t=160147",
+    "title" : "44:29:07 Sủng Mị - Tập 266",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14183-sung-mi-phan-5-thuviensach.vn.mp3?t=164109",
+    "title" : "45:35:09 Sủng Mị - Tập 267",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14183-sung-mi-phan-5-thuviensach.vn.mp3?t=168726",
+    "title" : "46:52:06 Sủng Mị - Tập 268",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14183-sung-mi-phan-5-thuviensach.vn.mp3?t=176574",
+    "title" : "49:02:54 Sủng Mị - Tập 269",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14183-sung-mi-phan-5-thuviensach.vn.mp3?t=180256",
+    "title" : "50:04:16 Sủng Mị - Tập 270",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14183-sung-mi-phan-5-thuviensach.vn.mp3?t=184170",
+    "title" : "51:09:30 Sủng Mị - Tập 271",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14183-sung-mi-phan-5-thuviensach.vn.mp3?t=188768",
+    "title" : "52:26:08 Sủng Mị - Tập 272",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14183-sung-mi-phan-5-thuviensach.vn.mp3?t=192588",
+    "title" : "53:29:48 Sủng Mị - Tập 273",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14183-sung-mi-phan-5-thuviensach.vn.mp3?t=196468",
+    "title" : "54:34:28 Sủng Mị - Tập 274",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14183-sung-mi-phan-5-thuviensach.vn.mp3?t=200650",
+    "title" : "55:44:10 Sủng Mị - Tập 275",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14183-sung-mi-phan-5-thuviensach.vn.mp3?t=204689",
+    "title" : "56:51:29 Sủng Mị - Tập 276",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14183-sung-mi-phan-5-thuviensach.vn.mp3?t=209778",
+    "title" : "58:16:18 Sủng Mị - Tập 277",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14183-sung-mi-phan-5-thuviensach.vn.mp3?t=214253",
+    "title" : "59:30:53 Sủng Mị - Tập 278",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14183-sung-mi-phan-5-thuviensach.vn.mp3?t=218590",
+    "title" : "60:43:10 Sủng Mị - Tập 279",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14183-sung-mi-phan-5-thuviensach.vn.mp3?t=226072",
+    "title" : "62:47:52 Sủng Mị - Tập 280",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14183-sung-mi-phan-5-thuviensach.vn.mp3?t=229889",
+    "title" : "63:51:29 Sủng Mị - Tập 281",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14183-sung-mi-phan-5-thuviensach.vn.mp3?t=234174",
+    "title" : "65:02:54 Sủng Mị - Tập 282",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14183-sung-mi-phan-5-thuviensach.vn.mp3?t=238281",
+    "title" : "66:11:21 Sủng Mị - Tập 283",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14183-sung-mi-phan-5-thuviensach.vn.mp3?t=241903",
+    "title" : "67:11:43 Sủng Mị - Tập 284",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14183-sung-mi-phan-5-thuviensach.vn.mp3?t=245727",
+    "title" : "68:15:27 Sủng Mị - Tập 285",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14183-sung-mi-phan-5-thuviensach.vn.mp3?t=249534",
+    "title" : "69:18:54 Sủng Mị - Tập 286",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14183-sung-mi-phan-5-thuviensach.vn.mp3?t=257024",
+    "title" : "71:23:44 Sủng Mị - Tập 287",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14183-sung-mi-phan-5-thuviensach.vn.mp3?t=259205",
+    "title" : "72:00:05 Sủng Mị - Tập 288",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14183-sung-mi-phan-5-thuviensach.vn.mp3?t=262595",
+    "title" : "72:56:35 Sủng Mị - Tập 289",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14183-sung-mi-phan-5-thuviensach.vn.mp3?t=266567",
+    "title" : "74:02:47 Sủng Mị - Tập 290",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14183-sung-mi-phan-5-thuviensach.vn.mp3?t=270428",
+    "title" : "75:07:08 Sủng Mị - Tập 291",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14183-sung-mi-phan-5-thuviensach.vn.mp3?t=274030",
+    "title" : "76:07:10 Sủng Mị - Tập 292",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14183-sung-mi-phan-5-thuviensach.vn.mp3?t=278189",
+    "title" : "77:16:29 Sủng Mị - Tập 293",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14183-sung-mi-phan-5-thuviensach.vn.mp3?t=282285",
+    "title" : "78:24:45 Sủng Mị - Tập 294",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14183-sung-mi-phan-5-thuviensach.vn.mp3?t=286398",
+    "title" : "79:33:18 Sủng Mị - Tập 295",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14183-sung-mi-phan-5-thuviensach.vn.mp3?t=290558",
+    "title" : "80:42:38 Sủng Mị - Tập 296",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14183-sung-mi-phan-5-thuviensach.vn.mp3?t=294630",
+    "title" : "81:50:30 Sủng Mị - Tập 297",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14183-sung-mi-phan-5-thuviensach.vn.mp3?t=298357",
+    "title" : "82:52:37 Sủng Mị - Tập 298",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14183-sung-mi-phan-5-thuviensach.vn.mp3?t=301983",
+    "title" : "83:53:03 Sủng Mị - Tập 299",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14183-sung-mi-phan-5-thuviensach.vn.mp3?t=305862",
+    "title" : "84:57:42 Sủng Mị - Tập 300",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14183-sung-mi-phan-5-thuviensach.vn.mp3?t=310014",
+    "title" : "86:06:54 Sủng Mị - Tập 301 Hết",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

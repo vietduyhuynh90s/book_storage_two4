@@ -1,0 +1,77 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/an-khong-sao-ca-14212.html",
+    "title" : "ÂN, KHÔNG SAO CẢ",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Bò Cạp Ôn Nhu",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Tên gốc: 恩，没关系 Tác giả: 温柔的蝎子 - Bò cạp ôn nhu. Thể loại: Đam mỹ - Đoản văn - Ngược - BE (theo bản edit)/ HE (theo bản gốc) Đôi Lời: Đây đơn giản là cố sự của một người làm vườn chứng kiến tình yêu của một nam sủng không được sủng trong phủ Hậu gia quyền khuynh triều dã của vương triều Đại Quỳnh - một tình yêu hi sinh không nuối tiếc... Hay đúng hơn là một điển cố cho cái gọi là tình yêu ngu ngốc của một sủng nam bạc nhược - Tình cảm không thể nói của một vương gia ích kỷ đến đáng thương - Và tình yêu tội nghiệp không được hồi đáp của vị hoàng tử cố chấp tin tưởng... Truyện không dài cũng không quá ngắn nhưng lại là một trong những đoản văn đáng đọc nhất vì truyện này thật rất hay nhưng cảnh báo từ đầu chí cuối chỉ có ngược... Ngược đến tâm gan phế phổi đều héo vậy nên nếu chịu được thì mọi người hãy cùng đọc rồi cảm nhận cái tài viết ngược sâu sắc đau đớn quằn quại của tác giả...Còn không chịu ngược nỗi thì mình khuyên không nên đọc sẽ tốn nhiều nước mắt và dễ bị ám ảnh lắm đó...:-(</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-07-23",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/EPUB/EPUB_0cde66120539cb78237fc65c6bf93a14.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/IMAGE/IMAGE_0cde66120539cb78237fc65c6bf93a14.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14212-an-khong-sao-ca-thuviensach.vn.mp3?t=0",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:00:00 Ân, Không Sao Cả - Phần I: VIên Đinh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14212-an-khong-sao-ca-thuviensach.vn.mp3?t=1084",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:18:04 Ân, Không Sao Cả - Phần II: Tiết",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14212-an-khong-sao-ca-thuviensach.vn.mp3?t=3705",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:01:45 Ân, Không Sao Cả - Phần Cuối: Tử Diệu",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14212-an-khong-sao-ca-thuviensach.vn.mp3?t=0",
+    "title" : "00:00:00 Ân, Không Sao Cả - Phần I: VIên Đinh",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14212-an-khong-sao-ca-thuviensach.vn.mp3?t=1084",
+    "title" : "00:18:04 Ân, Không Sao Cả - Phần II: Tiết",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14212-an-khong-sao-ca-thuviensach.vn.mp3?t=3705",
+    "title" : "01:01:45 Ân, Không Sao Cả - Phần Cuối: Tử Diệu",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

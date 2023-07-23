@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/day-con-lam-giau-tap-5-14232.html",
+    "title" : "DẠY CON LÀM GIÀU - TẬP 5",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Robert T. Kiyosaki",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Dạy Con Làm Giàu là bộ sách bán chạy nhất trên bảng xếp hạng của Amazon trong suốt nhiều năm liền. Xuyên suốt bộ sách là những chia sẻ bổ ích, chân thành và ý nghĩa của chính tác giả về tư duy làm giàu, làm chủ, lãnh đạo, kiến thức và sự thông minh về tài chính. Cùng với đó, lối kể chuyện giản dị, súc tích, dễ hiểu sẽ giúp bạn đọc dễ dàng nắm rõ vấn đề và có thể áp dụng được vào thực tế. Dạy Con Làm Giàu - Tập 5: Để Có Sức Mạnh Về Tài Chính là một cuốn sách kinh doanh đặc biệt dành cho những ai muốn có khởi đầu thuận lợi về tài chính trong cuộc sống để làm giàu, muốn phát hiện và phát huy tài năng của mình, muốn trở thành người học suốt đời. Cuốn sách thực sự là một cuốn cẩm nang tuyệt vời, cung cấp những bí quyết và kiến thức quý báu để giúp mỗi bạn trẻ vững vàng, tự tin hơn khi bước chân ra khỏi cổng trường để vào thế giới thực - thế giới mà mỗi người chúng ta phải đối đầu với khó khăn, áp lực về tài chính, về các mối quan hệ trong suốt nhưng năm tiếp theo của cuộc đời. Bạn có thể trở thành một người bình thường biết quản lý tài chính một cách xuất sắc, cũng có thể áp dụng mọi kiến thức đọc được trong bộ sách này để trở thành một người giàu có, tự do về tài chính.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-07-23",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/EPUB/EPUB_c62a69c461a35dc0111c3775cd09da9b.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/IMAGE/IMAGE_c62a69c461a35dc0111c3775cd09da9b.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14232-day-con-lam-giau-tap-5-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14232-day-con-lam-giau-tap-5-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

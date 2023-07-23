@@ -1,0 +1,65 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/cau-be-nha-que-14430.html",
+    "title" : "CẬU BÉ NHÀ QUÊ",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nguyễn Lân",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Sơ lược về tác giả: Nguyễn Lân (14 tháng 6 năm 1906 - 7 tháng 8 năm 2003) là một giáo viên, người biên soạn từ điển, nhà văn và nhà nghiên cứu người Việt Nam. Ông là người có công trong việc xây dựng bộ môn và khoa tâm lý học, giáo dục học của hệ thống các trường sư phạm ở Việt Nam. Nguyễn Lân cũng là một nhân vật gây tranh cãi khi ông tham gia đấu tố Giáo sư Trương Tửu và Giáo sư Trần Đức Thảo -sự kiện mà sau này ông nói ân hận, việc mạo danh học hàm giáo sư và các sai lầm khi soạn từ điển tiếng Việt. Nguyễn Lân sinh ngày 14 tháng 6 năm 1906 trong một gia đình nhà nông nghèo, hiếu học ở làng Ngọc Lập, Phùng Chí Kiên, Mỹ Hào, Hưng Yên. Năm 1929, ông thi đỗ vào Trường Cao đẳng Sư phạm Đông Dương. Năm 1932, ông dạy tại Trường Hồng Bàng, sau đó làm giám học và dạy 2 môn văn, sử tại Trường Thăng Long. Từ năm 1935 đến năm 1945, ông sinh sống tại Huế. Năm 1945: Ông được Chính phủ Trần Trọng Kim mời làm Đốc lý ở Huế, ông đã chấp thuận với 2 yêu cầu: 1. tuy làm đốc lý nhưng vẫn ăn lương giáo viên và có giờ dạy học, 2. không giao thiệp với người Nhật đang có mặt ở Huế lúc ấy. Thời gian này ông đã mở một lớp sư phạm, đồng thời tiến hành một số hoạt động hướng về cách mạng Việt Nam, ông đã mời các nhân sĩ ở Huế đến họp để đổi tên các đường phố từ tên tiếng Pháp sang tên tiếng Việt. Năm 1946: Ông trở ra Hà Nội và dạy học tại Trường Bưởi. Được một thời gian, kháng chiến bùng nổ, Ông đưa vợ con lên vùng Việt Bắc và được cử làm Giám đốc giáo dục Liên khu 10 gồm 6 tỉnh: Yên Bái, Phú Thọ, Vĩnh Yên (nay là Vĩnh Phúc), Tuyên Quang, Lào Cai và Hà Giang. Năm 1951: Ông được cử đi học ở khu học xã Trung Quốc tại tỉnh Quảng Tây - Trung Quốc. Năm 1956: Ông về dạy tại khoa tâm lý giáo dục của Trường Đại học Sư phạm Hà Nội. Năm 1971: Ông về nghỉ hưu ở tuổi 67. Từ đó cho đến khi qua đời, ông đã dành trọn thời gian cho việc biên soạn từ điển và nghiên cứu nhằm gìn giữ, phát triển tiếng Việt. Các cuốn từ điển do ông biên soạn như: Từ điển Việt-Pháp (1989), Từ điển Hán-Việt, Từ điển thành ngữ, tục ngữ Pháp-Việt (1993), Từ điển từ và ngữ Việt Nam (2000)... Tuy vậy hiện nay đang có nhiều nhà nghiên cứu đã cho công bố nhiều sai sót trong các quyển từ điển này. Ngày 7 tháng 8 năm 2003, ông qua đời ở tuổi 97 tại Hà Nội</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-07-23",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/EPUB/EPUB_bc4e443cf9069dca60829c363c0e22b1.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/IMAGE/IMAGE_bc4e443cf9069dca60829c363c0e22b1.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14430-cau-be-nha-que-thuviensach.vn.mp3?t=0",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:00:00 Cậu Bé Nhà Quê. Tập 01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14430-cau-be-nha-que-thuviensach.vn.mp3?t=2491",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:41:31 Cậu Bé Nhà Quê. Tập 02 - Hết",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14430-cau-be-nha-que-thuviensach.vn.mp3?t=0",
+    "title" : "00:00:00 Cậu Bé Nhà Quê. Tập 01",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14430-cau-be-nha-que-thuviensach.vn.mp3?t=2491",
+    "title" : "00:41:31 Cậu Bé Nhà Quê. Tập 02 - Hết",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

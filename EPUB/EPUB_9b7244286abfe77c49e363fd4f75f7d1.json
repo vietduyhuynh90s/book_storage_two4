@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/day-con-lam-giau-tap-4-14231.html",
+    "title" : "DẠY CON LÀM GIÀU - TẬP 4",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Robert T. Kiyosaki",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Một trong những nguyên nhân khiến người giàu ngày càng giàu, người nghèo ngày càng nghèo, còn giới trung lưu thì thường mắc nợ chính là vì chủ đề tiền bạc thường được dạy ở nhà chứ không phải ở trường. Cuốn Dạy Con Làm Giàu - Tập 4 sẽ giúp bạn thay đổi tư duy. Hầu hết chúng ta học cách xử lý tiền bạc từ cha mẹ mình, và thường thì người nghèo không dạy con về tiền bạc mà chỉ nói đơn giản là: “Hãy đến trường và học cho chăm chỉ.” Và rồi đứa trẻ có thể sẽ tốt nghiệp với một số điểm xuất sắc nhưng với một đầu óc nghèo nàn về cách quản lý tiền bạc, vì trường học không dạy về chuyện tiền nong mà chỉ tập trung vào việc giáo dục sách vở và những kỹ năng nghề nghiệp mà không nói gì về kỹ năng tài chính. Đó chính là lý do tại sao những nhân viên ngân hàng, bác sĩ, kế toán thông minh dù đạt được nhiều điểm số xuất sắc ở trường nhưng lại gặp nhiều rắc rối tài chính suốt đời. Và những món nợ quốc gia chóng mặt thường bắt nguồn từ những vị lãnh đạo có học vấn cao, nhưng chỉ được huấn luyện rất ít hoặc không có chút kỹ năng nào về vấn đề tài chính. Cuốn sách này cung cấp những kiến thức và bí quyết quý báu để chúng ta tự tin bước vào thế giới thực - thế giới chúng ta phải đối đầu sau khi ra trường. Cuốn sách dành đặc biệt cho những ai muốn có khởi đầu thuận lợi về tài chính trong cuộc sống để làm giàu; muốn phát hiện và phát huy tài năng của mình và muốn trở thành người học suốt đời.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-07-23",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/EPUB/EPUB_9b7244286abfe77c49e363fd4f75f7d1.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/IMAGE/IMAGE_9b7244286abfe77c49e363fd4f75f7d1.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14231-day-con-lam-giau-tap-4-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14231-day-con-lam-giau-tap-4-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

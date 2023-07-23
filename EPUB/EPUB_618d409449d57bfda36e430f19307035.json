@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/ky-luat-cua-sieu-viet-tap-2-14350.html",
+    "title" : "KỶ LUẬT CỦA SIÊU VIỆT - TẬP 2",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Osho",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Phật nói: Tự do khỏi đam mê và được bình thản, đây là con đường tuyệt diệu nhất. Những người đã bỏ lại cha mẹ mình, đi ra khỏi nhà, hiểu tâm trí, đạt tới cội nguồn, và hiểu thấu cái phi vật chất, được gọi là shramana-Sa môn. Những người tuân thủ giới luật về đạo đức, người thuần khiết và không tì vết trong hành vi của họ, những người cố gắng đạt tới kết quả của quả vị thánh được gọi là a la hán. Tiếp đó là bất hoàn (anagamin - a na hàm). Tại cuối cuộc đời mình, linh hồn của bất hoàn thăng lên trời và đạt tới quả vị a la hán. Tiếp đó là nhất hoàn (skridagamin - tu đà hàm). Nhất hoàn thăng lên trời (sau cái chết của người đó), quay trở lại thế gian một lần nữa, và đạt tới quả vị a la hán. Tiếp đó là dự lưu (srotapanna - tu đà hoàn). Dự lưu chết đi bẩy lần và được sinh ra bẩy lần, rồi người đó cuối cùng đạt tới quả vị a la hán. Bởi việc gián đoạn của đam mê được ngụ ý là giống như các chi bị cắt rời chúng không bao giờ có thể được dùng lại nữa. Phật Gautam giống như đỉnh cao nhất của Himalayas, giống như đỉnh Gourishankar... một trong những con người thuần khiết nhất, một trong những linh hồn trong trắng nhất, một trong những hiện tượng rất hiếm hoi trên thế gian này. Sự hiếm hoi là ở chỗ Phật là nhà khoa học của thế giới bên trong - nhà khoa học của tôn giáo. Đó là việc tổ hợp hiếm hoi. Mang tính tôn giáo là đơn giản, là nhà khoa học là đơn giản - nhưng tổ hợp, tổng hợp hai cực này là điều không thể nào tin được. Điều đó là không thể nào tin được, nhưng nó đã xảy ra. Phật là người giầu có nhất đã từng sống; giầu có nhất theo nghĩa tất cả các chiều hướng của cuộc sống đều được hoàn thành trong ông ấy. Ông ấy không phải là người một chiều. Có ba cách tiếp cận tới chân lí. Một là cách tiếp cận của sức mạnh, cách tiếp cận khác là của cái đẹp, và cách tiếp cận thứ ba là của sự vĩ đại.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-07-23",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/EPUB/EPUB_618d409449d57bfda36e430f19307035.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/IMAGE/IMAGE_618d409449d57bfda36e430f19307035.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14350-ky-luat-cua-sieu-viet-tap-2-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14350-ky-luat-cua-sieu-viet-tap-2-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
