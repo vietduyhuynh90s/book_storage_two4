@@ -1,0 +1,77 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.youtube.com/watch?v=_QSci-3c6m4",
+    "title" : "Mình Sinh Ra Đâu Phải Để Buồn - Audio Hà Xinh",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Iris Cao",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "Con người để được tìm thấy hạnh phúc quanh mình, dẫu đôi lúc nỗi buồn che đôi mắt. Cứ tin là hạnh phúc sẽ trở lại, vì mình sinh ra đâu phải để buồn... (Hamlet Trương)",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-07-24",
+    "duration" : 7286,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/EPUB/EPUB_55ae313401d475b7b03d9415b74ae7c3.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/IMAGE/IMAGE_55ae313401d475b7b03d9415b74ae7c3.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/AUDIO/AUDIO_55ae313401d475b7b03d9415b74ae7c3_af351c20aa3dd1084108159f5f20042d.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3643,
+    "title" : "P1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/AUDIO/AUDIO_55ae313401d475b7b03d9415b74ae7c3_8230fe1883fac440d6ecc6167f397ff1_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "P2 (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/AUDIO/AUDIO_55ae313401d475b7b03d9415b74ae7c3_8230fe1883fac440d6ecc6167f397ff1_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "P2 (2)",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/AUDIO/AUDIO_55ae313401d475b7b03d9415b74ae7c3_af351c20aa3dd1084108159f5f20042d.mp3",
+    "title" : "P1",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/AUDIO/AUDIO_55ae313401d475b7b03d9415b74ae7c3_8230fe1883fac440d6ecc6167f397ff1_1.mp3",
+    "title" : "P2 (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/AUDIO/AUDIO_55ae313401d475b7b03d9415b74ae7c3_8230fe1883fac440d6ecc6167f397ff1_2.mp3",
+    "title" : "P2 (2)",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
