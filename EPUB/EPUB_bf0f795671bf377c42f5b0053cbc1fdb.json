@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.youtube.com/watch?v=UBzL_xJMigk",
+    "title" : "[Short] Vượt qua bản thân (Thư viện tỉnh Tây Ninh)",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Lưu Dung",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<div>     <div>         <div>             <div>                 <div>                     <div>                         <div>                             <div>LỜI GIỚI THIỆU &ldquo;H&ocirc;m nay em đọc Lưu Dung- một họa sĩ, một nh&agrave; văn nổi tiếng của Đ&agrave;i Loan. Đọc đến say m&ecirc; những c&acirc;u chuyện ngắn ngủi nhưng dư &acirc;m d&agrave;i dằng dặc...Ch&uacute;ng b&igrave;nh dị lắm, b&igrave;nh dị như cuộc sống quanh em với những đua chen, những s&acirc;n si hỷ nộ &aacute;i ố của đời thường, những cuộc kiếm t&igrave;m danh vọng v&agrave; hạnh ph&uacute;c. Tất cả g&oacute;i gọn trong 150 trang s&aacute;ch&rdquo;. (Blog của V&acirc;n Lam) &ldquo; Một trong những quyển s&aacute;ch t&ocirc;i th&iacute;ch nhất l&agrave; cuốn &ldquo;Nh&acirc;n sinh phi&ecirc;u bạt&rdquo; của Lưu Dung &ndash; Lưu Hiền. Lần đầu cầm tr&ecirc;n tay t&ocirc;i đ&atilde; vội đặt xuống v&igrave; cứ ngỡ n&oacute; l&agrave; cuốn tiểu thuyết về t&ocirc;n gi&aacute;o. Nhưng h&oacute;a ra kh&ocirc;ng phải, nh&agrave; văn người Đ&agrave;i Loan n&agrave;y chỉ viết những g&igrave; m&igrave;nh cảm v&agrave; nghĩ trong cuộc s&ocirc;ng!...Dĩ nhi&ecirc;n, kh&ocirc;ng phải tất cả những g&igrave; Lưu Dung n&oacute;i cũng đều đ&uacute;ng v&agrave; ch&uacute;ng ta phải l&agrave;m theo y chang. Đấy chỉ l&agrave; những b&agrave;i tham khảo. Mẫu mực, rất mẫu mực.&rdquo; (Phạm Mạnh T&acirc;n) &ldquo;Minh rất th&iacute;ch đọc s&aacute;ch của Lưu Dung bởi nội dung c&ocirc; đọng dễ hiểu v&agrave; rất ch&acirc;n t&igrave;nh.&rdquo;&nbsp;</div>                             <div>&nbsp;</div>                         </div>                         <p>Gi&aacute; sản phẩm tr&ecirc;n Tiki đ&atilde; bao gồm thuế theo luật hiện h&agrave;nh. B&ecirc;n cạnh đ&oacute;, tuỳ v&agrave;o loại sản phẩm, h&igrave;nh thức v&agrave; địa chỉ giao h&agrave;ng m&agrave; c&oacute; thể ph&aacute;t sinh th&ecirc;m chi ph&iacute; kh&aacute;c như ph&iacute; vận chuyển, phụ ph&iacute; h&agrave;ng cồng kềnh, thuế nhập khẩu (đối với đơn h&agrave;ng giao từ nước ngo&agrave;i c&oacute; gi&aacute; trị tr&ecirc;n 1 triệu đồng).....</p>                     </div>                 </div>             </div>         </div>     </div> </div> <div><br></div>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-07-24",
+    "duration" : 3643,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/EPUB/EPUB_bf0f795671bf377c42f5b0053cbc1fdb.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/IMAGE/IMAGE_bf0f795671bf377c42f5b0053cbc1fdb.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/AUDIO/AUDIO_bf0f795671bf377c42f5b0053cbc1fdb_8063bd2209a7e62c73bce6581b8d8b59.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3643,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/AUDIO/AUDIO_bf0f795671bf377c42f5b0053cbc1fdb_8063bd2209a7e62c73bce6581b8d8b59.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
