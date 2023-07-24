@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.youtube.com/watch?v=GjpiwtfV6LE",
+    "title" : "[Short] Sống Đủ (Thư viện tỉnh Tây Ninh)",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Azby Brown",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<div>     <div>         <div>             <div>                 <div>                     <div>                         <div>                             <p>Bằng c&aacute;ch chia sẻ những quan s&aacute;t c&aacute; nh&acirc;n v&agrave; c&aacute;c c&acirc;u chuyện mi&ecirc;u tả một lối sống đ&atilde; phai mờ, SỐNG ĐỦ mang đến g&oacute;c nh&igrave;n s&acirc;u sắc về cuộc sống của một x&atilde; hội vững bền, kh&ocirc;ng l&atilde;ng ph&iacute;, về c&aacute;c vấn đề trải rộng ở nhiều lĩnh vực m&agrave; người Nhật phải đối mặt v&agrave; c&aacute;ch họ t&igrave;m ra phương &aacute;n giải quyết ch&uacute;ng.<br>Năng lượng, nước, nguy&ecirc;n vật liệu, thực phẩm, d&acirc;n số, m&ocirc;i trường, r&aacute;c thải, v.v... Đ&acirc;y đều l&agrave; nan đề kh&ocirc;ng chỉ ở x&atilde; hội hiện đại m&agrave; từ hơn hai trăm năm trước, người d&acirc;n thời kỳ Edo đ&atilde; phải đương đ&acirc;&igrave;. Chỉ bằng c&aacute;ch lấy &quot;đủ&quot; từ thế giới, họ đ&atilde; giải được b&agrave;i to&aacute;n x&atilde; hội, m&ocirc;i trường gian nan, để mở ra c&aacute;nh cửa đến với cuộc sống gi&agrave;u &yacute; nghĩa, vẹn tr&ograve;n v&agrave; m&atilde;n nguyện.<br>SỐNG ĐỦ ch&iacute;nh l&agrave; nếp suy nghĩ thấm đượm khắp x&atilde; hội Nhật Bản đương thời, v&agrave; ng&agrave;y nay, đ&oacute; c&oacute; thể l&agrave; ngọn hải đăng soi s&aacute;ng cho ch&uacute;ng ta tr&ecirc;n con đường nổ lực đạt đến sự bền vững.</p>                         </div>                     </div>                 </div>             </div>         </div>     </div> </div> <div><br></div>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-07-24",
+    "duration" : 3643,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/EPUB/EPUB_28412736f23e80a819dd7f28fb1fac40.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/IMAGE/IMAGE_28412736f23e80a819dd7f28fb1fac40.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/AUDIO/AUDIO_28412736f23e80a819dd7f28fb1fac40_98006a61583fc3a5ba463b8593f56d5f.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3643,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/AUDIO/AUDIO_28412736f23e80a819dd7f28fb1fac40_98006a61583fc3a5ba463b8593f56d5f.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
