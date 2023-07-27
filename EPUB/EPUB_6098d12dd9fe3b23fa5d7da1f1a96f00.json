@@ -1,0 +1,161 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/audiobook-ty-phu-ban-giay-tony-hsieh-kinh-doanh_2304.html",
+    "title" : "Tỷ Phú Bán Giày - Tony Hsieh",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Tony Hsieh",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-07-25",
+    "duration" : 17450,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/EPUB/EPUB_6098d12dd9fe3b23fa5d7da1f1a96f00.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/IMAGE/IMAGE_6098d12dd9fe3b23fa5d7da1f1a96f00.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/AUDIO/AUDIO_6098d12dd9fe3b23fa5d7da1f1a96f00_940ff2511a812464b75fde9ed34060bf.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1709,
+    "title" : "TyPhuBanGiayP00 GioiThieu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/AUDIO/AUDIO_6098d12dd9fe3b23fa5d7da1f1a96f00_555c2626e00104ac1db40ac7ffe9e675.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 476,
+    "title" : "TyPhuBanGiayP00 LoiNoiDau",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/AUDIO/AUDIO_6098d12dd9fe3b23fa5d7da1f1a96f00_c8aac4c65bf3e98a857ba5e1098ea8b2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2745,
+    "title" : "TyPhuBanGiayP01A",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/AUDIO/AUDIO_6098d12dd9fe3b23fa5d7da1f1a96f00_ceb1b005f118b949f61b28ebedd129dc.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2545,
+    "title" : "TyPhuBanGiayP01B",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/AUDIO/AUDIO_6098d12dd9fe3b23fa5d7da1f1a96f00_f08a489f08efe02e70f58aaf014175d0_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "TyPhuBanGiayP01C (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/AUDIO/AUDIO_6098d12dd9fe3b23fa5d7da1f1a96f00_f08a489f08efe02e70f58aaf014175d0_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "TyPhuBanGiayP01C (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/AUDIO/AUDIO_6098d12dd9fe3b23fa5d7da1f1a96f00_b148c1e07e91c65f20a16aae3e7ca58e.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2524,
+    "title" : "TyPhuBanGiayP02A",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/AUDIO/AUDIO_6098d12dd9fe3b23fa5d7da1f1a96f00_ccbd5a8a3520f4cc52ebfbd5e1ec990f.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1005,
+    "title" : "TyPhuBanGiayP02B",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/AUDIO/AUDIO_6098d12dd9fe3b23fa5d7da1f1a96f00_314b91847177d822579d63c925b8f8ea.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2173,
+    "title" : "TyPhuBanGiayP03A",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/AUDIO/AUDIO_6098d12dd9fe3b23fa5d7da1f1a96f00_3541fc3917a3a19b812e1d986b302b82.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 942,
+    "title" : "TyPhuBanGiayP03B",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/AUDIO/AUDIO_6098d12dd9fe3b23fa5d7da1f1a96f00_940ff2511a812464b75fde9ed34060bf.mp3",
+    "title" : "TyPhuBanGiayP00 GioiThieu",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/AUDIO/AUDIO_6098d12dd9fe3b23fa5d7da1f1a96f00_555c2626e00104ac1db40ac7ffe9e675.mp3",
+    "title" : "TyPhuBanGiayP00 LoiNoiDau",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/AUDIO/AUDIO_6098d12dd9fe3b23fa5d7da1f1a96f00_c8aac4c65bf3e98a857ba5e1098ea8b2.mp3",
+    "title" : "TyPhuBanGiayP01A",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/AUDIO/AUDIO_6098d12dd9fe3b23fa5d7da1f1a96f00_ceb1b005f118b949f61b28ebedd129dc.mp3",
+    "title" : "TyPhuBanGiayP01B",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/AUDIO/AUDIO_6098d12dd9fe3b23fa5d7da1f1a96f00_f08a489f08efe02e70f58aaf014175d0_1.mp3",
+    "title" : "TyPhuBanGiayP01C (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/AUDIO/AUDIO_6098d12dd9fe3b23fa5d7da1f1a96f00_f08a489f08efe02e70f58aaf014175d0_2.mp3",
+    "title" : "TyPhuBanGiayP01C (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/AUDIO/AUDIO_6098d12dd9fe3b23fa5d7da1f1a96f00_b148c1e07e91c65f20a16aae3e7ca58e.mp3",
+    "title" : "TyPhuBanGiayP02A",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/AUDIO/AUDIO_6098d12dd9fe3b23fa5d7da1f1a96f00_ccbd5a8a3520f4cc52ebfbd5e1ec990f.mp3",
+    "title" : "TyPhuBanGiayP02B",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/AUDIO/AUDIO_6098d12dd9fe3b23fa5d7da1f1a96f00_314b91847177d822579d63c925b8f8ea.mp3",
+    "title" : "TyPhuBanGiayP03A",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/AUDIO/AUDIO_6098d12dd9fe3b23fa5d7da1f1a96f00_3541fc3917a3a19b812e1d986b302b82.mp3",
+    "title" : "TyPhuBanGiayP03B",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
