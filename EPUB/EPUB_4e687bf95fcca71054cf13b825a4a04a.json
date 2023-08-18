@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-05-19",
+    "published" : "2023-08-17",
     "duration" : 8771,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,17 +36,65 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/ren-luyen/ren-luyen.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_4e687bf95fcca71054cf13b825a4a04a_626a599c3990203435b4b97f14b470fd_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 8771,
-    "title" : "ren-luyen",
+    "duration" : 0,
+    "title" : "ren-luyen (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_4e687bf95fcca71054cf13b825a4a04a_626a599c3990203435b4b97f14b470fd_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "ren-luyen (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_4e687bf95fcca71054cf13b825a4a04a_626a599c3990203435b4b97f14b470fd_3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "ren-luyen (3)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_4e687bf95fcca71054cf13b825a4a04a_626a599c3990203435b4b97f14b470fd_4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "ren-luyen (4)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_4e687bf95fcca71054cf13b825a4a04a_626a599c3990203435b4b97f14b470fd_5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "ren-luyen (5)",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/ren-luyen/ren-luyen.mp3",
-    "title" : "ren-luyen",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_4e687bf95fcca71054cf13b825a4a04a_626a599c3990203435b4b97f14b470fd_1.mp3",
+    "title" : "ren-luyen (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_4e687bf95fcca71054cf13b825a4a04a_626a599c3990203435b4b97f14b470fd_2.mp3",
+    "title" : "ren-luyen (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_4e687bf95fcca71054cf13b825a4a04a_626a599c3990203435b4b97f14b470fd_3.mp3",
+    "title" : "ren-luyen (3)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_4e687bf95fcca71054cf13b825a4a04a_626a599c3990203435b4b97f14b470fd_4.mp3",
+    "title" : "ren-luyen (4)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_4e687bf95fcca71054cf13b825a4a04a_626a599c3990203435b4b97f14b470fd_5.mp3",
+    "title" : "ren-luyen (5)",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"

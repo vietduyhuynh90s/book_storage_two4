@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-05-16",
+    "published" : "2023-08-17",
     "duration" : 2444,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,17 +36,29 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/bao-to/bao-to.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_a406678ff7b42a5617775a1b1e249998_ea967c2f3f7de9e91938af2cea2a8641_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 2444,
-    "title" : "bao-to",
+    "duration" : 0,
+    "title" : "bao-to (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_a406678ff7b42a5617775a1b1e249998_ea967c2f3f7de9e91938af2cea2a8641_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "bao-to (2)",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/bao-to/bao-to.mp3",
-    "title" : "bao-to",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_a406678ff7b42a5617775a1b1e249998_ea967c2f3f7de9e91938af2cea2a8641_1.mp3",
+    "title" : "bao-to (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_a406678ff7b42a5617775a1b1e249998_ea967c2f3f7de9e91938af2cea2a8641_2.mp3",
+    "title" : "bao-to (2)",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"
