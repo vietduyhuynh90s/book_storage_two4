@@ -60,11 +60,27 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_301ac9de356a9330d521a9bbc827116c_f8b1dc84604772a7425388211b4cc156.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_301ac9de356a9330d521a9bbc827116c_f8b1dc84604772a7425388211b4cc156_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 3643,
-    "title" : "P2",
+    "duration" : 0,
+    "title" : "P2 (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_301ac9de356a9330d521a9bbc827116c_f8b1dc84604772a7425388211b4cc156_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "P2 (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_301ac9de356a9330d521a9bbc827116c_f8b1dc84604772a7425388211b4cc156_3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "P2 (3)",
     "properties" : null,
     "alternate" : null
   } ],
@@ -81,8 +97,16 @@
     "title" : "P1 (3)",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_301ac9de356a9330d521a9bbc827116c_f8b1dc84604772a7425388211b4cc156.mp3",
-    "title" : "P2",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_301ac9de356a9330d521a9bbc827116c_f8b1dc84604772a7425388211b4cc156_1.mp3",
+    "title" : "P2 (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_301ac9de356a9330d521a9bbc827116c_f8b1dc84604772a7425388211b4cc156_2.mp3",
+    "title" : "P2 (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_301ac9de356a9330d521a9bbc827116c_f8b1dc84604772a7425388211b4cc156_3.mp3",
+    "title" : "P2 (3)",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"
