@@ -1,7 +1,7 @@
 {
   "metadata" : {
     "identifier" : "https://www.youtube.com/watch?v=drMjyFqTpNo",
-    "title" : "Càng Kỷ Luật, Càng Tự Do",
+    "title" : "Càng Kỷ Luật, Càng Tự Do [Đang cập nhật]",
     "subtitle" : "N/A",
     "author" : {
       "name" : "Ca Tây",
@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-08-12",
-    "duration" : 3643,
+    "published" : "2023-08-19",
+    "duration" : 7286,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -59,6 +59,14 @@
     "title" : "P1 (3)",
     "properties" : null,
     "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_301ac9de356a9330d521a9bbc827116c_f8b1dc84604772a7425388211b4cc156.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3643,
+    "title" : "P2",
+    "properties" : null,
+    "alternate" : null
   } ],
   "toc" : [ {
     "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_301ac9de356a9330d521a9bbc827116c_d4b6fc4d3eeaa19a8061a58d6a87bf1b_1.mp3",
@@ -71,6 +79,10 @@
   }, {
     "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_301ac9de356a9330d521a9bbc827116c_d4b6fc4d3eeaa19a8061a58d6a87bf1b_3.mp3",
     "title" : "P1 (3)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_301ac9de356a9330d521a9bbc827116c_f8b1dc84604772a7425388211b4cc156.mp3",
+    "title" : "P2",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"
