@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-05-09",
+    "published" : "2023-08-19",
     "duration" : 58343,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,29 +36,161 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/tu-hu-khong-den-tro-ve-hu-khong/1.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_635f47e284e8a26fef5047942c8cb20e_f49ffb224ce4f49f0d9bc536d614f97f_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 26367,
-    "title" : "Tập 1 - Hoà Thượng Tuyên Hóa",
+    "duration" : 0,
+    "title" : "Tập 1 - Hoà Thượng Tuyên Hóa (1)",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/tu-hu-khong-den-tro-ve-hu-khong/2.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_635f47e284e8a26fef5047942c8cb20e_f49ffb224ce4f49f0d9bc536d614f97f_2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 31976,
-    "title" : "Tập 2 - Hoà Thượng Tuyên Hóa",
+    "duration" : 0,
+    "title" : "Tập 1 - Hoà Thượng Tuyên Hóa (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_635f47e284e8a26fef5047942c8cb20e_f49ffb224ce4f49f0d9bc536d614f97f_3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Tập 1 - Hoà Thượng Tuyên Hóa (3)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_635f47e284e8a26fef5047942c8cb20e_f49ffb224ce4f49f0d9bc536d614f97f_4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Tập 1 - Hoà Thượng Tuyên Hóa (4)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_635f47e284e8a26fef5047942c8cb20e_f49ffb224ce4f49f0d9bc536d614f97f_5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Tập 1 - Hoà Thượng Tuyên Hóa (5)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_635f47e284e8a26fef5047942c8cb20e_49b6f3929633c7b1d2ff185ce0252286_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Tập 2 - Hoà Thượng Tuyên Hóa (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_635f47e284e8a26fef5047942c8cb20e_49b6f3929633c7b1d2ff185ce0252286_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Tập 2 - Hoà Thượng Tuyên Hóa (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_635f47e284e8a26fef5047942c8cb20e_49b6f3929633c7b1d2ff185ce0252286_3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Tập 2 - Hoà Thượng Tuyên Hóa (3)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_635f47e284e8a26fef5047942c8cb20e_49b6f3929633c7b1d2ff185ce0252286_4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Tập 2 - Hoà Thượng Tuyên Hóa (4)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_635f47e284e8a26fef5047942c8cb20e_49b6f3929633c7b1d2ff185ce0252286_5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Tập 2 - Hoà Thượng Tuyên Hóa (5)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_635f47e284e8a26fef5047942c8cb20e_49b6f3929633c7b1d2ff185ce0252286_6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Tập 2 - Hoà Thượng Tuyên Hóa (6)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_635f47e284e8a26fef5047942c8cb20e_49b6f3929633c7b1d2ff185ce0252286_7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Tập 2 - Hoà Thượng Tuyên Hóa (7)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_635f47e284e8a26fef5047942c8cb20e_49b6f3929633c7b1d2ff185ce0252286_8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Tập 2 - Hoà Thượng Tuyên Hóa (8)",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/tu-hu-khong-den-tro-ve-hu-khong/1.mp3",
-    "title" : "Tập 1 - Hoà Thượng Tuyên Hóa",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_635f47e284e8a26fef5047942c8cb20e_f49ffb224ce4f49f0d9bc536d614f97f_1.mp3",
+    "title" : "Tập 1 - Hoà Thượng Tuyên Hóa (1)",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/tu-hu-khong-den-tro-ve-hu-khong/2.mp3",
-    "title" : "Tập 2 - Hoà Thượng Tuyên Hóa",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_635f47e284e8a26fef5047942c8cb20e_f49ffb224ce4f49f0d9bc536d614f97f_2.mp3",
+    "title" : "Tập 1 - Hoà Thượng Tuyên Hóa (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_635f47e284e8a26fef5047942c8cb20e_f49ffb224ce4f49f0d9bc536d614f97f_3.mp3",
+    "title" : "Tập 1 - Hoà Thượng Tuyên Hóa (3)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_635f47e284e8a26fef5047942c8cb20e_f49ffb224ce4f49f0d9bc536d614f97f_4.mp3",
+    "title" : "Tập 1 - Hoà Thượng Tuyên Hóa (4)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_635f47e284e8a26fef5047942c8cb20e_f49ffb224ce4f49f0d9bc536d614f97f_5.mp3",
+    "title" : "Tập 1 - Hoà Thượng Tuyên Hóa (5)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_635f47e284e8a26fef5047942c8cb20e_49b6f3929633c7b1d2ff185ce0252286_1.mp3",
+    "title" : "Tập 2 - Hoà Thượng Tuyên Hóa (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_635f47e284e8a26fef5047942c8cb20e_49b6f3929633c7b1d2ff185ce0252286_2.mp3",
+    "title" : "Tập 2 - Hoà Thượng Tuyên Hóa (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_635f47e284e8a26fef5047942c8cb20e_49b6f3929633c7b1d2ff185ce0252286_3.mp3",
+    "title" : "Tập 2 - Hoà Thượng Tuyên Hóa (3)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_635f47e284e8a26fef5047942c8cb20e_49b6f3929633c7b1d2ff185ce0252286_4.mp3",
+    "title" : "Tập 2 - Hoà Thượng Tuyên Hóa (4)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_635f47e284e8a26fef5047942c8cb20e_49b6f3929633c7b1d2ff185ce0252286_5.mp3",
+    "title" : "Tập 2 - Hoà Thượng Tuyên Hóa (5)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_635f47e284e8a26fef5047942c8cb20e_49b6f3929633c7b1d2ff185ce0252286_6.mp3",
+    "title" : "Tập 2 - Hoà Thượng Tuyên Hóa (6)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_635f47e284e8a26fef5047942c8cb20e_49b6f3929633c7b1d2ff185ce0252286_7.mp3",
+    "title" : "Tập 2 - Hoà Thượng Tuyên Hóa (7)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_635f47e284e8a26fef5047942c8cb20e_49b6f3929633c7b1d2ff185ce0252286_8.mp3",
+    "title" : "Tập 2 - Hoà Thượng Tuyên Hóa (8)",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"

@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-05-09",
+    "published" : "2023-08-19",
     "duration" : 14474,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,29 +36,53 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/chi-muon-lam-ong-xa-cua-em/1.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_6af4bcaaf82de0e6a41860a1862c04f4_f3a8a14a510fd315ef89cb5ce137e05c_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 6831,
-    "title" : "Truyện Ngôn Tình Hay Nhất Hiện Đại",
+    "duration" : 0,
+    "title" : "Truyện Ngôn Tình Hay Nhất Hiện Đại (1)",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/chi-muon-lam-ong-xa-cua-em/2.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_6af4bcaaf82de0e6a41860a1862c04f4_f3a8a14a510fd315ef89cb5ce137e05c_2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 7643,
-    "title" : "Chỉ Muốn Làm Ông Xã Của Em [Phần 2 HẾT] Truyện Ngôn Tình Hay Nhất",
+    "duration" : 0,
+    "title" : "Truyện Ngôn Tình Hay Nhất Hiện Đại (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_6af4bcaaf82de0e6a41860a1862c04f4_e90c53f8384e9e07ca171801cb2b3526_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Chỉ Muốn Làm Ông Xã Của Em [Phần 2 HẾT] Truyện Ngôn Tình Hay Nhất (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_6af4bcaaf82de0e6a41860a1862c04f4_e90c53f8384e9e07ca171801cb2b3526_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Chỉ Muốn Làm Ông Xã Của Em [Phần 2 HẾT] Truyện Ngôn Tình Hay Nhất (2)",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/chi-muon-lam-ong-xa-cua-em/1.mp3",
-    "title" : "Truyện Ngôn Tình Hay Nhất Hiện Đại",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_6af4bcaaf82de0e6a41860a1862c04f4_f3a8a14a510fd315ef89cb5ce137e05c_1.mp3",
+    "title" : "Truyện Ngôn Tình Hay Nhất Hiện Đại (1)",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/chi-muon-lam-ong-xa-cua-em/2.mp3",
-    "title" : "Chỉ Muốn Làm Ông Xã Của Em [Phần 2 HẾT] Truyện Ngôn Tình Hay Nhất",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_6af4bcaaf82de0e6a41860a1862c04f4_f3a8a14a510fd315ef89cb5ce137e05c_2.mp3",
+    "title" : "Truyện Ngôn Tình Hay Nhất Hiện Đại (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_6af4bcaaf82de0e6a41860a1862c04f4_e90c53f8384e9e07ca171801cb2b3526_1.mp3",
+    "title" : "Chỉ Muốn Làm Ông Xã Của Em [Phần 2 HẾT] Truyện Ngôn Tình Hay Nhất (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_6af4bcaaf82de0e6a41860a1862c04f4_e90c53f8384e9e07ca171801cb2b3526_2.mp3",
+    "title" : "Chỉ Muốn Làm Ông Xã Của Em [Phần 2 HẾT] Truyện Ngôn Tình Hay Nhất (2)",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"

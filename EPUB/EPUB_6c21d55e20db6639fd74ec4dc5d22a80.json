@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-05-09",
+    "published" : "2023-08-19",
     "duration" : 27083,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,29 +36,101 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/cua_so_tam_hon/1.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_6c21d55e20db6639fd74ec4dc5d22a80_0ef9b22734656d8b9f8cf2a811361d1e_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 13700,
-    "title" : "Tủ Sách Sống Đẹp - Phần 01",
+    "duration" : 0,
+    "title" : "Tủ Sách Sống Đẹp - Phần 01 (1)",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/cua_so_tam_hon/2.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_6c21d55e20db6639fd74ec4dc5d22a80_0ef9b22734656d8b9f8cf2a811361d1e_2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 13383,
-    "title" : "Tủ Sách Sống Đẹp - Phần 02 end",
+    "duration" : 0,
+    "title" : "Tủ Sách Sống Đẹp - Phần 01 (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_6c21d55e20db6639fd74ec4dc5d22a80_0ef9b22734656d8b9f8cf2a811361d1e_3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Tủ Sách Sống Đẹp - Phần 01 (3)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_6c21d55e20db6639fd74ec4dc5d22a80_0ef9b22734656d8b9f8cf2a811361d1e_4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Tủ Sách Sống Đẹp - Phần 01 (4)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_6c21d55e20db6639fd74ec4dc5d22a80_451357b3079a8215c0e053a3023befda_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Tủ Sách Sống Đẹp - Phần 02 end (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_6c21d55e20db6639fd74ec4dc5d22a80_451357b3079a8215c0e053a3023befda_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Tủ Sách Sống Đẹp - Phần 02 end (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_6c21d55e20db6639fd74ec4dc5d22a80_451357b3079a8215c0e053a3023befda_3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Tủ Sách Sống Đẹp - Phần 02 end (3)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_6c21d55e20db6639fd74ec4dc5d22a80_451357b3079a8215c0e053a3023befda_4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Tủ Sách Sống Đẹp - Phần 02 end (4)",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/cua_so_tam_hon/1.mp3",
-    "title" : "Tủ Sách Sống Đẹp - Phần 01",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_6c21d55e20db6639fd74ec4dc5d22a80_0ef9b22734656d8b9f8cf2a811361d1e_1.mp3",
+    "title" : "Tủ Sách Sống Đẹp - Phần 01 (1)",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/cua_so_tam_hon/2.mp3",
-    "title" : "Tủ Sách Sống Đẹp - Phần 02 end",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_6c21d55e20db6639fd74ec4dc5d22a80_0ef9b22734656d8b9f8cf2a811361d1e_2.mp3",
+    "title" : "Tủ Sách Sống Đẹp - Phần 01 (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_6c21d55e20db6639fd74ec4dc5d22a80_0ef9b22734656d8b9f8cf2a811361d1e_3.mp3",
+    "title" : "Tủ Sách Sống Đẹp - Phần 01 (3)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_6c21d55e20db6639fd74ec4dc5d22a80_0ef9b22734656d8b9f8cf2a811361d1e_4.mp3",
+    "title" : "Tủ Sách Sống Đẹp - Phần 01 (4)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_6c21d55e20db6639fd74ec4dc5d22a80_451357b3079a8215c0e053a3023befda_1.mp3",
+    "title" : "Tủ Sách Sống Đẹp - Phần 02 end (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_6c21d55e20db6639fd74ec4dc5d22a80_451357b3079a8215c0e053a3023befda_2.mp3",
+    "title" : "Tủ Sách Sống Đẹp - Phần 02 end (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_6c21d55e20db6639fd74ec4dc5d22a80_451357b3079a8215c0e053a3023befda_3.mp3",
+    "title" : "Tủ Sách Sống Đẹp - Phần 02 end (3)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_6c21d55e20db6639fd74ec4dc5d22a80_451357b3079a8215c0e053a3023befda_4.mp3",
+    "title" : "Tủ Sách Sống Đẹp - Phần 02 end (4)",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"

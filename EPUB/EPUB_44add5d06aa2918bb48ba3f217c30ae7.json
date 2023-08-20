@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-05-09",
+    "published" : "2023-08-19",
     "duration" : 14385,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,29 +36,53 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/cuc-pham-ac-nam/1.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_44add5d06aa2918bb48ba3f217c30ae7_4b138edfa6decccafef49c97e299d584_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 6862,
-    "title" : "Truyện Ngôn Tình Hay Hài Hước Khi Lấy Được Chồng Giàu",
+    "duration" : 0,
+    "title" : "Truyện Ngôn Tình Hay Hài Hước Khi Lấy Được Chồng Giàu (1)",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/cuc-pham-ac-nam/2.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_44add5d06aa2918bb48ba3f217c30ae7_4b138edfa6decccafef49c97e299d584_2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 7523,
-    "title" : "Cực Phẩm Ác Nam [Phần 2 HẾT] Truyện Ngôn Tình Hay ĐỐN Tim Triệu FAN",
+    "duration" : 0,
+    "title" : "Truyện Ngôn Tình Hay Hài Hước Khi Lấy Được Chồng Giàu (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_44add5d06aa2918bb48ba3f217c30ae7_933ca3b5fb8c283fd22baaf15a205e46_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Cực Phẩm Ác Nam [Phần 2 HẾT] Truyện Ngôn Tình Hay ĐỐN Tim Triệu FAN (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_44add5d06aa2918bb48ba3f217c30ae7_933ca3b5fb8c283fd22baaf15a205e46_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Cực Phẩm Ác Nam [Phần 2 HẾT] Truyện Ngôn Tình Hay ĐỐN Tim Triệu FAN (2)",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/cuc-pham-ac-nam/1.mp3",
-    "title" : "Truyện Ngôn Tình Hay Hài Hước Khi Lấy Được Chồng Giàu",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_44add5d06aa2918bb48ba3f217c30ae7_4b138edfa6decccafef49c97e299d584_1.mp3",
+    "title" : "Truyện Ngôn Tình Hay Hài Hước Khi Lấy Được Chồng Giàu (1)",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/cuc-pham-ac-nam/2.mp3",
-    "title" : "Cực Phẩm Ác Nam [Phần 2 HẾT] Truyện Ngôn Tình Hay ĐỐN Tim Triệu FAN",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_44add5d06aa2918bb48ba3f217c30ae7_4b138edfa6decccafef49c97e299d584_2.mp3",
+    "title" : "Truyện Ngôn Tình Hay Hài Hước Khi Lấy Được Chồng Giàu (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_44add5d06aa2918bb48ba3f217c30ae7_933ca3b5fb8c283fd22baaf15a205e46_1.mp3",
+    "title" : "Cực Phẩm Ác Nam [Phần 2 HẾT] Truyện Ngôn Tình Hay ĐỐN Tim Triệu FAN (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_44add5d06aa2918bb48ba3f217c30ae7_933ca3b5fb8c283fd22baaf15a205e46_2.mp3",
+    "title" : "Cực Phẩm Ác Nam [Phần 2 HẾT] Truyện Ngôn Tình Hay ĐỐN Tim Triệu FAN (2)",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"

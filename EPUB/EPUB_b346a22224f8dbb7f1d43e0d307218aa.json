@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-05-09",
+    "published" : "2023-08-19",
     "duration" : 12509,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,29 +36,53 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/tieu-ty-linh-lan/1.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_b346a22224f8dbb7f1d43e0d307218aa_6d419e0d57d64f90f7fbabdc26ee94a1_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 6931,
-    "title" : "Truyện ngôn tình xuyên không trọng sinh hay 2018 - MC Bảo Anh",
+    "duration" : 0,
+    "title" : "Truyện ngôn tình xuyên không trọng sinh hay 2018 - MC Bảo Anh (1)",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/tieu-ty-linh-lan/2.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_b346a22224f8dbb7f1d43e0d307218aa_6d419e0d57d64f90f7fbabdc26ee94a1_2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 5578,
-    "title" : "Truyện ngôn tình xuyên không trọng sinh hay 2018 - MC Bảo Anh",
+    "duration" : 0,
+    "title" : "Truyện ngôn tình xuyên không trọng sinh hay 2018 - MC Bảo Anh (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_b346a22224f8dbb7f1d43e0d307218aa_5efc2b117439de416c5eb465e9441f78_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Truyện ngôn tình xuyên không trọng sinh hay 2018 - MC Bảo Anh (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_b346a22224f8dbb7f1d43e0d307218aa_5efc2b117439de416c5eb465e9441f78_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Truyện ngôn tình xuyên không trọng sinh hay 2018 - MC Bảo Anh (2)",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/tieu-ty-linh-lan/1.mp3",
-    "title" : "Truyện ngôn tình xuyên không trọng sinh hay 2018 - MC Bảo Anh",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_b346a22224f8dbb7f1d43e0d307218aa_6d419e0d57d64f90f7fbabdc26ee94a1_1.mp3",
+    "title" : "Truyện ngôn tình xuyên không trọng sinh hay 2018 - MC Bảo Anh (1)",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/tieu-ty-linh-lan/2.mp3",
-    "title" : "Truyện ngôn tình xuyên không trọng sinh hay 2018 - MC Bảo Anh",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_b346a22224f8dbb7f1d43e0d307218aa_6d419e0d57d64f90f7fbabdc26ee94a1_2.mp3",
+    "title" : "Truyện ngôn tình xuyên không trọng sinh hay 2018 - MC Bảo Anh (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_b346a22224f8dbb7f1d43e0d307218aa_5efc2b117439de416c5eb465e9441f78_1.mp3",
+    "title" : "Truyện ngôn tình xuyên không trọng sinh hay 2018 - MC Bảo Anh (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_b346a22224f8dbb7f1d43e0d307218aa_5efc2b117439de416c5eb465e9441f78_2.mp3",
+    "title" : "Truyện ngôn tình xuyên không trọng sinh hay 2018 - MC Bảo Anh (2)",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"
