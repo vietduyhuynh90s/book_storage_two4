@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-05-09",
+    "published" : "2023-08-21",
     "duration" : 22603,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,29 +36,77 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/nguoi-me-trinh-trang/1.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_a58b19be34f5790609cc14d13f5f37a6_b3e8a35ebf80e14eb95d53db17dfd00c_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 12678,
-    "title" : "Truyện Ngôn Tình Lấy Đi Bao Nước Mắt Của Người Nghe",
+    "duration" : 0,
+    "title" : "Truyện Ngôn Tình Lấy Đi Bao Nước Mắt Của Người Nghe (1)",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/nguoi-me-trinh-trang/2.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_a58b19be34f5790609cc14d13f5f37a6_b3e8a35ebf80e14eb95d53db17dfd00c_2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 9925,
-    "title" : "Truyện Ngôn Tình Lấy Đi Bao Nước Mắt Của Người Nghe",
+    "duration" : 0,
+    "title" : "Truyện Ngôn Tình Lấy Đi Bao Nước Mắt Của Người Nghe (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_a58b19be34f5790609cc14d13f5f37a6_b3e8a35ebf80e14eb95d53db17dfd00c_3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Truyện Ngôn Tình Lấy Đi Bao Nước Mắt Của Người Nghe (3)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_a58b19be34f5790609cc14d13f5f37a6_fc8c851812a5dc611a88257830b3e8a9_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Truyện Ngôn Tình Lấy Đi Bao Nước Mắt Của Người Nghe (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_a58b19be34f5790609cc14d13f5f37a6_fc8c851812a5dc611a88257830b3e8a9_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Truyện Ngôn Tình Lấy Đi Bao Nước Mắt Của Người Nghe (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_a58b19be34f5790609cc14d13f5f37a6_fc8c851812a5dc611a88257830b3e8a9_3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Truyện Ngôn Tình Lấy Đi Bao Nước Mắt Của Người Nghe (3)",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/nguoi-me-trinh-trang/1.mp3",
-    "title" : "Truyện Ngôn Tình Lấy Đi Bao Nước Mắt Của Người Nghe",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_a58b19be34f5790609cc14d13f5f37a6_b3e8a35ebf80e14eb95d53db17dfd00c_1.mp3",
+    "title" : "Truyện Ngôn Tình Lấy Đi Bao Nước Mắt Của Người Nghe (1)",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/nguoi-me-trinh-trang/2.mp3",
-    "title" : "Truyện Ngôn Tình Lấy Đi Bao Nước Mắt Của Người Nghe",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_a58b19be34f5790609cc14d13f5f37a6_b3e8a35ebf80e14eb95d53db17dfd00c_2.mp3",
+    "title" : "Truyện Ngôn Tình Lấy Đi Bao Nước Mắt Của Người Nghe (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_a58b19be34f5790609cc14d13f5f37a6_b3e8a35ebf80e14eb95d53db17dfd00c_3.mp3",
+    "title" : "Truyện Ngôn Tình Lấy Đi Bao Nước Mắt Của Người Nghe (3)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_a58b19be34f5790609cc14d13f5f37a6_fc8c851812a5dc611a88257830b3e8a9_1.mp3",
+    "title" : "Truyện Ngôn Tình Lấy Đi Bao Nước Mắt Của Người Nghe (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_a58b19be34f5790609cc14d13f5f37a6_fc8c851812a5dc611a88257830b3e8a9_2.mp3",
+    "title" : "Truyện Ngôn Tình Lấy Đi Bao Nước Mắt Của Người Nghe (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_a58b19be34f5790609cc14d13f5f37a6_fc8c851812a5dc611a88257830b3e8a9_3.mp3",
+    "title" : "Truyện Ngôn Tình Lấy Đi Bao Nước Mắt Của Người Nghe (3)",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"
