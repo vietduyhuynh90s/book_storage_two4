@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-05-09",
+    "published" : "2023-08-23",
     "duration" : 12838,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,15 +36,23 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/long-cu-si/1.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_669677a4a0800b191c9a75d830490691_1be8f609e328b29f02c237380350e6af_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 4843,
-    "title" : "Truyện Ma Có Thật Bắt Ma MC Đình Soạn Kể Rợn",
+    "duration" : 0,
+    "title" : "Truyện Ma Có Thật Bắt Ma MC Đình Soạn Kể Rợn (1)",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/long-cu-si/2.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_669677a4a0800b191c9a75d830490691_1be8f609e328b29f02c237380350e6af_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Truyện Ma Có Thật Bắt Ma MC Đình Soạn Kể Rợn (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_669677a4a0800b191c9a75d830490691_98f6efef4fd56fb0d9e708728166456b.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3834,
@@ -52,7 +60,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/long-cu-si/3.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_669677a4a0800b191c9a75d830490691_c621e2d14819555dafa802e9f6bce2cc.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 4161,
@@ -61,15 +69,19 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/long-cu-si/1.mp3",
-    "title" : "Truyện Ma Có Thật Bắt Ma MC Đình Soạn Kể Rợn",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_669677a4a0800b191c9a75d830490691_1be8f609e328b29f02c237380350e6af_1.mp3",
+    "title" : "Truyện Ma Có Thật Bắt Ma MC Đình Soạn Kể Rợn (1)",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/long-cu-si/2.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_669677a4a0800b191c9a75d830490691_1be8f609e328b29f02c237380350e6af_2.mp3",
+    "title" : "Truyện Ma Có Thật Bắt Ma MC Đình Soạn Kể Rợn (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_669677a4a0800b191c9a75d830490691_98f6efef4fd56fb0d9e708728166456b.mp3",
     "title" : "Truyện Ma Có Thật Về Bắt Ma MC Đình Soạn Kể Rợn",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/long-cu-si/3.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_669677a4a0800b191c9a75d830490691_c621e2d14819555dafa802e9f6bce2cc.mp3",
     "title" : "Truyện Ma Có Thật Về Bắt Ma MC Đình Soạn Kể Đến Hãi",
     "children" : [ ]
   } ],
