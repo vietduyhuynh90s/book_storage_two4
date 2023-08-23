@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-05-12",
+    "published" : "2023-08-23",
     "duration" : 9059,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,23 +36,39 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/sen1_20211218/sen1.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_5f7f0c524da2e20b0abbab47b4a255b1_8e2ca199322143ee05ca65ba65b542d2_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 3610,
-    "title" : "sen1",
+    "duration" : 0,
+    "title" : "sen1 (1)",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/sen1_20211218/sen2.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_5f7f0c524da2e20b0abbab47b4a255b1_8e2ca199322143ee05ca65ba65b542d2_2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 3610,
-    "title" : "sen2",
+    "duration" : 0,
+    "title" : "sen1 (2)",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/sen1_20211218/sen3.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_5f7f0c524da2e20b0abbab47b4a255b1_7835c9313f4c5f5b140323ea9b3ecad5_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "sen2 (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_5f7f0c524da2e20b0abbab47b4a255b1_7835c9313f4c5f5b140323ea9b3ecad5_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "sen2 (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_5f7f0c524da2e20b0abbab47b4a255b1_0aba6517d7927659fde31693c98d4c76.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1839,
@@ -61,15 +77,23 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/sen1_20211218/sen1.mp3",
-    "title" : "sen1",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_5f7f0c524da2e20b0abbab47b4a255b1_8e2ca199322143ee05ca65ba65b542d2_1.mp3",
+    "title" : "sen1 (1)",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/sen1_20211218/sen2.mp3",
-    "title" : "sen2",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_5f7f0c524da2e20b0abbab47b4a255b1_8e2ca199322143ee05ca65ba65b542d2_2.mp3",
+    "title" : "sen1 (2)",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/sen1_20211218/sen3.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_5f7f0c524da2e20b0abbab47b4a255b1_7835c9313f4c5f5b140323ea9b3ecad5_1.mp3",
+    "title" : "sen2 (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_5f7f0c524da2e20b0abbab47b4a255b1_7835c9313f4c5f5b140323ea9b3ecad5_2.mp3",
+    "title" : "sen2 (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_5f7f0c524da2e20b0abbab47b4a255b1_0aba6517d7927659fde31693c98d4c76.mp3",
     "title" : "sen3",
     "children" : [ ]
   } ],
