@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-05-12",
+    "published" : "2023-08-24",
     "duration" : 17532,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,53 +36,137 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/hai-mat-1_202202/hai-mat-1.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_8c82644e3eaa10b0d876ef55d7b99a48_6c1af94783420b1d36b7477f694c82e7_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 5478,
-    "title" : "Sách nói| Hai Mặt Của Gia Đình_P1| TG: Choi Kwanghyun| Giọng đọc: Thảo Nguyên",
+    "duration" : 0,
+    "title" : "Sách nói| Hai Mặt Của Gia Đình_P1| TG: Choi Kwanghyun| Giọng đọc: Thảo Nguyên (1)",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/hai-mat-1_202202/hai-mat-2.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_8c82644e3eaa10b0d876ef55d7b99a48_6c1af94783420b1d36b7477f694c82e7_2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 2942,
-    "title" : "Sách nói| Hai Mặt Của Gia Đình_P2| TG: Choi Kwanghyun| Giọng đọc: Thảo Nguyên",
+    "duration" : 0,
+    "title" : "Sách nói| Hai Mặt Của Gia Đình_P1| TG: Choi Kwanghyun| Giọng đọc: Thảo Nguyên (2)",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/hai-mat-1_202202/hai-mat-3.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_8c82644e3eaa10b0d876ef55d7b99a48_6c1af94783420b1d36b7477f694c82e7_3.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 3984,
-    "title" : "Sách nói| Hai Mặt Của Gia Đình_P3| TG: Choi Kwanghyun| Giọng đọc: Thảo Nguyên",
+    "duration" : 0,
+    "title" : "Sách nói| Hai Mặt Của Gia Đình_P1| TG: Choi Kwanghyun| Giọng đọc: Thảo Nguyên (3)",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/hai-mat-1_202202/hai-mat-4.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_8c82644e3eaa10b0d876ef55d7b99a48_f4014d6b3358fba0668b0790ba615d49_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 5128,
-    "title" : "Sách nói| Hai Mặt Của Gia Đình_P4| TG: Choi Kwanghyun| Giọng đọc: Thảo Nguyên",
+    "duration" : 0,
+    "title" : "Sách nói| Hai Mặt Của Gia Đình_P2| TG: Choi Kwanghyun| Giọng đọc: Thảo Nguyên (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_8c82644e3eaa10b0d876ef55d7b99a48_f4014d6b3358fba0668b0790ba615d49_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Sách nói| Hai Mặt Của Gia Đình_P2| TG: Choi Kwanghyun| Giọng đọc: Thảo Nguyên (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_8c82644e3eaa10b0d876ef55d7b99a48_653a13409b1e69982367d2da9c233d7f_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Sách nói| Hai Mặt Của Gia Đình_P3| TG: Choi Kwanghyun| Giọng đọc: Thảo Nguyên (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_8c82644e3eaa10b0d876ef55d7b99a48_653a13409b1e69982367d2da9c233d7f_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Sách nói| Hai Mặt Của Gia Đình_P3| TG: Choi Kwanghyun| Giọng đọc: Thảo Nguyên (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_8c82644e3eaa10b0d876ef55d7b99a48_653a13409b1e69982367d2da9c233d7f_3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Sách nói| Hai Mặt Của Gia Đình_P3| TG: Choi Kwanghyun| Giọng đọc: Thảo Nguyên (3)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_8c82644e3eaa10b0d876ef55d7b99a48_a83132f26815dcbef5b5d732b098284f_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Sách nói| Hai Mặt Của Gia Đình_P4| TG: Choi Kwanghyun| Giọng đọc: Thảo Nguyên (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_8c82644e3eaa10b0d876ef55d7b99a48_a83132f26815dcbef5b5d732b098284f_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Sách nói| Hai Mặt Của Gia Đình_P4| TG: Choi Kwanghyun| Giọng đọc: Thảo Nguyên (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_8c82644e3eaa10b0d876ef55d7b99a48_a83132f26815dcbef5b5d732b098284f_3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Sách nói| Hai Mặt Của Gia Đình_P4| TG: Choi Kwanghyun| Giọng đọc: Thảo Nguyên (3)",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/hai-mat-1_202202/hai-mat-1.mp3",
-    "title" : "Sách nói| Hai Mặt Của Gia Đình_P1| TG: Choi Kwanghyun| Giọng đọc: Thảo Nguyên",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_8c82644e3eaa10b0d876ef55d7b99a48_6c1af94783420b1d36b7477f694c82e7_1.mp3",
+    "title" : "Sách nói| Hai Mặt Của Gia Đình_P1| TG: Choi Kwanghyun| Giọng đọc: Thảo Nguyên (1)",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/hai-mat-1_202202/hai-mat-2.mp3",
-    "title" : "Sách nói| Hai Mặt Của Gia Đình_P2| TG: Choi Kwanghyun| Giọng đọc: Thảo Nguyên",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_8c82644e3eaa10b0d876ef55d7b99a48_6c1af94783420b1d36b7477f694c82e7_2.mp3",
+    "title" : "Sách nói| Hai Mặt Của Gia Đình_P1| TG: Choi Kwanghyun| Giọng đọc: Thảo Nguyên (2)",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/hai-mat-1_202202/hai-mat-3.mp3",
-    "title" : "Sách nói| Hai Mặt Của Gia Đình_P3| TG: Choi Kwanghyun| Giọng đọc: Thảo Nguyên",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_8c82644e3eaa10b0d876ef55d7b99a48_6c1af94783420b1d36b7477f694c82e7_3.mp3",
+    "title" : "Sách nói| Hai Mặt Của Gia Đình_P1| TG: Choi Kwanghyun| Giọng đọc: Thảo Nguyên (3)",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/hai-mat-1_202202/hai-mat-4.mp3",
-    "title" : "Sách nói| Hai Mặt Của Gia Đình_P4| TG: Choi Kwanghyun| Giọng đọc: Thảo Nguyên",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_8c82644e3eaa10b0d876ef55d7b99a48_f4014d6b3358fba0668b0790ba615d49_1.mp3",
+    "title" : "Sách nói| Hai Mặt Của Gia Đình_P2| TG: Choi Kwanghyun| Giọng đọc: Thảo Nguyên (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_8c82644e3eaa10b0d876ef55d7b99a48_f4014d6b3358fba0668b0790ba615d49_2.mp3",
+    "title" : "Sách nói| Hai Mặt Của Gia Đình_P2| TG: Choi Kwanghyun| Giọng đọc: Thảo Nguyên (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_8c82644e3eaa10b0d876ef55d7b99a48_653a13409b1e69982367d2da9c233d7f_1.mp3",
+    "title" : "Sách nói| Hai Mặt Của Gia Đình_P3| TG: Choi Kwanghyun| Giọng đọc: Thảo Nguyên (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_8c82644e3eaa10b0d876ef55d7b99a48_653a13409b1e69982367d2da9c233d7f_2.mp3",
+    "title" : "Sách nói| Hai Mặt Của Gia Đình_P3| TG: Choi Kwanghyun| Giọng đọc: Thảo Nguyên (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_8c82644e3eaa10b0d876ef55d7b99a48_653a13409b1e69982367d2da9c233d7f_3.mp3",
+    "title" : "Sách nói| Hai Mặt Của Gia Đình_P3| TG: Choi Kwanghyun| Giọng đọc: Thảo Nguyên (3)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_8c82644e3eaa10b0d876ef55d7b99a48_a83132f26815dcbef5b5d732b098284f_1.mp3",
+    "title" : "Sách nói| Hai Mặt Của Gia Đình_P4| TG: Choi Kwanghyun| Giọng đọc: Thảo Nguyên (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_8c82644e3eaa10b0d876ef55d7b99a48_a83132f26815dcbef5b5d732b098284f_2.mp3",
+    "title" : "Sách nói| Hai Mặt Của Gia Đình_P4| TG: Choi Kwanghyun| Giọng đọc: Thảo Nguyên (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_8c82644e3eaa10b0d876ef55d7b99a48_a83132f26815dcbef5b5d732b098284f_3.mp3",
+    "title" : "Sách nói| Hai Mặt Của Gia Đình_P4| TG: Choi Kwanghyun| Giọng đọc: Thảo Nguyên (3)",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"
