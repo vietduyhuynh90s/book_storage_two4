@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-05-09",
+    "published" : "2023-08-24",
     "duration" : 30558,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,53 +36,137 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/cach-de-vuong-doat-the/1.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_05616b599ed4f7b995ea7fb7daa3edf5_1d8da7a2d42eb7ecad3d87776e8c4aa1_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 7638,
-    "title" : "TRUYỆN NGÔN TÌNH CỔ ĐẠI RẤT HAY, RẤT CẢM ĐỘNG, HE",
+    "duration" : 0,
+    "title" : "TRUYỆN NGÔN TÌNH CỔ ĐẠI RẤT HAY, RẤT CẢM ĐỘNG, HE (1)",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/cach-de-vuong-doat-the/2.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_05616b599ed4f7b995ea7fb7daa3edf5_1d8da7a2d42eb7ecad3d87776e8c4aa1_2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 6393,
-    "title" : "“Ngươi nhớ người nhà hả??” - NGÔN TÌNH CỔ ĐẠI XUYÊN KHÔNG CỰC HAY",
+    "duration" : 0,
+    "title" : "TRUYỆN NGÔN TÌNH CỔ ĐẠI RẤT HAY, RẤT CẢM ĐỘNG, HE (2)",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/cach-de-vuong-doat-the/3.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_05616b599ed4f7b995ea7fb7daa3edf5_1d8da7a2d42eb7ecad3d87776e8c4aa1_3.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 7769,
-    "title" : "Tập 3",
+    "duration" : 0,
+    "title" : "TRUYỆN NGÔN TÌNH CỔ ĐẠI RẤT HAY, RẤT CẢM ĐỘNG, HE (3)",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/cach-de-vuong-doat-the/4.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_05616b599ed4f7b995ea7fb7daa3edf5_109fbe2424b2dcd4c090e1316e26a8bb_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 8758,
-    "title" : "Cách đế vương đoạt thê - Tập 4 [FULL]",
+    "duration" : 0,
+    "title" : "“Ngươi nhớ người nhà hả??” - NGÔN TÌNH CỔ ĐẠI XUYÊN KHÔNG CỰC HAY (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_05616b599ed4f7b995ea7fb7daa3edf5_109fbe2424b2dcd4c090e1316e26a8bb_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "“Ngươi nhớ người nhà hả??” - NGÔN TÌNH CỔ ĐẠI XUYÊN KHÔNG CỰC HAY (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_05616b599ed4f7b995ea7fb7daa3edf5_50fe9035aef69cf2e966f1e9d6fd38a0_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Tập 3 (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_05616b599ed4f7b995ea7fb7daa3edf5_50fe9035aef69cf2e966f1e9d6fd38a0_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Tập 3 (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_05616b599ed4f7b995ea7fb7daa3edf5_50fe9035aef69cf2e966f1e9d6fd38a0_3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Tập 3 (3)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_05616b599ed4f7b995ea7fb7daa3edf5_9ee518fc1f0bef34380106f944426836_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Cách đế vương đoạt thê - Tập 4 [FULL] (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_05616b599ed4f7b995ea7fb7daa3edf5_9ee518fc1f0bef34380106f944426836_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Cách đế vương đoạt thê - Tập 4 [FULL] (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_05616b599ed4f7b995ea7fb7daa3edf5_9ee518fc1f0bef34380106f944426836_3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Cách đế vương đoạt thê - Tập 4 [FULL] (3)",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/cach-de-vuong-doat-the/1.mp3",
-    "title" : "TRUYỆN NGÔN TÌNH CỔ ĐẠI RẤT HAY, RẤT CẢM ĐỘNG, HE",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_05616b599ed4f7b995ea7fb7daa3edf5_1d8da7a2d42eb7ecad3d87776e8c4aa1_1.mp3",
+    "title" : "TRUYỆN NGÔN TÌNH CỔ ĐẠI RẤT HAY, RẤT CẢM ĐỘNG, HE (1)",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/cach-de-vuong-doat-the/2.mp3",
-    "title" : "“Ngươi nhớ người nhà hả??” - NGÔN TÌNH CỔ ĐẠI XUYÊN KHÔNG CỰC HAY",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_05616b599ed4f7b995ea7fb7daa3edf5_1d8da7a2d42eb7ecad3d87776e8c4aa1_2.mp3",
+    "title" : "TRUYỆN NGÔN TÌNH CỔ ĐẠI RẤT HAY, RẤT CẢM ĐỘNG, HE (2)",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/cach-de-vuong-doat-the/3.mp3",
-    "title" : "Tập 3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_05616b599ed4f7b995ea7fb7daa3edf5_1d8da7a2d42eb7ecad3d87776e8c4aa1_3.mp3",
+    "title" : "TRUYỆN NGÔN TÌNH CỔ ĐẠI RẤT HAY, RẤT CẢM ĐỘNG, HE (3)",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/cach-de-vuong-doat-the/4.mp3",
-    "title" : "Cách đế vương đoạt thê - Tập 4 [FULL]",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_05616b599ed4f7b995ea7fb7daa3edf5_109fbe2424b2dcd4c090e1316e26a8bb_1.mp3",
+    "title" : "“Ngươi nhớ người nhà hả??” - NGÔN TÌNH CỔ ĐẠI XUYÊN KHÔNG CỰC HAY (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_05616b599ed4f7b995ea7fb7daa3edf5_109fbe2424b2dcd4c090e1316e26a8bb_2.mp3",
+    "title" : "“Ngươi nhớ người nhà hả??” - NGÔN TÌNH CỔ ĐẠI XUYÊN KHÔNG CỰC HAY (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_05616b599ed4f7b995ea7fb7daa3edf5_50fe9035aef69cf2e966f1e9d6fd38a0_1.mp3",
+    "title" : "Tập 3 (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_05616b599ed4f7b995ea7fb7daa3edf5_50fe9035aef69cf2e966f1e9d6fd38a0_2.mp3",
+    "title" : "Tập 3 (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_05616b599ed4f7b995ea7fb7daa3edf5_50fe9035aef69cf2e966f1e9d6fd38a0_3.mp3",
+    "title" : "Tập 3 (3)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_05616b599ed4f7b995ea7fb7daa3edf5_9ee518fc1f0bef34380106f944426836_1.mp3",
+    "title" : "Cách đế vương đoạt thê - Tập 4 [FULL] (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_05616b599ed4f7b995ea7fb7daa3edf5_9ee518fc1f0bef34380106f944426836_2.mp3",
+    "title" : "Cách đế vương đoạt thê - Tập 4 [FULL] (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_05616b599ed4f7b995ea7fb7daa3edf5_9ee518fc1f0bef34380106f944426836_3.mp3",
+    "title" : "Cách đế vương đoạt thê - Tập 4 [FULL] (3)",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"
