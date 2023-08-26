@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-05-09",
+    "published" : "2023-08-25",
     "duration" : 10706,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,15 +36,23 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/muc-da-quy-su/1.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_7458318e1d69b6752924b52e4b1b906a_78a5a39ded8c7ed00bf5d68e38957fde_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 4396,
-    "title" : "1",
+    "duration" : 0,
+    "title" : "1 (1)",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/muc-da-quy-su/2.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_7458318e1d69b6752924b52e4b1b906a_78a5a39ded8c7ed00bf5d68e38957fde_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "1 (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_7458318e1d69b6752924b52e4b1b906a_b127ac4622ebc8edb9ed19955dad8332.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1901,
@@ -52,7 +60,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/muc-da-quy-su/3.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_7458318e1d69b6752924b52e4b1b906a_5c56b716bdd468ada361ed4f7b23f967.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2201,
@@ -60,7 +68,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/muc-da-quy-su/4.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_7458318e1d69b6752924b52e4b1b906a_fbaecb9df8b665373d1fa4ca27dcb578.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2208,
@@ -69,19 +77,23 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/muc-da-quy-su/1.mp3",
-    "title" : "1",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_7458318e1d69b6752924b52e4b1b906a_78a5a39ded8c7ed00bf5d68e38957fde_1.mp3",
+    "title" : "1 (1)",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/muc-da-quy-su/2.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_7458318e1d69b6752924b52e4b1b906a_78a5a39ded8c7ed00bf5d68e38957fde_2.mp3",
+    "title" : "1 (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_7458318e1d69b6752924b52e4b1b906a_b127ac4622ebc8edb9ed19955dad8332.mp3",
     "title" : "2",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/muc-da-quy-su/3.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_7458318e1d69b6752924b52e4b1b906a_5c56b716bdd468ada361ed4f7b23f967.mp3",
     "title" : "3",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/muc-da-quy-su/4.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_7458318e1d69b6752924b52e4b1b906a_fbaecb9df8b665373d1fa4ca27dcb578.mp3",
     "title" : "4",
     "children" : [ ]
   } ],
