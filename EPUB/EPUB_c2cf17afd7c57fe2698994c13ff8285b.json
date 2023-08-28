@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-05-09",
+    "published" : "2023-08-28",
     "duration" : 14923,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,15 +36,23 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/nu-phap-su/1.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_c2cf17afd7c57fe2698994c13ff8285b_957910c0c383bdcfcffd485d57686edf_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 4079,
-    "title" : "1",
+    "duration" : 0,
+    "title" : "1 (1)",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/nu-phap-su/2.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_c2cf17afd7c57fe2698994c13ff8285b_957910c0c383bdcfcffd485d57686edf_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "1 (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_c2cf17afd7c57fe2698994c13ff8285b_c65dca65038e3522b41d2a2a4308c1fe.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3280,
@@ -52,37 +60,65 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/nu-phap-su/3.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_c2cf17afd7c57fe2698994c13ff8285b_94caf1f4c70b67a0c8428108bafc93b3_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 3744,
-    "title" : "3",
+    "duration" : 0,
+    "title" : "3 (1)",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/nu-phap-su/4.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_c2cf17afd7c57fe2698994c13ff8285b_94caf1f4c70b67a0c8428108bafc93b3_2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 3820,
-    "title" : "4",
+    "duration" : 0,
+    "title" : "3 (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_c2cf17afd7c57fe2698994c13ff8285b_d304ff668cb8bf3abc53f2c91139881a_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "4 (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_c2cf17afd7c57fe2698994c13ff8285b_d304ff668cb8bf3abc53f2c91139881a_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "4 (2)",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/nu-phap-su/1.mp3",
-    "title" : "1",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_c2cf17afd7c57fe2698994c13ff8285b_957910c0c383bdcfcffd485d57686edf_1.mp3",
+    "title" : "1 (1)",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/nu-phap-su/2.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_c2cf17afd7c57fe2698994c13ff8285b_957910c0c383bdcfcffd485d57686edf_2.mp3",
+    "title" : "1 (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_c2cf17afd7c57fe2698994c13ff8285b_c65dca65038e3522b41d2a2a4308c1fe.mp3",
     "title" : "2",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/nu-phap-su/3.mp3",
-    "title" : "3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_c2cf17afd7c57fe2698994c13ff8285b_94caf1f4c70b67a0c8428108bafc93b3_1.mp3",
+    "title" : "3 (1)",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/nu-phap-su/4.mp3",
-    "title" : "4",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_c2cf17afd7c57fe2698994c13ff8285b_94caf1f4c70b67a0c8428108bafc93b3_2.mp3",
+    "title" : "3 (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_c2cf17afd7c57fe2698994c13ff8285b_d304ff668cb8bf3abc53f2c91139881a_1.mp3",
+    "title" : "4 (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_c2cf17afd7c57fe2698994c13ff8285b_d304ff668cb8bf3abc53f2c91139881a_2.mp3",
+    "title" : "4 (2)",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"
