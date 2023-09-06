@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-08-16",
+    "published" : "2023-09-06",
     "duration" : 5727,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,41 +36,17 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_0b197f811e6afa942949d52372821e3d_2a28a4f17e45004716d315e59d451463_1.mp3",
+    "href" : "https://archive.org/download/mot-cach-nhin-mot-cach-nhan/mot-cach-nhin-mot-cach-nhan.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "mot-cach-nhin-mot-cach-nhan (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_0b197f811e6afa942949d52372821e3d_2a28a4f17e45004716d315e59d451463_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "mot-cach-nhin-mot-cach-nhan (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_0b197f811e6afa942949d52372821e3d_2a28a4f17e45004716d315e59d451463_3.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "mot-cach-nhin-mot-cach-nhan (3)",
+    "duration" : 5727,
+    "title" : "mot-cach-nhin-mot-cach-nhan",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_0b197f811e6afa942949d52372821e3d_2a28a4f17e45004716d315e59d451463_1.mp3",
-    "title" : "mot-cach-nhin-mot-cach-nhan (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_0b197f811e6afa942949d52372821e3d_2a28a4f17e45004716d315e59d451463_2.mp3",
-    "title" : "mot-cach-nhin-mot-cach-nhan (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_0b197f811e6afa942949d52372821e3d_2a28a4f17e45004716d315e59d451463_3.mp3",
-    "title" : "mot-cach-nhin-mot-cach-nhan (3)",
+    "href" : "https://archive.org/download/mot-cach-nhin-mot-cach-nhan/mot-cach-nhin-mot-cach-nhan.mp3",
+    "title" : "mot-cach-nhin-mot-cach-nhan",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"
