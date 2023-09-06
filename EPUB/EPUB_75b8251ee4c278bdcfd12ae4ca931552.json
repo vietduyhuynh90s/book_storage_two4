@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-08-21",
-    "duration" : 13576,
+    "published" : "2023-09-06",
+    "duration" : 17101,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_75b8251ee4c278bdcfd12ae4ca931552_01da51f8a8af1a876866c27e6b5b73fe.mp3",
+    "href" : "https://archive.org/download/tankiepphudu/1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3525,
@@ -44,57 +44,33 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_75b8251ee4c278bdcfd12ae4ca931552_2f68e9593090eb57d822bac8371f7275_1.mp3",
+    "href" : "https://archive.org/download/tankiepphudu/2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "| Tập 2 | - | MC Lê Tuyên | (1)",
+    "duration" : 5521,
+    "title" : "| Tập 2 | - | MC Lê Tuyên |",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_75b8251ee4c278bdcfd12ae4ca931552_2f68e9593090eb57d822bac8371f7275_2.mp3",
+    "href" : "https://archive.org/download/tankiepphudu/3.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "| Tập 2 | - | MC Lê Tuyên | (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_75b8251ee4c278bdcfd12ae4ca931552_ee4059b2b98a29dcfe701dbffb573185_1.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "| Tập 3 | Hết - | MC Lê Tuyên | (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_75b8251ee4c278bdcfd12ae4ca931552_ee4059b2b98a29dcfe701dbffb573185_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "| Tập 3 | Hết - | MC Lê Tuyên | (2)",
+    "duration" : 4530,
+    "title" : "| Tập 3 | Hết - | MC Lê Tuyên |",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_75b8251ee4c278bdcfd12ae4ca931552_01da51f8a8af1a876866c27e6b5b73fe.mp3",
+    "href" : "https://archive.org/download/tankiepphudu/1.mp3",
     "title" : "| Tập 1 | - | MC Lê Tuyên |",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_75b8251ee4c278bdcfd12ae4ca931552_2f68e9593090eb57d822bac8371f7275_1.mp3",
-    "title" : "| Tập 2 | - | MC Lê Tuyên | (1)",
+    "href" : "https://archive.org/download/tankiepphudu/2.mp3",
+    "title" : "| Tập 2 | - | MC Lê Tuyên |",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_75b8251ee4c278bdcfd12ae4ca931552_2f68e9593090eb57d822bac8371f7275_2.mp3",
-    "title" : "| Tập 2 | - | MC Lê Tuyên | (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_75b8251ee4c278bdcfd12ae4ca931552_ee4059b2b98a29dcfe701dbffb573185_1.mp3",
-    "title" : "| Tập 3 | Hết - | MC Lê Tuyên | (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_75b8251ee4c278bdcfd12ae4ca931552_ee4059b2b98a29dcfe701dbffb573185_2.mp3",
-    "title" : "| Tập 3 | Hết - | MC Lê Tuyên | (2)",
+    "href" : "https://archive.org/download/tankiepphudu/3.mp3",
+    "title" : "| Tập 3 | Hết - | MC Lê Tuyên |",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"

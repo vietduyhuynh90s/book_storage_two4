@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-08-23",
-    "duration" : 10690,
+    "published" : "2023-09-06",
+    "duration" : 16888,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -36,23 +36,15 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_3cc2130e50f94bc261d6e2080aa34d52_d58b93171797d6d0597dbe5fdb2d5426_1.mp3",
+    "href" : "https://archive.org/download/buc_thu_hoi_han/1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Bức thư hối hận P1 - MC Hồng Nhung (1)",
+    "duration" : 4492,
+    "title" : "Bức thư hối hận P1 - MC Hồng Nhung",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_3cc2130e50f94bc261d6e2080aa34d52_d58b93171797d6d0597dbe5fdb2d5426_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Bức thư hối hận P1 - MC Hồng Nhung (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_3cc2130e50f94bc261d6e2080aa34d52_aa546e96eac79fbcd5306dd51ba32f3b.mp3",
+    "href" : "https://archive.org/download/buc_thu_hoi_han/2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3492,
@@ -60,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_3cc2130e50f94bc261d6e2080aa34d52_ce9801d85dc3bda1d791d3ddd3f42137.mp3",
+    "href" : "https://archive.org/download/buc_thu_hoi_han/3.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2706,
@@ -69,19 +61,15 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_3cc2130e50f94bc261d6e2080aa34d52_d58b93171797d6d0597dbe5fdb2d5426_1.mp3",
-    "title" : "Bức thư hối hận P1 - MC Hồng Nhung (1)",
+    "href" : "https://archive.org/download/buc_thu_hoi_han/1.mp3",
+    "title" : "Bức thư hối hận P1 - MC Hồng Nhung",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_3cc2130e50f94bc261d6e2080aa34d52_d58b93171797d6d0597dbe5fdb2d5426_2.mp3",
-    "title" : "Bức thư hối hận P1 - MC Hồng Nhung (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_3cc2130e50f94bc261d6e2080aa34d52_aa546e96eac79fbcd5306dd51ba32f3b.mp3",
+    "href" : "https://archive.org/download/buc_thu_hoi_han/2.mp3",
     "title" : "Bức thư hối hận P2 - MC Hồng Nhung",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_3cc2130e50f94bc261d6e2080aa34d52_ce9801d85dc3bda1d791d3ddd3f42137.mp3",
+    "href" : "https://archive.org/download/buc_thu_hoi_han/3.mp3",
     "title" : "Bức thư hối hận P3 (Hết) - MC Hồng Nhung",
     "children" : [ ]
   } ],

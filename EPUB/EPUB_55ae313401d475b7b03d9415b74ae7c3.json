@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-07-24",
-    "duration" : 7286,
+    "published" : "2023-09-06",
+    "duration" : 10929,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/AUDIO/AUDIO_55ae313401d475b7b03d9415b74ae7c3_af351c20aa3dd1084108159f5f20042d.mp3",
+    "href" : "https://archive.org/download/minh-sinh-ra-dau-phai-de-buon-p2/minh-sinh-ra-dau-phai-de-buon-p1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3643,
@@ -44,33 +44,21 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/AUDIO/AUDIO_55ae313401d475b7b03d9415b74ae7c3_8230fe1883fac440d6ecc6167f397ff1_1.mp3",
+    "href" : "https://archive.org/download/minh-sinh-ra-dau-phai-de-buon-p2/minh-sinh-ra-dau-phai-de-buon-p2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "P2 (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/AUDIO/AUDIO_55ae313401d475b7b03d9415b74ae7c3_8230fe1883fac440d6ecc6167f397ff1_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "P2 (2)",
+    "duration" : 3643,
+    "title" : "P2",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/AUDIO/AUDIO_55ae313401d475b7b03d9415b74ae7c3_af351c20aa3dd1084108159f5f20042d.mp3",
+    "href" : "https://archive.org/download/minh-sinh-ra-dau-phai-de-buon-p2/minh-sinh-ra-dau-phai-de-buon-p1.mp3",
     "title" : "P1",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/AUDIO/AUDIO_55ae313401d475b7b03d9415b74ae7c3_8230fe1883fac440d6ecc6167f397ff1_1.mp3",
-    "title" : "P2 (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/AUDIO/AUDIO_55ae313401d475b7b03d9415b74ae7c3_8230fe1883fac440d6ecc6167f397ff1_2.mp3",
-    "title" : "P2 (2)",
+    "href" : "https://archive.org/download/minh-sinh-ra-dau-phai-de-buon-p2/minh-sinh-ra-dau-phai-de-buon-p2.mp3",
+    "title" : "P2",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"

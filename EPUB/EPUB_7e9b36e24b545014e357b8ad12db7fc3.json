@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-08-21",
-    "duration" : 9826,
+    "published" : "2023-09-06",
+    "duration" : 13435,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_7e9b36e24b545014e357b8ad12db7fc3_865bd5061314db3e683cc7b6600730ca.mp3",
+    "href" : "https://archive.org/download/bao-duong/1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3609,
@@ -44,33 +44,21 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_7e9b36e24b545014e357b8ad12db7fc3_44e7cc3a3c560d585a99cdd64b00ec67_1.mp3",
+    "href" : "https://archive.org/download/bao-duong/2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "(Tập 2)End - Đam Mỹ (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_7e9b36e24b545014e357b8ad12db7fc3_44e7cc3a3c560d585a99cdd64b00ec67_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "(Tập 2)End - Đam Mỹ (2)",
+    "duration" : 6217,
+    "title" : "(Tập 2)End - Đam Mỹ",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_7e9b36e24b545014e357b8ad12db7fc3_865bd5061314db3e683cc7b6600730ca.mp3",
+    "href" : "https://archive.org/download/bao-duong/1.mp3",
     "title" : "(Tập 1) - Đam Mỹ",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_7e9b36e24b545014e357b8ad12db7fc3_44e7cc3a3c560d585a99cdd64b00ec67_1.mp3",
-    "title" : "(Tập 2)End - Đam Mỹ (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_7e9b36e24b545014e357b8ad12db7fc3_44e7cc3a3c560d585a99cdd64b00ec67_2.mp3",
-    "title" : "(Tập 2)End - Đam Mỹ (2)",
+    "href" : "https://archive.org/download/bao-duong/2.mp3",
+    "title" : "(Tập 2)End - Đam Mỹ",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"

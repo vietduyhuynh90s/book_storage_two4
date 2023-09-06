@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-07-18",
+    "published" : "2023-09-06",
     "duration" : 11879,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,65 +36,29 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/AUDIO/AUDIO_f01b8f43be3103676a399fa71badec04_666e84ba5616c71e05aa749c9d6627e4_1.mp3",
+    "href" : "https://archive.org/download/muon-thanh-2.mp3/muon-thanh-1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Phần1 Full (1)",
+    "duration" : 5215,
+    "title" : "Phần1 Full",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/AUDIO/AUDIO_f01b8f43be3103676a399fa71badec04_666e84ba5616c71e05aa749c9d6627e4_2.mp3",
+    "href" : "https://archive.org/download/muon-thanh-2.mp3/muon-thanh-2.mp3.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Phần1 Full (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/AUDIO/AUDIO_f01b8f43be3103676a399fa71badec04_ae2bba36b2d8ad5f4b5c423b2e9584c6_1.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Phần 2-3 Full - (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/AUDIO/AUDIO_f01b8f43be3103676a399fa71badec04_ae2bba36b2d8ad5f4b5c423b2e9584c6_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Phần 2-3 Full - (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/AUDIO/AUDIO_f01b8f43be3103676a399fa71badec04_ae2bba36b2d8ad5f4b5c423b2e9584c6_3.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Phần 2-3 Full - (3)",
+    "duration" : 6664,
+    "title" : "Phần 2-3 Full -",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/AUDIO/AUDIO_f01b8f43be3103676a399fa71badec04_666e84ba5616c71e05aa749c9d6627e4_1.mp3",
-    "title" : "Phần1 Full (1)",
+    "href" : "https://archive.org/download/muon-thanh-2.mp3/muon-thanh-1.mp3",
+    "title" : "Phần1 Full",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/AUDIO/AUDIO_f01b8f43be3103676a399fa71badec04_666e84ba5616c71e05aa749c9d6627e4_2.mp3",
-    "title" : "Phần1 Full (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/AUDIO/AUDIO_f01b8f43be3103676a399fa71badec04_ae2bba36b2d8ad5f4b5c423b2e9584c6_1.mp3",
-    "title" : "Phần 2-3 Full - (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/AUDIO/AUDIO_f01b8f43be3103676a399fa71badec04_ae2bba36b2d8ad5f4b5c423b2e9584c6_2.mp3",
-    "title" : "Phần 2-3 Full - (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two4/main/AUDIO/AUDIO_f01b8f43be3103676a399fa71badec04_ae2bba36b2d8ad5f4b5c423b2e9584c6_3.mp3",
-    "title" : "Phần 2-3 Full - (3)",
+    "href" : "https://archive.org/download/muon-thanh-2.mp3/muon-thanh-2.mp3.mp3",
+    "title" : "Phần 2-3 Full -",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"
