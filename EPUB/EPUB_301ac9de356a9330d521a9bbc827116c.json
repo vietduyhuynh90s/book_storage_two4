@@ -1,7 +1,7 @@
 {
   "metadata" : {
     "identifier" : "https://www.youtube.com/watch?v=drMjyFqTpNo",
-    "title" : "Càng Kỷ Luật, Càng Tự Do [Đang cập nhật]",
+    "title" : "Càng Kỷ Luật, Càng Tự Do ",
     "subtitle" : "N/A",
     "author" : {
       "name" : "Ca Tây",
@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-09-06",
-    "duration" : 7286,
+    "published" : "2023-10-19",
+    "duration" : 14572,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -51,6 +51,22 @@
     "title" : "P2",
     "properties" : null,
     "alternate" : null
+  }, {
+    "href" : "https://ia601506.us.archive.org/33/items/cang-ky-luat4/cang-ky-luat3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3643,
+    "title" : "P3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://ia601506.us.archive.org/33/items/cang-ky-luat4/cang-ky-luat4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3643,
+    "title" : "P4",
+    "properties" : null,
+    "alternate" : null
   } ],
   "toc" : [ {
     "href" : "https://archive.org/download/cang-ky-luat-cang-tu-do-audio-ha-xinh/cang-ky-luat-cang-tu-do-audio-ha-xinh.mp3",
@@ -59,6 +75,14 @@
   }, {
     "href" : "https://ia601701.us.archive.org/16/items/cang-ly-luat-2/cang-ly-luat-2.mp3",
     "title" : "P2",
+    "children" : [ ]
+  }, {
+    "href" : "https://ia601506.us.archive.org/33/items/cang-ky-luat4/cang-ky-luat3.mp3",
+    "title" : "P3",
+    "children" : [ ]
+  }, {
+    "href" : "https://ia601506.us.archive.org/33/items/cang-ky-luat4/cang-ky-luat4.mp3",
+    "title" : "P4",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"
